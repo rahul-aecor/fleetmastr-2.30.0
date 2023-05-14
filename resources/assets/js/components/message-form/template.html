@@ -1,0 +1,164 @@
+<div class="modal-header bg-red-rubine">
+    <button type="button" class="close" data-dismiss="modal" aria-hidden="true"></button>
+    <h4 class="modal-title">New Message</h4>
+</div>                        
+<div class="modal-body">
+    <form method="post" id="message-form" class="form-horizontal form-bordered">
+        <div class="form-body">
+            <div class="row">
+                <div class="col-md-7">                                       
+                    <div class="form-group" style="margin-bottom: 0px;">
+                        <label class="col-md-12">
+                            1. Load template (optional):
+                        </label>
+                        <!-- <label class="control-label col-md-2" style="padding-top: 5px; text-align: left">
+                            Template:
+                        </label> -->
+                        <div class="col-md-12">
+                            <div class="dropdown template-list-dropdown message_dropdown load-template-div">
+                                <button class="dropdown-toggle js-load-template-selected-text" type="button"
+                                        data-toggle="dropdown" aria-haspopup="true">
+                                    {{ selectedTemplateName }}
+                                    <!-- <span class="caret"></span> -->
+                                    <span 
+                                        class="grey-gallery icon_btn"
+                                        v-on:click="filterMessage=''">
+                                        <i class="jv-icon"></i>
+                                    </span>
+                                </button>
+                                
+                                <ul class="dropdown-menu" aria-labelledby="dropdownMenuDivider">
+                                    <li><a href="#" v-on:click="resetTemplate">No template</a></li>                                        
+                                    <li v-for="template in templates | orderBy 'name.toLowerCase()'">
+                                        <a href="#" v-on:click="templateSelected(template)">{{ template.name }}</a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>                    
+                    <div class="form-group" ><br>
+                        <label class="col-md-12"><br>
+                            2. Select recipients:
+                        </label>
+
+                        <div class="col-md-12">
+                            <div class="input-icon right">
+                                <input type="text" class="form-control" name="filter"
+                                       placeholder="Filter contacts" v-model="filterMessage"
+                                       style=" width: 50%; float: left; ">
+                            </div>
+                            <button type="button"
+                                    class="btn grey-gallery"
+                                    style=" padding: 12.5px 16px;" 
+                                    v-on:click="filterMessage=''">
+                                <i class="jv-icon jv-close" style="font-size: 14px"></i>
+                            </button>
+                        </div>
+                        <!-- <div class="col-md-6">
+                            <button type="button"
+                                    class="btn grey-gallery"
+                                    style="" 
+                                    v-on:click="filterMessage=''">
+                                <i class="jv-icon jv-clear"></i>
+                            </button>
+                        </div> -->
+                        
+                        <div class="col-md-12">
+                            <br>
+                            <div class="select_accordion" data-height="300px">
+                                <div id="accordion1" class="panel-group accordion">
+                                    <div class="panel panel-default">
+                                        <div class="panel-heading bg-red-rubine">
+                                            <h4 class="panel-title">                                    
+                                                <input type="checkbox" v-on:change="checkAllSiteContacts" v-model="allUsersChecked">            
+                                                <a class="accordion-toggle accordion-toggle-styled collapsed" data-toggle="collapse"
+                                                   data-parent="#accordion1" href="#send-message-users">                                                   
+                                                    Users <span class="pink-font">({{ numofMessageUsers }})</span>
+                                                </a>
+                                            </h4>
+                                        </div>
+                                        <div id="send-message-users" class="panel-collapse collapse">
+                                            <div class="panel-body scroller" data-height="300px">
+                                                <ul>
+                                                    <li v-for="siteContact in eligibleSiteContacts | filterBy filterMessage | orderBy 'first_name.toLowerCase()'">
+                                                        <sitecontactcheckbox :site-contact="siteContact" :group="message.template"></sitecontactcheckbox>
+                                                    </li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="panel panel-default">
+                                        <div class="panel-heading bg-red-rubine">
+                                            <h4 class="panel-title">
+                                                <input type="checkbox" v-on:change="checkAllGroups" v-model="allGroupsChecked">
+                                                <a class="accordion-toggle accordion-toggle-styled collapsed" data-toggle="collapse"
+                                                   data-parent="#accordion1" href="#select-message-group">
+                                                    Groups <span class="pink-font">({{ numofMessageGroups }})</span>
+                                                </a>
+                                            </h4>
+                                        </div>
+                                        <div id="select-message-group" class="panel-collapse collapse">
+                                            <div class="panel-body scroller" data-height="300px">
+                                                <ul>
+                                                    <li v-for="group in eligibleGroups | filterBy filterMessage | orderBy 'name.toLowerCase()'">
+                                                        <groupcheckbox :template="message.template" :group="group"></groupcheckbox>
+                                                    </li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>                              
+                </div>        
+                <div class="col-md-5">
+                    <div class="form-group">
+                        <label class="col-md-12">
+                            3. Compose your message*:
+                        </label>
+
+                        <div class="col-md-12">
+                            <div class="input-icon right">
+
+                                <textarea class="form-control"
+                                      style=" height: 246px;"
+                                      data-rule-required="true"
+                                      name="message"
+                                      placeholder="Enter message"
+                                      v-model="message.content">   
+                                </textarea>                             
+                                <!-- <textarea class="form-control inline-rich-editor"
+                                        v-bind:name="'messageFormEditor'"
+                                        v-bind:id="'messageFormEditor'"
+                                        v-editor="message.content"
+                                        v-model="message.content"
+                                        data-rule-required="true"
+                                        placeholder="Enter message">
+                                </textarea> -->
+                            </div>
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <div class="col-md-12">
+                            <div v-show="message.template.type == 'multiple_choice'" class="form-control question-preview">
+                                <multiple-choice-preview :questions="message.template.questions" :name="message.template.name"></multiple-choice-preview>    
+                            </div>
+                            <div  v-show="message.template.type == 'survey'" class="form-control question-preview">
+                                <open-choice-preview :questions="message.template.surveys" :name="message.template.name"></open-choice-preview>    
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>                
+    </form>
+</div>
+<div class="modal-footer">
+        <div class="col-md-offset-2 col-md-8">
+            <div class="btn-group pull-left width100">
+                <button type="button" class="btn white-btn btn-padding col-md-6" data-dismiss="modal">Cancel</button>
+                <button type="submit" class="btn red-rubine btn-padding submit-button col-md-6" v-on:click="showSendMessageConfirmation">Send</button>
+            </div>
+        </div>
+</div>

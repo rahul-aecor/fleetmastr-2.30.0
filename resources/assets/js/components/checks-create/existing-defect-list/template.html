@@ -1,0 +1,52 @@
+<!-- <div class="portlet light bordered check-info-portlet col-md-8 col-md-offset-2" v-if="selectedVehicleInformation.hasDefects">
+    <div class="portlet-title">        
+        <div class="caption">
+            <i class="fa fa-chevron-circle-right font-pure-red"></i>
+            <span class="caption-subject font-pure-red bold">  &nbsp;This vehicle has defects</span>
+        </div>
+        <div class="tools">
+            <a href="javascript:;" class="expand">
+            </a>            
+        </div>
+    </div>
+    <div class="portlet-body clearfix" style="display: none;">
+        <div class="portlet light existing-defect-list-section" v-for="defectCategory in selectedVehicleInformation.defects.defects_list">
+            <div class="portlet-body">
+                <p class="bold font-red-rubine">                
+                    {{ defectCategory.defects_title }}
+                </p>
+                <p v-for="defect in defectCategory.added_defects">
+                     <i class="fa fa-close font-pure-red"></i> &nbsp; 
+                    {{ defect.text }}
+                </p>
+            </div>            
+        </div>        
+    </div>
+</div> -->
+
+<div class="modal default-modal modal-scroll fade" tabindex="-1" role="dialog" id="existing-defect-modal" data-backdrop="static" data-keyboard="false" v-if="selectedVehicleInformation.hasDefects">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header bg-red-rubine d-flex align-items-center justify-content-between">
+                <h4 class="modal-title">Existing Vehicle Defects</h4>
+                <a class="font-red-rubine" data-dismiss="modal" aria-label="Close">
+                    <i class="jv-icon jv-close"></i>
+                </a>
+            </div>
+
+            <div class="modal-body">
+                <div class="portlet light existing-defect-list-section padding-top-5 padding-bottom-5" v-for="defectCategory in selectedVehicleInformation.defects.defects_list">
+                    <div class="portlet-body">
+                        <p class="bold font-red-rubine">                
+                            {{ defectCategory.defects_title }}
+                        </p>
+                        <p v-for="defect in defectCategory.added_defects">
+                             <i class="fa fa-close font-pure-red"></i> &nbsp; 
+                            {{ defect.text }}
+                        </p>
+                    </div>            
+                </div> 
+            </div>
+        </div>
+    </div>
+</div>

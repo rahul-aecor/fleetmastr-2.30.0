@@ -1,0 +1,9 @@
+<div class="checkbox-list">
+    <label>
+        <div class="checker">
+            <span v-bind:class="checked" v-on:click="contactCheckboxClicked(contact)"><input type="checkbox" name="contactCheckbox"></span>
+        </div> 
+        {{ contact.name }}
+        <span v-show="contact.email">(<a class="font-blue" v-bind:href="'mailto:' + contact.email">{{ contact.email }}</a>)</span>
+    </label>
+</div>

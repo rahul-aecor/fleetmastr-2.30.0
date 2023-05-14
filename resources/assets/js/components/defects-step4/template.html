@@ -1,0 +1,82 @@
+<form action="#" id="form-username" class="form-horizontal form-bordered">
+	<div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
+		<div class="panel panel-green"
+			v-for="(mainIndex, option) in optionList">
+			<div class="panel-heading" role="tab" id="headingOne">
+				<h4 class="panel-title">
+					<a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse{{ mainIndex }}" aria-expanded="true" aria-controls="collapseOne">
+						{{ option.defects.title }}
+					</a>
+				</h4>
+			</div>
+			<div id="collapse{{ mainIndex }}" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne">
+				<div class="panel-body">
+					<div class="defect-wrapper"
+						v-for="(defectIndex, defect) in option.defects.defect">
+						<div class="form-group">
+							<label class="control-label col-md-3">{{ defect.text }}</label>
+							<div class="col-md-9">								
+								<div class="radio-wrapper col-md-3">
+									<div class="btn-group" role="group" aria-label="...">
+										<button type="button" class="btn btn-sm" 
+											v-bind:class="defect.selected === 'yes' ? 'btn-danger' : 'btn-default'"
+											v-on:click="defectStatusChanged('selected', defect)">
+											Yes
+										</button>
+										<button type="button" class="btn btn-sm" 
+											v-bind:class="defect.selected === 'no' ? 'green haze' : 'btn-default'"
+											v-on:click="defectStatusChanged('deselected', defect)">
+											No
+										</button>
+									</div>									
+								</div>
+								<div class="extra-input-wrapper col-md-9" v-if="defect.selected === 'yes'">
+									<div class="col-md-7">
+										<textarea v-model="defect.comments" id="" cols="30" rows="3" class="form-control" placeholder="Add comments (optional)"></textarea>
+									</div>
+									<div class="upload-wrapper col-md-3" v-if="defect._image === 'yes'">
+										<button type="button" class="btn btn-default btn-sm btn-default btn-circle custom-upload-btn" 
+											data-file-input-id="image{{ mainIndex }}{{ defectIndex }}">
+											<span v-if="defect.imageString">Change image</span>
+											<span v-else>Add image</span>
+										</button>
+										<input type='file' id="image{{ mainIndex }}{{ defectIndex }}" v-on:change="handleImageChange(defect, $event)" style="display: none">
+									</div>									
+									<div class="image-wrapper col-md-2 text-center" v-if="defect.imageString">
+										<div class="pull-right">
+											<a v-bind:href="defect.imageString" data-lightbox="img-defect">
+											<img 
+												v-bind:src="defect.imageString" alt="" 
+												style="max-width: 50px; max-height: 50px" 
+												class="img-rounded">
+											</a>
+										</div>
+									</div>	
+									<div class="upload-wrapper col-md-9" v-if="defect._text === 'yes'">
+										<div class="form-group">
+											<label class="sr-only" for="exampleInputEmail3">Defect description</label>
+											<textarea class="form-control" rows="3" placeholder="Enter defect description here..." v-model="defect.textString"></textarea>
+										</div>
+									</div>
+								</div>								
+							</div>
+						</div>                                            
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="form-actions">
+		<div class="row">
+			<div class="col-md-offset-3 col-md-9">
+				<button type="button" 
+					class="btn green-haze"
+					v-on:click="submitDefectDetails">
+					<i class="fa fa-check"></i> Submit
+				</button>
+				<button type="reset" class="btn default">Cancel</button>
+			</div>
+		</div>
+	</div>  
+						
+</form>

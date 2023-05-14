@@ -1,0 +1,29 @@
+<div id="acknowledgement-modal" class="modal fade js-acknowledgement-modal" data-width="800" tabindex="-1" data-background="static" aria-labelledby="myModalLabel" aria-hidden="true">
+        <div class="modal-header bg-red-rubine d-flex align-items-center justify-content-between">
+            <h4 class="modal-title">Acknowledgement Message</h4>
+            <a class="font-red-rubine" data-dismiss="modal" aria-label="Close">
+                <i class="jv-icon jv-close"></i>
+            </a>
+        </div>
+    <div class="modal-body" id="ajax-modal-content">
+        <form action="#" :id="id" class="horizontal-form">
+            <p>Ask recipients to confirm receipt of your message*:</p>
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="form-group mb-0">
+                        <textarea :name="name" class="form-control" rows="5" maxlength="200" v-model='acknowledgement_message' data-rule-required="true"></textarea>
+                        <div class="text-right">{{ remainingCharacterCount }}/200 remaining characters</div>
+                        <div class="form-control-focus"></div>
+                    </div>
+                </div>
+            </div>
+        </form>
+    </div>
+    <div class="modal-footer">
+        <div class="btn-group pull-left width100">
+            <button id="closeAcknowledgementDilog" type="button" class="btn white-btn btn-padding col-md-6" @click='clearAcknowledgement'>Cancel</button>
+            <button id="btnSubmitAcknowledgement" type="button" class="btn red-rubine btn-padding col-md-6 submit-button" @click='submitAcknowledgement'>Save</button>
+            <button id="btnRemoveAcknowledgement" type="button" class="btn white-btn btn-padding col-md-12 margin-top-15 submit-button" @click='removeAcknowledgement'>Remove acknowledgement</button>
+        </div>
+    </div>
+</div>

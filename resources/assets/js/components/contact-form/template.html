@@ -1,0 +1,104 @@
+<div class="row">
+    <div class="col-md-4">
+        <label class="control-label">
+            Saved contacts 
+        </label>
+        <ul class="ver-inline-menu acco_info tabbable margin-bottom-10 scroller" data-height="600px">            
+                <li v-for="contact in contacts | orderBy 'name'" v-on:click="contactClicked(contact)">
+                    <a data-toggle="tab" href="#" aria-expanded="false">
+                    <i class="jv-icon jv-user"></i> {{ contact.name }}</a>
+                    <span class="after">
+                    </span>
+                </li>
+        </ul>
+    </div>
+    <div class="col-md-6 col-md-offset-1">
+        <form action="#" class="horizontal-form" id="contact-form">
+            <div class="form-body">
+                <div class="row">
+                    <div class="col-md-12">
+                        <div class="form-group has-feedback">
+                            <label class="control-label">
+                                Name
+                            </label>
+                            <input type="hidden" name="id" class="form-control" placeholder="" v-model="formContact.id">
+                            <div class="input-icon right">
+                                <input type="text" name="name" 
+                                    class="form-control" 
+                                    placeholder="Enter new contact name" 
+                                    v-model="formContact.name">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-12">
+                        <div class="form-group">
+                            <label class="control-label">
+                                Mobile
+                            </label>
+                            <input type="text" name="mobile" 
+                                class="form-control" 
+                                placeholder="Enter mobile number e.g. format 07977100100" 
+                                v-model="formContact.mobile">
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-12">
+                        <div class="form-group">
+                            <label class="control-label">
+                                Company
+                            </label>
+                            <input type="text" name="company" 
+                                class="form-control" 
+                                placeholder="Enter company name" 
+                                v-model="formContact.company">
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-12">
+                        <div class="form-group">
+                            <label class="control-label">
+                                Email
+                            </label>
+                            <input type="text" 
+                                name="email" 
+                                id="email" 
+                                class="form-control" 
+                                placeholder="Enter contact email" 
+                                v-model="formContact.email">
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="form-actions">
+                <div class="btn-group col-md-12 padding0">
+                    <button type="button" class="btn red-rubine btn-padding col-md-4"
+                        v-on:click="updateContact"
+                        v-show="typeof formContact.id !== 'undefined'">
+                        Update
+                    </button>
+                    <button type="button" 
+                        class="btn red-rubine btn-padding col-md-4"
+                        v-on:click="saveNewContact"
+                        v-show="typeof formContact.id === 'undefined'">
+                        Add
+                    </button>
+                    <button type="button" 
+                        class="btn white-btn btn-padding col-md-4"
+                        v-on:click="resetContactForm">
+                        Clear
+                    </button>
+                    <button type="button" 
+                        class="btn white-btn btn-padding col-md-4"
+                        v-on:click="confirmDeleteContact"
+                        v-show="typeof formContact.id !== 'undefined'">
+                        Delete
+                    </button>
+                </div>
+            </div>
+        </form>            
+    </div>
+</div> 

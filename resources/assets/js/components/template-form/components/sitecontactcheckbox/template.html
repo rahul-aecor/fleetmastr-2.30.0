@@ -1,0 +1,9 @@
+<div class="checkbox-list">
+    <label>
+        <div class="checker">
+            <span v-bind:class="checked" v-on:click="siteContactCheckboxClicked(siteContact)"><input type="checkbox"></span>
+        </div> 
+        {{ siteContact.email }}
+        <span v-if="siteContact.is_app_installed==1"> <i class="fa fa-mobile"></i></span>
+    </label>
+</div>

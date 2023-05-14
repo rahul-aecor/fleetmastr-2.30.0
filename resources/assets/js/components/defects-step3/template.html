@@ -1,0 +1,24 @@
+ <form action="#" id="form-username" class="form-horizontal form-bordered">
+	<div class="form-group">
+		<label class="col-md-4 control-label">
+			Enter the vehicle odometer reading (in {{ vehicle.odometer_unit }})
+		</label>
+		<div class="col-md-5">
+			<input type="text" class="form-control" 
+				v-model="odometer">                            
+		</div>
+	</div>
+	<div class="form-actions">
+		<div class="row">
+			<div class="col-md-offset-4 col-md-8">
+				<button type="button" 
+					class="btn green-haze"
+					v-on:click="validateOdometerDetails"
+					v-bind:class="{ 'disabled': ! odometer.length}">
+					<i class="fa fa-check"></i> Next
+				</button>
+				<button type="reset" class="btn default" v-on:click="resetProcess">Cancel</button>
+			</div>
+		</div>
+	</div>                    
+</form>

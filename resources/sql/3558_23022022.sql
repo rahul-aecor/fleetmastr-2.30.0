@@ -1,0 +1,2 @@
+INSERT INTO `maintenance_events` (`name`, `slug`, `is_standard_event`, `created_at`, `updated_at`) VALUES ('ADR test', 'adr_test', '1', '2022-02-23 11:37:43', '2022-02-23 11:37:46');
+ALTER TABLE `vehicle_maintenance_history` CHANGE `event_type` `event_type` ENUM('annual_service_inspection','mot','preventative_maintenance_inspection','vehicle_tax','next_service_inspection','pto_service_inspection','invertor_inspection','compressor_inspection','loler_test','tachograph_calibration','adr_test') CHARSET utf8 COLLATE utf8_unicode_ci NOT NULL; 

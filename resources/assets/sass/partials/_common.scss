@@ -1,0 +1,403 @@
+body,
+.dropdown-menu,
+.label,
+.daterangepicker .calendar th, .daterangepicker .calendar td {
+    font-family: $font-stack;
+}
+h1, h2, h3, h4, h5, h6 {
+    font-family: $font-stack;
+}
+.red-rubine.btn {
+    color: $primary-font-color;
+    background-color: $primary-colour;
+    &.disabled,
+    &[disabled],
+    fieldset[disabled] & {
+        &,
+        &:hover,
+        &:focus,
+        &.focus,
+        &:active, 
+        &.active {
+            background-color: lighten($primary-colour, 10);
+                border-color: lighten($primary-colour, 10);
+        }
+    }
+}
+.red-rubine.btn:hover, .red-rubine.btn:focus, .red-rubine.btn:active, .red-rubine.btn.active {
+  color: $primary-font-color;
+  background-color: $primary-colour;
+  border-bottom: $primary-colour !important;
+  border-right: $primary-colour !important;
+}
+#defectNotification + .toggle-group > label.btn.btn-primary.toggle-on,
+.open .red-rubine.btn.dropdown-toggle {
+  color: $primary-font-color;
+  background-color: $primary-colour;
+}
+#uniform-defectNotification + .toggle-group > label.btn.btn-primary.toggle-on {
+  color: $primary-font-color;
+  background-color: $primary-colour;
+}
+
+.toggle-group>label.btn.btn-primary.toggle-on {
+  color: $primary-font-color;
+  background-color: $primary-colour;
+}
+#uniform-fuel_card_personal_use + .toggle-group > label.btn.btn-primary.toggle-on {
+  color: $primary-font-color;
+  background-color: $primary-colour;
+}
+.red-rubine.btn:active, .red-rubine.btn.active {
+  background-image: none;
+  background-color: $primary-colour;
+}
+.red-rubine.btn:active:hover, .red-rubine.btn.active:hover {
+  background-color: $primary-colour;
+}
+.progress > .progress-bar-red-rubine {
+  background-color: $primary-colour;
+}
+.font-red-rubine {
+  color: $primary-colour !important;
+}
+/***
+Bootstrap Datepicker
+***/
+
+.datepicker .active, td.today.active.day {
+  background-color: $primary-colour !important;
+  color: $primary-font-color !important;
+}
+
+.datepicker .active:hover, td.today.day:hover {
+  /*background-color: darken($primary-colour, 10%) !important;*/
+  background-color: #F7F7F7 !important;
+  color:#000 !important;
+}
+td.today.day {  
+  background-color: lighten($primary-colour, 36%) !important;
+  color:#000 !important;
+}
+.daterangepicker td.active, .daterangepicker td.active:hover {
+  background-color: $primary-colour ;
+  border-color: $primary-colour;
+  color: $primary-font-color;
+}
+.daterangepicker .ranges li.active, .daterangepicker .ranges li:hover {
+  background: $primary-colour !important;
+  border: 1px solid $primary-colour !important;
+  color: $primary-font-color;
+}
+.daterangepicker .ranges li {
+  color: $primary-colour;
+}
+.page_title {
+  color: $primary-font-color;  
+}
+#timer, #weather-title, #date {
+  color: $primary-font-color;
+ 
+}
+.dropdown span i.img-circle.jv-icon {  
+  color: $primary-font-color;  
+}
+// .tabbable-custom.tabbable-rubine > .nav-tabs > li.active {
+//   border-top: 3px solid $primary-colour;
+// }
+.page-header.navbar .top-menu .navbar-nav > li.dropdown-user > .dropdown-toggle > i,
+.page-header.navbar .top-menu .navbar-nav > li.dropdown-user > .dropdown-toggle > .username {
+  color: $primary-font-color;
+}
+.note h4.block{
+  color: $primary-font-color;
+}
+
+
+
+////From components-md.css
+.portlet > .portlet-title {
+  border-bottom: 1px solid $primary-colour  !important;
+}
+.tabbable-custom > .nav-tabs {
+  border-bottom: 1px solid $primary-colour ;
+}
+.tabbable-custom > .nav-tabs > li.active
+{
+    background-color: $primary-colour ;
+    color: $primary-font-color;
+}
+.tabbable-custom > .nav-tabs > li.active > a, 
+.tabbable-custom > .nav-tabs > li.active > a:focus, 
+.tabbable-custom > .nav-tabs > li.active > a:hover{
+    background-color: $primary-colour ;
+}
+.tabbable-custom > .nav-tabs.nav-justified > .active > a, .tabbable-custom > .nav-tabs.nav-justified > .active > a:focus, .tabbable-custom > .nav-tabs.nav-justified > .active > a:hover{
+    border-bottom-color: $primary-colour ;
+}
+
+////from custom.css
+.btn.btn-icon-only.btn-circle.small{
+    background-color: $primary-colour !important;
+    color: $primary-font-color;
+}
+.has-error .input-group-addon{
+    background-color: $primary-colour !important;
+    border-color: $primary-colour !important;
+}
+
+.datepicker table tr td.today, .datepicker table tr td.today:hover, 
+.datepicker table tr td.today.disabled, .datepicker table tr td.today.disabled:hover{
+    border-color: $primary-colour;
+    background-color: $primary-colour;
+    color: $primary-font-color;
+}
+.graph-data-section .portlet-title .caption {
+    color: $primary-font-color !important;
+}
+#checks-filter-form input[name=range][readonly],
+#defects-advanced-filter-form input[name=range][readonly] {
+    background-color: $primary-font-color;
+}
+.select2-container .select2-choice .select2-arrow b:before {
+    font-family: $custom-font-family !important;
+    color: $primary-font-color;
+}
+.select2-dropdown-open .select2-choice .select2-arrow b:before {
+    font-family: $custom-font-family !important;
+}
+.report-section-name {
+    color: $primary-colour;
+}
+.portlet.box > .portlet-title {
+    border-bottom: 1px solid $primary-colour !important;
+}
+.portlet-title > .caption > span {
+    color: $primary-colour;
+}
+.gray_btn_border {
+    border-top: 1px solid $primary-colour !important;
+    border-left: 1px solid $primary-colour !important;
+    border-right: 1px solid $primary-colour !important;
+}
+.ui-jqgrid .ui-jqgrid-pager {
+    border-top: 1px solid $primary-colour;
+}
+.btn-plain {
+    border: 1px solid $primary-colour !important;
+}
+.page-sidebar .page-sidebar-menu > li:hover a span.jv-icon, 
+.page-sidebar .page-sidebar-menu > li:hover a span.sidebar-img {
+    background: $primary-colour;
+    box-shadow: 4px 0px 0px $primary-colour;
+}
+.page-header.navbar .top-menu .navbar-nav > li.dropdown-user .dropdown-menu > li > a {
+    font-family: $font-stack;
+}
+.blue-gallery.btn {
+    color: $primary-font-color !important;
+    background-color: $primary-colour !important;
+}
+.modal .modal-header,
+.markerDetailsModal h4 {
+    border-bottom: 1px solid $primary-colour !important;
+}
+
+.select2-container .select2-choice .select2-arrow
+{
+  background-color: $secondary-color;
+}
+.input-group .input-group-addon
+{
+  background: $secondary-color;
+  border-color: $secondary-color;
+}
+.grey-gallery.btn
+{
+  background-color: $secondary-color;
+}
+.btn-default
+{
+  background-color: $secondary-color;
+}
+.select2-container .select2-choice .select2-arrow:hover,
+.input-group .input-group-addon:hover,
+.grey-gallery.btn:hover
+{
+  background-color: darken($secondary-color, 27);
+}
+.select2-container.select2-container-active .select2-arrow, .select2-container.select2-dropdown-open .select2-arrow
+{
+  background-color: darken($secondary-color, 27);
+}
+
+
+/* Login Page*/
+.login .content .form-actions .btn
+{
+  background: $primary-colour none repeat scroll 0 0;
+  font-family: $font-stack;
+}
+.red-rubine.btn
+{
+  background-color: $primary-colour;
+}
+.login-form .form-group.form-md-line-input .form-control, .reset-form .form-group.form-md-line-input .form-control
+{
+  font-family: $font-stack;
+}
+.modal .modal-header.bg-red-rubine .close, .bootbox .modal-dialog .modal-header .close {
+    background-image: $primary_close_img;
+    opacity: 0.8;
+    width: 15px;
+    height: 15px;
+    margin-top: 5px !important;
+}
+.btn.editable-submit {
+  background-color: $primary-colour;
+}
+.btn.editable-submit:hover, .btn.editable-submit:focus, .btn.editable-submit:active
+.btn.editable-submit:hover, .btn.editable-submit:focus, .btn.editable-submit:active {
+  background-color: $primary-colour !important;
+  box-shadow: 0 3px 6px rgba(0, 0, 0, 0.2), 0 3px 6px rgba(0, 0, 0, 0.26);
+}
+.editable-click, a.editable-click, a.editable-click:hover{
+  border-bottom: 1px dashed $primary-colour;
+}
+.bg-red-rubine, .bootbox .modal-dialog .modal-header {
+  border-color: $primary-colour !important;
+  /*background-color: $primary-colour !important;*/
+  background-image: none !important;  
+  border-bottom: 1px solid $primary_colour;
+}
+.bg-red-rubine-op {
+  background-color: $primary-colour !important;
+  opacity:0.5;
+}
+
+.page-footer .footer-inner a{
+  color: $primary-font-color !important;
+}
+.btn-blue-color {
+    color: #fff;
+    background-color: $primary-colour;
+    border-color: $primary-colour;
+}
+.font-blue {
+  color: $primary-colour;
+}
+.message_accordion a.accordion-toggle span, .group-name span {
+    color: $primary-colour !important;
+}
+/*.work_ipadmargin .red-rubine.btn {
+    border-top: 1px solid $primary-colour !important;
+    border-bottom: 1px solid $primary-colour !important;
+}*/
+.defect_status_modal_comment {
+    background-color: $primary-colour !important;
+    color: #fff !important;
+}
+.notification-icon,
+.notification-count {
+  background-color: $primary-colour !important;
+}
+.mce-window-head .mce-close {
+    background-image: url(../img/remove-icon-blue-small.svg) !important;
+}
+.mce-tab.mce-active {
+    background: $primary-colour !important;
+}
+.mce-tabs {
+    border-bottom: 1px solid $primary-colour !important;
+}
+
+.privacy-cookie-login {
+  background: $primary-colour !important;
+}
+.font-pink {
+    color: $primary-colour !important;
+}
+.pink-font {
+    color: $primary-colour;
+}
+.progress > .progress-bar-success {
+    background-color: $primary-colour;
+}
+
+.mce-foot .mce-btn.mce-primary {
+    background-color: $primary-colour !important;
+}
+
+.mce-window-head {
+    border-bottom: 1px solid $primary-colour !important;
+}
+
+.EditButton #dData {
+  background: $primary-colour !important;
+}
+.ui-colorpicker-ok {
+  background-color: $primary-colour !important;
+  color:$primary-font-color !important;
+}
+
+.unread-notification,.unread-notification > a:hover{
+    background-color: $primary-colour !important;
+}
+
+.unread-notification .notification-icon {
+    background-color: $primary-font-color !important;
+    color: $primary-colour !important;
+}
+
+.custom-show-hide-col-div .ui-jqdialog-titlebar {
+    border-bottom: 1px solid $primary-colour;
+}
+.custom-show-hide-col-div .ui-jqdialog-titlebar .ui-icon-closethick {
+   color: $primary-colour !important;
+}
+
+.hrmctable thead>tr>th,
+.table-hmrcdetail thead>tr>th{
+    border-bottom: 1px solid $primary-colour;
+}
+
+.portlet.box.telematics-card-wrapper .portlet-body .card.score-movement.active,
+.portlet.box.telematics-card-wrapper .portlet-body .horizontal-tabbing .active .card.score-movement {
+    background-color: lighten($primary-colour, 47.8%);
+}
+
+.portlet.box.telematics-card-wrapper .portlet-body .card.score-movement:hover,
+.portlet.box.telematics-card-wrapper .portlet-body .card.score-movement:focus,
+.portlet.box.telematics-card-wrapper .portlet-body .card.score-movement.active,
+.portlet.box.telematics-card-wrapper .portlet-body .horizontal-tabbing .active .card.score-movement {
+  border-color:$primary-colour;
+}
+
+.portlet.box.telematics-card-wrapper .portlet-body .card.score-movement:after {
+    background-color: $primary-colour;
+}
+
+.journey-timeline .entry .title:before {
+  border: 2px solid $primary-colour;
+  background-color: $primary-colour;
+}
+
+.gm-ui-hover-effect:before {
+  color: $primary-colour;
+}
+
+.tabbable-custom .nav-tabs.no_border>li.active>a, 
+.tabbable-custom .nav-tabs.no_border>li.active>a:focus, 
+.tabbable-custom .nav-tabs.no_border>li.active>a:hover {
+  border-color: $primary-colour;
+}
+
+.custom-tabs .nav-tabs >li.active {
+  background-color: $primary-colour !important;
+  color: $primary-font-color !important;
+}
+
+.fc-today {
+  background-color: $primary-colour !important;
+  opacity : 1 !important;
+}

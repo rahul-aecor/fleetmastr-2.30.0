@@ -1,0 +1,41 @@
+// custom theming variables
+@import "partials/variables.scss";  // common variables
+@import "partials/yorkshirewater_variables.scss"; // thames brand variables
+@import "partials/common.scss"; // common styles
+
+
+.mce-window-head .mce-close {
+    background-image: url(../img/remove-icon-blue-small.svg) !important;
+}
+.mce-tab.mce-active {
+    background: #20a1c9 !important;
+}
+.mce-tabs {
+    border-bottom: 1px solid #20a1c9 !important;
+}
+
+.privacy-cookie-login {
+	background: #20a1c9 !important;
+}
+
+.font-pink {
+    color: #20a1c9 !important;
+}
+.pink-font {
+    color: #20a1c9;
+}
+.progress > .progress-bar-success {
+    background-color: #20a1c9;
+}
+
+.mce-foot .mce-btn.mce-primary{
+	background-color: #20a1c9 !important;
+}
+
+.login .logo {
+	height: 100px;
+}
+
+.mce-window-head {
+	border-bottom: 1px solid #20a1c9 !important;
+}

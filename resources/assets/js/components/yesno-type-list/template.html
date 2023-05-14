@@ -1,0 +1,75 @@
+<div class="portlet light bordered check-info-portlet" v-if="typeof screen.related_to === 'undefined' || screen.related_to !== 'trailer' || (screen.related_to === 'trailer' && is_trailer_attached == 1)">
+    <div class="portlet-title">
+        <div class="caption" v-if="screen.defect_count === 0 && screen.prohibitional_defect_count === 0">
+            <i class="fa fa-chevron-circle-right font-pure-green"></i>
+            <span class="caption-subject font-pure-green bold">  &nbsp;{{ screen.title }}</span>
+        </div>
+        <div class="caption" v-if="screen.prohibitional_defect_count !== 0">
+            <i class="fa fa-chevron-circle-right font-pure-red"></i>
+            <span class="caption-subject font-pure-red bold">  &nbsp;{{ screen.title }}</span>
+        </div>
+        <div class="caption" v-if="screen.prohibitional_defect_count === 0 && screen.defect_count !== 0">
+            <i class="fa fa-chevron-circle-right font-pure-orange"></i>
+            <span class="caption-subject font-pure-orange bold">  &nbsp;{{ screen.title }}</span>
+        </div>
+        <div class="tools">
+            <a href="javascript:;" class="expand">
+            </a>
+        </div>
+    </div>
+    <div class="portlet-body clearfix" style="display:none">
+        <div v-for="defect in screen.defects.defect">
+            <div class="note note-green"
+                v-bind:class="{ 'note-danger': defect.selected === 'yes' && defect.prohibitional === 'yes', 'note-orange': defect.selected === 'yes' && defect.prohibitional === 'no'}">
+                <div class="row d-flex align-items-center defect-list-entries">
+                    <div class="col-md-3 note-defect-text no-right-padding">
+                        <p class="form-control-static">
+                            <strong>
+                                {{ defect.text }} <span v-if="defect._image === 'yes'">*</span>
+                            </strong>
+                        </p>
+                    </div>
+                    <div class="col-md-3 note-defect-status">
+                        <span v-if="screen.answer === 'not_applicable'" class="form-control-static">
+                            Not applicable
+                        </span>
+                        <span v-if="screen.answer !== 'not_applicable' && defect.selected === 'yes' && defect.is_pre_existing_defect === 1" class="form-control-static">
+                            <i class="fa fa-fw fa-times"></i>&nbsp;Existing defect
+                        </span>
+                        <span v-if="screen.answer !== 'not_applicable' && defect.selected === 'yes' && defect.is_pre_existing_defect === 0" class="form-control-static">
+                            <i class="fa fa-fw fa-times"></i>&nbsp;New defect
+                        </span>
+                        <span v-if="screen.answer !== 'not_applicable' && defect.selected !== 'yes'" class="form-control-static">
+                            <i class="fa fa-fw fa-check"></i>&nbsp;No defect
+                        </span>
+                    </div>
+                    <div class="col-md-2 note-defect-comment">
+                        <p v-if="defect.comments" class="form-control-static">
+                            <strong>Comments: </strong>
+                            {{ defect.comments }}
+                        </p>
+                    </div>
+                    <div class="col-md-2 note-defect-image text-center">
+                        <p v-if="defect.imageString">
+                            <span v-for="singleImage in defect.imageString.split('|')">
+                                <a v-bind:href="checkImage(singleImage)" data-lightbox="img-defect">
+                                <img 
+                                    v-bind:src="checkImage(singleImage)" alt="" 
+                                    style="max-width: 45px; max-height: 24px">
+                                </a>
+                            </span>
+                        </p>
+                    </div>    
+                    <div class="col-md-2 note-defect-buttons text-right">
+                        <p class="form-control-static">
+                            <a href="/defects/{{ defect.defect_id }}" class="btn btn-xs white-btn-border trans-bg font-white icon-only" v-if="defect.defect_id">View defect</a>
+                            <button type="button" v-on:click="handleEditDefect(defect, screen.title)" class="btn btn-xs white-btn-border trans-bg font-white icon-only" v-if="edit">
+                                Edit
+                            </button>
+                        </p>
+                    </div>
+                </div>
+            </div>        
+        </div>
+    </div>
+</div>

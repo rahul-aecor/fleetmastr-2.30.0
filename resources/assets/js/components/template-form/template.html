@@ -1,0 +1,291 @@
+<div class="row">
+    <div class="col-md-6">
+        <label class="control-label">
+            Saved templates
+        </label>
+        <ul class="ver-inline-menu acco_info tabbable margin-bottom-10 group-list scroller" data-height="600px">
+            <li v-for="template in templates | orderBy 'name.toLowerCase()'" v-on:click="templateClicked(template)">
+                <a data-toggle="tab" href="#" aria-expanded="false" v-on:click="scrollUp()">
+                    <!-- <i class="fa fa-users"></i> {{ template.name }} -->
+                    <span class="d-flex align-items-center">
+                        <span style="flex-shrink: 0;margin-right: 8px;padding: 8px;">
+                            <img src="/img/users.png" style="
+                                width: 24px;
+                                height: auto;
+                            ">
+                        </span>
+                        <span class="flex-grow-1">
+                            {{ template.name }}
+                        </span>
+                    </span>
+                    <!-- <img src="/img/users.png" width="40" style="margin-right: 8px; padding: 6px 10px 10px 8px;"> {{ template.name }} -->
+                </a>
+                <span class="after"></span>
+            </li>
+        </ul>
+    </div>
+
+    <div class="col-md-6">
+        <form action="#" class="horizontal-form" id="template-form">
+            <div class="form-body">
+                <div class="row">
+                    <div class="col-md-12">
+                        <div class="form-group">
+                            <label class="control-label template-name">
+                                Template name*:
+                            </label>
+                            <input type="text" 
+                                name="templatename" 
+                                data-rule-required="true"
+                                class="form-control" 
+                                v-model="formTemplate.name"
+                                placeholder="Enter new template name">
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-12">
+                        <div class="form-group">
+                            <label class="control-label">
+                                Template type:
+                            </label>
+                            <input v-model="formTemplate.type" 
+                                class="form-control" 
+                                name="template-type"
+                                id='template-type' 
+                                placeholder="Select template type">
+                            </input>
+                        </div>
+                    </div>
+                </div>
+<!--                 <div class="row">
+                    <div class="col-md-12">
+                        <div class="form-group">
+                            <label class="control-label">
+                                Message*:
+                            </label>
+                            <textarea class="form-control" 
+                                rows="4" 
+                                name="message" 
+                                data-rule-required="true"
+                                maxlength="160" 
+                                placeholder="Enter message details"
+                                v-model="formTemplate.content">
+                            </textarea>
+                            <span class="help-block pull-right"><span class="font-pink"><strong>{{ 160 - messageLength }}</strong> </span>characters remaining</span>
+                        </div>
+                    </div>
+                </div> -->
+                <div class="row js-tinymce-editor" v-show="formTemplate.type == 'standard'">
+                    <div class="col-md-12">
+                        <div class="form-group">
+                            <label class="control-label">
+                                Message*:
+                            </label>
+                            <input class="form-control inline-rich-editor"
+                                v-bind:name="'messageOpenChoiceEditor'"
+                                v-bind:id="'messageOpenChoiceEditor'"
+                                v-editor="formTemplate.content"
+                                v-model="formTemplate.content"
+                                v-bind:plugins="plugins"
+                                placeholder="Enter message details"
+                                data-rule-required="true" />
+                        </div>
+                    </div>
+                </div>
+                <div class="row" v-show="formTemplate.type != 'standard'">
+                    <div class="col-md-12">
+                        <div class="form-group">
+                            <label class="control-label">
+                                Message*:
+                            </label>
+                            <textarea class="form-control" rows="5" 
+                                v-bind:name="'messageOpenChoiceEditor1'" 
+                                v-bind:id="'messageOpenChoiceEditor1'"            
+                                v-model="formTemplate.content"
+                                placeholder="Enter message details"
+                                data-rule-required="true" /></textarea>
+                        </div>
+                    </div>
+                </div>
+                <!-- dynamic question block starts -->
+                <div class="row">
+                    <div class="col-md-12">                        
+                        <div v-if="formTemplate.type == 'multiple_choice'">
+                            <multiple-choice-questionnaire :questions="formTemplate.questions" :plugins="plugins"></multiple-choice-questionnaire>
+                        </div>
+                        <div v-if="formTemplate.type == 'survey'">
+                            <open-choice-questionnaire :questions="formTemplate.surveys" :plugins="plugins"></open-choice-questionnaire>
+                        </div>
+                    </div>
+                </div>
+                <!-- dynamic question block end -->                
+                <!-- <div class="row">
+                    <div class="col-md-12">
+                        <div class="d-flex">
+                            <div class="flex-grow-1">
+                                <div class="check_search">
+                                    <div class="form-group">
+                                        <label class="control-label">
+                                            Select recipients:
+                                        </label>
+                                        <div class="input-icon right">
+                                            <input type="text" class="form-control" @keyup="search" placeholder="User search" v-model="searchContacts" name="searchContactsTemplate">
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div style="flex-shrink: 0">
+                                <div class="d-flex flex-column form-group">
+                                    <label class="control-label invisible">
+                                        NAN
+                                    </label>
+                                    <button type="button"
+                                        class="btn grey-gallery btn-h-45"
+                                        v-on:click="searchContacts=''">
+                                        <i class="jv-icon jv-close"></i>
+                                    </button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-12 top20">
+                        <div class="form-group">                                    
+                            <div class="select_accordion message-section-accordion message_accordion">                                
+                                <div id="accordion4" class="panel-group accordion">
+                                    <div class="panel panel-default">
+                                        <div class="panel-heading bg-red-rubine">
+                                            <h4 class="panel-title">
+                                                <label>
+                                                    <input type="checkbox" v-on:change="checkAllSiteContacts" v-model="allUsersChecked" name="allSiteContactsCheckedTemplate">
+                                                </label>
+                                                <a class="accordion-toggle accordion-toggle-styled collapsed" data-toggle="collapse" data-parent="#accordion4" href="#template_group_users">
+                                                    Users <span>({{ numofTemplateUsers }})</span>
+                                                </a>
+                                            </h4>
+                                        </div>
+                                        <div id="template_group_users" class="panel-collapse collapse">
+                                            <div class="panel-body scroller" data-height="300px">
+                                                <ul>
+                                                    <li v-for="siteContact in siteContacts | filterBy searchContacts | orderBy 'first_name.toLowerCase()'">
+                                                        <sitecontactcheckbox :group="formTemplate" :site-contact="siteContact" section="template_group_users"></sitecontactcheckbox>
+                                                    </li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                    </div>                                            
+                                </div>
+                                <div id="accordion6" class="panel-group accordion">
+                                    <div class="panel panel-default">
+                                        <div class="panel-heading bg-red-rubine">
+                                            <h4 class="panel-title">
+                                                <label>
+                                                    <input type="checkbox" v-on:change="checkAllUserDivisions" v-model="allUserDivisionsChecked" name="allUserDivisionsCheckedTemplate">
+                                                </label>
+                                                <a class="accordion-toggle accordion-toggle-styled collapsed" data-toggle="collapse"
+                                                   data-parent="#accordion6" href="#template_divisions">
+                                                    User division groups <span>({{ numofTemplateUserDivisions }})</span>
+                                                </a>
+                                            </h4>
+                                        </div>
+                                        <div id="template_divisions" class="panel-collapse collapse">
+                                            <div class="panel-body scroller" data-height="300px">
+                                                <ul>
+                                                    <li v-for="division in eligibleUserDivisions | orderBy 'name.toLowerCase()'">
+                                                        <divisioncheckbox :template="formTemplate" :division="division"></divisioncheckbox>
+                                                    </li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div id="accordion5" class="panel-group accordion">
+                                    <div class="panel panel-default">
+                                        <div class="panel-heading bg-red-rubine">
+                                            <h4 class="panel-title">
+                                                <label>
+                                                    <input type="checkbox" v-on:change="checkAllGroups" v-model="allGroupsChecked" name="allGroupsCheckedTemplate">
+                                                </label>
+                                                <a class="accordion-toggle accordion-toggle-styled collapsed" data-toggle="collapse" data-parent="#accordion3" href="#template_groups">
+                                                    Created groups <span>({{ numofTemplateGroups }})</span>
+                                                </a>
+                                            </h4>
+                                        </div>
+                                        <div id="template_groups" class="panel-collapse collapse">
+                                            <div class="panel-body scroller" data-height="300px">
+                                                <ul>
+                                                    <li v-for="group in eligibleGroups | filterBy searchContacts | orderBy 'name.toLowerCase()'" >
+                                                        <groupcheckbox :template="formTemplate" :group="group"></groupcheckbox>
+                                                    </li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                    </div>                                            
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div> -->
+                <div class="row">
+                    <div class="col-md-12">
+                        <div class="form-group">
+                            <label class="control-label">
+                                Priority:
+                            </label>
+                            <div class="radio-list">
+                                <label class="radio-inline">
+                                    <div class="radio">
+                                        <input type="radio" value="normal" v-model="formTemplate.priority" name="priority">
+                                    </div> 
+                                    Normal
+                                </label>
+                                <label class="radio-inline">
+                                    <div class="radio">
+                                        <input type="radio" value="high" v-model="formTemplate.priority" name="priority">
+                                    </div> 
+                                    High priority
+                                </label>
+                                <label class="radio-inline">
+                                    <div class="radio">
+                                        <input type="radio" value="one" v-model="formTemplate.priority" name="priority">
+                                    </div> 
+                                    Priority 1 alert!
+                                </label>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>            
+            <div class="form-actions">
+                <div class="btn-group col-md-12 padding0">
+                    <button type="button" 
+                        class="btn red-rubine btn-padding col-md-4"
+                        v-on:click="updateTemplate"
+                        v-show="typeof formTemplate.id !== 'undefined'">
+                        Update
+                    </button>
+                    <button type="button" class="btn red-rubine btn-padding col-md-4"
+                        v-on:click="saveNewTemplate"
+                        v-show="typeof formTemplate.id === 'undefined'">
+                        Add
+                    </button>
+                    <button type="button" 
+                        class="btn white-btn btn-padding col-md-4"
+                        v-on:click="resetTemplateForm">
+                        Clear
+                    </button>
+                    <button type="button" class="btn white-btn btn-padding col-md-4"
+                        v-on:click="confirmDeleteTemplate"
+                        v-show="typeof formTemplate.id !== 'undefined'">
+                        Delete
+                    </button>
+                </div>
+            </div>
+        </form>            
+    </div>
+
+    <acknowledgementmodal :name='name' :id='name' :clearacknowledgement='clearacknowledgement' :submitacknowledgement='submitacknowledgement' :removeAcknowledgement='removeacknowledgement' :acknowledgementmessage='clickedTemplate.acknowledgement_message'></acknowledgementmodal>
+
+</div>

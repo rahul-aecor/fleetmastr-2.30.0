@@ -1,0 +1,134 @@
+<div class="journey-timeline-wrapper-sidebar-body" v-show="flagShowList">
+  <ul class="list-unstyled sidebar-lists">
+      <li  v-for="(index,sd) in searchedCriteriaData" class="sidebar-lists-item">
+          <a v-bind:class="{ 'is-active': sd.id === activeId }" v-on:click="getVehicleDetail(sd.id,sd.registration)"  class="sidebar-lists-item-link space-x-3" href="javascript:void(0);">
+              <div class="flex-shrink-0 sidebar-lists-item-status">
+              </div>
+              <div class="min-w-0 flex-1">
+                  <div class="truncate title">
+                      <span>{{sd.nominatedDriverName}}</span>
+                  </div>
+                  <div class="info">
+                      <span>{{sd.vehicle_type}}</span>
+                  </div>
+              </div>
+              <div class="flex-shrink-0">
+                  <div class="vehichle-number-plate">{{sd.registration}}</div>
+              </div>
+          </a>
+      </li>
+    </ul>
+</div>
+
+<!-- detail -->
+<div class="journey-timeline-wrapper-sidebar-header" v-show="flagShowDetail">
+    <div class="heading-area">
+        <div class="back-button">
+            <button v-on:click="getVehicleList">
+                <svg xmlns="http://www.w3.org/2000/svg" class="back-icon" viewBox="0 0 20 20" fill="currentColor">
+                    <path fill-rule="evenodd" d="M9.707 16.707a1 1 0 01-1.414 0l-6-6a1 1 0 010-1.414l6-6a1 1 0 011.414 1.414L5.414 9H17a1 1 0 110 2H5.414l4.293 4.293a1 1 0 010 1.414z" clip-rule="evenodd" />
+                </svg>
+            </button>
+        </div>
+        <div>
+            <div class="heading-area-title">Last updated</div>
+            <div class="heading-area-info">14 Dec 2021 17:54:43</div>
+        </div>
+    </div>
+    <div class="vehichle-number-plate"><span>BT67 VOJ</span>
+        <button type="button" class="vehichle-number-plate-close-btn">
+            <span class="sr-only">Close panel</span>
+            <svg class="close-icon" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12" />
+            </svg>
+        </button>
+    </div>
+</div>
+
+<div class="journey-timeline-wrapper-sidebar-body" v-show="flagShowDetail">
+    <div class="static-data-grid data-grid-2">
+        <div class="grid-block">
+            <div class="static-label">Driver</div>
+            <div class="static-value">J Smith</div>
+        </div>
+        <div class="grid-block">
+            <div class="static-label">Vehicle status</div>
+            <div class="static-value">Driving</div>
+        </div>
+        <div class="grid-block">
+            <div class="static-label">Vehicle type</div>
+            <div class="static-value">HGV</div>
+        </div>
+        <div class="grid-block">
+            <div class="static-label">Region</div>
+            <div class="static-value">Region</div>
+        </div>
+        <div class="grid-block">
+            <div class="static-label">Location</div>
+            <div class="static-value">Hadley Gardens, W4 4NX</div>
+        </div>
+        <div class="grid-block">
+            <div class="static-label">Speed</div>
+            <div class="static-value">0.00 MPH</div>
+        </div>
+    </div>
+    <div class="s-panel">
+        <div class="s-panel-header">
+            <div class="s-panel-title">
+                Journeys (Today)
+            </div>
+            <div class="s-panel-toolbar">
+                <select name="journey-type" id="journey-type">
+                    <option value="today">Today</option>
+                    <option value="yesterday">Yesterday</option>
+                    <option value="last-7-days">Last 7 days</option>
+                </select>
+            </div>
+        </div>
+        <div class="s-panel-body">
+            <div class="chart-area"></div>
+        </div>
+    </div>
+    <div class="s-panel">
+        <div class="s-panel-header">
+            <div class="s-panel-title">Journeys (Summary)
+            </div>
+        </div>
+        <div class="s-panel-body">
+            <div class="static-data-grid data-grid-2">
+                <div class="grid-block">
+                    <div class="static-label">Total Journeys</div>
+                    <div class="static-value">8</div>
+                </div>
+                <div class="grid-block">
+                    <div class="static-label">Distance Driven (Miles)</div>
+                    <div class="static-value">1,244</div>
+                </div>
+                <div class="grid-block">
+                    <div class="static-label">Driving Time (HH:MM)</div>
+                    <div class="static-value">5 hours 22 min</div>
+                </div>
+                <div class="grid-block">
+                    <div class="static-label">Fuel Used (Litres)</div>
+                    <div class="static-value">25.2</div>
+                </div>
+                <div class="grid-block">
+                    <div class="static-label">CO2 Emissions (Kg)</div>
+                    <div class="static-value">2.6</div>
+                </div>
+                <div class="grid-block">
+                    <div class="static-label">Incidents</div>
+                    <div class="static-value">59</div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- <div class="journey-timeline-wrapper-sidebar-footer">
+  <div class="page-result">
+      <span class="page-result-type">Vehicles</span>
+      <span class="page-result-number">7 of 10</span>
+  </div>
+</div> -->
+

@@ -1,0 +1,116 @@
+body,h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6 {
+            font-family: $pdf-font-stack
+        }
+        tr, td, th, tbody, thead, tfoot {
+            page-break-inside: avoid !important;
+            font-size: 9px;
+        }
+        h1,h2 {
+            font-size: 16px;
+        }
+        .panel {
+            margin-right: 21px;
+            margin-left: 21px;
+        }
+        
+        .bg-red-rubine {
+            background-color: $primary-font-color !important;
+            background-image: none !important;
+            border-color: $primary-colour !important;
+            color: #4d4e4e !important;
+            padding: 11px 10px 9px;  
+            border-bottom: 1px solid $primary-colour !important;   
+            margin-bottom:5px;       
+        }
+        
+        .bg-red-rubine .caption {
+            font-size: 13px !important;
+        }
+
+        td a {
+            color: #3598dc;
+            font-weight: bold;
+        }
+
+        img.logo-default {
+            width: 90px;
+        }
+
+        .media-heading {
+            font-size: 9px;
+        }
+
+        .no-image-text-box {
+            height: 171px;
+            border: 1px solid #ecf0f1;
+        }
+
+        .no-image-text-box p {
+            line-height: 165px;
+            margin-bottom: 0;
+        }
+
+        .label-results {
+            background-color: transparent;
+            box-shadow: none;
+            font-size: 9px;
+            font-weight: 600;
+            padding: 0;
+        }
+
+        .label-results.label-success {
+            color: #009900;
+            font-size: 9px;
+        }
+
+        .label-results.label-danger {
+            color: #ff0000;
+        }
+
+        .label-results.label-warning{
+            color: #ff9900;
+        }
+        .label-results.label-workshop{
+            color: #FFC300;
+        }
+        .label-results.label-status-default{
+            color: #333333;
+        }
+        .note-green {
+            background-color: green;
+            color: #fff;
+        }
+        .note-danger {
+            background-color: red;
+            color: #fff;   
+        }
+        .note-orange {
+            background-color: orange;
+            color: #fff;   
+        }
+        .check_screens .alert{
+            margin-bottom: 0px;
+        }
+
+        .check_screens table tr td{
+            border: 0px !important;
+        }
+        .check_screens .table>thead>tr>th, .check_screens .table>tbody>tr>th, .check_screens .table>tfoot>tr>th, .check_screens .table>thead>tr>td, .check_screens .table>tbody>tr>td, .check_screens .table>tfoot>tr>td {
+            padding-top: 4px;
+            padding-bottom: 4px;
+        }
+        .list-group-item {
+            font-size: 9px;
+            border:none !important;
+        }
+        ul > li:nth-child(odd){
+            background-color: #f9f9f9;
+        }
+        
+.custom-table-striped.table-striped tbody tr:nth-child(odd) {
+    background-color: #fff;
+}
+
+.custom-table-striped.table-striped tbody tr:nth-child(even) {
+    background-color: #f2f2f2;
+}

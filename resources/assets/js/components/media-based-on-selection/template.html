@@ -1,0 +1,42 @@
+<div class="portlet light bordered check-info-portlet" v-if="typeof screen.related_to === 'undefined' || screen.related_to !== 'trailer' || (screen.related_to === 'trailer' && is_trailer_attached == 1)">
+    <div class="portlet-title">
+        <div class="caption">
+            <i class="fa fa-chevron-circle-right font-pure-green"></i>
+            <span class="caption-subject font-pure-green bold">  &nbsp;{{ screen.title }}</span>
+        </div>
+        <div class="tools">
+            <a href="javascript:;" class="expand">
+            </a>
+        </div>
+    </div>
+    <div class="portlet-body clearfix" style="display:none">
+        <div class="note note-green">
+            <div class="row d-flex align-items-center defect-list-entries">
+                <div class="col-md-3 note-defect-text no-right-padding">
+                    <p class="form-control-static">
+                        <strong>
+                            {{ screen.media_label_text ? screen.media_label_text : screen.title + ' (photos)' | ucfirst }} <span v-if="screen.answer === 'yes'">*</span>
+                        </strong>
+                    </p>
+                </div>
+                <div class="col-md-3 note-defect-status">
+                    <span class="form-control-static">
+                        <i class="fa fa-fw fa-check"></i>&nbsp;No defect
+                    </span>
+                </div>
+                <div class="col-md-6 note-defect-image text-center">
+                    <p v-if="screen.images">
+                        <span v-for="singleImage in screen.images.split('|')">
+
+                            <a v-bind:href="checkImage(singleImage)" data-lightbox="img-defect">
+                            <img 
+                                v-bind:src="checkImage(singleImage)" alt="" 
+                                style="max-width: 45px; max-height: 24px">
+                            </a>
+                        </span>
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

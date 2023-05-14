@@ -1,0 +1,14 @@
+<div class="checkbox-list">
+    <label>
+        <div class="checker">
+            <span class="{{ siteContact.id }}" v-on:click="siteContactCheckboxClicked(siteContact)">
+                <input type="checkbox" name="siteContactCheckbox">
+            </span>
+        </div> 
+        {{ siteContact.first_name }} {{ siteContact.last_name }} 
+        (<a class="font-blue" v-bind:href="'mailto:' + siteContact.email">{{ siteContact.email == null ?  siteContact.first_name + '.' + siteContact.last_name : siteContact.email}}</a>) 
+    
+        <span v-if="siteContact.user_region && siteContact.user_region.name != ''">(Region: {{ siteContact.user_region.name}})</span>
+        <span v-if="siteContact.is_app_installed==1"> <i class="fa fa-mobile"></i></span>
+    </label>
+</div>

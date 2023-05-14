@@ -1,0 +1,59 @@
+<label class="control-label">
+    <span>Multiple choice questions</span> <span class="font-grey-silver">(enter at least one question)</span>
+</label>        
+<div v-for="(choiceIndex, choice) in questions">
+    <div class="form-group">
+        <label class="control-label">
+            Question {{ choiceIndex + 1 }} 
+        </label>
+        <a href="javascript:void(0)" 
+                class="font-pink pull-right underline"
+                v-show="choiceIndex > 0"
+                v-on:click="deleteQuestionClicked(choiceIndex)">
+                Remove question
+            </a>
+        <div style="min-height: 100px;" class="js-other-templates">
+            <textarea class="form-control inline-rich-editor"
+                v-bind:name="'editor' + choiceIndex"
+                v-bind:id="'editor' + choiceIndex"
+                v-editor="choice.question"
+                v-bind:plugins='plugins'
+                data-rule-required="true"
+                v-model="choice.question"></textarea>
+        </div>
+    </div>
+    <p>
+        <label class="control-label">
+            Answers 
+        </label>
+        <span class="font-grey-silver">(add at least two answers and tick the correct one)</span>
+        <a href="javascript:void(0)" 
+            class="font-pink add-answer-link"
+            v-on:click="addAnswerClicked(choiceIndex)">
+            Add another answer
+        </a>
+    </p>
+    <div class="form-group multiple_ans" v-for="(answerIndex, answer) in choice.answers">
+        <div class="input-group">
+            <span class="input-group-addon">
+                <!-- <input type="checkbox"> -->
+                <div class="checker" v-on:click="answerChecked(choiceIndex, answerIndex)">
+                    <span v-if="answer.is_correct" class="checked"><input type="checkbox" class="form-control" name="choice_question_answer_correct"></span>
+                    <span v-if="! answer.is_correct"><input type="checkbox" class="form-control" name="choice_question_answer_correct"></span>
+                </div>
+            </span>
+            <input v-model="answer.text" class="form-control" 
+                v-bind:name="'choice_question_answer' + choiceIndex + answerIndex"
+                data-rule-required="true"></input>
+            <span class="input-group-btn" v-show="answerIndex > 1">
+                <button class="btn grey-gallery delete-rule ui-del btn-icon" 
+                    type="button" 
+                    v-on:click="deleteAnswerClicked(choiceIndex, answerIndex)">
+                    <i class="fa fa-trash"></i>
+                </button>
+            </span>
+
+        </div>
+    </div>
+</div>
+<p class="next_que"><button type="button" class="btn red-rubine" v-on:click="addQuestionClicked()">Add next question</button></p>

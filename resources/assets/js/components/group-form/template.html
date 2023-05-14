@@ -1,0 +1,200 @@
+<div class="row">
+    <div class="col-md-6">
+        <label class="control-label">
+            Created groups
+        </label>
+        <ul class="ver-inline-menu acco_info tabbable margin-bottom-10 group-list">
+            <!-- had removed scroller class from above ul to remove white space below manage group section button -->
+            <li v-for="group in groups | orderBy 'name.toLowerCase()'" v-on:click="groupClicked(group)">
+                <a data-toggle="tab" href="#" aria-expanded="false">
+                    <!-- <i class="fa fa-users"></i> {{ group.name }} -->
+                    <span class="d-flex align-items-center">
+                        <span style="flex-shrink: 0;margin-right: 8px;padding: 8px;">
+                            <img src="/img/users.png" style="
+                                width: 24px;
+                                height: auto;
+                            ">
+                        </span>
+                        <span class="flex-grow-1">
+                            {{ group.name }}
+                        </span>
+                    </span>
+                    <!-- <img src="/img/users.png" width="40" style="margin-right: 8px; padding: 6px 10px 10px 8px;"> {{ group.name }} -->
+                </a>
+                <span class="after"></span>
+            </li>
+        </ul>
+    </div>
+    
+    <div class="col-md-6">
+        <form action="#" class="horizontal-form" id="group-form">
+            <div class="form-body">
+                <div class="row">
+                    <div class="col-md-12">
+                        <div class="form-group">
+                            <label class="control-label">
+                                Group name*:
+                            </label>
+                            <input type="text" name="name" class="form-control" placeholder="Enter new group name" v-model="formGroup.name">
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-12">
+                        <div class="d-flex">
+                            <div class="flex-grow-1">
+                                <div class="check_search">
+                                    <div class="form-group">
+                                        <label class="control-label">
+                                            Select recipients:
+                                        </label>
+                                        <div class="input-icon right">
+                                            <input type="text" name="select_recipients" class="form-control" placeholder="User search" @keyup="search" v-model="searchContacts">
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div style="flex-shrink: 0">
+                                <div class="d-flex flex-column form-group">
+                                    <label class="control-label invisible">
+                                        NAN
+                                    </label>
+                                    <button type="button"
+                                        class="btn grey-gallery btn-h-45"
+                                        v-on:click="searchContacts=''">
+                                        <i class="jv-icon jv-close"></i>
+                                    </button>
+                                </div>
+                            </div>
+                            <!-- <div class="form-group" style="flex-shrink: 0">
+                                <label class="control-label invisible">
+                                    Select recipients*:
+                                </label>
+                                <button type="button"
+                                    class="btn grey-gallery btn-h-45"
+                                    v-on:click="filterMessage=''">
+                                    <i class="jv-icon jv-close"></i>
+                                </button>
+                            </div> -->
+                        </div>
+
+
+
+                        <!-- <div class="form-group">
+                            <label class="control-label">
+                                Select recipients*:
+                            </label>
+                            <div class="input-icon right">
+                                <input type="text" name="select_recipients" class="form-control" placeholder="User search" v-model="searchContacts" style=" width: calc(100% - 46px); float: left;">
+                            </div>
+                            <button type="button"
+                                    class="btn grey-gallery"
+                                    style=" padding: 12.5px 15.5px;" 
+                                    v-on:click="filterMessage=''">
+                                <i class="jv-icon jv-close" style="font-size: 14px"></i>
+                            </button>
+                        </div> -->
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-12">
+                        <div class="form-group">                                    
+                            <div class="select_accordion message-section-accordion">
+                                <div id="accordion2" class="panel-group accordion message_accordion">
+                                    <div class="panel panel-default">
+                                        <div class="panel-heading bg-red-rubine">
+                                            <h4 class="panel-title">
+                                                <label>
+                                                    <input type="checkbox" v-on:change="checkAllSiteContacts" v-model="allUsersChecked">
+                                                </label>
+                                                <a class="accordion-toggle accordion-toggle-styled collapsed" data-toggle="collapse" data-parent="#accordion2" href="#group_users">
+                                                    Users <span>({{ numofGroupUsers }})</span>
+                                                </a>
+                                            </h4>
+                                        </div>
+                                        <div id="group_users" class="panel-collapse collapse">
+                                            <div class="panel-body scroller" data-height="300px">
+                                                <ul>
+                                                    <li v-for="siteContact in siteContacts | filterBy searchContacts in 'first_name' 'last_name' 'email' 'user_region.name' | orderBy 'first_name.toLowerCase()'">
+                                                        <sitecontactcheckbox :group="formGroup" :site-contact="siteContact" section="group_users"></sitecontactcheckbox>                                 
+                                                    </li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                    </div>                                            
+                                </div>
+                                <!-- <div id="accordion1" class="panel-group accordion message_accordion">
+                                    <div class="panel panel-default">
+                                        <div class="panel-heading bg-red-rubine">
+                                            <h4 class="panel-title">
+                                                <input type="checkbox" v-on:change="checkAllContacts" v-model="allContactsChecked">
+                                                <a class="accordion-toggle accordion-toggle-styled collapsed" data-toggle="collapse" data-parent="#accordion1" href="#group_contacts">
+                                                    Contacts <span>({{ numofGroupContacts }})</span>
+                                                </a>
+                                            </h4>
+                                        </div>
+                                        <div id="group_contacts" class="panel-collapse collapse">
+                                            <div class="panel-body scroller" data-height="300px">
+                                                <ul>
+                                                    <li v-for="contact in contacts | filterBy searchContacts | orderBy 'name.toLowerCase()'">
+                                                        <contactcheckbox :group="formGroup" :contact="contact"></contactcheckbox>                                                                
+                                                    </li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                    </div>                                            
+                                </div>   -->                              
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="form-actions">
+                <!-- <div class="btn-group btn-group-justified" role="group" aria-label="...">
+                  <div class="btn-group" role="group">
+                    <button type="button" class="btn btn-white" v-on:click="updateGroup"
+                        v-show="typeof formGroup.id !== 'undefined'">Update</button>
+                  </div>
+                  <div class="btn-group" role="group">
+                    <button type="button" class="btn red-rubine" v-on:click="saveNewGroup"
+                        v-show="typeof formGroup.id === 'undefined'">Add</button>
+                  </div>
+                  <div class="btn-group" role="group">
+                    <button type="button" class="btn red-rubine" v-on:click="resetGroupForm">Clear</button>
+                  </div>
+                  <div class="btn-group" role="group">
+                    <button type="button" class="btn red-rubine" v-on:click="confirmDeleteGroup"
+                        v-show="typeof formGroup.id !== 'undefined'">Delete</button>
+                  </div>
+                  
+                </div>
+ -->
+
+                <div class="btn-group col-md-12 padding0">
+                    <button type="button" 
+                        class="btn red-rubine btn-padding col-md-4"
+                        v-on:click="updateGroup"
+                        v-show="typeof formGroup.id !== 'undefined'">
+                        Update
+                    </button>
+                    <button type="button" class="btn red-rubine btn-padding col-md-4"
+                        v-on:click="saveNewGroup"
+                        v-show="typeof formGroup.id === 'undefined'">
+                        Add
+                    </button>
+                    <button type="button" 
+                        class="btn white-btn btn-padding col-md-4"
+                        v-on:click="resetGroupForm">
+                        Clear
+                    </button>
+                    <button type="button" 
+                        class="btn white-btn btn-padding col-md-4"
+                        v-on:click="confirmDeleteGroup"
+                        v-show="typeof formGroup.id !== 'undefined'">
+                        Delete
+                    </button>
+                </div>
+            </div>
+        </form>            
+    </div>
+</div>

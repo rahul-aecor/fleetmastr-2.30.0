@@ -1,0 +1,8 @@
+<div class="checkbox-list division-name">
+    <label>
+        <div class="checker">
+            <span v-bind:class="checked" v-on:click="divisionCheckboxClicked(division)"><input type="checkbox" name="divisionCheckbox"></span>
+        </div> 
+        {{ division.name }} <span>({{ totalRecipientsInDivision }})</span>
+    </label>
+</div>

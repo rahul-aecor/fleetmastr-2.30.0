@@ -1,0 +1,43 @@
+<div class="portlet box">
+    <div class="portlet-title bg-red-rubine">
+        <div class="caption">Vehicle Check Data</div>
+    </div>
+    <div class="portlet-body form">
+        <table class="table table-striped table-hover table-summary">
+            <tbody>
+            <tr>
+                <td>Created by:</td>
+                <td>{{ check.creator.first_name }} {{ check.creator.last_name }} (<a href="mailto:{{ check.creator.email }}" class="font-blue">{{ check.creator.email }}</a>)</td>
+            </tr>
+            <tr>
+                <td>Created date:</td>
+                <td>{{ formatDateTime(check.report_datetime) }}</td>
+            </tr>
+            <tr>
+                <td>Last modified by:</td>
+                <td>{{ check.updater.first_name }} {{ check.updater.last_name }} (<a href="mailto:{{ check.updater.email }}" class="font-blue">{{ check.updater.email }}</a>)</td>
+            </tr>
+            <tr>
+                <td>Last modified date:</td>
+                <td>{{ formatDateTime(check.updated_at) }}</td>
+            </tr>
+            <tr>
+                <td>Check:</td>
+                <td>{{ check.type | checkTypeFormatter }}</td>
+            </tr>
+            <tr class="{{ check.type | showCheckDurationFilter }}">
+                <td>Check duration:</td>
+                <td>{{ check.check_duration }}</td>
+            </tr>
+            <tr>
+                <td>Trailer attached:</td>
+                <td>{{ check.is_trailer_attached == 1 ? "Yes" : "No" }}</td>
+            </tr>
+            <tr>
+                <td>Trailer ID:</td>
+                <td>{{ check.is_trailer_attached == 1 ? check.trailer_reference_number : "Not applicable" }}</td>
+            </tr>  
+            </tbody>
+        </table>
+    </div>
+</div>

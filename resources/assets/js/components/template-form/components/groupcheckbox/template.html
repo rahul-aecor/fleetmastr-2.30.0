@@ -1,0 +1,8 @@
+<div class="checkbox-list group-name">
+    <label>
+        <div class="checker">
+            <span v-bind:class="checked" v-on:click="groupCheckboxClicked(group)"><input type="checkbox" name="groupCheckbox"></span>
+        </div> 
+        {{ group.name }} <span>({{ totalRecipientsInGroup }})</span>
+    </label>
+</div>

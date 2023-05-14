@@ -1,0 +1,32 @@
+<div class="portlet light bordered check-info-portlet">
+    <div class="portlet-title">
+        <div class="caption">
+            <i class="fa fa-chevron-circle-right font-pure-green"></i>
+            <span class="caption-subject font-pure-green bold">  &nbsp;{{ screen.title }}</span>
+        </div>
+        <div class="tools">
+            <a href="javascript:;" class="expand"></a>            
+        </div>
+    </div>
+    <div class="portlet-body clearfix" style="display:none">
+        <div class="note note-green" 
+            v-for="option in screen.options.optionList"
+            v-bind:class="{ 'note-danger': option.answer !== 'selected'}">
+            <div class="row">
+                <div class="col-md-3 align-middle">
+                    <p class="form-control-static">
+                        <strong>
+                            {{ option.text }}
+                        </strong>
+                    </p>
+                </div>
+                <div class="col-md-9 align-middle">
+                    <p class="form-control-static">
+                        <i class="fa fa-times" v-if="option.answer !== 'selected'"></i>
+                        <i class="fa fa-check" v-if="option.answer === 'selected'"></i>
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

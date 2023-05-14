@@ -1,0 +1,13 @@
+<label class="control-label">
+    {{ name }} (Multiple choice)
+</label>               
+<div v-for="(choiceIndex, choice) in questions">
+    <dl>
+        <dt>{{ choiceIndex + 1 }}. {{{ choice.question }}}</dt>
+        <ul class="list-unstyled">
+            <li v-for="(answerIndex, answer) in choice.answers">
+                <i class="fa fa-angle-right"></i> {{ answer.text }}
+            </li>
+        </ul>
+    </dl>
+</div>

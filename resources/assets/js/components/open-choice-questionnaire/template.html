@@ -1,0 +1,24 @@
+<label class="control-label">
+    <span>Q&A survey</span> <span class="font-grey-silver">(enter at least one question)</span>
+</label>  
+<div v-for="(choiceIndex, choice) in questions">
+    <div class="form-group">
+        <label class="control-label">
+            Question {{ choiceIndex + 1 }}
+        </label>
+        <a href="javascript:void(0)" 
+            class="font-pink add-answer-link pull-right underline" 
+            v-show="choiceIndex > 0"
+            v-on:click="deleteQuestionClicked(choiceIndex)">
+            Remove question
+        </a>
+        <input class="form-control inline-rich-editor"
+            v-bind:name="'openChoiceEditor' + choiceIndex"
+            v-bind:id="'openChoiceEditor' + choiceIndex"
+            v-bind:plugins='plugins'
+            v-editor="choice.text"
+            data-rule-required="true"
+            v-model="choice.text" />
+    </div>
+</div>
+<p class="next_que"><button type="button" class="btn red-rubine" v-on:click="addQuestionClicked()">Add next question</button></p>

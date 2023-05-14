@@ -1,0 +1,8 @@
+<label class="control-label">
+    {{ name }} (Q & A survey)
+</label>       
+<dl>
+    <dt v-for="(choiceIndex, choice) in questions">
+        {{ choiceIndex + 1 }}. {{{ choice.text }}}
+    </dt>
+</dl>

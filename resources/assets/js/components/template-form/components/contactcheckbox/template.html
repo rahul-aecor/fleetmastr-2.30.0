@@ -1,0 +1,8 @@
+<div class="checkbox-list">
+    <label>
+        <div class="checker">
+            <span v-bind:class="checked" v-on:click="contactCheckboxClicked(contact)"><input type="checkbox"></span>
+        </div> 
+        {{ contact.email }} 
+    </label>
+</div>

@@ -1,0 +1,46 @@
+<div class="modal fade" tabindex="-1" role="dialog" id="defectConfirmModal" data-backdrop="static" data-keyboard="false">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+              <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+              <h4 class="modal-title">Defects Alert</h4>
+            </div>
+            <div class="modal-body">
+              <div class="alert alert-warning">
+                  You have logged {{ prohibitionalDefects.length }} prohibitional defects.
+              </div>
+              <table class="table table-striped">
+                  <thead>
+                      <tr>
+                          <th>#</th>
+                          <th>Defect</th>
+                          <th>Safety notes</th>
+                      </tr>
+                  </thead>
+                  <tr v-for="defect in prohibitionalDefects">
+                      <td>{{ $index+1 }}</td>
+                      <td>{{ defect.text }}</td>
+                      <td>{{ defect.safety_notes }}</td>
+                  </tr>
+              </table>
+              <p>Check the safety notes and then choose a defect category below:</p>
+              <div class="btn-group" role="group" aria-label="...">
+                  <button type="button" class="btn" 
+                    v-bind:class="originalDefect.status === 'UnsafeToOperate' ? 'btn-danger' : 'btn-default'"
+                    v-on:click="originalDefect.status = 'UnsafeToOperate'">
+                    Vehicle unsafe to operate
+                  </button>
+                  <button type="button" class="btn" 
+                    v-bind:class="originalDefect.status === 'SafeToOperate' ? 'green haze' : 'btn-default'"
+                    v-on:click="originalDefect.status = 'SafeToOperate'">
+                    Vehicle safe to operate
+                  </button>
+                </div>              
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                <button type="button" class="btn btn-primary" v-on:click="submitDefectDetails">Submit</button>
+            </div>
+        </div>
+    </div>
+</div>
