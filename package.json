@@ -1,0 +1,25 @@
+{
+  "private": true,
+  "devDependencies": {
+    "gulp": "^3.8.8",
+    "laravel-elixir-browserify": "^0.8.1"
+  },
+  "dependencies": {
+    "dotenv": "^1.2.0",
+    "express": "^4.13.3",
+    "google-maps-api": "^1.1.0",
+    "ioredis": "^1.9.0",
+    "laravel-elixir": "^3.0.0",
+    "lodash": "^3.10.1",
+    "moment": "^2.10.6",
+    "moment-timezone": "^0.5.28",
+    "node-env-file": "^0.1.8",
+    "socket.io": "^3.1.2",
+    "jquery.repeater": "^1.2.1",
+    "socket.io-client": "^2.4.0",
+    "vue": "^1.0.4",
+    "vue-resource": "^0.1.16",
+    "vue-strap": "^0.1.2",
+    "vue-validator": "^1.4.4"
+  }
+}
