@@ -1,0 +1,3 @@
+First name	Last name	Company	Email	Division	Region	Job Title	Mobile number	Landline number	ID	Enable account login	IMEI number	Line manager	Base Location	Fuel card issued	Specific role	Dashboard (statistics)	Dashboard (costs)	Fleet planning	Vehicle Checks	Vehicle Defects	Incident reports	Vehicle search	Vehicle profiles	Reports	Messaging	Workshops	User management	Alert Centre	Settings	Telematics
+Michael	Kirby	Find and Finance	mike@find-and-finance.com	Find and Finance						Yes					Super admin															
+Michael	Trueman	Find and Finance	miket@find-and-finance.com	Find and Finance						Yes					Super admin															

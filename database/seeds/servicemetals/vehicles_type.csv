@@ -1,0 +1,73 @@
+Type*	Category*	Sub category*	Odometer setting*	Usage*	Manufacturer*	Model*	Bodybuilder	Gross vehicle weight	Tyre size drive	Tyre size steer	Tyre pressure drive	Tyre pressure steer	Nut size	Re-torque	Length (mm)	Width (mm)	Height (mm)	Fuel type*	Type of engine*	Engine size (cc)	Oli grade	CO2 (g/km)	Monthly vehicle tax	Compressor service interval	Invertor service interval	LOLER test interval	PMI interval	PTO service interval	Service interval type	Distance	Time
+18t Crane Lorry	HGV		KM	Commercial	Iveco	LF Eurocargo		18000										Diesel	Euro V diesel							6 months	6 weeks	12 months	Time		6 months
+18t Tipper - Daf	HGV		KM	Commercial	Daf	LF	Charlton	18000										Diesel	Euro V diesel							None	6 weeks	12 months	Time		12 months
+18t Tipper - Volvo	HGV		KM	Commercial	Volvo	FL	Charlton	18000										Diesel	Euro V diesel							None	6 weeks	12 months	Time		12 months
+4x4 - Defender 110	Non-HGV	Van	Miles	Commercial	Landrover	Defender 110		3500										Diesel	Euro VI diesel (Adblue)										Distance	Every 20,000	
+4x4 - Defender 90	Non-HGV	Van	Miles	Commercial	Landrover	Defender 90		3500										Diesel	Euro VI diesel (Adblue)										Distance	Every 20,000	
+4x4 - Discovery Car	Non-HGV	Car	Miles	Non-commercial	Landrover	Discovery HSE		3500										Diesel	Euro VI diesel (Adblue)										Distance	Every 20,000	
+4x4 - Landcruiser	Non-HGV	Car	Miles	Commercial	Toyota	Landcruiser		3500										Diesel	Euro VI diesel (Adblue)										Distance	Every 20,000	
+4x4 - Range Rover	Non-HGV	Car	Miles	Non-commercial	Range Rover	Vogue		3500										Diesel	Euro VI diesel (Adblue)										Distance	Every 20,000	
+6x2 Daf Artic	HGV		KM	Commercial	Daf	XF530 SuperSp	Daf	44000										Diesel	Euro VI diesel (Adblue)					12 months	12 months	None	6 weeks	12 months	Time		6 months
+6x2 Volvo Artic 	HGV		KM	Commercial	Volvo	FH500XL	Volvo	44000										Diesel	Euro VI diesel (Adblue)					12 months	12 months	None	6 weeks	12 months	Time		6 months
+7.5t Asphalt - Iveco	HGV		KM	Commercial	Iveco	Daily												Diesel	Euro V diesel										Time		6 months
+7.5t Box - Isuzu	HGV		KM	Commercial	Isuzu	N75		7500										Diesel	Euro VI diesel (Adblue)					None	None	6 months	6 weeks	12 months	Time		6 months
+7.5t Box - Iveco	HGV		KM	Commercial	Iveco	Daily		7500										Diesel	Euro V diesel					None	None	6 months	6 weeks	12 months	Time		6 months
+7.5t Dropside - Isuzu	HGV		KM	Commercial	Isuzu	N75	Euromotive	7500										Diesel	Euro VI diesel (Adblue)					None	None	None	6 weeks	12 months	Time		6 months
+7.5t Tipper - Daf	HGV		KM	Commercial	Daf	LF	Euromotive	7500										Diesel	Euro VI diesel (Adblue)					12 months		None	6 weeks	12 months	Time		12 months
+7.5t Tipper - Isuzu V	HGV		KM	Commercial	Isuzu	N75	Euromotive	7500										Diesel	Euro V diesel					12 months		None	6 weeks	12 months	Time		12 months
+7.5t Tipper - Isuzu VI	HGV		KM	Commercial	Isuzu	N75	Euromotive	7500										Diesel	Euro VI diesel (Adblue)					12 months		None	6 weeks	12 months	Time		12 months
+8x2 Beavertail	HGV		KM	Commercial	Volvo	FM	Andover	32000										Diesel	Euro VI diesel (Adblue)							12 months	6 weeks	12 months	Time		6 months
+8x4 Tipper Grab - Arocs	HGV		KM	Commercial	Mercedes	Arocs	Thompson	32000										Diesel	Euro VI diesel (Adblue)							12 months	6 weeks	12 months	Time		12 months
+8x4 Tipper Grab - Daf	HGV		KM	Commercial	Daf	CF85	Thompson	32000										Diesel	Euro V diesel							12 months	6 weeks	12 months	Time		12 months
+8x4 Tipper Grab - Econic	HGV		KM	Commercial	Mercedes	Econic	Thompson	32000										Diesel	Euro VI diesel (Adblue)							12 months	6 weeks	12 months	Time		12 months
+8x4 Tipper Grab - Volvo	HGV		KM	Commercial	Volvo	FMX420	Thompson	32000										Diesel	Euro VI diesel (Adblue)							12 months	6 weeks	12 months	Time		12 months
+Car - Citreon	Non-HGV	Car	Miles	Non-commercial	Citreon	DS3												Unleaded petrol	Petrol										Distance	Every 20,000	
+Car - Clio	Non-HGV	Car	Miles	Non-commercial	Renault	Clio												Unleaded petrol	Petrol										Distance	Every 20,000	
+Car - e208	Non-HGV	Car	Miles	Non-commercial	Peugeot	e208												EV	EV										Distance	Every 20,000	
+Car - eGolf	Non-HGV	Car	Miles	Non-commercial	Volkswagen	eGolf												EV	EV										Distance	Every 20,000	
+Car - Fiat	Non-HGV	Car	Miles	Non-commercial	Fiat	500												Hybrid/Petrol	Hybrid petrol/EV										Distance	Every 20,000	
+Car - Focus	Non-HGV	Car	Miles	Non-commercial	Ford	Focus 1.0 Ecoboost												Unleaded petrol	Hybrid petrol/EV										Distance	Every 20,000	
+Car - Polestar	Non-HGV	Car	Miles	Non-commercial	Polestar	PS2												EV	EV										Distance	Every 20,000	
+Car - Rav 4	Non-HGV	Car	Miles	Non-commercial	Toyota 	Rav 4												EV	EV										Distance	Every 20,000	
+Car - Taycan	Non-HGV	Car	Miles	Non-commercial	Porsche	Taycan												EV	EV										Distance	Every 20,000	
+Car - Tesla	Non-HGV	Car	Miles	Non-commercial	Tesla	Model 3												EV	EV										Distance	Every 20,000	
+Car - VW ID3	Non-HGV	Car	Miles	Non-commercial	Volkswagen	ID3												EV	EV										Distance	Every 20,000	
+Daf Sweeper	HGV		KM	Commercial	Daf	LF250	Bucher Municipal	18000										Diesel	Euro VI diesel (Adblue)					12 months	12 months	None	12 weeks	12 months	Time		6 months
+Dropside Van - Mercedes	Non-HGV	Van	Miles	Commercial	Mercedes	Sprinter	Euromotive	3500										Diesel	Euro VI diesel (Adblue)					None	None	None		None	Distance	Every 20,000	
+Dumper 1.5t - Wacker	Non-HGV			Commercial	Wacker Neuson	1405e		1405										Diesel	Euro V diesel										Time		12 months
+Dumper 3t - JCB	Non-HGV			Commercial	JCB 	3STH		3000										Diesel	Euro V diesel										Time		12 months
+Dumper 3t - Thwaites	Non-HGV			Commercial	Thwaites	3t Dumper		3000										Diesel	Euro V diesel										Time		12 months
+Dumper 6t - Thwaites	Non-HGV			Commercial	Thwaites	6t Dumper		6000										Diesel	Euro V diesel										Time		12 months
+Hotbox - Daf	HGV		KM	Commercial	Daf	LF	Econ	18000										Diesel	Euro V diesel							12 months	12 weeks	12 months	Time		12 months
+JCB - Loadall  531-70	Non-HGV			Commercial	JCB 	Loadall												Diesel	Euro V diesel										Time		12 months
+JCB - Loadall  535-95	Non-HGV			Commercial	JCB 	Loadall												Diesel	Euro V diesel										Time		12 months
+JCB - Loadall  540-140	Non-HGV			Commercial	JCB 	Loadall												Diesel	Euro V diesel										Time		12 months
+Jetwash Van	Non-HGV	Van	Miles	Commercial	Mercedes	Sprinter	Mercedes	3500										Diesel	Euro VI diesel (Adblue)					12 months	None	None		None	Distance	Every 20,000	
+John Deer 5100R	Non-HGV			Commercial	John Deer	5100R												Diesel	Euro V diesel										Time		12 months
+Merc Sweeper	HGV		KM	Commercial	Mercedes		Bucher Municipal	18000										Diesel	Euro VI diesel (Adblue)					12 months	12 months	None	12 weeks	12 months	Time		6 months
+Panel Van - Crafter	Non-HGV	Van	Miles	Commercial	Volkswagen	Crafter		3500										Diesel	Euro V diesel										Distance	Every 20,000	
+Panel Van - Sprinter	Non-HGV	Van	Miles	Commercial	Mercedes	Sprinter	Mercedes	3500										Diesel	Euro VI diesel (Adblue)					None	None	None		None	Distance	Every 20,000	
+Panel Van - Sprinter Crew	Non-HGV	Van	Miles	Commercial	Mercedes	Sprinter Crew		3500										Diesel	Euro V diesel										Distance	Every 20,000	
+Panel Van - Transit	Non-HGV	Van	Miles	Commercial	Ford	Transit	Ford	3500										Diesel	Euro VI diesel (Adblue)					None	None	None		None	Distance	Every 20,000	
+Pick Up 4x4 - Discovery Comm 4	Non-HGV	Van	Miles	Commercial	Landrover	Discovery XS Comm		3500										Diesel	Euro V diesel										Distance	Every 20,000	
+Pick Up 4x4 - Discovery Comm 5	Non-HGV	Van	Miles	Commercial	Landrover	Discovery XS Comm		3500										Diesel	Euro VI diesel (Adblue)										Distance	Every 20,000	
+Pick Up 4x4 - Hilux	Non-HGV	Van	Miles	Commercial	Toyota	Hilux		3500										Diesel	Euro VI diesel (Adblue)					None	None	None		None	Distance	Every 16,000	
+Pick Up 4x4 - Invincible	Non-HGV	Van	Miles	Commercial	Toyota	Invincible		3500										Diesel	Euro VI diesel (Adblue)					None	None	None		None	Distance	Every 16,000	
+Pick Up 4x4 - L200	Non-HGV	Car	Miles	Commercial	Mitsubishi	L200		3500										Diesel	Euro V diesel					None	None	None		None	Distance	Every 20,000	
+Pick Up 4x4 - Ranger	Non-HGV	Van	Miles	Commercial	Ford	Ranger		3500										Diesel	Euro VI diesel (Adblue)					None	None	None		None	Distance	Every 20,000	
+Small Van Berlingo	Non-HGV	Van	Miles	Commercial	Citroen	Berlingo		1900										Diesel	Euro VI diesel (Adblue)					None	None	None		None	Distance	Every 12,000	
+Small Van Citan	Non-HGV	Van	Miles	Commercial	Mercedes	Citan 109 LWB												Diesel	Euro VI diesel (Adblue)					None	None	None		None	Distance	Every 20,000	
+Small Van Combo	Non-HGV	Van	Miles	Commercial	Vauxhall	Combo												Diesel	Euro V diesel										Distance	Every 20,000	
+Small Van Fiesta	Non-HGV	Van	Miles	Commercial	Ford	Fiesta												Diesel	Euro VI diesel (Adblue)					None	None	None		None	Distance	Every 12,000	
+Small Van Merc Vito	Non-HGV	Van	Miles	Commercial	Mercedes	Vito		2900										Diesel	Euro VI diesel (Adblue)					None	None	None		None	Distance	Every 16,000	
+Small Van Partner 	Non-HGV	Van	Miles	Commercial	Peugeot	Partner												Diesel	Euro VI diesel (Adblue)					None	None	None		None	Distance	Every 16,000	
+Small Van Proace	Non-HGV	Van	Miles	Commercial	Toyota	Proace		3500										Diesel	Euro VI diesel (Adblue)					None	None	None		None	Distance	Every 16,000	
+Small Van Proace City	Non-HGV	Van	Miles	Commercial	Toyota	Proace City												Diesel	Euro VI diesel (Adblue)					None	None	None		None	Distance	Every 16,000	
+Small Van Transit Connect	Non-HGV	Van	Miles	Commercial	Ford	Transit Connect												Diesel	Euro VI diesel (Adblue)					None	None	None		None	Distance	Every 12,000	
+Small Van VW Caddy	Non-HGV	Van	Miles	Commercial	Volkswagen	Caddy		3000										Diesel	Euro VI diesel (Adblue)					None	None	None		None	Distance	Every 20,000	
+Small Van VW Transporter	Non-HGV	Van	Miles	Commercial	Volkswagen	Transporter		3000										Diesel	Euro VI diesel (Adblue)					None	None	None		None	Distance	Every 20,000	
+Trailer - Fruehauf	HGV		Miles	Commercial	Fruehauf	Bulk												NA	NA										Time		6 months
+Trailer - Kelberg	HGV		Miles	Commercial	Kelberg	Pipe												NA	NA										Time		6 months
+Trailer - Tankers	HGV		Miles	Commercial	Tankers	Tank 												NA	NA										Time		6 months
+Vac Ex - Mercedess Actros	HGV	None	KM	Commercial	Mercedes	Actros		32000										Diesel	Euro V diesel					12 months	12 months	6 months	6 weeks	6 months	Time		6 months
+JetVac - Fuso 7.5t	HGV		KM	Commercial	Mitsubishi	Fuso		7500										Diesel	Euro VI diesel (Adblue)					12 months	12 months		6 weeks	12 months	Time		6 months

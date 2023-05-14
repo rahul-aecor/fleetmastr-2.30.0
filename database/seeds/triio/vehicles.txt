@@ -1,0 +1,104 @@
+MJ20UKY	 03/08/2020	Large Van Utility Spec (Peugeot Boxer)		Roadworthy	Commercial		No			01/04/2021				T6201	Slough - Depot Overhead	London	Enterprise		29/06/2023	01/07/2021	30/06/2020	30/06/2021			No
+MJ20FJV	 03/08/2020	Large Van Utility Spec (Peugeot Boxer)		Roadworthy	Commercial		No			01/04/2021				T6201	Slough - Depot Overhead	London	Enterprise		29/06/2023	01/07/2021	30/06/2020	30/06/2021			No
+MJ20FKM	 03/08/2020	Large Van Utility Spec (Peugeot Boxer)		Roadworthy	Commercial		No			01/04/2021				T6201	Slough - Depot Overhead	London	Enterprise		29/06/2023	01/07/2021	30/06/2020	30/06/2021			No
+MJ20UKT	 03/08/2020	Large Van Utility Spec (Peugeot Boxer)		Roadworthy	Commercial		No			01/04/2021				T6201	Slough - Depot Overhead	London	Enterprise		29/06/2023	01/07/2021	30/06/2020	30/06/2021			No
+RA66HNR	 14/09/2020	Small Van (Volkswagen Caddy)		Roadworthy	Commercial		No			01/04/2021				T5802	Hitchin - MRP	East Anglia	Enterprise		22/12/2020	01/08/2021	13/12/2019	13/12/2020			No
+KW68XUX	 31/01/2020	Small Crew Van (Mercedes Citan)		Roadworthy	Commercial		No			01/04/2021				T5613	Kirkby - Diversions	East Midlands	Enterprise		23/11/2021	01/12/2020	03/01/2020	21/01/2022			No
+DC66VLD	 17/09/2020	Small Crew Van (Mercedes Citan)		Roadworthy	Commercial		No			01/04/2021				T5615	MRP Tier 2 & 3 East of England	East Midlands	Enterprise		19/11/2020	01/09/2021	04/10/2019	04/10/2021			No
+DL19RWF	 05/08/2020	Small Van (Vauxhall Combo)		Roadworthy	Commercial		No			01/04/2021				T5901	Witham - Depot Overhead	East Anglia	Enterprise		21/04/2022	01/04/2021	30/04/2019	29/04/2020			No
+DL19PKU	 30/07/2020	Small Van (Vauxhall Combo)		Roadworthy	Commercial		No			01/04/2021				T6201	Slough - Depot Overhead	London	Enterprise		28/04/2022	01/04/2021	30/04/2019	29/04/2020			No
+DN69DBO	 13/08/2020	Small Van (Vauxhall Combo)		Roadworthy	Commercial		No			01/04/2021				T5401	Sheffield - Depot Overheads	East Midlands	Enterprise		29/12/2022	01/01/2021	31/12/2019	30/12/2020			No
+KX20NTN	 01/09/2020	Large Van Utility Spec (Mercedes Sprinter)		Roadworthy	Commercial		No			01/04/2021				T6201	Slough - Depot Overhead	London	Enterprise		05/04/2023	01/04/2021	06/04/2020	06/04/2021			No
+MX18XAJ	 20/07/2020	Small Van (Peugeot Partner)		Roadworthy	Commercial		No			01/04/2021				T6201	Slough - Depot Overhead	London	Enterprise		04/03/2021	01/03/2021	22/03/2019	29/03/2021			No
+OV18YKE	 14/08/2020	Small Van (Peugeot Partner)		Roadworthy	Commercial		No			01/04/2021				T5813	Hitchin - Diversions	East Anglia	Enterprise		28/06/2021	01/07/2021	26/07/2019	26/07/2020			No
+MD17XMK	 24/08/2020	Small Van (Peugeot Partner)		Roadworthy	Commercial		No			01/04/2021				T5615	MRP Tier 2 & 3 East of England	East Midlands	Enterprise		30/01/2021	01/08/2021	11/02/2019	07/03/2021			No
+YM19VKG	 30/07/2020	4x4 Crew Cab (Ford Ranger)		Roadworthy	Commercial		No			01/04/2021				T6014	London - Medium Pressure	London	Enterprise		31/03/2022	01/08/2021	10/02/2020	10/02/2021			No
+KS20DYO	 18/09/2020	Dropside 3.5T (Mercedes Sprinter)		Roadworthy	Commercial		No			01/04/2021				T5615	MRP Tier 2 & 3 East of England	East Midlands	Enterprise		26/08/2023	01/09/2021	27/08/2020	27/08/2021			No
+CP18FMA	 03/03/2020	Large Van Utility Spec (Ford Transit)		Roadworthy	Commercial		No			01/04/2021				T5813	Hitchin - Diversions	East Anglia	Enterprise		19/06/2021	01/06/2021	13/03/2019	08/04/2021			No
+CT18HEU	 22/04/2020	Dropside 3.5T (Ford Transit)		Roadworthy	Commercial		No			01/04/2021				T5713	Leicester - Diversions	East Anglia	Enterprise		18/08/2021	01/08/2021	20/08/2018	20/08/2019			No
+HW20VFM	 03/09/2020	Large Van Utility Spec (Ford Transit)		Roadworthy	Commercial		No			01/04/2021				T5615	MRP Tier 2 & 3 East of England	East Midlands	Enterprise		26/07/2023	01/07/2021	27/07/2020	27/07/2021			No
+BK69YMJ	 16/07/2020	Large Van Utility Spec (Ford Transit)		Roadworthy	Commercial		No			01/04/2021				T5813	Hitchin - Diversions	East Anglia	Enterprise		27/10/2022	01/11/2020	28/10/2019	27/10/2020			No
+WP17JCJ	 28/09/2020	Small Van (Ford Transit Connect)		Roadworthy	Commercial		No			01/04/2021				T6201	Slough - Depot Overhead	London	Enterprise		20/08/2021	01/09/2021	11/06/2019	19/02/2021			No
+HG19VEK	 14/09/2020	Small Van (Ford Courier)		Roadworthy	Commercial		No			01/04/2021				T6201	Slough - Depot Overhead	London	Enterprise		31/03/2022	01/07/2021	04/09/2019	04/09/2020			No
+HJ67OWB	 17/07/2020	Medium Van (Ford Custom)		Roadworthy	Commercial		No			01/04/2021				T5615	MRP Tier 2 & 3 East of England	East Midlands	Enterprise		10/03/2021	01/08/2021	07/11/2019	07/11/2020			No
+CK18BYH	 24/09/2020	Medium Van (Ford Custom)		Roadworthy	Commercial		No			01/04/2021				T5602	Kirkby - MRP	East Midlands	Enterprise		30/03/2021	01/08/2021	11/09/2019	11/09/2020			No
+KE18VVZ	 19/08/2020	Medium Van (Volkswagen Transporter)		Roadworthy	Commercial		No			01/04/2021				T5615	MRP Tier 2 & 3 East of England	East Midlands	Enterprise		31/07/2021	01/06/2021	13/02/2020	13/02/2021			No
+DA17AEG	 23/09/2020	Medium Van (Volkswagen Transporter)		Roadworthy	Commercial		No			01/04/2021				T5802	Hitchin - MRP	East Anglia	Enterprise		27/12/2020	01/06/2021	06/09/2019	06/09/2020			No
+GJ70GHD	 16/09/2020	Small Van (Volkswagen Caddy)		Roadworthy	Commercial		No			01/04/2021				T5601	Kirkby - Depot Overheads	East Midlands	Enterprise		03/09/2023	01/09/2021	04/09/2020	04/09/2021			No
+YA17OTG	 18/09/2020	18T Hot Box		Roadworthy	Commercial		No			01/04/2021				T5402	Sheffield - MRP	East Midlands	Leeds Commercials Ltd		31/07/2021	31/07/2021	09/09/2020	21/10/2020		23/07/2022	No
+YK70WRD	 18/09/2020	32T Tipper Grab (Scania)		Roadworthy	Commercial		No			01/04/2021				T5402	Sheffield - MRP	East Midlands	Leeds Commercials Ltd		30/09/2021	30/09/2021	16/09/2020	28/10/2020	02/09/2021	10/09/2022	No
+CP19VOD	 22/05/2019	Dropside 3.5T (Ford Transit)		Roadworthy	Commercial		No			01/04/2021				T6201	Slough - Depot Overhead	London	Enterprise								No
+HF18XDW	 14/01/2019	Large Van Utility Spec (Ford Transit)		Roadworthy	Commercial		No			01/04/2021				T6101	Barnet - Depot Overhead	London	Enterprise								No
+EA67TYB	 24/09/2020	Large Van Utility Spec (Mercedes Sprinter)		Roadworthy	Commercial		No			01/04/2021				T6201	Slough - Depot Overhead	London	Enterprise		31/10/2020	01/07/2021	19/08/2019	19/08/2020			No
+BP67GVN	 12/06/2019	Small Van (Volkswagen Caddy)		Roadworthy	Commercial		No			01/04/2021				T5601	Kirkby - Depot Overheads	East Midlands	Enterprise		29/12/2020	01/08/2021	08/10/2019	08/10/2020			No
+NC19HAU	 25/09/2019	Large Van Utility Spec (Mercedes Sprinter)		Roadworthy	Commercial		No			01/04/2021				T6004	MOBS	London	Enterprise								No
+DY69YYF	 16/01/2020	Medium Van (Vauxhall Vivaro)		Roadworthy	Commercial		No			01/04/2021				T5401	Sheffield - Depot Overheads	East Midlands	Enterprise								No
+DN20LOD	 16/09/2020	Small Van (Vauxhall Combo)		Roadworthy	Commercial		No			01/04/2021				T6201	Slough - Depot Overhead	London	Enterprise		29/06/2023	01/07/2021	22/03/2020	22/03/2021			No
+WM67GGK	 11/02/2020	Large Van Utility Spec (Mercedes Sprinter)		Roadworthy	Commercial		No			01/04/2021				T5813	Hitchin - Diversions	East Anglia	Enterprise		29/12/2020	01/08/2021	21/01/2020	21/01/2021			No
+WR18WJM	 11/02/2020	Small Van (Fiat Doblo)		Roadworthy	Commercial		No			01/04/2021				T6014	London - Medium Pressure	London	Enterprise		25/04/2021	01/07/2021	21/05/2019	21/05/2020			No
+OW18NXZ	 11/02/2020	Small Crew Van (Peugeot Partner)		Roadworthy	Commercial		No			01/04/2021				T6014	London - Medium Pressure	London	Enterprise		31/07/2021	01/07/2021	03/02/2020	28/01/2021			No
+HT68GDF	 17/02/2020	Large Van Utility Spec (Mercedes Sprinter)		Roadworthy	Commercial		No			01/04/2021				T8400	Logistics Overhead	London, East Anglia, East Midlands	Enterprise		31/12/2021	01/09/2021	18/09/2019	18/09/2020			No
+OE19SSX	 17/02/2020	Small Van (Peugeot Partner)		Roadworthy	Commercial		No			01/04/2021				T6201	Slough - Depot Overhead	London	Enterprise		14/05/2022	01/09/2021	15/05/2019	14/05/2020			No
+OE19RYT	 17/02/2020	Small Van (Peugeot Partner)		Roadworthy	Commercial		No			01/04/2021				T6201	Slough - Depot Overhead	London	Enterprise		14/05/2022	01/09/2021	23/01/2020	23/01/2021			No
+OE18HHZ	 25/02/2020	Small Van (Peugeot Partner)		Roadworthy	Commercial		No			01/04/2021				T6601	MOBS Delivery Overhead	London	Enterprise		06/06/2021	01/08/2021	27/08/2019	27/08/2020			No
+HX16OGP	 27/02/2020	Tipper 3.5T Crew Cab (Iveco Daily)		Roadworthy	Commercial		No			01/04/2021				T5402	Sheffield - MRP	East Midlands	Enterprise		20/01/2021	01/06/2021	20/09/2019	20/09/2020			No
+BD68BFF	 04/03/2020	Large Van Utility Spec (Ford Transit)		Roadworthy	Commercial		No			01/04/2021				T5401	Sheffield - Depot Overheads	East Midlands	Enterprise		13/11/2021	01/07/2021	28/02/2020	28/02/2021			No
+KW18DSU	 04/03/2020	Large Van Utility Spec (Ford Transit)		Roadworthy	Commercial		No			01/04/2021				T6201	Slough - Depot Overhead	London	Enterprise		16/05/2021	01/09/2021	20/12/2019	20/12/2020			No
+CV68ELW	 30/06/2020	Large Van Utility Spec (Ford Transit)		Roadworthy	Commercial		No			01/04/2021				T5602	Kirkby - MRP	East Midlands	Enterprise		12/09/2021	01/09/2021	05/11/2019	13/11/2021			No
+BL19UNR	 16/03/2020	Large Van Utility Spec (Ford Transit)		Roadworthy	Commercial		No			01/04/2021				T5602	Kirkby - MRP	East Midlands	Enterprise		29/03/2022	01/07/2021	28/02/2020	28/02/2021			No
+OE19RYY	 13/03/2020	Small Van (Peugeot Partner)		Roadworthy	Commercial		No			01/04/2021				T6900	MRP Overheads - London	London	Enterprise		30/04/2022	01/09/2021	01/05/2019	30/04/2020			No
+OW18NYR	 12/03/2020	Small Van (Peugeot Partner)		Roadworthy	Commercial		No			01/04/2021				T5801	Hitchin - Depot Overhead	East Anglia	Enterprise		31/07/2021	01/07/2021	11/11/2019	11/11/2020			No
+DL19PUO	 01/06/2020	Small Van (Vauxhall Combo)		Roadworthy	Commercial		No			01/04/2021				T5602	Kirkby - MRP	East Midlands	Enterprise								No
+WM69YMO	 07/05/2020	Large Van Utility Spec (Ford Transit)		Roadworthy	Commercial		No			01/04/2021				T6014	London - Medium Pressure	London	Enterprise		29/01/2023	01/01/2021	23/03/2019	22/03/2020			No
+CU17ZTO	 14/09/2020	Large Van Utility Spec (Ford Transit)		Roadworthy	Commercial		No			01/04/2021				T6014	London - Medium Pressure	London	Enterprise								No
+HW20NFJ	 15/05/2020	4x4 Crew Cab (Ford Ranger)		Roadworthy	Commercial		No			01/04/2021				T5613	Kirkby - Diversions	East Midlands	Enterprise		21/02/2023	01/03/2021	22/03/2020	22/03/2021			No
+OY19GCV	 22/06/2020	Large Van Utility Spec (Peugeot Boxer)		Roadworthy	Commercial		No			01/04/2021				T6201	Slough - Depot Overhead	London	Enterprise		31/03/2022	01/09/2021	01/04/2019	31/03/2020			No
+CP19VSG	 10/07/2020	Large Van Utility Spec (Ford Transit)		Roadworthy	Commercial		No			01/04/2021				T6201	Slough - Depot Overhead	London	Enterprise		07/04/2022	01/04/2021	23/03/2019	22/03/2020			No
+LB17EAJ	 05/08/2020	Small Van (Ford Fiesta)		Roadworthy	Commercial		No			01/04/2021				T5801	Hitchin - Depot Overhead	East Anglia	Enterprise								No
+DU69RRX	 12/08/2020	Medium Van (Vauxhall Vivaro)		Roadworthy	Commercial		No			01/04/2021				T5401	Sheffield - Depot Overheads	East Midlands	Enterprise								No
+CK20TAV	 11/09/2020	Small Van (Ford Fiesta)		Roadworthy	Commercial		No			01/04/2021				T6004	MOBS	London	Enterprise								No
+WX68NVH	 14/09/2020	Tipper 3.5T (Ford Transit)		Roadworthy	Commercial		No			01/04/2021				T5602	Kirkby - MRP	East Midlands	Enterprise								No
+NU69WND	 18/12/2019	Small Van (Peugeot Partner)		Roadworthy	Commercial		No			01/04/2021				T5602	Kirkby - MRP	East Midlands	Northgate								No
+NV69SYR	 28/02/2020	Small Van (Peugeot Partner)		Roadworthy	Commercial		No			01/04/2021				T5615	MRP Tier 2 & 3 East of England	East Midlands	Reflex		24/02/2023	28/02/2021	19/06/2020	18/06/2021			Yes
+YF17NXV	 18/03/2020	Large Van Utility Spec (Mercedes Sprinter)		Roadworthy	Commercial		No			01/04/2021				T5613	Kirkby - Diversions	East Midlands	Reflex		12/03/2021	30/04/2021	02/11/2019	31/10/2020			Yes
+BL69FAO	 02/04/2020	Dropside 3.5T (Ford Transit)		Roadworthy	Commercial		No			01/04/2021				T5802	Hitchin - MRP	East Anglia	Reflex		20/11/2022	31/10/2020	20/11/2019	20/11/2020			Yes
+YD67GTZ	 16/06/2020	Large Van Utility Spec (Mercedes Sprinter)		Roadworthy	Commercial		No			01/04/2021				T5601	Kirkby - Depot Overheads	East Midlands	Reflex		27/09/2021	30/09/2021	01/06/2020	30/05/2021			Yes
+YJ67AKH	 20/04/2020	Large Van Utility Spec (Mercedes Sprinter)		Roadworthy	Commercial		No			01/04/2021				T5602	Kirkby - MRP	East Midlands	Reflex		06/02/2021	31/01/2021	07/04/2020	06/04/2021			Yes
+BW68PUF	 02/07/2020	Tipper 3.5T (Ford Transit)		Roadworthy	Commercial		No			01/04/2021				T5602	Kirkby - MRP	East Midlands	Reflex		18/02/2022	31/01/2021	14/07/2020	13/07/2021			Yes
+KV69KCZ	 15/06/2020	Small Van (Ford Courier)		Roadworthy	Commercial		No			01/04/2021				T5402	Sheffield - MRP	East Midlands	Reflex		18/09/2022	31/08/2021	29/09/2020	28/09/2021			Yes
+KP17OTS	 26/06/2020	Small Van (Ford Transit Connect)		Roadworthy	Commercial		No			01/04/2021				T5401	Sheffield - Depot Overheads	East Midlands	Reflex		22/06/2021	31/01/2021	17/12/2019	16/12/2020			Yes
+SN67OFC	 25/06/2020	Tipper 3.5T Crew Cab (Ford Transit)		Roadworthy	Commercial		No			01/04/2021				T5901	Witham - Depot Overhead	East Anglia	Reflex		18/09/2021	31/08/2021	07/09/2020	06/09/2021			Yes
+HS18BWG	 14/07/2020	Medium Van (Ford Custom)		Roadworthy	Commercial		No			01/04/2021				T6004	MOBS	London	Reflex		25/07/2021	30/06/2021	07/07/2020	06/07/2021			Yes
+FL67UAV	 03/07/2020	Small Van (Ford Transit Connect)		Roadworthy	Commercial		No			01/04/2021				T6201	Slough - Depot Overhead	London	Reflex		28/09/2020	31/08/2021	22/09/2020	21/09/2021			Yes
+YD67GXS	 03/07/2020	Dropside 3.5T (Mercedes Sprinter)		Roadworthy	Commercial		No			01/04/2021				T5813	Hitchin - Diversions	East Anglia	Reflex		14/09/2021	30/09/2021	13/01/2020	12/01/2021			Yes
+NV69SZK	 09/07/2020	Small Van (Peugeot Partner)		Roadworthy	Commercial		No			01/04/2021				T6004	MOBS	London	Reflex		25/02/2023	28/02/2021	25/02/2020	25/02/2021			Yes
+FL67TWK	 17/07/2020	Small Van (Ford Transit Connect)		Roadworthy	Commercial		No			01/04/2021				T5901	Witham - Depot Overhead	East Anglia	Reflex		15/07/2021	31/08/2021	20/08/2020	19/08/2021			Yes
+YF17ODV	 21/07/2020	Dropside 3.5T (Mercedes Sprinter)		Roadworthy	Commercial		No			01/04/2021				T8400	Logistics Overhead	London, East Anglia, East Midlands	Reflex		19/06/2021	31/05/2021	12/01/2020	11/01/2021			Yes
+YL67ASV	 21/07/2020	Large Van Utility Spec (Mercedes Sprinter)		Roadworthy	Commercial		No			01/04/2021				T5602	Kirkby - MRP	East Midlands	Reflex		29/01/2021	31/01/2021	16/07/2020	15/07/2021			Yes
+YB67HKP	 20/07/2020	Large Van Utility Spec (Mercedes Sprinter)		Roadworthy	Commercial		No			01/04/2021				T5402	Sheffield - MRP	East Midlands	Reflex		04/01/2021	31/12/2020	18/02/2020	17/02/2021			Yes
+WV18FYA	 14/08/2020	Large Van Utility Spec (Ford Transit)		Roadworthy	Commercial		No			01/04/2021				T5201	Diversions & Rienforcement Delivery Overhead	East Midlands	Northgate		15/03/2021	31/03/2021					No
+FL19HTK	 21/08/2020	Large Van Utility Spec (Ford Transit)		Roadworthy	Commercial		No			01/04/2021				T6014	London - Medium Pressure	London	Reflex		26/08/2022	31/07/2021	11/06/2020	10/06/2021			Yes
+FL19HUK	 25/08/2020	Large Van Utility Spec (Ford Transit)		Roadworthy	Commercial		No			01/04/2021				T6014	London - Medium Pressure	London	Reflex		26/08/2022	31/07/2021	07/08/2020	06/08/2021			Yes
+WV18FUD	 21/08/2020	Large Van Utility Spec (Ford Transit)		Roadworthy	Commercial		No			01/04/2021				T5801	Hitchin - Depot Overhead	East Anglia	Reflex		28/02/2021	28/02/2021	16/06/2020	15/06/2021			Yes
+ND67AMX	 07/09/2020	Large Van Utility Spec (Ford Transit)		Roadworthy	Commercial		No			01/04/2021				T5402	Sheffield - MRP	East Midlands	Reflex		30/01/2021	31/01/2021	08/06/2020	07/06/2020			Yes
+YD67GZU	 07/09/2020	Large Van Utility Spec (Mercedes Sprinter)		Roadworthy	Commercial		No			01/04/2021				T8400	Logistics Overhead	London, East Anglia, East Midlands	Reflex		21/11/2020	30/11/2020	18/05/2020	17/05/2021			Yes
+NK18PGO	 09/09/2020	Large Van Utility Spec (Mercedes Sprinter)		Roadworthy	Commercial		No			01/04/2021				T5602	Kirkby - MRP	East Midlands	Reflex		25/03/2021	28/02/2021	27/11/2019	26/11/2020			Yes
+BJ20OBC	 18/09/2020	Tipper 3.5T Crew Cab (Ford Transit)		Roadworthy	Commercial		No			01/04/2021				T5402	Sheffield - MRP	East Midlands	Reflex		02/03/2023	28/08/2021	26/06/2020	25/06/2021			Yes
+BU68ZGO	 18/09/2020	Tipper 3.5T Crew Cab (Ford Transit)		Roadworthy	Commercial		No			01/04/2021				T5402	Sheffield - MRP	East Midlands	Reflex		31/08/2021	31/08/2021	23/07/2020	22/07/2021			Yes
+KX67UYB	 11/09/2020	Small Van (Ford Transit Connect)		Roadworthy	Commercial		No			01/04/2021				T5602	Kirkby - MRP	East Midlands	Reflex		06/09/2021	31/08/2021	11/12/2019	10/12/2020			Yes
+YE17FFP	 21/09/2020	Large Van Utility Spec (Mercedes Sprinter)		Roadworthy	Commercial		No			01/04/2021				T5602	Kirkby - MRP	East Midlands	Reflex		30/03/2021	31/03/2021	15/09/2020	14/09/2021			Yes
+NK69UVJ	 28/09/2020	Large Van Utility Spec (Mercedes Sprinter)		Roadworthy	Commercial		No			01/04/2021				T5602	Kirkby - MRP	East Midlands	Reflex		17/09/2022	31/08/2021	27/05/2020	26/07/2021			Yes
+WN67FSL	 24/09/2020	Large Van Utility Spec (Mercedes Sprinter)		Roadworthy	Commercial		No			01/04/2021				T5902	Witham - MRP	East Anglia	Reflex		15/02/2021	31/01/2021	12/06/2020	11/06/2021			Yes
+WR68LGA	 08/04/2020	Small Van (Ford Courier)		Roadworthy	Commercial		No			01/04/2021				T5615	MRP Tier 2 & 3 East of England	East Midlands	Reflex		11/11/2021	11/11/2020					Yes
+FB19KYW	 30/09/2020	Small Van (Ford Transit Connect)		Roadworthy	Commercial		No			01/04/2021				T5801	Hitchin - Depot Overhead	East Anglia	Reflex		28/07/2022	30/07/2021					Yes
+NK20VPE	 05/10/2020	Large Van Utility Spec (Mercedes Sprinter)		Roadworthy	Commercial		No			01/04/2021				T5902	Witham - MRP	East Anglia	Reflex		24/03/2023	31/03/2021					Yes
+OE18HHP	 14/10/2020	Small Van (Peugeot Partner)		Roadworthy	Commercial		No			01/04/2021				T5901	Witham - Depot Overhead	East Anglia	Enterprise		04/06/2021	30/06/2021					No
+BJ19UAX	 14/10/2020	Medium Van (Ford Custom)		Roadworthy	Commercial		No			01/04/2021				T6201	Slough - Depot Overhead	London	Reflex		29/03/2022	31/03/2021					Yes
+CV68EUP	 07/10/2020	Dropside 3.5T (Ford Transit)		Roadworthy	Commercial		No			01/04/2021				T5813	Hitchin - Diversions	East Anglia	Enterprise		11/10/2021	31/10/2021					No
+BP18JUA	 15/10/2020	Small Crew Van (Mercedes Citan)		Roadworthy	Commercial		No			01/04/2021				T5801	Hitchin - Depot Overhead	East Anglia	Reflex		11/06/2021	30/06/2021					Yes
+YD67GUK	 14/10/2020	Large Van Utility Spec (Mercedes Sprinter)		Roadworthy	Commercial		No			01/04/2021				T6004	MOBS	London	Reflex		25/09/2021	30/09/2021					Yes
+YG17BDK	 16/10/2020	Large Van Utility Spec (Mercedes Sprinter)		Roadworthy	Commercial		No			01/04/2021				T5602	Kirkby - MRP	East Midlands	Reflex		08/08/2021	31/08/2021					Yes
+CP17SEO	 13/10/2020	Small Van (Ford Transit Connect)		Roadworthy	Commercial		No			01/04/2021				T5602	Kirkby - MRP	East Midlands	Europcar UK Ltd		18/12/2020	31/12/2020					No
+WR18WHE	 16/10/2020	4x4 Crew Cab (Mitsubushi L200)		Roadworthy	Commercial		No			01/04/2021				T5602	Kirkby - MRP	East Midlands	Reflex		02/05/2021	31/05/2021					Yes
+DN19NDL	 19/10/2020	Small Van (Vauxhall Combo)		Roadworthy	Commercial		No			01/04/2021				T6014	"MRP > 12"", Medium Pressure, Diversions & Reinforcement"	London	Europcar UK Ltd		26/03/2022	31/03/2021					No
+HV18NKE	 19/10/2020	Large Van Utility Spec (Ford Transit)		Roadworthy	Commercial		No			01/04/2021				T5602	Kirkby - MRP	East Midlands	Reflex		28/03/2021	31/03/2021					Yes

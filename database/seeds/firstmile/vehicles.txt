@@ -1,0 +1,69 @@
+Registration*	Date added to fleet*	Type*	Odometer (KM/Miles)	Vehicle status*	Usage override*	Telematics*	Ownership status*	Nominated driver	Registration date	First use inspection date	Vehicle lease expiry date	P11D list price or benefit charge	Chassis number / VIN	Contract ID		Vehicle division*	Vehicle region*	Vehicle location		Repair/Maintenance location	Annual service date	Compressor service date	Invertor service date	LOLER test date	Maintenance expiry date	MOT expiry date	Next service date	Next service distance	First PMI date	Next service	Next PMI date	PTO service date	PTO service date	Taco calibration date	Tax expiry date		Installation Address	Contact Name	Contact Number	Contact Email Address	Driver ID
+DX13GPO	6/23/2014	DAF LF 12T (V)		Roadworthy	Commercial	Yes	Owned							London 		Collection	London																								
+DX13GPU	7/9/2013	DAF LF 12T (V)		Roadworthy	Commercial	Yes	Owned							London 		Collection	London																								
+DX14OMG	6/23/2014	DAF LF 12T (VI)		Roadworthy	Commercial	Yes	Owned							London 		Collection	London																								
+DX14OMH	6/23/2014	DAF LF 12T (VI)		Roadworthy	Commercial	Yes	Owned							London 		Collection	London																								
+DX14OMK	6/12/2014	DAF LF 12T (VI)		Roadworthy	Commercial	Yes	Owned							London 		Collection	London																								
+DX14OML	6/4/2014	DAF LF 12T (VI)		Roadworthy	Commercial	Yes	Owned							London 		Collection	London																								
+DX15MLU	4/2/2015	DAF LF 12T (VI)		Roadworthy	Commercial	Yes	Owned							London 		Collection	London																								
+DX15MLV	4/2/2015	DAF LF 12T (VI)		Roadworthy	Commercial	Yes	Owned							London 		Collection	London																								
+DX15MLY	4/2/2015	DAF LF 12T (VI)		Roadworthy	Commercial	Yes	Owned							London 		Collection	London																								
+DX16ASO	5/6/2016	DAF LF 12T (VI)		Roadworthy	Commercial	Yes	Owned							London 		Collection	London																								
+DX16ASU	5/6/2016	DAF LF 12T (VI)		Roadworthy	Commercial	Yes	Owned							London 		Collection	London																								
+DX16ASV	4/27/2016	DAF LF 12T (VI)		Roadworthy	Commercial	Yes	Owned							London 		Collection	London																								
+DX16ASZ	4/27/2016	DAF LF 12T (VI)		Roadworthy	Commercial	Yes	Owned							London 		Collection	London																								
+DX17ZKK	7/13/2017	DAF LF 12T (VI)		Roadworthy	Commercial	Yes	Owned							London 		Collection	London																								
+DX17ZKL	7/13/2017	DAF LF 12T (VI)		Roadworthy	Commercial	Yes	Owned							London 		Collection	London																								
+DX17ZKM	7/11/2017	DAF LF 12T (VI)		Roadworthy	Commercial	Yes	Owned							London 		Collection	London																								
+DX17ZKN	7/11/2017	DAF LF 12T (VI)		Roadworthy	Commercial	Yes	Owned							London 		Collection	London																								
+DX64UZW	10/20/2014	DAF LF 12T (VI)		Roadworthy	Commercial	Yes	Owned							London 		Collection	London																								
+FM68EWE	2/20/2019	Nissan eNV 200		Roadworthy	Commercial	Yes	Owned							London 		Delivery	London																								
+KF19JSX	8/19/2019	DAF LF 15T		Roadworthy	Commercial	Yes	Owned							London 		Collection	London																								
+KF19JSY	8/19/2019	DAF LF 15T		Roadworthy	Commercial	Yes	Owned							London 		Collection	London																								
+KF19JSZ	8/19/2019	DAF LF 15T		Roadworthy	Commercial	Yes	Owned							London 		Collection	London																								
+LL67HRE	1/16/2018	Nissan eNV 200		Roadworthy	Commercial	Yes	Owned							London 		Delivery	London																								
+LM69UNL	1/31/2020	Mercedes eVito		Roadworthy	Commercial	Yes	Owned							London 		Delivery	London																								
+LM69UNN	1/31/2020	Mercedes eVito		Roadworthy	Commercial	Yes	Owned							London 		Delivery	London																								
+LM69UNP	1/31/2020	Mercedes eVito		Roadworthy	Commercial	Yes	Owned							London 		Delivery	London																								
+LM69UNR	1/31/2020	Mercedes eVito		Roadworthy	Commercial	Yes	Owned							London 		Delivery	London																								
+LM69UNS	1/31/2020	Mercedes eVito		Roadworthy	Commercial	Yes	Owned							London 		Delivery	London																								
+LN18AHA	3/5/2018	DAF LF 15T		Roadworthy	Commercial	Yes	Owned							London 		Collection	London																								
+LN18AHC	3/16/2018	DAF LF 15T		Roadworthy	Commercial	Yes	Owned							London 		Collection	London																								
+LN18AHD	3/16/2018	DAF LF 15T		Roadworthy	Commercial	Yes	Owned							London 		Collection	London																								
+LN18AHE	3/16/2018	DAF LF 15T		Roadworthy	Commercial	Yes	Owned							London 		Collection	London																								
+LN19YOK	6/30/2019	Mercedes Econic		Roadworthy	Commercial	Yes	Owned							London 		Collection	London																								
+LO67CPV	1/28/2019	Mercedes Sprinter		Roadworthy	Commercial	Yes	Owned							London 		Delivery	London																								
+LP18NDK	8/16/2018	Nissan eNV 200		Roadworthy	Commercial	Yes	Owned							London 		Delivery	London																								
+LS71DVL	10/20/2021	Mercedes Sprinter		Roadworthy	Commercial	Yes	Owned							London 		Collection	London																								
+LS71DVM	10/20/2021	Mercedes Sprinter		Roadworthy	Commercial	Yes	Owned							London 		Collection	London																								
+LT21NCC	3/17/2021	DAF LF 12T (VI)		Roadworthy	Commercial	Yes	Owned							London 		Collection	London																								
+LT21NCD	3/17/2021	DAF LF 12T (VI)		Roadworthy	Commercial	Yes	Owned							London 		Collection	London																								
+LT70CWY	9/1/2020	DAF CF 44T		Roadworthy	Commercial	Yes	Owned							Sactory		Sactory	London																								
+RJ19KBO	4/4/2019	VW Crafter		Roadworthy	Commercial	Yes	Owned							London 		Collection	London																								
+RJ19KBP	4/4/2019	VW Crafter		Roadworthy	Commercial	Yes	Owned							London 		Collection	London																								
+RJ19KBU	3/31/2019	VW Crafter		Roadworthy	Commercial	Yes	Owned							London 		Collection	London																								
+RJ19KBV	4/30/2019	VW Crafter		Roadworthy	Commercial	Yes	Owned							London 		Collection	London																								
+RJ19KBX	4/30/2019	VW Crafter		Roadworthy	Commercial	Yes	Owned							London 		Collection	London																								
+RJ19KBY	3/31/2019	VW Crafter		Roadworthy	Commercial	Yes	Owned							London 		Collection	London																								
+RJ67BKD	12/7/2017	IVECO Daily		Roadworthy	Commercial	Yes	Owned							London 		Collection	London																								
+RJ67BKE	12/7/2017	IVECO Daily		Roadworthy	Commercial	Yes	Owned							London 		Collection	London																								
+RJ67BKF	12/7/2017	IVECO Daily		Roadworthy	Commercial	Yes	Owned							London 		Collection	London																								
+RJ67BKG	12/7/2017	IVECO Daily		Roadworthy	Commercial	Yes	Owned							Birmingham		Collection	Birmingham																								
+RK65WZU	9/7/2015	ISUZU N75 6m		Roadworthy	Commercial	Yes	Owned							London 		Collection	London																								
+RK66XGE	11/11/2016	ISUZU N75 12m		Roadworthy	Commercial	Yes	Owned							Birmingham		Collection	Birmingham																								
+RK66XGF	11/11/2016	ISUZU N75 12m		Roadworthy	Commercial	Yes	Owned							London 		Collection	London																								
+RV66XPY	1/28/2017	ISUZU N75 12m		Roadworthy	Commercial	Yes	Owned							London 		Collection	London																								
+RX18URE	6/26/2018	ISUZU N75 6m		Roadworthy	Commercial	Yes	Owned							London 		Collection	London																								
+RX18URJ	6/26/2018	ISUZU N75 12m		Roadworthy	Commercial	Yes	Owned							London 		Collection	London																								
+RX18URP	6/26/2018	ISUZU N75 12m		Roadworthy	Commercial	Yes	Owned							London 		Collection	London																								
+RX18URZ	6/30/2018	ISUZU N75 0m		Roadworthy	Commercial	Yes	Owned							Birmingham		Collection	Birmingham																								
+RX18USM	6/30/2018	ISUZU N75 0m		Roadworthy	Commercial	Yes	Owned							London 		Collection	London																								
+RX18UTE	6/30/2018	ISUZU N75 0m		Roadworthy	Commercial	Yes	Owned							London 		Collection	London																								
+SJ66PPF	4/30/2019	Mercedes Sprinter		Roadworthy	Commercial	Yes	Owned							London 		Delivery	London																								
+SJ66PRV	4/4/2019	Mercedes Sprinter		Roadworthy	Commercial	Yes	Owned							London 		Delivery	London																								
+SJ68CMX	11/30/2018	Mercedes Econic		Roadworthy	Commercial	Yes	Owned							London 		Collection	London																								
+WP17FMC	6/21/2017	Mercedes Sprinter		Roadworthy	Commercial	Yes	Owned							London 		Delivery	London																								
+WP17FMD	6/21/2017	Mercedes Sprinter		Roadworthy	Commercial	Yes	Owned							Birmingham		Delivery	Birmingham																								
+WR67HWX	12/21/2017	Mercedes Sprinter		Roadworthy	Commercial	Yes	Owned							London 		Delivery	London																								
+YR66TFE	4/5/2017	Peugeot Boxer		Roadworthy	Commercial	Yes	Owned							London 		Delivery	London																								
+YX60ONK	9/6/2018	DAF CF 44T		Roadworthy	Commercial	Yes	Owned							Sactory		Sactory	London																								

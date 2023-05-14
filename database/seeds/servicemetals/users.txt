@@ -1,0 +1,16 @@
+First name*	Last name*	Company*	Email*	Division	Region	Job Title	Mobile number	Landline number	ID	Enable account login*	IMEI number	Line manager	Base Location	Fuel card issued	Specific role*	Dashboard (statistics)	Dashboard (costs)	Fleet planning	Vehicle Checks	Vehicle Defects	Incident reports	Vehicle search	Vehicle profiles	Reports	Messaging	Workshops	User management	Alert Centre	Settings	Telematics		All	Hebburn	Newport	Selby 	West Thurrock 	Widnes
+Andre	Fallows	Service Metals	andre.fallows@icloud.com	Service Metals Midlands	Talke	Driver/Warehouse 	07974116820			Yes		Charlie Carnall		No	App access only																						
+Charlie	Carnall	Service Metals	charlie.carnall@servicemetals.co.uk	Service Metals Midlands	Talke	Transport Manager	07958014899	01782794530		Yes		Tony Walley		No	Super admin																						
+Dan	Mollart	Service Metals	dan.mollart123@googlemail.com	Service Metals Midlands	Talke	Driver/Warehouse 	07983159809			Yes		Charlie Carnall		No	App access only																						
+Dave	Abel	Service Metals	davidabel46@icloud.com	Service Metals Midlands	Talke	Driver/Warehouse 	07812518413			Yes		Charlie Carnall		No	App access only																						
+Dave	Foster	Service Metals	davefoz88@icloud.com	Service Metals Midlands	Talke	Driver/Warehouse 	07590209116			Yes		Charlie Carnall		No	App access only																						
+Dave	Oakley	Service Metals	dave.oakley@servicemetals.co.uk	Service Metals Midlands	Talke	Warehouse Manager	07966803222	01782794530		Yes		Tony Walley		No	App access only																						
+David	Hendley	Service Metals	dave.hendley@servicemetals.co.uk	Service Metals Midlands	Talke	Sales 	07773351228	01782794530		Yes		Tony Walley		No	Super admin																						
+Ian	Price	Service Metals	iansaxonprice@gmail.com 	Service Metals Midlands	Talke	Driver/Warehouse 	07583113988	01782794530		Yes		Tony Walley		No	App access only																						
+Jason	Eyre	Service Metals	jason.eyre@yahoo.co.uk	Service Metals Midlands	Talke	Driver/Warehouse 	07886009219			Yes		Charlie Carnall		No	App access only																						
+Jim	Proudman	Service Metals	abaddon.abyss@hotmail.com	Service Metals Midlands	Talke	Driver/Warehouse 	07857081190			Yes		Charlie Carnall		No	App access only																						
+Keith	Sargent	Service Metals	Papaksargeant@aol.co.uk	Service Metals Midlands	Talke	Driver/Warehouse 	07766285411			Yes		Charlie Carnall		No	App access only																						
+Mark	Machin	Service Metals	mache1215@gmail.com	Service Metals Midlands	Talke	Driver/Warehouse 	07858400523			Yes		Charlie Carnall		No	App access only																						
+Steve	Adams	Service Metals		Service Metals Midlands	Talke	Driver/Warehouse 	07505099533			Yes		Charlie Carnall		No	App access only																						
+Steve	Knapper	Service Metals	Stevo.knapper@hotmail.com	Service Metals Midlands	Talke	Driver/Warehouse 	07414180891			Yes		Charlie Carnall		No	App access only																						
+Tony	Walley	Service Metals		Service Metals Midlands	Talke					Yes				No	App access only																						

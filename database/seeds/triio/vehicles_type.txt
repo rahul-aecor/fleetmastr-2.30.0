@@ -1,0 +1,40 @@
+Dropside 3.5T	Non-HGV	LCV	Commercial	Ford	Transit 350 L3 - Chassis Cab		3500										Diesel	Euro V diesel	2200			
+Large Van Utility Spec	Non-HGV	LCV	Commercial	Ford	Transit 350 L2 - H3 Van		3500										Diesel	Euro V diesel	2200			
+Large Van Utility Spec Comp/Gen	Non-HGV	LCV	Commercial	Ford	Transit 350 L2 - H3 Van Comp/Gen		3500										Diesel	Euro V diesel	2200			
+Small Van	Non-HGV	LCV	Commercial	Volkswagen	Caddy		2000										Diesel	Euro VI diesel (Adblue)	1400			
+Large Van Utility Spec	Non-HGV	LCV	Commercial	Renault	Master 2.3 DCI 125 Panel Van		3500										Diesel	Euro V diesel	2300			
+Small Van	Non-HGV	LCV	Commercial	Vauxhall	Combo		2000										Diesel	Euro VI diesel (Adblue)	1600			
+Small Van	Non-HGV	LCV	Commercial	Nissan	NV200		2000										Diesel	Euro V diesel	1500			
+Small Van	Non-HGV	LCV	Commercial	Peugeot	Partner 1.6HDI		2000										Diesel	Euro VI diesel (Adblue)	1600			
+Small Crew Van	Non-HGV	LCV	Commercial	Peugeot	Partner 1.6HDI		2000										Diesel	Euro VI diesel (Adblue)	1600			
+Small Crew Van	Non-HGV	LCV	Commercial	Volkswagen	Caddy		2000										Diesel	Euro VI diesel (Adblue)	1400			
+Dropside 3.5T	Non-HGV	LCV	Commercial	Mercedes-Benz	Sprinter 2.1 314cdi 3.5t Rwd L2 Chassis Cab		3500										Diesel	Euro VI diesel (Adblue)	2100			
+Small Van	Non-HGV	LCV	Commercial	Ford	Transit Connect 1.5TDCI		2000										Diesel	Euro VI diesel (Adblue)	1500			
+Small Van	Non-HGV	LCV	Commercial	Ford	Courier		2000										Diesel	Euro VI diesel (Adblue)	1000			
+Small Van	Non-HGV	LCV	Commercial	Ford	Fiesta Van		2000										Diesel	Euro VI diesel (Adblue)	1000			
+Medium Van	Non-HGV	LCV	Commercial	Ford	Custom		2900										Diesel	Euro VI diesel (Adblue)	2000			
+Medium Van	Non-HGV	LCV	Commercial	Vauxhall	Vivaro		2900										Diesel	Euro VI diesel (Adblue)	1600			
+4x4 Crew Cab	Non-HGV	LCV	Commercial	Ford	Ranger		3000										Diesel	Euro VI diesel (Adblue)	2200			
+4x4 Single Cab	Non-HGV	LCV	Commercial	Ford	Ranger		3000										Diesel	Euro VI diesel (Adblue)	2200			
+4x4 Crew Cab	Non-HGV	LCV	Commercial	Toyota	Hi-Lux		3000										Diesel	Euro VI diesel (Adblue)	2200			
+4x4 Single Cab	Non-HGV	LCV	Commercial	Toyota	Hi-Lux		3000										Diesel	Euro VI diesel (Adblue)	2200			
+4x4 Crew Cab	Non-HGV	LCV	Commercial	Mitsubushi	L200		3000										Diesel	Euro VI diesel (Adblue)	2200			
+4x4 Single Cab	Non-HGV	LCV	Commercial	Mitsubushi	L200		3000										Diesel	Euro VI diesel (Adblue)	2200			
+4x4 Single Cab	Non-HGV	LCV	Commercial	Land Rover	Discovery (Commercial)		3000										Diesel	Euro VI diesel (Adblue)	2200			
+Tipper 3.5T	Non-HGV	LCV	Commercial	Iveco	Daily - Tipper		3500										Diesel	Euro VI diesel (Adblue)	2200			
+Tipper 3.5T	Non-HGV	LCV	Commercial	Ford	Transit - Tipper		3500										Diesel	Euro VI diesel (Adblue)	2200			
+Dropside 3.5T Crew Cab	Non-HGV	LCV	Commercial	Ford	Transit 350 L3 Crew Cab - Chassis Cab		3500										Diesel	Euro VI diesel (Adblue)	2200			
+Tipper 3.5T Crew Cab	Non-HGV	LCV	Commercial	Ford	Transit - Tipper Crew Cab		3500										Diesel	Euro VI diesel (Adblue)	2200			
+Dropside 3.5T	Non-HGV	LCV	Commercial	Iveco	Daily		3500										Diesel	Euro VI diesel (Adblue)	2200			
+Small Van	Non-HGV	LCV	Commercial	Mercedes-Benz	Citan		2000										Diesel	Euro VI diesel (Adblue)	1600			
+Tipper 3.5T Crew Cab	Non-HGV	LCV	Commercial	Iveco	Daily - Crew Cab Tipper		3500										Diesel	Euro VI diesel (Adblue)	2200			
+Large Van Utility Spec	Non-HGV	LCV	Commercial	Mercedes-Benz	Sprinter 314		3500										Diesel	Euro V diesel	2200			
+Medium Van	Non-HGV	LCV	Commercial	Volkswagen	Transporter T30		2900										Diesel	Euro VI diesel (Adblue)	2000			
+Small Van	Non-HGV	LCV	Commercial	Citroen	Berlingo		2000										Diesel	Euro VI diesel (Adblue)	1600			
+Small Crew Van	Non-HGV	LCV	Commercial	Citroen	Berlingo - Crew Van		2000										Diesel	Euro VI diesel (Adblue)	1600			
+Small Van	Non-HGV	LCV	Commercial	Fiat	Doblo		2000										Diesel	Euro VI diesel (Adblue)	1600			
+Large Van Utility Spec	Non-HGV	LCV	Commercial	Peugeot	Boxer 335 L3 H2		3500										Diesel	Euro V diesel	2000			
+Vac Ex 26T	HGV	HGV	Commercial	Mercedes-Benz	Actros 2544L 6x2 Vac Ex		26000										Diesel	Euro VI diesel (Adblue)	5000			
+Vac Ex 32T	HGV	HGV	Commercial	Mercedes-Benz	Arocs 3245 Tridom 32T Vac Ex		32000										Diesel	Euro VI diesel (Adblue)	5500			
+Medium Van Crew Cab	Non-HGV	LCV	Commercial	Ford	Custom - Crew Cab		2900										Diesel	Euro VI diesel (Adblue)	2000			
+Minibus	Non-HGV	LCV	Commercial	Ford	Minibus		3500										Diesel	Euro VI diesel (Adblue)	2200			

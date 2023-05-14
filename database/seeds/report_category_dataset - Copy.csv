@@ -1,0 +1,25 @@
+Vehicle Profile,Vehicle Journey,Vehicle Incident,Vehicle Behaviour,Vehicle Defects,Vehicle Checks,Vehicle Planning,User Details,User Journey,User Incident,Driver Behaviour,User Defects,User Checks
+Registration Number,Registration Number,Registration Number,Registration Number,Registration Number,Registration Number,Registration Number,Email,Email,Email,Email,Email,Email
+Type,Type,Type,Type,Type,Type,Type,Created,First Name,First Name,First Name,First Name,First Name
+Category,Category,Category,Category,Category,Category,Category,First Name,Last Name,Last Name,Last Name,Last Name,Last Name
+Sub Category,Sub Category,Sub Category,Sub Category,Sub Category,Sub Category,Sub Category,Last Name,Engineer ID,Engineer ID,Engineer ID,Engineer ID,Engineer ID
+Manufacturer,Vehicle Division,Vehicle Division,Vehicle Division,Vehicle Division,Vehicle Division,Vehicle Division,Engineer ID,Mobile,Mobile,Mobile,Mobile,Mobile
+Model,Vehicle Region,Vehicle Region,Vehicle Region,Vehicle Region,Vehicle Region,Vehicle Region,Mobile,Company,Company,Company,Company,Company
+Fuel Type,Total Journey,Incident Date,Vehicle Overall Score,Defect Date,Last check date,Annual Service,Landline,Division,Division,Division,Division,Division
+Type Of Engine,Journey Start Date,Total Incidents,Vehicle Safety Score,Defect Category,Check type,Compressor Service,Company,Total Journey,Incident Date,Driver Overall Score,Registration Number,Registration Number
+Registration,Journey Start Time,Acceleration,Vehicle Efficiency Score,Defect Name,Email,Invertor Service,Dallas Key,Journey Start Date,Total Incidents,Driver Safety Score,Type,Type
+Vehicle Division,Journey End Date,Braking,Email,Email,First Name,LOLER test,IMEI number,Journey Start Time,Acceleration,Driver Efficiency Score,Category,Category
+Vehicle Region,Journey End Time,Cornering,First Name,First Name,Last Name,Maintenance,Base location,Journey Duration,Braking,Registration Number,Sub Category,Sub Category
+Chassis Number,Journey Duration,Speeding,Last Name,Last Name,Engineer ID,MOT,Division,Journey Distance,Cornering,Type,Vehicle Division,Vehicle Division
+Contract ID,Journey Distance,RPM,Engineer ID,Engineer ID,Mobile,PMI,Registration Number,Journey Fuel Consumption,Speeding,Category,Vehicle Region,Vehicle Region
+Email,Journey Fuel Consumption,Idle ,Mobile,Mobile,Company,PTO Service,Type,Journey CO2,RPM,Sub Category,Defect Date,Last check date
+First Name,Journey CO2,Idle Time,Company,Company,Division,Service,Category,Registration Number,Idle ,Vehicle Division,Defect Category,Check type
+Last Name,Email,Email,Division,Division,,Tacho Service,Sub Category,Type,Idle Time,Vehicle Region,Defect Name,
+Engineer ID,First Name,First Name,,,,Tax,Vehicle Division,Category,Registration Number,,,
+Mobile,Last Name,Last Name,,,,Email,Vehicle Region,Sub Category,Type,,,
+Company,Engineer ID,Engineer ID,,,,First Name,,Vehicle Division,Category,,,
+Division,Mobile,Mobile,,,,Last Name,,Vehicle Region,Sub Category,,,
+,Company,Company,,,,Engineer ID,,,Vehicle Division,,,
+,Division,Division,,,,Mobile,,,Vehicle Region,,,
+,,,,,,Company,,,,,,
+,,,,,,Division,,,,,,

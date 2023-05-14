@@ -1,0 +1,55 @@
+LT60POH	HGV	Roadworthy	Commercial	745	01/09/2010	IS Street Lighting Merrow	Merrow		30/09/2020	31/08/2020		13/01/2020	13/04/2020		
+LO65YDP	LCV	Roadworthy	Commercial	10662	15/01/2016	IS Street Lighting Merrow	Merrow		24/01/2021	31/12/2020					
+LO65YFF	LCV	Roadworthy	Commercial		15/01/2016	IS Street Lighting Merrow	Merrow		27/01/2021	31/12/2020					
+LO65YFL	LCV	Roadworthy	Commercial	3590	15/01/2016	IS Street Lighting Merrow	Merrow		20/01/2021	31/12/2020					
+LO65YEV	LCV	Roadworthy	Commercial	9036	15/01/2016	IS Street Lighting Merrow	Merrow		31/01/2021	31/12/2020					
+LO65YFM	LCV	Roadworthy	Commercial		19/02/2016	IS Street Lighting Gloucester	Gloucester		11/02/2021	28/02/2021	11/02/2021	11/08/2020			
+HX16OFK	HGV	Roadworthy	Commercial	1066	25/07/2016	IS Street Lighting Merrow	Merrow		31/05/2020	31/07/2020		27/01/2017	27/01/2017		
+HX16OFN	HGV	Roadworthy	Commercial	7888	25/07/2016	IS Street Lighting Gloucester	Gloucester		30/05/2020	31/07/2020	30/05/2020	22/05/2020	25/05/2020		
+NV16CYF	HGV	Roadworthy	Commercial	6220	11/07/2016	IS Street Lighting South Croydon	South Croydon		31/05/2020	30/06/2020		06/03/2017	06/03/2017		
+NV16CYG	HGV	Roadworthy	Commercial	4611	13/07/2016	IS Street Lighting Merrow	Merrow		31/10/2020	30/06/2020		06/03/2017	06/03/2017		
+NV16CYJ	HGV	Roadworthy	Commercial	1242	20/07/2016	IS Street Lighting Merrow	Merrow		30/06/2020	30/06/2020		06/03/2017	06/03/2017		
+NV16CYK	HGV	Roadworthy	Commercial	1396	20/07/2016	IS Street Lighting Merrow	Merrow		30/06/2020	30/06/2020		06/03/2017	06/03/2017		
+NV16CYL	HGV	Roadworthy	Commercial	224	20/07/2016	IS Street Lighting Merrow	Merrow		30/06/2020	30/06/2020		06/03/2017	06/03/2017		
+NV16CYO	HGV	Roadworthy	Commercial	1190	22/07/2016	IS Street Lighting Merrow	Merrow		31/07/2020	30/06/2020		06/03/2017	06/03/2017		
+LR66ENW	LCV	Roadworthy	Commercial	2922	21/10/2016	IS Street Lighting Merrow	Merrow		22/10/2020	30/09/2020					
+EA16NKU	LCV	Roadworthy	Commercial	441	03/08/2016	IS Street Lighting Merrow	Merrow		19/06/2020	31/07/2020		20/04/2017	20/04/2017		
+EN65MWJ	LCV	Roadworthy	Commercial	3355	31/12/2015	IS Street Lighting Merrow	Merrow		30/10/2020	31/12/2020		31/03/2018			
+CP67HYY	LCV	Roadworthy	Commercial	4120	19/01/2018	IS Street Lighting Redbridge	Redbridge		18/01/2021	31/12/2020					
+WN18OAL	LCV	Roadworthy	Commercial	2768	18/04/2018	IS Street Lighting Redbridge	Redbridge		17/04/2021	31/03/2020					
+OE18HLG	LCV	Roadworthy	Commercial	12183	29/06/2018	IS Street Lighting Merrow	Merrow		28/06/2021	31/05/2020					
+HY19EJU	HGV	Roadworthy	Commercial	9036	06/03/2019	IS Street Lighting Merrow	Merrow		06/03/2022	28/02/2021					
+HF19MUE	HGV	Roadworthy	Commercial	1997	09/07/2019	IS Street Lighting South Croydon	South Croydon		09/07/2022	30/06/2020					
+GL69LCG	LCV	Roadworthy	Commercial	745	15/01/2020	IS Street Lighting Merrow	Merrow		14/01/2023	31/12/2020					
+KX65KJV	HGV	Roadworthy	Commercial		01/09/2015	IS Street Lighting Merrow	Merrow		02/09/2020	31/08/2020					
+HX64RYV	HGV	Roadworthy	Commercial	8832	15/09/2014	IS Street Lighting South Croydon	South Croydon		31/07/2020	31/08/2020					
+LR65YXS	LCV	Roadworthy	Commercial	1949	12/01/2016	IS Street Lighting Merrow	Merrow		12/04/2020	31/12/2020		30/08/2019			
+LO65YCZ	LCV	Roadworthy	Commercial	2014	15/01/2016	IS Street Lighting Merrow	Merrow		14/01/2021	31/12/2020					
+HX16OFM	HGV	Roadworthy	Commercial		25/07/2016	IS Street Lighting Gloucester	Gloucester		10/06/2020	31/07/2020	07/06/2020	05/06/2020	09/06/2020		
+HX16OFL	HGV	Roadworthy	Commercial		25/07/2016	IS Street Lighting Gloucester	Gloucester		23/06/2020	31/07/2020	26/04/2020	03/06/2020	03/09/2020		
+NV16CYA	HGV	Roadworthy	Commercial	520	11/07/2016	IS Street Lighting Merrow	Merrow		30/06/2020	30/06/2020		06/03/2017	06/03/2017		
+NV16CYC	HGV	Roadworthy	Commercial	864	18/07/2016	IS Street Lighting Merrow	Merrow		30/06/2020	30/06/2020		06/03/2017	06/03/2017		
+NV16CYE	HGV	Roadworthy	Commercial	4675	11/07/2016	IS Street Lighting South Croydon	South Croydon		31/05/2020	30/06/2020		06/03/2017	06/03/2017		
+NV16CYH	HGV	Roadworthy	Commercial	1989	13/07/2016	IS Street Lighting South Croydon	South Croydon		30/06/2020	30/06/2020		06/03/2017	06/03/2017		
+HY66BJE	HGV	Roadworthy	Commercial		12/09/2016	IS Street Lighting Gloucester	Gloucester		09/08/2020	30/09/2020	08/08/2020	19/05/2020	10/08/2020		
+GX66WDL	LCV	Roadworthy	Commercial		06/09/2016	IS Street Lighting Gloucester	Gloucester		08/09/2020	31/08/2020	10/09/2020	10/03/2020	08/09/2020		
+HX66OAH	HGV	Roadworthy	Commercial		07/12/2016	IS Street Lighting Gloucester	Gloucester		16/12/2020	30/11/2020	03/12/2020	03/06/2020	09/12/2020		
+LS66LGN	LCV	Roadworthy	Commercial	10778	15/12/2016	IS Street Lighting Gloucester	Gloucester		12/01/2021	30/11/2020					
+RV17HDJ	LCV	Roadworthy	Commercial	1432	16/03/2017	IS Street Lighting Merrow	Merrow		15/03/2021	28/02/2021					
+HY64BXZ	HGV	Roadworthy	Commercial	1066	07/10/2014	IS Street Lighting Merrow	Merrow		09/12/2020	30/09/2020					
+LO67NHL	LCV	Roadworthy	Commercial	1044	20/02/2018	IS Street Lighting Merrow	Merrow		19/02/2021	28/02/2021					
+LO67NGF	LCV	Roadworthy	Commercial	7667	21/02/2018	IS Street Lighting South Croydon	South Croydon		20/02/2021	28/02/2021					
+LO67NDY	LCV	Roadworthy	Commercial	7668	21/02/2018	IS Street Lighting South Croydon	South Croydon		20/02/2021	28/02/2021					
+WN18NZZ	LCV	Roadworthy	Commercial	5655	18/04/2018	IS Street Lighting Redbridge	Redbridge		17/04/2021	31/03/2020					
+LC18UFE	LCV	Roadworthy	Commercial	3101	16/08/2018	IS Street Lighting Merrow	Merrow		15/08/2021	31/08/2020					
+HY19EBL	HGV	Roadworthy	Commercial	745	06/05/2019	IS Street Lighting Merrow	Merrow		05/05/2020	30/04/2020					
+OY19GDV	LCV	Roadworthy	Commercial	12182	31/03/2019	IS Street Lighting Merrow	Merrow		30/03/2022	28/02/2021					
+ML69CZN	LCV	Roadworthy	Commercial	6894	24/09/2019	IS Street Lighting Redbridge	Redbridge		24/09/2022	30/09/2020					
+MD68DWK	LCV	Roadworthy	Commercial	7372	31/12/2018	IS Street Lighting South Croydon	South Croydon		30/11/2021	30/11/2020					
+HW69KKP	LCV	Roadworthy	Commercial	7375	15/11/2019	IS Street Lighting Merrow	Merrow		14/11/2022	31/10/2020					
+YL66TTU	HGV	Roadworthy	Commercial		01/02/2017	IS Street Lighting Gloucester	Gloucester		31/01/2021	31/01/2021		06/07/2020	30/04/2020		
+YS69TZC	LCV	Roadworthy	Commercial	11017	21/01/2020	IS Street Lighting Merrow	Merrow		20/01/2023	31/12/2020					
+GL69LBV	LCV	Roadworthy	Commercial	471	15/01/2020	IS Street Lighting Merrow	Merrow		14/01/2023	31/12/2020					
+BD16ZRF	HGV	Roadworthy	Commercial	1066	28/04/2016	IS Street Lighting Merrow	Merrow		31/05/2020	30/04/2020					
+MT69WWN	LCV	Roadworthy	Commercial	8832	31/10/2019	IS Street Lighting South Croydon	South Croydon		01/10/2022	28/02/2021					
+WO18PHZ	LCV	Roadworthy	Commercial		06/07/2018	IS Street Lighting Merrow	Merrow		05/07/2021	30/06/2020					

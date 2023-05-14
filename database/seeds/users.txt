@@ -1,0 +1,1429 @@
+aadam.sarwar@lanesgroup.com	Aadam	Sarwar	20160302	353414075539417	No
+aaron.dineley@lanesgroup.com	Aaron	Dineley	20151208	354607078365925	No
+aaron.loggin@lanesgroup.com	Aaron	Loggin	20160225	353749064807626	No
+aaron.magee@lanesgroup.com	Aaron	Magee	20160219	356100061634927|356100061632616	No
+aaron.manning@lanesgroup.com	Aaron	Manning	20160223	353749064818649	No
+aaron.reeves@lanesgroup.com	Aaron	Reeves	20160208	359877069338547|359877069338661|359877069338604	No
+aaron.toop@lanesgroup.com	Aaron	Toop	20160222	355829059322050|357800059128902|355994051452238|352376056785247|359544054135409|359778043918604|356100061633630|352376051755633|355829056076402|359435054863860|352836064005474|356100061630057	No
+aaron.waller@lanesgroup.com	Aaron	Waller (Fieldviewer)	20160303	357255063248941|354201072947613	No
+aaron.whitehouse@lanesgroup.com	Aaron	Whitehouse	0		No
+aaron.wood@lanesgroup.com	Aaron	Wood	20160303	357011070421017	No
+abby.erandkar@lanesgroup.com	Abby	Erandkar	20160302		No
+abdourahman.njie@lanesgroup.com	Abdourahman	Njie	20160302	354607078155540	No
+abilio.frechauth@lanesgroup.com	Abilio	Frechauth	20150731	353749064818573	No
+adam.brown@lanesgroup.com	Adam	Brown	20150811		No
+adam.cadmore@lanesgroup.com	Adam	Cadmore	20160302	354245050340457|359544058280367|359150060326436	No
+adam.kibala@lanesgroup.com	Adam	Kibala	20151202	354607078155227	No
+adam.king@lanesgroup.com	Adam	King	20151126	352168065739434	No
+adam.kittappa@lanesgroup.com	Adam	Kittappa	20160222	353749064808020	No
+adam.lane@lanesgroup.com	Adam	Lane	0		No
+adam.smith@lanesgroup.com	Adam	Smith	20151112	356100061633333	No
+adam.wade@lanesgroup.com	Adam	Wade	20160226	356100061629992	No
+adam.worth@lanesgroup.com	Adam	Worth	20160224	354607078379074	No
+adem.koleci@lanesgroup.com	Adem	Koleci (CBJV)	20160223	352605051171015|357255063248636|352215063533929|357255064831687	No
+administrator@lanesgroup.com	Admin	istrator	20160303		No
+adrian.dolenschi@lanesgroup.com	Adrian	Dolenschi	20160125	353749064807196	No
+adrian.mythen@lanesgroup.com	Adrian	Mythen (CB)	20160229	354201075615175	No
+adrian.parker@lanesgroup.com	Adrian	Parker (NRW)	20160302	353749064810281	No
+aecor.digital@lanesgroup.com	aecor	digital	20160224	353295060969549	No
+afrim.morina@lanesgroup.com	Afrim	Morina	20160205	354201075615928	No
+ahan.edwards@lanesgroup.com	Ahan	Edwards	20160127	355922070850561	No
+aime.cottee@lanesgroup.com	Aime	Cottee	20160229		No
+aj.taylor@lanesgroup.com	AJ	Taylor	20160303	353514061631332|359937069031128|353749064811438|357749069209857	No
+alan.cross@lanesgroup.com	Alan	Cross	20140902	357800057676845	No
+alan.fairbairn@lanesgroup.com	Alan	Fairbairn	20160303	356633054549025|359150060260171|352168065739301|352376051572186	Yes
+alan.fenton@lanesgroup.com	Alan	Fenton	20151209	356100061632772|356100061632780|355829052470997|358307051717178	No
+alan.gibbs@lanesgroup.com	Alan	Gibbs	20160302	353609078622694	No
+alan.heath@lanesgroup.com	Alan	Heath	20160115	358188057991466|356100060445150|356633054318280	No
+alan.kitt@lanesgroup.com	Alan	Kitt	0		No
+alan.longstaff@lanesgroup.com	Alan	Longstaff	20160301	352376051749438|359021040400676|355994056533479|359435053723925|353749064808004|352168065738139	No
+alan.mustill@lanesgroup.com	Alan	Mustill	20160216	357011070519349	No
+alan.nicolau@lanesgroup.com	Alan	Nicolau	20160303	357011070374018|359937060850831	No
+alan.pfleger@lanesgroup.com	Alan	Pfleger	20160303	352168065740853|356100060620604	No
+alan.sears@lanesgroup.com	Alan	Sears	20160223	352376051585436|353163053099031|358187050599888|355172056707530	No
+alan.winnett@lanesgroup.com	Alan	Winnett	20150721	359660061486096	No
+alex.clark@lanesgroup.com	Alex	Clark	20160223	356100061637250	No
+alex.everill@lanesgroup.com	Alex	Everill	20160212	354899068957577|354899068957783	No
+alex.hendrie@lanesgroup.com	Alex	Hendrie	20160303	356100061637334	No
+alex.higgs@lanesgroup.com	Alex	Higgs	20160301	353609078561637	No
+alex.main@lanesgroup.com	Alex	Main	20151003	359660061486237	No
+alex.trendall@lanesgroup.com	Alex	Trendall	20160302		No
+alex.watkins@lanesgroup.com	Alex	Watkins (CB)	20150615		No
+alexander.honess@lanesgroup.com	Alexander	Honess	20160303	352836062702957|359642054505918|354886066807706|356100060620737	No
+alexandru.fintinariu@lanesgroup.com	Alexandru	Fintinariu (CB)	20160303	357255062642763	No
+alexandru.muntean@lanesgroup.com	Alexandru	Muntean	20160303	356100061338057|355172056789298|353749065502416|356100061636526|359845060442428	No
+alexandru.victor.vasile@lanesgroup.com	Alexandru	Victor Vasile	20160303	356100061632970|354915058590978|358188058177008	No
+alfie.bedford@lanesgroup.com	Alfie	Bedford	20160303		No
+alfred.ball@lanesgroup.com	Alfred	Ball	20160225	355922070797143	No
+alfred.bera@lanesgroup.com	Alfred	Bera	20150902		No
+ali.ahmed@lanesgroup.com	Ali	Ahmed	20160302		No
+alice.kelman@lanesgroup.com	Alice	Kelman	0		No
+alicia.mountain@lanesgroup.com	Alicia	Mountain	20150225		No
+allan.heath@lanesgroup.com	Allan	Heath	20160219	357011070399569	No
+altin.berisha@lanesgroup.com	Altin	Berisha (CB)	20150910	358307056842799	No
+ambar.akhtar@lanesgroup.com	Ambar	Akhtar	20160217	359845051552482	No
+amran.latif@lanesgroup.com	Amran	Latif	20160303	356100061633705|359919059535839	No
+ananth.samay@lanesgroup.com	Ananth	Samay	20160226	352558062880571	No
+andreea.beizadea@lanesgroup.com	andreea	beizadea	20151123		No
+andrei.crihana@lanesgroup.com	Andrei	Crihana	20160226	359877069492120	No
+andrei.dumitrescu@lanesgroup.com	Andrei	Dumitrescu	20160211	358904055585468|353719056766718|356096058208891	No
+andrew.cherrett@lanesgroup.com	Andrew	Cherrett (CB)	20150420		No
+andrew.courtney@lanesgroup.com	Andrew	Courtney (CBJV)	20160301	351666065751896|352944052452938	No
+andrew.gittings@lanesgroup.com	Andrew	Gittings	20150616	359660061486088	No
+andrew.maccuish@lanesgroup.com	Andrew	MacCuish	20160303	354607078154816	Yes
+andrew.moore@lanesgroup.com	Andrew	Moore	20160217	359642053234148|352376051570404|354915058588774|352605055384986	No
+andrew.reetun@lanesgroup.com	Andrew	Reetun	20160302		No
+andrew.stuka@lanesgroup.com	Andrew	Stuka	20160303		No
+andrew.taylor@lanesgroup.com	Andrew	Taylor	20160202	356100061634430|359435057074622	No
+andrew.wallace@lanesgroup.com	Andrew	Wallace	20160301	352836064005458	No
+andrew.whelan@lanesgroup.com	Andrew	Whelan	20150711	356100061337661|359845060322257|356765066007707	No
+andy.brierley@lanesgroup.com	Andy	Brierley	20131225		Yes
+andy.candon@lanesgroup.com	Andy	Candon	20160213	356100061630024|359435051505464|355829059322928|352376051750337|359877069337176|357749065938095|355922070863408|356100060621347|352376056785700|357749067538885	No
+andy.catton@lanesgroup.com	Andy	Catton	20150909	355583069002570	No
+andy.farrel@lanesgroup.com	Andy	Farrel	20160217	351886068808184	No
+andy.farrell@lanesgroup.com	Andy	Farrell	0		No
+andy.gitting@lanesgroup.com	Andy	Gitting	20150717	359660061486021	No
+andy.heath@lanesgroup.com	Andy	Heath	20160127		No
+andy.hill@lanesgroup.com	Andy	Hill	20160126	353609078642189|352148079249760	No
+andy.howard@lanesgroup.com	Andy	Howard	20151030	355449059944538|359642057663151|359642053365223|355829059322316	No
+andy.hutch@lanesgroup.com	andy	hutch	20151230		No
+ann.silence@lanesgroup.com	Ann	Silence	20141217		No
+anna.filipowicz@lanesgroup.com	Anna	Filipowicz	20160303	359845060292492	No
+ant.jackson@lanesgroup.com	Ant	Jackson (Grisedale)	20150421	355583068994546	No
+anthony.henson@lanesgroup.com	Anthony	Henson	0		No
+anthony.sinkins@lanesgroup.com	Anthony	Sinkins	20150916	356633050254059|356100061633150|357378050140317	No
+anton.fogarty@lanesgroup.com	Anton	Fogarty	20150422		No
+antonio.verrillo@lanesgroup.com	Antonio	Verrillo	20160303	352168065739954	No
+antony.schelts@lanesgroup.com	Antony	Schelts	20160114		No
+antony.sinkinsjnr@lanesgroup.com	Antony	Sinkinsjnr	20160303	359877069360582	No
+aqib.khan@lanesgroup.com	Aqib	Khan	20160226		No
+arjan.bera@lanesgroup.com	Arjan	Bera (CB)	20160303	359919055844607	No
+arkadiusz.paczuski@lanesgroup.com	Arkadiusz	Paczuski	20160119	356100061637219	No
+arpad.ludanyi@lanesgroup.com	Arpad	Ludanyi	20160226	355922070790312	No
+arron.morrison@lanesgroup.com	Arron	Morrison	20150706	359845060385007	No
+arron.waller@lanesgroup.com	Arron	Waller (CBJV)	20150921		No
+arthur.king@lanesgroup.com	Arthur	King (CB)	20160302	357255064831992	No
+arturos.matuiza@lanesgroup.com	Arturos	Matuiza	20160226	358044058184298	No
+ashley.crook@lanesgroup.com	Ashley	Crook	20160301	355829056077327	No
+ashley.fisher@lanesgroup.com	Ashley	Fisher	20151016	359845060402596	No
+ashley.haskell@lanesgroup.com	Ashley	Haskell	20160302	354899068957882	No
+ashok.gurung@lanesgroup.com	Ashok	Gurung	20160302	353749065077864|359150060254711	No
+asset.register@lanesgroup.com	Asset	Register	20160201	356100061337661	No
+ateel.aslam@lanesgroup.com	Ateel	Aslam	20160303		No
+attilla.sinko@lanesgroup.com	Attilla	Sinko	20160303	357255064678047|354912058145374|352605059367771	No
+austin.mcnamara@lanesgroup.com	Austin	McNamara	20151002	356035059828174	No
+azeem.bashir@lanesgroup.com	Azeem	Bashir	20150910	359877069337176	No
+back.up@lanesgroup.com	back	up	20130604		No
+bailey.wallis@lanesgroup.com	Bailey	Wallis	20160220	357011070375569	No
+barry.lawrence@lanesgroup.com	Barry	Lawrence	0		No
+ben.allard@lanesgroup.com	Ben	Allard  (Drain Line)	0		No
+ben.angus@lanesgroup.com	Ben	Angus	20160303	352168065738915	Yes
+ben.cattermole@lanesgroup.com	Ben	Cattermole	20160225		No
+ben.draycott@lanesgroup.com	Ben	Draycott	20160302	353414075539441	No
+ben.ferrell@lanesgroup.com	Ben	Ferrell (FM Conway)	20160225	359519063737809	No
+ben.jarman@lanesgroup.com	Ben	Jarman	20150806	359150060298940	No
+ben.lancaster@lanesgroup.com	Ben	Lancaster	20160218		No
+ben.lees@lanesgroup.com	Ben	Lees	20160226	354899068957700	No
+ben.long@lanesgroup.com	Ben	Long (Sewer Bat)	20160229	359845060439218	No
+ben.sarkis@lanesgroup.com	Ben	Sarkis (CB)	20151202		No
+ben.smith@lanesgroup.com	Ben	Smith	20150306	357800057676852	No
+ben.stremton@lanesgroup.com	Ben	Stremton	20160302	356100061633135	No
+ben.walker@lanesgroup.com	Ben	Walker (Drain Line)	20160222	355589061501295	No
+bertram.george@lanesgroup.com	Bertram	George	20151012	356100061337174	No
+besmir.kodra@lanesgroup.com	Besmir	Kodra (CB)	20160219	354201071390666	No
+beverley.simpson@lanesgroup.com	Beverley	Simpson	20160301		No
+bilal.hussain@lanesgroup.com	Bilal	Hussain	20151130		No
+bilal.ikram@lanesgroup.com	Bilal	Ikram	20160224	353749064818425	No
+bill.gill@lanesgroup.com	Bill	Gill (CBJV)	20160208		No
+bill.lavan@lanesgroup.com	Bill	Lavan (CB)	20160302	355847054588202|351718070478666|356768067426462	No
+billy.maclean@lanesgroup.com	Billy	MacLean	20151122	356100061632780|359435054859637|352836063532106|352836064002216|357558062170507|359877069334652|356100061628838	No
+billy.smith@lanesgroup.com	Billy	Smith	20151223	354607078365859	No
+blaine.wood@lanesgroup.com	Blaine	Wood	0		No
+bleader.brahimi@lanesgroup.com	Bleader	Brahimi (JB)	20160209		No
+bogdan.braniste@lanesgroup.com	Bogdan	Braniste (CB)	20160303	354201073775310	No
+bogdan.ignat@lanesgroup.com	Bogdan	Ignat	20160303	353609078651875	No
+bogomil.rashkov@lanesgroup.com	Bogomil	Rashkov	20160223		No
+bp.mckeefry1@lanesgroup.com	BP	McKeefry1	20151112	354400053612325	No
+bp.mckeefry2@lanesgroup.com	BP	Mckeefry2	20150909	352745061161422	No
+bp.mckeefry3@lanesgroup.com	BP	McKeefry3	20150909	357800057675235	No
+bp.mckeefry4@lanesgroup.com	BP	McKeefry4	20150909	352168065739681	No
+bradleigh.price@lanesgroup.com	Bradleigh	Price	20160225	357011070388356	No
+bradley.harvey@lanesgroup.com	Bradley	Harvey (Cleansafe)	20160226	357197057441357	No
+bradley.pearman@lanesgroup.com	Bradley	Pearman	20151024	359845060456196	No
+bradley.wakelam@lanesgroup.com	Bradley	Wakelam	20160228	359660061486112	No
+brandon.clenshaw@lanesgroup.com	Brandon	Clenshaw	20160302	354607078104332	No
+brent.wright@lanesgroup.com	Brent	Wright (Drain Line)	20150330	352745064037157	No
+brian.johnson@lanesgroup.com	Brian	Johnson	20160303	359435051496532|359435051505605	No
+brian.quinn@lanesgroup.com	Brian	Quinn	20151021	353609078641884	No
+brian.rooney@lanesgroup.com	Brian	Rooney (CBJV)	20160303	359919058511955|354912058679315	No
+bruno.catalao@lanesgroup.com	Bruno	Catalao	20160302	353749064807410	No
+bruno.pascoa@lanesgroup.com	Bruno	Pascoa	20160302	352168065738808|353749064808137	No
+byron.waughman@lanesgroup.com	Byron	Waughman (Fm Conway)	20151006	352735065725769	No
+callum.fowler@lanesgroup.com	Callum	Fowler	20160302	359845060400814	No
+callum.young@lanesgroup.com	Callum	Young	20151202		No
+calvin.may@lanesgroup.com	Calvin	May	20160302	352168065738402|352168065736752|359877069343752	No
+cameron.mccracken@lanesgroup.com	Cameron	McCracken	20160213	355922070850504	No
+carl.burnham@lanesgroup.com	Carl	Burnham	20151221	357800057676498|359845060298374	No
+carl.thompson@lanesgroup.com	Carl	Thompson	20151125	353609078641983	No
+carlton.bernard@lanesgroup.com	Carlton	Bernard	20160228	359150060337177|359150060291093	No
+carole.gallo@lanesgroup.com	Carole	Gallo	20160302	352836065267289|359845060394686|359544054141381	No
+caroline.addersman@lanesgroup.com	Caroline	Addersman	20160229		No
+caroline.yost@lanesgroup.com	Caroline	Yost	20151123		No
+casey.may@lanesgroup.com	Casey	May	20160303	356100060620695|359921056324522|359877069492096|359544058195219|352376051750097|354784058885725|352745061161174|359845060362444	Yes
+cassie.belcher@lanesgroup.com	Cassie	Belcher	20160302	352168065737669|355960060665342	No
+catia.santos@lanesgroup.com	Catia	Santos	20160301		No
+centralnorthplanning@lanesgroup.com	CentralNorth	Planning	20160303	357460064308328|356844052444578|358188052387850	No
+centralsouthplanning@lanesgroup.com	CentralSouth	Planning	20160302		No
+chandni.dalal@lanesgroup.com	Chandni	Dalal	20160302		No
+charles.drayton@lanesgroup.com	Charles	Drayton	20160223	356843053231398|359877069336947|353328053519391|359435054858670	No
+charles.page@lanesgroup.com	Charles	Page	20151102	359845060432494	No
+charles.slade@lanesgroup.com	Charles	Slade	20160121	355922071075440	No
+charlie.bedworth@lanesgroup.com	Charlie	Bedworth	20160224	357011070375551	No
+charlie.bristow@lanesgroup.com	Charlie	Bristow	20160203	359877069336962	No
+charlie.price@lanesgroup.com	Charlie	Price	20160302	357011070388356|356100061628861	No
+charlie.webb@lanesgroup.com	Charlie	Webb (Flexi)	20160303	359919056479023|354793054745536	No
+charlotte.prom@lanesgroup.com	Charlotte	Prom	20160212	353749064815124	No
+charlotte.reed@lanesgroup.com	Charlotte	Reed	20160303		Yes
+cheraine.hagan@lanesgroup.com	Cheraine	Hagan	20160303	353749064810364	No
+cheryl.cadmore@lanesgroup.com	Cheryl	Cadmore	20160302		No
+chester.crew@lanesgroup.com	Chester	Crew	20151117	359845060286908	No
+chilton.jenkins@lanesgroup.com	Chilton	Jenkins (Grisedale)	20150615	353686062557631	No
+chris.booker@lanesgroup.com	Chris	Booker	20160303	352745060828799|355922070850678|359845060869521|358904057462971|352168065738766	No
+chris.coston@lanesgroup.com	Chris	Costin	20160229	353749064807998	No
+chris.fowler@lanesgroup.com	Chris	Flower	20160229	354899068957924	No
+chris.frankin@lanesgroup.com	Chris	Frankin (CBJV)	20151110	352944052490730|357264060225225	No
+chris.gartside@lanesgroup.com	Chris	Gartside (Aecor)	20160123	353414075540035	No
+chris.greenough@lanesgroup.com	Chris	Greenough	20160301		No
+chris.houston@lanesgroup.com	Chris	Houston	0		No
+chris.mansfield@lanesgroup.com	Chris	Mansfield	20160229	357800057676076	No
+chris.mcevilly@lanesgroup.com	Chris	McEvilly	20160223	353749069248883|359150060336906	No
+chris.parks@lanesgroup.com	Chris	Parks (CB)	20160218		No
+chris.patmore@lanesgroup.com	Chris	Patmore	20160302		No
+chris.pedigrew@lanesgroup.com	Chris	Pedigrew (Grisedale)	20160302	355583068948740	No
+chris.saunders@lanesgroup.com	Chris	Saunders (Drain Line)	20150827	352745064036167	No
+chris.shelton@lanesgroup.com	CHRIS	SHELTON	20160303	356633052747696|352376051572137	No
+chris.wood@lanesgroup.com	Chris	Wood	20160221	351869050507295|356100061636674|357378056864258|355829056079752|359845060432668	No
+christian.duvalma@lanesgroup.com	Christian	Duvalma	20160207	352376051588323|359642053241036|352168065739194	No
+christine.akello@lanesgroup.com	Christine	Akello	20160302	353974070511943	No
+christopher.bristow@lanesgroup.com	Christopher	Bristow	20160226	353749064812527	No
+christopher.brooks@lanesgroup.com	Christopher	Brooks	20151229	354607078361627	No
+christopher.calisse@lanesgroup.com	Christopher	Calisse	20160219	353414075542254	No
+christopher.ellis@lanesgroup.com	Christopher	Ellis	20160226	353609078642007	No
+christopher.ford@lanesgroup.com	Christopher	Ford	20151124	354953053336295|359642053340408|354245050950602|353749064807642|359435054858878	No
+christopher.major@lanesgroup.com	Christopher	Major	20160302	359845060274813	Yes
+christopher.patmore@lanesgroup.com	Christopher	Patmore	0		No
+christopher.plank@lanesgroup.com	Christopher	Plank	20160303	359435057074861	No
+christopher.rees@lanesgroup.com	Christopher	Rees	20160218	353749064809994|359845061039298	No
+christopher.steptoe@lanesgroup.com	Christopher	Steptoe	20160303	359544058279997|352376051573796	No
+christopher.toms@lanesgroup.com	Christopher	Toms	20160223	357011070373861	No
+chrome.test1@lanesgroup.com	Chrome	Test1	20150806		No
+chrome.test2@lanesgroup.com	Chrome	Test2	20150806		No
+cindy.lewis@lanesgroup.com	Cindy	Lewis	20160302	354793052921493	No
+ciprian.kovasc@lanesgroup.com	Ciprian	Kovasc	20160221	353749060075772|355922071074971	No
+claire.fraser@lanesgroup.com	Claire	Fraser	20160302		No
+claire.webster@lanesgroup.com	Claire	Webster	20160223	357460064308328	No
+clive.francis@lanesgroup.com	Clive	Francis	20160303	356100061627947	No
+clive.gaylor@lanesgroup.com	Clive	Gaylor	20151119	354899068957965|351666060880971|359660061486138	No
+clive.ormerod@lanesgroup.com	Clive	Ormerod	20151116		No
+cn.holidayrequest@lanesgroup.com	Central North	Holiday Request	20160222		No
+colin.buckland@lanesgroup.com	Colin	Buckland	20151113		No
+colin.clarke@lanesgroup.com	Colin	Clarke (CBJV)	20160303	357255063248982	No
+colin.hewitt@lanesgroup.com	COLIN	HEWITT	20160106	355829056077251|353687061360159	No
+colin.ohara@lanesgroup.com	Colin	Ohara (CB)	20160303	357255063248966|352960065879891	No
+colin.parker@lanesgroup.com	Colin	Parker (Winton Projects)	20150923		No
+colin.robertson@lanesgroup.com	Colin	Robertson	20160224	359660061486039|359353062499132	No
+colin.seabrook@lanesgroup.com	Colin	Seabrook (CBJV)	20160303	358307055187477|352374050451403|358044058185360|352605054853361	No
+colin.wren@lanesgroup.com	Colin	Wren	20160228	356100061633176	No
+colman.flaherty@lanesgroup.com	Colman	Flaherty (fieldviewer)	20151013	357255063248693	No
+connor.fitzpatrick@lanesgroup.com	Connor	Fitzpatrick	20160209	356100061634422|356100061636930|356100061634984	No
+connor.rush@lanesgroup.com	Connor	Rush	20160301	356100061633341	No
+connor.whitford@lanesgroup.com	Connor	Whitford	20160217	354607078365925	No
+conor.peck@lanesgroup.com	Conor	Peck	20160225	357011070519497	No
+conrad.ashby2@lanesgroup.com	Conrad	Ashby2	20160215		No
+conrad.ashby@lanesgroup.com	Conrad	Ashby	20160303		Yes
+constain.zamfirache@lanesgroup.com	Constain	Zamfirache	20160226	354607078305467	No
+cosmin.moga@lanesgroup.com	Cosmin	Moga	20151109	359150060244506	No
+costel.botezatu@lanesgroup.com	Costel	Botezatu	20160227	358307056680959|356100061634778|356100061337448	No
+craig.hindley@lanesgroup.com	Craig	Hindley	20160303	354912056175613|354201073775674|352735062328864	No
+craig.hogden@lanesgroup.com	Craig	Hogden (Grisedale)	20150930	355583069003941	No
+craig.may@lanesgroup.com	Craig	May	20160303	359544058279856|356100061637151|357378056864456|359845060449506|359150060331436|359150060326469	Yes
+craig.morgan@lanesgroup.com	Craig	Morgan	20160223	356100061633630	No
+craig.murray@lanesgroup.com	Craig	Murray	20160221	355922070851205	No
+craig.nicholson@lanesgroup.com	Craig	Craig	20160303	354607078379256	No
+craig.richards@lanesgroup.com	Craig	Richards	20150526	359660061486120	No
+craig.smith@lanesgroup.com	Craig	Smith (HGV)	20160218	353609078760635	No
+craig.stanley@lanesgroup.com	Craig	Stanley	20160226	359150060254679	No
+craig.willcock@lanesgroup.com	Craig	Willcock	0		No
+crew1wgilder@lanesgroup.com	Crew 1	WGilder	0		No
+crew2wgilder@lanesgroup.com	Crew 2	WGilder	0		No
+crew3wgilder@lanesgroup.com	Crew 3	WGilder	0		No
+crew4wgilder@lanesgroup.com	Crew 4	WGilder	0		No
+crew5wgilder@lanesgroup.com	Crew 5	WGilder	0		No
+cristian.padure@lanesgroup.com	Cristian	Padure	20160201	357011070519356	No
+curtis.anderson@lanesgroup.com	Curtis	Anderson	20160226	359877069361630|355922071075663	No
+daisy.whitby@lanesgroup.com	Daisy	Whitby	20160229	353609078840999	No
+dale.collier@lanesgroup.com	Dale	Collier	20160224	353414075539425	No
+dale.thomas@lanesgroup.com	Dale	Thomas	20160217	356100061633242	No
+damian.panton@lanesgroup.com	Damian	Panton	0		No
+damien.jones@lanesgroup.com	Damien	Jones	20160217	357011070519695	No
+damien.molloy@lanesgroup.com	Damien	Molloy (CBJV)	20151020		No
+damien.murray@lanesgroup.com	Damien	Murray (CB)	20160205	352215063532244	No
+damion.panton@lanesgroup.com	Damion	Panton	20160226	356219066447091|355922070850660	No
+damon.moore@lanesgroup.com	Damon	Moore	20160229	354899067040763	No
+damon.reeves@lanesgroup.com	Damon	Reeves	20160223	354899067042314	No
+dan.ghitulescu@lanesgroup.com	Dan	Ghitulescu	20160216	359877069334645	No
+dan.oreilly@lanesgroup.com	Dan	Oreilly	20141009	354899067043130	No
+dan.tomlin@lanesgroup.com	Dan	Tomlin	20160205	357255067379171	No
+daniel.ahmady@lanesgroup.com	Daniel	Ahmady	20151023		No
+daniel.banfield@lanesgroup.com	Daniel	Banfield	20150723	356100061629125	No
+daniel.brown@lanesgroup.com	Daniel	Brown	20160102	354607078155581	No
+daniel.burstow@lanesgroup.com	Daniel	Burstow	20160212	357800057675185	No
+daniel.carrod@lanesgroup.com	Daniel	Carrod	20160302	357011070370784|359921056339751	No
+daniel.chase@lanesgroup.com	Daniel	Chase	20160226	359845060211948	No
+daniel.chisholme@lanesgroup.com	Daniel	Chisholme	20140127	359435057074283	No
+daniel.cooper2@lanesgroup.com	Daniel	Cooper 2 (CB)	20150421		No
+daniel.edwards@lanesgroup.com	Daniel	Edwards	20160214	358904057028343|356100061634802	No
+daniel.finley@lanesgroup.com	Daniel	Finley	20160226	359877069336889|359845060362444	No
+daniel.jackson@lanesgroup.com	Daniel	Jackson	20160302	354607078305541	No
+daniel.jenner@lanesgroup.com	Daniel	Jenner	20160301	354607078117573	No
+daniel.jones@lanesgroup.com	Daniel	Jones	20160302	359877069360913	No
+daniel.kiff@lanesgroup.com	Daniel	Kiff	20151204	353609078760833	No
+daniel.mcdaid@lanesgroup.com	Daniel	McDaid	20160303	353609078642056	No
+daniel.pavlov@lanesgroup.com	Daniel	Pavlov	20160226	356100061634661	No
+daniel.pluck@lanesgroup.com	Daniel	Pluck	20160220	353749064810372	No
+daniel.richards@lanesgroup.com	Daniel	Richards	20160226	353749064807535	No
+daniel.roberts@lanesgroup.com	Daniel	Roberts	20160301	353609078642205	No
+daniel.stewart@lanesgroup.com	Daniel	Stewart	20160227	359877069337168|353749064819175	No
+daniel.tanfield@lanesgroup.com	Daniel	Tanfield	20160223	357378056862179|353749068607097|355172050441763|359845060905010	No
+daniel.varndell@lanesgroup.com	Daniel	Varndell	20150706	357800057677199	No
+daniel.walker@lanesgroup.com	Daniel	Walker	20160218	353749064808483	No
+daniel.ware@lanesgroup.com	Daniel	Ware (FM Conway)	20160216	358853053992434|359519063746032|354201075094470	No
+daniel.watts@lanesgroup.com	Daniel	Watts	20151015	353609078652055	No
+daniel.wood@lanesgroup.com	Daniel	Wood	20160303	359435054863696|352168065737669	No
+daniela.may@lanesgroup.com	Daniela	May	20160229	356100061633127	Yes
+danny.harris@lanesgroup.com	Danny	Harris	20150525	354899068957767	No
+danny.lawlor@lanesgroup.com	Danny	Lawlor	20160303	359877069493599	No
+danny.lembke-soh@lanesgroup.com	Danny	Lembke-Soh	20160303	355310041253174|352376051316626|356633050134764|353975054543471|356100061629836|352376051749461|352376055500548|352376056785270	No
+danny.longridge@lanesgroup.com	Danny	Longridge	20160303	356100060620711	No
+danny.mckay@lanesgroup.com	Danny	McKay	20160303	353749068606776	No
+danny.pinder@lanesgroup.com	Danny	Pinder (FM Conway)	20160302	352735065728748|352318064821689	No
+danny.smith@lanesgroup.com	Danny	Smith	20160126	355922071075283	No
+daren.byrne@lanesgroup.com	Daren	Byrne (CBJV)	20160302	357255065475765	No
+darius.baluka@lanesgroup.com	Darius	Baluka	20160302	355829059322340	No
+darius.vaduva@lanesgroup.com	Darius	Vaduva (CB)	20160303	357255065475625	No
+darren.brooks@lanesgroup.com	Darren	Brooks	20160226	359845060313165	Yes
+darren.brown@lanesgroup.com	Darren	Brown (Grisedale)	20150925	357264061564689	No
+darren.burkin@lanesgroup.com	Darren	Burkin	20160221	354607078305632	No
+darren.crawley@lanesgroup.com	Darren	Crawley	20150729	359845060441933	No
+darren.fletcher2@lanesgroup.com	Darren	Fletcher2	20160122	352376055542060|356843054094480|355449059944082|352944052861856|355829056076659|357378050140333|352836064005565|352168065740168|354734065257756	No
+darren.flood@lanesgroup.com	Darren	Flood (CB)	20151130	354201073775310	No
+darren.jell@lanesgroup.com	Darren	Jell	20151207	356100061633770|356100061629893	No
+darren.jones@lanesgroup.com	Darren	Jones (Flexi waste)	20150420	354793054745536	No
+darren.may@lanesgroup.com	DARREN	MAY	20160228	352168065739343|355449059944173|352376051595724|352376056784695|357378056864282|352168065738287|354886063651214	No
+darren.newman@lanesgroup.com	Darren	Darren	20150825	359660061486120	No
+darren.pealling@lanesgroup.com	Darren	Pealling (CB)	20160227	359044063017706|359919058511609|354201075615928|357255065225228|354201072947951|356100061637128	No
+darren.proffitt@lanesgroup.com	Darren	Proffitt (FM Conway)	20160221	352735065726072	No
+darren.ridgley@lanesgroup.com	Darren	Ridgley (CB)	20160302	357255063403504	No
+darren.smith@lanesgroup.com	Darren	Smith	20151213	359845060352429|359845060275380	No
+darren.sweeney@lanesgroup.com	Darren	Sweeney (CB)	20150513	356100061632780	No
+darren.taylor@lanesgroup.com	Darren	Taylor	20160211	355829056082293|355829056082319|358018057446262|359435057074622	No
+darren.trenchard@lanesgroup.com	Darren	Trenchard	20150925	357800057678643	No
+darren.watts@lanesgroup.com	Darren	Watts	20160225	352376054286677|357378056862161|352376051749446|359642053342156	No
+darren.wisher@lanesgroup.com	Darren	Wilsher	20160303	356100061630016|356100061636781	Yes
+daryl.eastman@lanesgroup.com	Daryl	Eastman	20160302	352168065740051|356100060620414	No
+dave.avers@lanesgroup.com	Dave	Avers (Cleansafe)	20160225		No
+dave.fenton@lanesgroup.com	Dave	Fenton	0		No
+dave.gowdy@lanesgroup.com	Dave	Gowdy	0		No
+dave.halliwell@lanesgroup.com	Dave	Halliwell (Grisedale)	20150523	355828060227852|355583069005987	No
+dave.jones@lanesgroup.com	Dave	Jones	0		No
+dave.jordan@lanesgroup.com	Dave	Jordan	20150710	356907061727067	No
+dave.light@lanesgroup.com	Dave	Light	0		No
+dave.meynan@lanesgroup.com	Dave	Meynan (fieldviewer)	20160303	351718070477759|357255063248701	No
+dave.stickland@lanesgroup.com	Dave	Stickland	20160224	357800057676837	No
+dave.tallis@lanesgroup.com	Dave	Tallis	0		No
+david.alexander@lanesgroup.com	David	Alexander	0		No
+david.barrett@lanesgroup.com	David	Barrett	20160303	356100061627913	No
+david.boyle@lanesgroup.com	David	Boyle (CB)	20160226	352605054852959|357255065225228	No
+david.chilvers@lanesgroup.com	DAVId	chilvers	20160228	352376051595658|357378056864340|358904055300561|356100061633440|359642053364192|352376051572160|355829056082293|359435054049734	No
+david.clark@lanesgroup.com	David	Clark	20160218	353414075540308	No
+david.costello@lanesgroup.com	David	Costello (CB)	20160205		No
+david.dwyer@lanesgroup.com	David	Dwyer	20160303	356100061337406	No
+david.fenton@lanesgroup.com	David	Fenton	20160303	354899068957577	No
+david.granstan@lanesgroup.com	David	Granstan	20151201	359150060289089	No
+david.hicksjnr@lanesgroup.com	David	Hicks JNR	20160223	354793052921493|352376051755963|359040055268356|357800053360279|359845060454290|356100061633234|354915058588774|359651045593438|356100061633085	No
+david.hickssnr@lanesgroup.com	David	HicksSNR	20160204	356633050126877|352376057103945|354505052876398|359845060860108	No
+david.hill@lanesgroup.com	David	Hill	20160223	359845060253064	No
+david.keenan@lanesgroup.com	David	Keenan	20160117	353609078651388|353414075539631	No
+david.lake@lanesgroup.com	David	Lake	20160120	357800057676621|357800057675235	No
+david.mcalister@lanesgroup.com	David	McAlister	20160222	353414075541462|353609078649291|359660061072458	No
+david.mccubbin@lanesgroup.com	David	McCubbin	20150927	359150060244589	No
+david.mimms@lanesgroup.com	David	Mimms	20160219	359544054135151|352168065738865|359845060124810|359040057120365	No
+david.morden@lanesgroup.com	David	Morden	20160225	357011070519455	No
+david.myers@lanesgroup.com	David	Myers	20151012	353414075542007	No
+david.nash@lanesgroup.com	David	Nash	20150826	357800057678601	No
+david.robb@lanesgroup.com	david	robb	20151127		No
+david.roberts@lanesgroup.com	Dave	Roberts	20160302		No
+david.rooke@lanesgroup.com	David	Rooke	20160216	356100061633267|356100061632475	No
+david.rospo@lanesgroup.com	David	Rospo	20160202	356100061627962|352836064036420	No
+david.slade@lanesgroup.com	David	Slade	20160229	359435054049734|352168065740077	No
+david.staples@lanesgroup.com	David	Staples	20160217	354899067042322	No
+david.william@lanesgroup.com	David	William	20151207	353609078651388	No
+david.wright@lanesgroup.com	David	Wright	20160303	353514061615939|356633050123387|355449059944140	No
+dean.cummings@lanesgroup.com	Dean	Cummings	20160224	353749064815801	No
+dean.dennis@lanesgroup.com	Dean	Dennis	20150707	352735065797693	No
+dean.frost@lanesgroup.com	Dean	Frost	20160302	359845060474058	No
+dean.gibson@lanesgroup.com	Dean	Gibson	20160303	356633052747670|356100061633101|352376051577763|354912051640884|353921057592313	No
+dean.guest@lanesgroup.com	Dean	Guest	20150626	359660061486328	No
+dean.hansford@lanesgroup.com	Dean	Hansford	20160302	359150060290129	No
+dean.henry@lanesgroup.com	Dean	Henry	20150905	359660061486260|359660061486120	No
+dean.kadir@lanesgroup.com	Dean	Kadir	20151010	357506059734199|359877069337150	No
+dean.russell@lanesgroup.com	Dean	Russell (CB)	20160302	354201072947985	No
+dean.shepherd@lanesgroup.com	Dean	Shepherd	20140922		No
+dean.simmons@lanesgroup.com	Dean	Simmons	20160226	356633054319072|357197056953436|356100061634810|352376051573614	No
+dean.tresadern@lanesgroup.com	Dean	Tresadern	20160213	359150060306925	No
+dean.wicks@lanesgroup.com	Dean	Wicks	20160301	355449054738919|355847050037378	No
+deepak.dhall@lanesgroup.com	deepak	dhall	20150911		No
+demetris.panayiotou@lanesgroup.com	Demetris	Panayiotou	20160302	357011070441486	No
+demonstration2@lanesgroup.com	Demonstration	2	20160225	356100061633713	No
+dennis.andrews@lanesgroup.com	Dennis	Andrews	20160219	356907061730699	No
+dennis.francis@lanesgroup.com	Dennis	Francis (CBJV)	20160222		No
+dereck.asante@lanesgroup.com	Dereck	Asante	20160302	359877069337176|359877069347845	No
+derek.turner@lanesgroup.com	Derek	Turner (CB)	20160302	359044063013614|356768069234013|355847054603795	No
+derick.asante@lanesgroup.com	Derick	Asante	0		No
+deyan.kolev@lanesgroup.com	Deyan	Kolev	20160205	357011070441395	No
+dianilo.isnard@lanesgroup.com	Dianilo	Isnard	20151001	356100061629851	No
+dill.man-rai@lanesgroup.com	Dill	Man Rai	20160303	359877069347456	No
+dimitri.buranovski@lanesgroup.com	Dimitri	Buranovski (CBJV)	20160302	352605054853056|355583066852480	No
+dinal.sasu@lanesgroup.com	Dinal	Sasu	20160130	355922071074955	No
+dixie.annmyers@lanesgroup.com	Dixie	Ann Myers	20150903		No
+domnick.menezes@lanesgroup.com	Domnick	Menezes	20160228		No
+dorota.kossek@lanesgroup.com	dorota	kossek	20160303	355922071075085	No
+drew.leese@lanesgroup.com	Drew	Leese	20150421	354899068957957	No
+duane.robertson@lanesgroup.com	Duane	Robertson	20160302	353976058304209|354793057283626|356100061633762	No
+duncan.gavin@lanesgroup.com	Duncan	Gavin	20150611	359544058279864|359435051499734	No
+duncan.hale@lanesgroup.com	Duncan	Hale	20160223	357011070441528	No
+eamonn.boyle@lanesgroup.com	Eamonn	Boyle (CB)	20150716	357255064832370	No
+eamonn.maloney@lanesgroup.com	Eamonn	Maloney (Rail Division)	20160107		No
+eamonn.mchugh@lanesgroup.com	Eamonn	McHugh	20160213	357255065477027	No
+easternnorthplanning@lanesgroup.com	EasternNorth	Planning	20160303		No
+ed.fisher@lanesgroup.com	Ed	Fisher (CB)	20160228	351666066612170|352147076407397	No
+eddie.martin@lanesgroup.com	Eddie	Martin (CBJV)	20150422		No
+eddy.wollard@lanesgroup.com	Eddy	Wollard	0		No
+edward.pinfold@lanesgroup.com	Edward	Pinfold (CB)	20160302	357255063248602	No
+elhard.robinson@lanesgroup.com	Elhard	Robinson	20160302	359877069491833	No
+elizabeth.fawcett@lanesgroup.com	Elizabeth	Fawcett	20160303		No
+elizabeth.lancaster@lanesgroup.com	Elizabeth	Lancaster	20160202		No
+elliot.hulmeswatson@lanesgroup.com	Elliot	Hulmes Watson	20160302	357378050140309|359877061992333|357800054136579	No
+elliot.stump@lanesgroup.com	Elliot	Stump	20160216	359435054855304|353801060079419|359544058279781|356100061632616|356100061633705	No
+ellis.green@lanesgroup.com	Ellis	Green	20160226	353726069666637|356100061633705|356100061633655	No
+ellis.rudd@lanesgroup.com	Ellis	Rudd	20160302	355829056082046|355829056082293|356633052751599|358188054601282	No
+ethan.baker@lanesgroup.com	Ethan	Baker	20151214	351886068808473	No
+fabjan.manjaj@lanesgroup.com	Fabjan	Manjaj (CB)	20150615		No
+faisel.khan@lanesgroup.com	Faisel	Khan	20160224	359660061486435	No
+faiza.iqbal@lanesgroup.com	Faiza	Iqbal	20160228		No
+farhaan.ahmed@lanesgroup.com	Farhaan	Ahmed	20160302		No
+farhana.akhter@lanesgroup.com	Farhana	Akhter	20160212		No
+felicity.smith@lanesgroup.com	Felicity	Smith	20160210		No
+felilim.mcdonncha@lanesgroup.com	Felilim	Mc Donncha (CB)	20160303	357255067379171|359919057344028	No
+fiona.shallow@lanesgroup.com	Fiona	Shallow	20160301		No
+flamur.haxaji@lanesgroup.com	Flamur	Haxaji (CB)	20151030	357255063248826|357255065477019	No
+flamur.haxijha@lanesgroup.com	Flamur	Haxijha (CB)	20151021		No
+flamur.kukaj@lanesgroup.com	Flamur	Kukaj (CB)	20160216	358044058184298|352215063533077|358044058185360|354912058679554	No
+florin.pop@lanesgroup.com	Florin	Pop	20160303	357558063239871|353421066297343|355829056077384|353721050865512|356100060620414	No
+florin.todericu@lanesgroup.com	Florin Todericu	Florin Todericu	20160303	356100061628705	No
+francesca.mirzaghaderi@lanesgroup.com	Francesca	Mirza Ghaderi	20160302		No
+francis.akinseye@lanesgroup.com	Francis	Akinseye	20160229		No
+francis.mcalinney@lanesgroup.com	Francis	McAlinney (CBJV)	20160222		No
+francis.sommers@lanesgroup.com	Francis	Sommers (NRW)	20150602	359150060272101	No
+francisco.garcia@lanesgroup.com	Francisco	Garcia	20160225	355960060665342	No
+franco.defazio@lanesgroup.com	Franco	Defazio	20160302	354607078155193|357378059056118|359040052543793|356100061637375|353414075542007|352376051572442|352376051570354|352376050029196	No
+frank.boyle@lanesgroup.com	Frank	Boyle (CB)	20160302		No
+frank.donnelley@lanesgroup.com	Frank	Donnelley (CBJV)	20160222	355583066534237|354505052988284	No
+frank.hardie@lanesgroup.com	Frank	Hardie	20160302	359150060272101	No
+frank.stent@lanesgroup.com	Frank	Stent	20151224	353749064815157|353414075542064|359877069334652|359877069550539|356100061630065	No
+frazer.tate@lanesgroup.com	Frazer	Tate	20160108	353609078840924	No
+ftr01@lanesgroup.com	FTR	01	20160303	358307065332212|354899068958039	No
+gareth.parry-jones@lanesgroup.com	Gareth	Parry-Jones	20160226		No
+gareth.smith@lanesgroup.com	Gareth	Smith	20160302	352836064017867|353163050219301|357634052869372	No
+gareth.snow@lanesgroup.com	Gareth	Snow	20150923	356100061633135	No
+garry.linsdell@lanesgroup.com	Garry	Linsdell	20160303	359519063712364	No
+garry.trussler@lanesgroup.com	Garry	Trussler	20141210	357800057676910	No
+gary.boardman@lanesgroup.com	Gary	Boardman	20150727	357800057676159	No
+gary.carey@lanesgroup.com	Gary	Carey (Grisedale)	20150630	355583069005987	No
+gary.cooper@lanesgroup.com	Gary	Cooper (CB)	20150806		No
+gary.davey@lanesgroup.com	Gary	Davey	20160301	356100061630131	No
+gary.francis@lanesgroup.com	Gary	Francis	20160302	353414075540860	No
+gary.izzat@lanesgroup.com	Gary	Izzat	20150428	357800057678635	No
+gary.jones@lanesgroup.com	Gary	Jones	20160303	356100061633259	No
+gary.lampert@lanesgroup.com	Gary	Lampert	20160221	353414070721515	No
+gary.matthews@lanesgroup.com	Gary	Matthews	20160220	353414075540944	No
+gary.murray@lanesgroup.com	Gary	Murray	20160303	359544054135151|359544054141381|352745061161125	No
+gary.neligan@lanesgroup.com	Gary	Neligan	20150626	359845060359382	No
+gary.norman@lanesgroup.com	Gary	Norman	20160302	353609078840775|357800057773899|354607078154956|359150060332848	No
+gary.plank@lanesgroup.com	Gary	Plank	20160217	355829059159692|359435054855692|356100061635189|355994050366512	No
+gary.shroll@lanesgroup.com	Gary	Shroll	20160303	359877069161840	No
+gary.winkeless@lanesgroup.com	Gary	Winkeless	20160217	356100061629117|359150060263803	No
+gary.yate@lanesgroup.com	Gary	Yate (Grisedale)	20150522	355583068994082	No
+gavin.digby@lanesgroup.com	Gavin	Digby (FM Conway)	20160303	354201075095758	No
+gavin.flack@lanesgroup.com	Gavin	Flack	20160301	354607078365610	No
+gavin.roberts@lanesgroup.com	Gavin	Roberts	0		No
+ged.fogarty@lanesgroup.com	Ged	Fogarty	20160201		No
+gemma.wiles@lanesgroup.com	Gemma	Wiles	20160229	354793052917038|353748069673207	Yes
+genc.bicaku2@lanesgroup.com	Genc	Bicaku 2	20160204		No
+genc.bicaku@lanesgroup.com	Genc	Bicaku (CBJV)	20160303	357255064678047|358307055186750|357255064669939	No
+genc.ndoka@lanesgroup.com	Genc	Ndoka	20160229		No
+george.brankin@lanesgroup.com	George	Brankin	20151114	352836065296858|358188058176984|355994056355980|356100061633093|355449059944520|352168065738766	No
+george.ciobotaru@lanesgroup.com	George	Ciobotaru	20160218	359150060302221|359845060904740	No
+george.fitzsimon@lanesgroup.com	George	Fitzsimon	20160303	353414075539482	No
+george.grigore@lanesgroup.com	George	Grigore	20160224	353749064808129	No
+george.palmer@lanesgroup.com	George	Palmer	20160215	357011070370834	No
+george.pantazi@lanesgroup.com	George	Pantazi	20160224	359435054855718|356761061056617	No
+george.parker@lanesgroup.com	George	Parker	20160303	357011070420894	No
+george.pioar@lanesgroup.com	George	Pioar	20160303	357800055392502|352168065738402	No
+george.pipes@lanesgroup.com	George	Pipes	20150424	354899067043130	No
+george.popescu@lanesgroup.com	George	Popescu (CB)	20160217	354201071496356	No
+george.ruck@lanesgroup.com	George	Ruck	20160222	356100061637276	No
+georgie.wilkinson@lanesgroup.com	Georgie	Wilkinson	0		No
+geovanni.lobue@lanesgroup.com	Geovanni	Lobue	20160217	353749064807212	No
+gerald.brooks@lanesgroup.com	Gerald	Brooks	20150129	354899067041308	No
+gerard.ogara@lanesgroup.com	Gerard	O'Gara (CB)	20160208	354747070279607	No
+geri.deeny@lanesgroup.com	Geri	Deeny	20160301		No
+gerrardscrossscanner@lanesgroup.com	Gerrards	Cross Scanner	20150721		No
+gerry.cahill@lanesgroup.com	Gerry	Cahill (CBJV)	20160223	352944052451823	No
+gerry.may@lanesgroup.com	Gerry	May	20160303	359877069360582|353749064807485	No
+gillian.coates@lanesgroup.com	Gillian	Coates	20141126	357800057676902	No
+glen.cobb@lanesgroup.com	Glen	Cobb	20160302	359877069334504	No
+glen.rodbourne@lanesgroup.com	Glen	Rodbourne	20150803	356907061727703	No
+glen.shaddock@lanesgroup.com	Glen	Shaddock	20160226	352376054286560|353414075541827|354793053702538|352836065455314|354912050579042	No
+glyn.rixon@lanesgroup.com	Glyn	Rixon	20160302	357011070441262	No
+glynn.bainbridge@lanesgroup.com	Glynn	Bainbridge (Grisedale)	20151012	355583069004659	No
+graeme.windley@lanesgroup.com	Graeme	Windley	20160122		No
+graham.crook@lanesgroup.com	Graham	Crook	20151001	356100061636880|352376051573465|354912050578416|354785056340712|352376051753216	No
+graham.finbow@lanesgroup.com	Graham	Finbow (CB)	20150928	359919057586487	No
+graham.melsome@lanesgroup.com	Graham	Melsome	20160303	357558062156860	No
+graham.pratt@lanesgroup.com	Graham	Pratt	20160212	356907061728602	No
+graham.ross2@lanesgroup.com	Graham	Ross (FM Conway)	20150930	357506058765897	No
+graham.ross@lanesgroup.com	Graham	Ross (FM Conway)	20151211	359519063745547|352735065725678|352318064821689	No
+grant.benwell@lanesgroup.com	Grant	Benwell	20160302		No
+greg.greer@lanesgroup.com	Greg	Greer (Sapphire)	20160303	353414075541165|357264061567005|356100061627798	No
+greg.peck@lanesgroup.com	Greg	Peck (FM Conway)	20150910		No
+grozlan.georgiev@lanesgroup.com	Grozlan	Georgiev (CBJV)	20160302	357255065475658	No
+guillermo.sanchez@lanesgroup.com	Guillermo	Sanchez	20160219	357255065224072|352215063533929|356100061637334|356100061627988	No
+guled.sultan@lanesgroup.com	Guled	Sultan	20160303		No
+gurdeep.bhachu@lanesgroup.com	Gurdeep	Bhachu	20160301		No
+gurinderpal.jhutti@lanesgroup.com	Gurinderpal	Jhutti	20160223		No
+guy.briggs@lanesgroup.com	Guy	Briggs	20141009	354899067043148	No
+hamayon.wattoo@lanesgroup.com	Hamayon	Wattoo	20160301		No
+hannah.clark@lanesgroup.com	Hannah	Clark	20160303	354785053850952|357139051860851	No
+hardik.shah@lanesgroup.com	Hardik	Shah	20160302	865645026608345|865072026474257|353295060969549	No
+harjinder.mann@lanesgroup.com	Harjinder	Mann	20160303		No
+harley.corps@lanesgroup.com	Harley	Corps	20160225	353414075541462	No
+haroon.mahfooz@lanesgroup.com	Haroon	Mahfooz	20160302	353749066957247	No
+harry.harrison@lanesgroup.com	Harry	Harrison	20160303	354899068957759	No
+harry.hearne@lanesgroup.com	Harry	Hearne	20150916	359877069338430|359877069336848	No
+harry.izevbigie@lanesgroup.com	Harry	Izevbigie	20160225	353414075542478	No
+harry.kavanagh@lanesgroup.com	Harry	Kavanagh (UKDN)	20160301	353609078641710|353609078840874	No
+harry.stapley@lanesgroup.com	Harry	Stapley (FM Conway)	20160211	359519063739763	No
+harry.windscheffel@lanesgroup.com	Harry	Windscheffel	20160302	355922070797200	No
+hema.kumar@lanesgroup.com	Hema	Kumar	20160303		No
+henry.ajiborisha@lanesgroup.com	Henry	Ajiborisha	20160303		No
+henry.hilden@lanesgroup.com	Henry	Hilden	20160215	353414075539367|359877062405111	No
+hugh.fay@lanesgroup.com	Hugh	Fay	20160227	353749064813541|356100061633663|356100061629042	No
+hughie.kavanagh@lanesgroup.com	Hughie	Kavanagh (CB)	20151210		No
+ian.bailey@lanesgroup.com	Ian	Bailey (CB)	20150421		No
+ian.burles@lanesgroup.com	Ian	Burles	20160302	354734065261816	No
+ian.cluley@lanesgroup.com	Ian	Cluley	20160224		No
+ian.forde@lanesgroup.com	Ian	Forde (Flexi waste)	20150914	359919056479023	No
+ian.foxcroft@lanesgroup.com	Ian	Foxcroft (Fm Conway)	20160302	352735065726049	No
+ian.gallow@lanesgroup.com	Ian	Gallow	20160303	353414075539706	No
+ian.goold-davies@lanesgroup.com	Ian	Goold-Davies (FM Conway)	20150604	358853053764486	No
+ian.green@lanesgroup.com	Ian	Green	20160119	353749066955852	No
+ian.henaku@lanesgroup.com	Ian	Henaku	20160229	353749068606818	No
+ian.jenkins@lanesgroup.com	Ian	Jenkins	20160219	359660061486096	No
+ian.payne@lanesgroup.com	Ian	Payne	20160302	356100061636856|356100061633432	No
+ian.planson@lanesgroup.com	Ian	Planson (CB)	20160303	355847054603639|355847054605188|356768067418014|354912058145374|358307059304326|359044063017797	No
+ian.poet@lanesgroup.com	Ian	Poet	20160303	353749064810075	No
+ian.still@lanesgroup.com	Ian	Still	20150602	356100061633911	No
+ian.stoddard@lanesgroup.com	Ian	Stoddard (CBJV)	20160303	352605054853064|354912058679802|357255065476342|357255065475658	No
+ian.turner@lanesgroup.com	Ian	Turner (CB)	20151012	356100061636856	No
+ian.ware@lanesgroup.com	Ian	Ware	0		No
+idris.idris@lanesgroup.com	Idris	Idris	20150707	359845060400814	No
+ilir.nutaj@lanesgroup.com	Llir	Nutaj (CBJV)	20160303	355583065947240	No
+inderjeet.singh@lanesgroup.com	Inderjeet	Singh	20160303		No
+inderjeet.uppal@lanesgroup.com	Inderjeet	Uppal	20160128	353749064812311	No
+indrit.pepa@lanesgroup.com	Indrit	Pepa (JB)	20160208		No
+ion.moldovan@lanesgroup.com	Ion	Moldovan	20160302	354793053695443|359435054859538	No
+ionut.cosoveanu@lanesgroup.com	Ionut	Cosoveanu	20160202	359150060262896	No
+ionut.pantazi@lanesgroup.com	Ionut	Pantazi	20160203	357011070519562	No
+ishoma.lee@lanesgroup.com	Ishoma	Lee	20160227	355922071075713	No
+ismael.mamoun@lanesgroup.com	Ismael	Mamoun	0		No
+istvan.bliss@lanesgroup.com	Istvan	Bliss	20160303	356100061628846	No
+istvan.toth@lanesgroup.com	Istvan	Toth	20160120	355922071075630	No
+isuf.veseli@lanesgroup.com	Isuf	Veseli (CB)	20160218		No
+ivaylo.crushev@lanesgroup.com	Ivaylo	Crushev (CBJV)	20160303	357255064678393	No
+izmir.visha@lanesgroup.com	Izmir	Visha (CB)	20160303	357255064831901	No
+jack.bartlett@lanesgroup.com	Jack	Bartlett	20160224	353609078622769	No
+jack.carrington@lanesgroup.com	Jack	Carrington	20160301		No
+jack.fryer@lanesgroup.com	Jack	Fryer	20150919	353749064808558	No
+jack.hardman@lanesgroup.com	Jack	Hardman	20160222	357011070519513	No
+jack.hitchcox@lanesgroup.com	Jack	Hitchcox	20160108	353609078641462	No
+jack.marsh@lanesgroup.com	Jack	Marsh	20160226	355922071075424	No
+jack.stapeley@lanesgroup.com	Jack	Stapeley	20160103	352318063932412	No
+jack.thomas@lanesgroup.com	Jack	Thomas	20160302	352376051595161|352376057073320|352168065738899|354912050578937|352376051315651|356633052747860|352376051573788	No
+jack.wilcox@lanesgroup.com	Jack	Wilcox	20160224	359353062499249	No
+jacob.flore@lanesgroup.com	Jacob	Flore (CB)	20160303	357255065476342|352215063531543	No
+jahan.zeb@lanesgroup.com	Jahan	Zeb	20160301		No
+jai.browning@lanesgroup.com	Jai	Browning	20160303	356100061637003|359435054862755|352376054218993|358904055585468|356100060621354|356100061634356	No
+jake.arrondelle@lanesgroup.com	Jake	Arrondelle	20160303	356100061633317	No
+jake.carter@lanesgroup.com	Jake	Carter	0		No
+jake.chesley@lanesgroup.com	Jake	Chesley	20160303	359877069336871	No
+jake.davis@lanesgroup.com	Jake	Davis	20151204	356100061636864	No
+jake.dickson@lanesgroup.com	Jake	Dickson	20160303	356100061634067|359435057074382	No
+james.brasil@lanesgroup.com	James	Brasil (CB)	20160205	359919057364539|351718070478864|352735062462721|357255062642847	No
+james.brennan@lanesgroup.com	James	Brennan (FieldViewer)	20150716		No
+james.brooks@lanesgroup.com	James	Brooks (Flexi waste)	20150418	351941065255275	No
+james.carey@lanesgroup.com	James	Carey (CB)	20150615		No
+james.clarkson@lanesgroup.com	James	Clarkson	20160303	356100060445150|354793056282975|356633052300017|352376051572632|355449059944041|352376051577979	No
+james.doogan@lanesgroup.com	James	Doogan (CB)	20151016		No
+james.doyle@lanesgroup.com	James	Doyle	20151208	352168065737404|357506055122605	No
+james.fisher@lanesgroup.com	James	Fisher	20160215	359353062498548|351886068808127	No
+james.gysemann@lanesgroup.com	James	Gysemann (Fieldviewer)	20150624		No
+james.heaney@lanesgroup.com	James	Heaney	20160220	359845060462251	No
+james.ianson@lanesgroup.com	James	Ianson	20160222	355922071075739	No
+james.irving@lanesgroup.com	James	Irving	20160302	356100061632525	No
+james.lanson@lanesgroup.com	James	Lanson	20160302	359877069336848	No
+james.lewis@lanesgroup.com	James	Lewis	20160222	353414075540480	No
+james.lydon@lanesgroup.com	James	Lydon (CBJV)	20160303	354912056175613|354912058159441|358634064811072	No
+james.mackie@lanesgroup.com	James	Mackie	20160228		No
+james.mcandrews@lanesgroup.com	James	McAndrews (CBJV)	20160303	357255064830820|354912058153501	No
+james.mccarthy@lanesgroup.com	James	McCarthy	20150702	356100061634695|356100061634679	No
+james.mills@lanesgroup.com	James	Mills (UKDN)	20151201	353609078652113	No
+james.newton@lanesgroup.com	James	Newton	20150824	359877069334652	No
+james.rodgers@lanesgroup.com	James	Rodgers (CB)	20160222		No
+james.stack@lanesgroup.com	James	Stack	20160219	355847054603878|355847054439000|356768067426611	No
+james.strutt@lanesgroup.com	James	Strutt	20160303	359877069336897	No
+james.thorpe@lanesgroup.com	James	Thorpe	20150913	354899067043171	No
+jamie.birchard@lanesgroup.com	Jamie	Birchard	20160221	353414075541959	No
+jamie.clark@lanesgroup.com	Jamie	Clark	20150904	353749064810869	No
+jamie.davidson@lanesgroup.com	Jamie	Davidson (CB)	20160302	356768067426694|352605051165835|359044063014067	No
+jamie.galloway@lanesgroup.com	Jamie	Galloway	20160227	353414075539383	No
+jamie.gibbs@lanesgroup.com	Jamie	Gibbs	20160222	357255065476334	No
+jamie.howlett@lanesgroup.com	Jamie	Howlett	20160216	353609078641710	No
+jamie.marchant@lanesgroup.com	Jamie	Marchant (CB)	20160209	352735062328864|357255063248685|356100061633705|357255063404015	No
+jamie.muldoon@lanesgroup.com	Jamie	Muldoon (CBJV)	20160302	359044063018431|355847054439687|356768066599798|358307057220011	No
+jamie.sadler@lanesgroup.com	Jamie	Sadler (Drain Line)	20150816	352745064037157	No
+jamie.treumann@lanesgroup.com	Jamie	Treumann	20160302	353609078622587	No
+janusz.chelchowski@lanesgroup.com	Janusz	Chelchowski	20150907	359877069162251	No
+jaraslaw.grzenia@lanesgroup.com	Jaraslaw	Grzenia	20151105	353609078622769	No
+jaraslawgrzenia@lanesgroup.com	jaraslaw	grzenia Haul-it	20160302	359845060366767|354666059536904	No
+jason.adams@lanesgroup.com	Jason	Adams	20141010	354899067042314	No
+jason.bonner@lanesgroup.com	Jason	Bonner (CB)	20160206		No
+jason.burt@lanesgroup.com	Jason	Burt (NRW)	20160302	353749064807840	No
+jason.fletcher@lanesgroup.com	Jason	Fletcher	20160222	353749065488145|355829056083119|356100061632459|353748069548003	No
+jason.fox.teece@lanesgroup.com	Jason	Fox Teece	20140714	358904057028343	No
+jason.glanville@lanesgroup.com	Jason	Glanville	20160120	352168065738501|353749064810216	No
+jason.glaze@lanesgroup.com	Jason	Glaze	20160303	355001077909223	No
+jason.head@lanesgroup.com	Jason	Head	20160303	354201075095642|358853053764494	No
+jason.mainwaring@lanesgroup.com	Jason	Mainwaring	20160214	359353062498548|351886068808127	No
+jason.martin@lanesgroup.com	Jason	Martin	20150605	359845060394314	No
+jason.mills@lanesgroup.com	Jason	Mills	20150807		No
+jason.obrien@lanesgroup.com	Jason	O'Brien (HSQE field advisor)	20151116	352836065265630	No
+jason.odonaghue@lanesgroup.com	Jason	O'Donaghue	0		No
+jason.ridgeway@lanesgroup.com	Jason	Ridgeway	20160302	353749066955852	No
+jason.ridgley@lanesgroup.com	Jason	Ridgley (CB)	20160303	357255063248784	No
+jason.ward@lanesgroup.com	Jason	Ward	20151123	353609078652113	No
+jason.wiles@lanesgroup.com	JASON	WILES	20160228	357506055048487|357378056864266	No
+jason.wright@lanesgroup.com	Jason	Wright	20160120	355922071075234	No
+jaspreet.sandhu@lanesgroup.com	Jaspreet	Sandhu	20151024		No
+jasvinder.johal@lanesgroup.com	Jasvinder	Johal	20160213		No
+jay.mckay@lanesgroup.com	Jay	Mckay	20160302	356258071700714	No
+jeet.shah@lanesgroup.com	Jeet	Shah	20160303	358188052731180	No
+jeff.wilcox@lanesgroup.com	Jeff	Wilcox	20160206	359845060449506|359845060441933|358904056429286|353721058262605|352168065740317	No
+jefferson.bright@lanesgroup.com	Jefferson	Bright	20160224	356100061637086	No
+jem.hatcher-carroll@lanesgroup.com	Jem	Hatcher-Carroll	20160223		No
+jenny.clark@lanesgroup.com	Jenny	Clark	20141211		No
+jensen.ramanjooloo@lanesgroup.com	Jensen	Ramanjooloo	20160226	357139051332604	No
+jermaine.charlton@lanesgroup.com	Jermaine	Charlton	20160217	357011070519349	No
+jervais.antoine@lanesgroup.com	Jervais	Antoine	20150715	359435057073673	No
+jetmir.zeqiraq@lanesgroup.com	Jetmir	Zeqiraq (CB)	20160205		No
+jim.browne@lanesgroup.com	Jim	Browne (CB)	20160228		No
+jim.emery@lanesgroup.com	Jim	Emery	20160229	359845060476863	No
+joe.devane@lanesgroup.com	Joe	Devane	20151111	354912058145267|359919057662239|354505052361649|358307059304409	No
+joe.freeman@lanesgroup.com	Joe	Freeman	20150930	353750065004643	No
+joe.gallagher@lanesgroup.com	Joe	Gallagher (CBJV)	20150715		No
+joe.major@lanesgroup.com	Joe	Major	20160302	353609078641827|357506058212494	No
+joe.niblock@lanesgroup.com	Joe	Niblock	20140716	357800057773493	No
+joe.redfern@lanesgroup.com	Joe	Redfern	20160302		No
+joe.taylor@lanesgroup.com	Joe	Taylor	20160303	356100061337422|359150060264033|354793052921501|352376054284425	No
+joe.teeling@lanesgroup.com	Joe	Teeling	20160302	353749068607097|352376051572285|359150060294501|352376051331856|353749064812428|359921056324522|354607078119439|357378056864241|356100061633754	No
+joe.waudby@lanesgroup.com	Joe	Waudby	20160218	354899067043171	No
+joe.white@lanesgroup.com	Joe	White	20160229	353801066783071|352376051622981|356096058210343|359021040400676|359544058279906	No
+johan.linowitz@lanesgroup.com	Johan	Linowitz	0		No
+john.baker@lanesgroup.com	John	Baker	20160303	353748061149651	No
+john.bonner@lanesgroup.com	John	Bonner (CB)	20160224	354912058145481|357255063247802	No
+john.bunce@lanesgroup.com	John	Bunce (FM Conway)	20150911	353749064810000	No
+john.carroll@lanesgroup.com	JOHN	CARROLL	20160204	352376051572624|185defe0|352376051570263|353801066776208|359845060394314|359642051021190|359544058279732|355449054730643	No
+john.carrolljnr@lanesgroup.com	John	Carroll JNR	20160303	353749063418847|359845060394314	No
+john.connaghan@lanesgroup.com	John	Connaghan (CB)	20160302	357255064832008	No
+john.dale@lanesgroup.com	John	Dale	20160303	356100061628648|353749067792809|352376051577482|359544058279849|355310049597028|355449054206156|357378059059195|352376051331856|352376051572442	No
+john.dawson@lanesgroup.com	John	Dawson	20160202	356100061633085|353163050271393	No
+john.fitzsimmons@lanesgroup.com	John	Fitzsimmons	0		No
+john.gould@lanesgroup.com	John	Gould (CBJV)	20160303	356768066601776|355847054439000|359919058552280|359919058552553|355847054605170|354201071390724	No
+john.hughes@lanesgroup.com	John	Hughes (CB)	20151116		No
+john.lunnon@lanesgroup.com	John	Lunnon	20160302	356100061633291	No
+john.mcfaden@lanesgroup.com	John	McFaden	20160301	354201072948793	No
+john.mcginty@lanesgroup.com	John	McGinty (CBJV)	20160217		No
+john.mcgrath@lanesgroup.com	John	McGrath	20160303	356100061627996	No
+john.mulrooney@lanesgroup.com	John	Mulrooney (FM Conways)	20160217	352735065725884|352735065725678|352735065725967	No
+john.parker@lanesgroup.com	John	Parker	20150203	354899068960217	No
+john.ruggles@lanesgroup.com	John	Ruggles	20160109	352376051572624|353749067404397|359642054506817	No
+john.speer@lanesgroup.com	John	Speer	20160120	359845060476871	No
+john.winteridge@lanesgroup.com	John	Winteridge	20160302	353749064807923	No
+johnathan.cook@lanesgroup.com	Johnathan	Cook	0		No
+jon.cook@lanesgroup.com	Jon	Cook	20160229	359544054237510	No
+jon.holdsworth@lanesgroup.com	Jon	Holdsworth	20160209	354899067043205|354899068957932	No
+jon.leake@lanesgroup.com	Jon	Leake	20160205	357800056064746|356100060416730|356843053611755|352168065739913|354734069509442	No
+jon.lowe@lanesgroup.com	Jon	Lowe	20160301	359660061486138	No
+jon.white@lanesgroup.com	Jon	White	20160116	355922070863424	No
+jonathan.girling@lanesgroup.com	Jonathan	Girling	20160303	359544054141407	No
+jonathan.harris@lanesgroup.com	Jonathan	Harris	20151202		No
+jonathan.swan@lanesgroup.com	Jonathan	Swan	20160125	352168065739228|357378056864365|356633054319163|352376051622593	No
+jonathan.white@lanesgroup.com	Jonathan	White	0		No
+jonjo.slater@lanesgroup.com	Jonjo	Slater (CB)	20160224	358307051290887|355583068999131|359919057530535	No
+jordan.christiewalker@lanesgroup.com	Jordan	Christie Walker	20160303	356100061634422|353749064813541	No
+joseph.coates@lanesgroup.com	Joseph	Coates	20160302	357011070383035	No
+joseph.cuba@lanesgroup.com	Joseph	Cuba (CBJV)	20150703		No
+joseph.kelly@lanesgroup.com	Joseph	Kelly (CBJV)	20160302	354201072949056|352605054853171	No
+joseph.latus@lanesgroup.com	Joseph	Latus	20151021	353609078557312	No
+joseph.major@lanesgroup.com	Joseph	Major	0		No
+josephine.nketia@lanesgroup.com	Josephine	Nketia	20160303		No
+josephine.wells@lanesgroup.com	Josephine	Wells	20160303		No
+josh.ford@lanesgroup.com	Josh	Ford	20160303	359435054855775|356100061630107|358661054988362	No
+josh.hastings@lanesgroup.com	Josh	Hastings	20160127	359435054855270|356100061630024|353748061149651	No
+joshua.bishop@lanesgroup.com	Joshua	Bishop	20160303	359435051505928|356100061632541|356633054318678	No
+joshua.millard@lanesgroup.com	Joshua	Millard	20160217	353414075543849	No
+joshua.nwaokobia@lanesgroup.com	Joshua	Nwaokobia	20160203	354201073778918	No
+jovan.roberts@lanesgroup.com	Jovan	Roberts	20151210	354607078379058	No
+julian.hutanu@lanesgroup.com	Julian	Hutanu (CB)	20160107		No
+julian.mottershead@lanesgroup.com	Julian	Mottershead	20151031	359660061486310	No
+julian.wise@lanesgroup.com	Julian	Wise	20160229	359435051502511|352376051595724|352376051572475|353719056663196|352168065740150|352376051749461	No
+julie.grantham@lanesgroup.com	Julie	Grantham	20160303	353749069248883|357558061867772|354901070979068|356100061632608|356100061629893	Yes
+julie.hobbs@lanesgroup.com	Julie	Hobbs	20150625		No
+julien.wise@lanesgroup.com	Julien	Wise	0		No
+julio.guillen@lanesgroup.com	Julio	Guillen	20160302	355922071074914	No
+junior.easie@lanesgroup.com	Junior	Easie	20160220	353609078760908|353609078642023	No
+junior.simba@lanesgroup.com	Junior	Simba	20160301	353609078641694|359845060393407	No
+justice.dzewu@lanesgroup.com	Justice	Dzewu	20160303	356100061636864|353749064810000	No
+justin.bernard@lanesgroup.com	Justin	Bernard	20160302		No
+kainen.radley@lanesgroup.com	Kainen	Radley (Sewer Batt)	20150819	359845060385007	No
+kamil.markievicz@lanesgroup.com	Kamil	Markievicz (CB)	20160303	359919058512144	No
+kamla.ghuman@lanesgroup.com	Kamla	Ghuman	20150515		No
+kane.everhurst@lanesgroup.com	Kane	Everhurst	20160104	356633050254059|356100061633820|356100061882732	No
+kane.nichol@lanesgroup.com	Kane	Nichol	20160228	356907061731242	No
+karen.deakin@lanesgroup.com	Karen	Deakin	20141217		No
+karen.swan@lanesgroup.com	Karen	Swan	20160302	359919059534634	No
+kashif.raja@lanesgroup.com	Kashif	Raja	20160302	353801065997425	No
+keith.bryant@lanesgroup.com	Keith	Bryant	20160103		No
+keith.clarke@lanesgroup.com	Keith	Clarke	20160221	356100061628010|359877069340048	No
+keith.roberts@lanesgroup.com	Keith	Roberts	20160303	352168065740267	No
+keith.smalley@lanesgroup.com	Keith	Smalley (CBJV)	20160302	359919057660381|352215063533929|354201071497644|352374050452088|359919058509926	No
+keith.symons@lanesgroup.com	Keith	Keith	20151027	359845060359382	No
+kellie.potter@lanesgroup.com	Kellie	Potter	20160302	354505059495382|356765063173692	Yes
+kelly.dawson@lanesgroup.com	Kelly	Dawson	20160209		No
+kelly.north@lanesgroup.com	Kelly	North (Sewer Bat)	20160222		No
+kenneth.turner@lanesgroup.com	Kenneth	Turner	20160126	355922070790353	No
+kev.hampson@lanesgroup.com	Kev	Hampson (Grisedale)	20150816	355583068995402	No
+kevin.carter@lanesgroup.com	Kevin	Carter	20160302	353818059061802|358188059224015|355829056076923|353749064164531	No
+kevin.davey@lanesgroup.com	Kevin	Davey	20160303	352376051572194|359544058279831	No
+kevin.doogan@lanesgroup.com	Kevin	Doogan (CB)	20160301		No
+kevin.green@lanesgroup.com	Kevin	Green (FM Conway)	20160225	352735065554813	No
+kevin.hall@lanesgroup.com	Kevin	Hall	20151223	353749064807873	No
+kevin.hendrie@lanesgroup.com	Kevin	Hendrie (Grisedale)	20151029	357264061563491	No
+kevin.kavanagh@lanesgroup.com	Kevin	Kavanagh (CB)	20151104	357264061437993	No
+kevin.mccallum@lanesgroup.com	Kevin	McCallum	20150919	354899067042090	No
+kevin.tatum@lanesgroup.com	Kevin	Tatum	20160303	357011070441395	No
+kevin.vaughan-atkins@lanesgroup.com	kevin	Vaughan-atkins	20160219	357011070370784	No
+kevin.walker@lanesgroup.com	Kevin	Walker	20160302	354899068959888|355994056361541	No
+kevin.walton@lanesgroup.com	Kevin	Walton	20160226	357255064674889	No
+khuliswa.browning@lanesgroup.com	Khuliswa	Browning	20160301		No
+kieran.davis@lanesgroup.com	Kieran	Davis	20160302	357800059123747|353749064810463|359544058153424|358307056686899|356446057774247	No
+kieran.monkearns@lanesgroup.com	Kieran	Monkearns	20160212	354201075615795	No
+kieran.sweeney@lanesgroup.com	Kieran	Sweeney	20140513	352374050452278	No
+kieran.watts@lanesgroup.com	Kieran	Watts	20160302	353609074742561|355922071075622|353609078759702	No
+kiril.velinov@lanesgroup.com	Kiril	Velinov (CBJV)	20160303	354912058151885|359919058509926|352605051168854	No
+kirsty.oneill@lanesgroup.com	Kirsty	O'Neill	0		No
+kris.taylor@lanesgroup.com	Kris	Taylor	20160302	359150060260692|356900066045478	No
+kristian.bamber@lanesgroup.com	Kristian	Bamber	20151203		No
+krzysztof.drewek@lanesgroup.com	Krzysztof	Drewek (Fm Conway)	20160301	352735065726197|359519063741991|358853053764502	No
+krzysztof.sliwa@lanesgroup.com	Krzysztof	Sliwa	20160303	352745061161158	No
+kunal.gunnoo@lanesgroup.com	Kunal	Gunnoo	20160217		No
+kurt.critchley@lanesgroup.com	Kurt	Critchley	20160302		No
+kyle.chapory@lanesgroup.com	Kyle	Chapory	20160219	359877069340089	No
+kyle.lenthall@lanesgroup.com	Kyle	Lenthall	20160301	355829056083028|353818059071769|353749064807758	No
+kyle.obrian@lanesgroup.com	Kyle	O'Brian	20160219	359845060476863|359845060300378	No
+larry.lauri@lanesgroup.com	Larry	Lauri	20160223	357011070391772	No
+lauren.kemp@lanesgroup.com	Lauren	Kemp	20160302	355922070850561	Yes
+laurentiu.rihlea@lanesgroup.com	Laurentiu	Rihlea	20151204	359150060254893	No
+laxmi.dwivedi@lanesgroup.com	Laxmi	Dwivedi	20160303		No
+lee.anderson@lanesgroup.com	Lee	Anderson	20160303	359642052386337|356100061634380|354734065257756|359877069492104	No
+lee.atherton@lanesgroup.com	Lee	Atherton (Grisedale)	20150616	355583069003230	No
+lee.blackwell@lanesgroup.com	Lee	Blackwell (FM Conway)	20160216	352735065725702	No
+lee.cook@lanesgroup.com	Lee	Cook (FM Conway)	20160214	354201075095493	No
+lee.finch@lanesgroup.com	Lee	Finch	20160303	356100061633796	No
+lee.girling@lanesgroup.com	Lee	Girling	20160220	359660061486161	No
+lee.howse@lanesgroup.com	Lee	Howse	20160303	353749064812709	No
+lee.johnson@lanesgroup.com	Lee	Johnson	20160303	354607078154998	No
+lee.moorland@lanesgroup.com	Lee	Moorland	20160303	359544054135391	No
+lee.pattison@lanesgroup.com	Lee	Pattison	20160223	354793056242532|352376051585535|352376054286644|352376051573465|352376051572152|357800055723169	No
+lee.rolfe@lanesgroup.com	Lee	Rolfe	20160302	357011070441197	No
+lee.schuurman@lanesgroup.com	Lee	Schuurman	20160218	359845060359382|352836063979182|358188057993926	No
+lee.taylor@lanesgroup.com	Lee	Taylor	20160222	355922071075333	No
+lee.theobald@lanesgroup.com	Lee	Theobald	20150610	357800057678684|357800057675847	No
+lee.whales@lanesgroup.com	Lee	Whales	20160302	357011070395377	Yes
+lee.wills@lanesgroup.com	Lee	Wills	20151222	353609078759694	No
+leigh.atkins@lanesgroup.com	Leigh	Atkins	20160303	356100061637110	No
+leigh.friend@lanesgroup.com	Leigh	Friend	20160303	356100061633911|356100061636831|356100061632848|358350040150101	No
+leigh.lawrence@lanesgroup.com	Leigh	Lawrence	20160302	354244050249834|352376054288327	No
+len.white@lanesgroup.com	len	White	20151123	359655060602982	No
+leon.jennings@lanesgroup.com	Leon	Jennings	20160120	355922071075382	No
+leon.joelbrown@lanesgroup.com	Leon	Joel Brown	20160125	354607078154865	No
+leon.smith@lanesgroup.com	Leon	Smith	20150722	359660061486526	No
+leon.zekaj@lanesgroup.com	Leon	Zekaj (CB)	20160302	354201075615969|354201075616009	No
+lesley.robinson@lanesgroup.com	Lesley	Robinson	20160303	HJA4KQUX|355922071075622	No
+lewis.obrien@lanesgroup.com	LEWIS	OBRIEN	20160229	356633050253812|352745061161448	No
+lewis.reddie@lanesgroup.com	Lewis	Reddie	20160128	354607078116898	No
+lg-timesheets2@lanesgroup.com	Slough	Timesheets	20160301		No
+liam.andrews@lanesgroup.com	Liam	Andrews	20160303	355829056082087|355829056076154|352376051750071	No
+liam.candon@lanesgroup.com	Liam	Candon	20151101	355829056082087|356100061337331	No
+liam.head@lanesgroup.com	Liam	Head	20160302		No
+lindsay.peaty@lanesgroup.com	Lindsay	Peaty (Grisedale)	20151220	c0808681c38d811	No
+lionel.gugglas@lanesgroup.com	Lionel	Gugglas (CB)	20160224	352735062328864|359919055846552|351718070478666	No
+lloyd.brown@lanesgroup.com	Lloyd	Brown	20160117	355829059322548|358904055585344	No
+louis.esparon@lanesgroup.com	Louis	Esparon	20150627	359435050225833|352168065737693	No
+louis.haighway@lanesgroup.com	Louis	Haighway	20160229	359435051505803	No
+louise.paterson@lanesgroup.com	Louise	Paterson	20160302		No
+louise.wallis@lanesgroup.com	Louise	Wallis	0		No
+lucian.propescu@lanesgroup.com	Lucian	Propescu	20160226	353749064806933	No
+lucy.quinn@lanesgroup.com	Lucy	Quinn	20160302		No
+lui.lacobucci@lanesgroup.com	Lui	Lacobucci	20160228		No
+luigi.coulter@lanesgroup.com	Luigi	Coulter	20160303	357378050064335|355449059944512|356100061632764	No
+lukas.walcza@lanesgroup.com	Lukas	Walcza	20160302	353749064815439	No
+lukasz.grabowski@lanesgroup.com	Lukasz	Grabowski	20160228	354607078366170	No
+lukasz.tymoszuk@lanesgroup.com	Lukasz	Tymoszuk	20160224	355829056076543	No
+luke.burns@lanesgroup.com	Luke	Burns	20160301	359845060946709|359778048492795|359544054135193|355994056359602|355172052558549|352376054288780|353748062575094	Yes
+luke.millard@lanesgroup.com	Luke	Millard	20160225	353609078642239	No
+luke.nye@lanesgroup.com	Luke	Nye	20160210	353749064807915	No
+luke.saltzer@lanesgroup.com	Luke	Saltzer	20160213	359845060348054	No
+luke.smith2@lanesgroup.com	Luke	Smith2 (FM Conway)	0		No
+luke.smith@lanesgroup.com	LUKE	SMITH	20160219	355829059322423|353414071726224|354720056911519|357634050861132|352376051573176|356100060620679|352376051585576|355994056299352|356100061629166	No
+luke.tatterton@lanesgroup.com	Luke	Tatterton	20160302	359877069492088	No
+luke.whitehead@lanesgroup.com	Luke	Whitehead	20160301	359937061001475	No
+lul_reactive.fax@lanesgroup.com	LUL	Reactive	20120208		No
+lulzim.delaj@lanesgroup.com	Lulzim	Delaj (CBJV)	20160302	359919057590273|354201072948827|354201073775260|357737053656431	No
+m.church@lanesgroup.com	Michael	Church	20160227	352168065737651|353975058866308|359150060272093	No
+m.williams@lanesgroup.com	Mark	Williams	20160303	353609078840817|359435054855346|353514061615681	No
+macaulee.duhig@lanesgroup.com	Macaulee	Duhig	20151207	359845060124810|359845060441933	No
+maddy.kalhan@lanesgroup.com	Maddy	Kalhan	20160303		No
+madeeha.sadiq@lanesgroup.com	Madeeha	Sadiq	20160228		No
+madhu.kalhan@lanesgroup.com	Madhu	Kalhan	0		No
+malcolm.calvert@lanesgroup.com	MALCOLM	CALVERT	20160302	355994058796892|355994050371835|356446057754751|353976054714328|352376056769563|352376051570297	No
+manchester.crew2@lanesgroup.com	Manchester	Crew2	20150815	359845060257586	No
+manchester.crew@lanesgroup.com	Manchester	Crew	20150817	359845060362444	No
+marc.buckland@lanesgroup.com	Marc	Buckland (Flexi)	20151231	353008075700902	No
+marc.mcjury@lanesgroup.com	Marc	McJury	20160215	353801068591357|355829056080909|356100061633440	No
+marcel.ifterne@lanesgroup.com	Marcel	Ifterne	20160303	359877069338562	No
+marcin.hoder@lanesgroup.com	Marcin	Hoder	20160224	354793053704062|354734065918076|352376051577524	No
+marcos.gurney@lanesgroup.com	Marcos	Gurney	20160224		No
+marcus.leach@lanesgroup.com	Marcus	Leach	0		No
+marcus.mueller@lanesgroup.com	Marcus	Mueller	20160217	359544058153424|356096058210608|352745061161372|353609078641462	No
+marcus.valkenburg@lanesgroup.com	Marcus	Valkenburg	20160303	352168065738956|352168065737917	No
+marek.dera@lanesgroup.com	Marek	Dera	20160229	354505059495234|354915058590978|352376051572459|359544054141449	No
+marek.strzelbicki@lanesgroup.com	Marek	Strzelbicki	20160302	355994056356301|357378050146058|359544054148667	No
+marek.szczesny@lanesgroup.com	Marek	Szczesny	20160222	359921056459815|358848043700244|355449059944082|352376054286594	No
+maria.conner@lanesgroup.com	Maria	Conner	20160303	355449059944140|352376051765228|359150060326329|352376052580071|354793052918176	Yes
+marian.nita@lanesgroup.com	Marian	Nita	20160223	355922070790189	No
+marie.llot@lanesgroup.com	Marie	Llot	20151105		No
+marilyn.cross@lanesgroup.com	marilyn	cross	0		No
+marius.baginski@lanesgroup.com	Marius	Baginski	20160210	352215063532160|354350076916072|352605059368019|354505059539338	No
+marius.draghiceanu@lanesgroup.com	Marius	Draghiceanu	20160228	359877069361978|359150060254760	No
+marius.tiru@lanesgroup.com	Marius	Tiru (CB)	20151104		No
+mark.aitchison@lanesgroup.com	Mark	Aitchison	20160303	358188051770072|359435054855304|352836063532106|353749069110992	Yes
+mark.barreto@lanesgroup.com	Mark	Barreto	20160126		No
+mark.collinson@lanesgroup.com	Mark	Collinson	20160301	353749064807774|352720073673482	No
+mark.conneely@lanesgroup.com	Mark	Conneely (CB)	20160225		No
+mark.cosgrove@lanesgroup.com	Mark	Cosgrove (Grisedale)	20151020	355583068993795	No
+mark.coulson@lanesgroup.com	Mark	Coulson	20151013		No
+mark.crittenden@lanesgroup.com	mark	crittenden Haul-it	20151127	356100061634695	No
+mark.davidgilbert@lanesgroup.com	Mark	David Gilbert	20160301	354607078154907	No
+mark.davies@lanesgroup.com	Mark	Davies	20160216	358018066202144|354899067042454	No
+mark.dolby@lanesgroup.com	Mark	Dolby	20140508	357800057676886	No
+mark.gilley@lanesgroup.com	Mark	Gilley	20151111	359150060255189	No
+mark.grimshaw@lanesgroup.com	Mark	Grimshaw	20151021	357800057678585	No
+mark.harding@lanesgroup.com	Mark	Harding	20160303	352376051749990|354244056194505|357800059112419|357558066251048	No
+mark.james@lanesgroup.com	Mark	James (Flexi waste)	20160302	353748067754553|353008075700092	No
+mark.kirkum@lanesgroup.com	Mark	Kirkum	20160303	359877069491817|355994056356012	No
+mark.knowles@lanesgroup.com	Mark	Knowles	20160203	357011070441940	No
+mark.lenthall@lanesgroup.com	Mark	Lenthall	20160221	352376051585063|359544058153424|356633054318405|357377058134173	No
+mark.milstead@lanesgroup.com	Mark	Milstead	20160302	353749064818565	No
+mark.parry@lanesgroup.com	MARK	PARRY	20160302	352376051572228|354720056914984	No
+mark.philpot@lanesgroup.com	Mark	Philpot	20151118	353609078641801	No
+mark.rodgers@lanesgroup.com	Mark	Rodgers	20160303	356100060620992	No
+mark.sherri@lanesgroup.com	Mark	Sherri	20160111	355922071075101	No
+mark.simmons@lanesgroup.com	Mark	Simmons (NRW)	20160215	359150060326436|359150060260783	No
+mark.tomlin@lanesgroup.com	Mark	Tomlin	20160303	357255067379122	No
+mark.wadsworth@lanesgroup.com	Mark	Wadsworth	20160302	353414075540183	No
+mark.waters@lanesgroup.com	Mark	Waters	20160211	352735065725967|352318063966477	No
+mark.whipp@lanesgroup.com	Mark	Whipp	20160228		No
+mark.williams@lanesgroup.com	Mark	Williams	20160221	352836064005409|355829056076261|359544058280110|359435051505712|356843053231398|356100061629851	No
+marlene.jennings@lanesgroup.com	Marlene	Jennings	20151026		No
+marlon.markland@lanesgroup.com	Marlon	Markland	20150929	353749064810869|353749064807741|353749064813541	No
+martin.abrehart@lanesgroup.com	Martin	Abrehart	20160218	356100061637326|356100061632434|353749064807964|356100061636831	No
+martin.amos@lanesgroup.com	Martin	Amos	20160215	359150060329315|359150060298940	No
+martin.halls@lanesgroup.com	Martin	Leigh	20150904	353414075539409	No
+martin.leigh@lanesgroup.com	Martin	Leigh	20160303	353414075539409	No
+martin.mcalinden@lanesgroup.com	Martin	McAlinden	20160229	359877069162251	No
+martin.mcdermott@lanesgroup.com	Martin	McDermott	20150624	355583068996715	No
+martin.sweeney@lanesgroup.com	Martin	Sweeney	20160229	359660065036897|353609078696870	Yes
+martin.treen@lanesgroup.com	Martin	Treen (CB)	20140521	352605051169928|354912058151869|354505059539338	No
+martin.wilkinson@lanesgroup.com	Martin	Wilkinson (Grisedale)	20150910	355828061505694	No
+martinescu.gabriel@lanesgroup.com	Martinescu	Gabriel	20160302	356100061337307|357749068237081	No
+mary.boyle@lanesgroup.com	Mary	Boyle	0		No
+mateusz.baluka@lanesgroup.com	Mateusz	Baluka	20151117	355829056076600	No
+mathew.giles@lanesgroup.com	Mathew	Giles	20151017	353749064807360|355994057331055|353749064813533	No
+mathew.street@lanesgroup.com	Mathew	Street	20151007	359150060326386	No
+mathew.tate@lanesgroup.com	Mathew	Tate	20160111	354607078378985	No
+matt.coburn@lanesgroup.com	Matt	Coburn (Drain Line)	20160129	357506058798286	No
+matt.henty@lanesgroup.com	Matt	Henty	20160115	352836063537394|354899068958039	No
+matt.hughes@lanesgroup.com	Matt	Hughes	20160302	354607078378993|353749064807758	No
+matthew.briggs@lanesgroup.com	Matthew	Briggs	20160301	356633050127867|353414075540274|352168065738873	Yes
+matthew.mackenzie@lanesgroup.com	Matthew	Mackenzie	20160301	356100061627921	No
+matthew.oddy@lanesgroup.com	Matthew	Oddy	20160303	354607078366378|359845060275380	No
+matthew.owen@lanesgroup.com	Matthew	Owen	20160301	358904055303292|359435050225833|353222065164058|358188054848248|359642050728290	No
+matthew.philpott@lanesgroup.com	Matthew	Philpott	20150728	356100061630016	No
+matthew.reid@lanesgroup.com	Matthew	Reid	20160218	357011070395575	No
+matthew.smith@lanesgroup.com	Matthew	Smith	20160303	355922070790130|353414075540670	No
+matthew.strike@lanesgroup.com	Matthew	Strike	20160218	354607078155201	No
+matthew.weedon@lanesgroup.com	Matthew	Weedon	20160302	357011070519570	No
+matthew.wells@lanesgroup.com	Matthew	Wells	20160302	356100061628713	No
+matthew.welsh@lanesgroup.com	Matthew	Welsh	20160225	355828069891583	No
+matthew.wood@lanesgroup.com	Matthew	Wood	20160303	356100061337265	No
+mbtankering1@lanesgroup.com	MB Tankering	1	0		No
+mehreen.arshad@lanesgroup.com	Mehreen	Arshad	20151205		No
+mel.hewitt2@lanesgroup.com	Mel	Hewitt Snr  (Grisedale)	20150813	359919055011579|357264061561222|355583069005896	No
+melissa.aitken@lanesgroup.com	melissa	aitken	20160226		No
+melissa.knott@lanesgroup.com	Melissa	Knott	20160222		No
+melvin.hicks@lanesgroup.com	Melvin	Hicks (CB)	20160302	359044063014026|359919057662239|357255064678393|356768067414344|358307051290887|359919057594739	No
+mentor.hamdia@lanesgroup.com	Mentor	Hamdia (CB)	20150421		No
+michael.barnes@lanesgroup.com	Michael	Barnes	20160302	359435051505472	No
+michael.berdains@lanesgroup.com	Michael	Berdains	20160301	355922070857707|354607078378977	No
+michael.clarke2@lanesgroup.com	Michael	Clarke2	20160303	356100061636922	No
+michael.clarke@lanesgroup.com	Michael	Clarke	20160303	356100061633960	Yes
+michael.clayton@lanesgroup.com	Michael	Clayton	20160225	356100061337661|359544058279849|354720056914372	Yes
+michael.constandinou@lanesgroup.com	Michael	Constandinou	20160228	353801065701330|352168065736653|357800057675847	No
+michael.fernley@lanesgroup.com	Michael	Fernley (CB)	20160216	356100061632582	No
+michael.forker@lanesgroup.com	Michael	Forker (CB)	20160302	359919057662239|359044063017805|359919058552256|351708075240021|359044063018225|359919058509926	No
+michael.fosbrook@lanesgroup.com	Michael	Fosbrook	20160101	356100060575428|355172056700352|352376051570362|356843054916443|355829056083333	No
+michael.foster@lanesgroup.com	Michael	Foster (FM)	20160302	359519063740282	No
+michael.hardy@lanesgroup.com	Michael	Hardy	20160302	352168065833179|352376051585287|357197056951174|355829059322209|359150060260171|354916056082257|352376054286040|353414071732867	Yes
+michael.kirby@lanesgroup.com	Michael	Kirby	20160217	359877069340071	No
+michael.mccann@lanesgroup.com	Michael	McCann	20160227	357558061735409	No
+michael.murray@lanesgroup.com	Michael	Murray	20160216	355994056355956|357506053216698|359544054135409|353749065924289	No
+michael.oleary@lanesgroup.com	Michael	O'Leary	20160225	359845060433559	No
+michael.rowland@lanesgroup.com	Michael	Rowland	20160224	359435057074283	No
+michael.stevens@lanesgroup.com	Michael	Stevens	20160121	359845060509325	No
+michael.walker@lanesgroup.com	Michael	Walker	20160303	357749063849054|356100061633309	No
+michaelkirby@lanesgroup.com	michael	kirby Haul-it	20150616		No
+michaelsaunders@lanesgroup.com	michael	saunders Haul-it	20150603	353750067602733	No
+michelle.cini@lanesgroup.com	Michelle	Cini	20160303		No
+michelle.fear@lanesgroup.com	Michelle	Fear	20160229		No
+michelle.ringland@lanesgroup.com	Michelle	Ringland	20160114		No
+mick.cooper@lanesgroup.com	Mick	Cooper	20160303	359660061486336	No
+mick.downey@lanesgroup.com	Mick	Downey (Grisedale)	20150608	355583068993654	No
+mick.tutton@lanesgroup.com	mick	tutton	20160225	353609078642015	No
+mickey.bunce@lanesgroup.com	Mickey	Bunce (CBJV)	20160302	356768067429599|354201075615555|355583066222254|355847054605170|353974078931762|359044060674244	No
+micky.hunt@lanesgroup.com	Micky	Hunt (CB)	20160222	354201072948793	No
+miguel.galvao@lanesgroup.com	Miguel	Galvao	20160226	356100061634729|355829056077244|356100061628838|356633054318314	No
+mihal.slusariuc@lanesgroup.com	Mihal	Slusariuc (CB)	20160303	354201075616017	No
+mike.aston@lanesgroup.com	Mike	Aston (Grisedale)	20150925	357264061563699	No
+mike.bampton@lanesgroup.com	Mike	Bampton	20160301	353749064807030	No
+mike.chaplin@lanesgroup.com	Mike	Chaplin	20160111	354899067043213	No
+mike.mayers@lanesgroup.com	Mike	Mayers	0		No
+mike.parsons@lanesgroup.com	Mike	Parsons	20160303	359660061485981	No
+miles.shanahan@lanesgroup.com	Miles	Shanahan (CBJV)	20160229	352605054853213|354505052361649|358307057219203	No
+miranda.colwill@lanesgroup.com	Miranda	Colwill	20160303		No
+miraslaw.pasztaleniec@lanesgroup.com	Miraslaw	Pasztaleniec	20160113	355922071075051	No
+mircea.bilan@lanesgroup.com	Mircea	Bilan	20160227	353609078697175	No
+mirceabalan@lanesgroup.com	mircea	balan Haul-it	20160223	352999064329888|358188055063334	No
+miroslav.georgiev@lanesgroup.com	Miroslav	Georgiev	20160108	354607078305467	No
+miroslaw.punko@lanesgroup.com	Miroslaw	Punko	20160213	355829056082301|352376054284698|355449059943977|352376056038266	No
+misbah.naeem@lanesgroup.com	Misbah	Naeem	20160303	353749068607097	Yes
+mitchell.davis@lanesgroup.com	Mitchell	Davis	20160226	359845060253528	No
+mitchell.haime@lanesgroup.com	Mitchell	Haime	20160302	353414075542080	No
+modestas.stankevicius@lanesgroup.com	Modestas	Stankevicius (CB)	20150420		No
+mohamed.rejue@lanesgroup.com	Mohamed	Rejue	20160302	353609078840924	No
+mohammad.tazim@lanesgroup.com	Mohammad	Tazim	20160303	353414075540928	No
+mohammed.malik@lanesgroup.com	Mohammed	Malik	20160224		No
+mohammed.miah@lanesgroup.com	Mohammed	Miah	20160220	356100061633218	No
+monalisha.rout@lanesgroup.com	Monalisha	Rout	20160303		No
+morgan.blood@lanesgroup.com	Morgan	Blood	0		No
+morland.sinclair@lanesgroup.com	Morland	Sinclair	20151116	353414075539334	No
+mounzer.elhouseini@lanesgroup.com	Mounzer	ElHouseini (CBJV)	20160302	354912056175613|354912058145374|354912058678937|357255065289802	No
+mts1@lanesgroup.com	MTS	1	20151006	353414075540647	No
+mts2@lanesgroup.com	MTS	2	20151005	353414075540621	No
+mts3@lanesgroup.com	MTS	3	20151006	353414075542122	No
+mts4@lanesgroup.com	MTS	4	20151005	353414075540852	No
+mts5@lanesgroup.com	MTS	5	20151012	353414075543864	No
+mts6@lanesgroup.com	MTS	6	0		No
+mts7@lanesgroup.com	MTS	7	0		No
+muhammad.butt@lanesgroup.com	Mohammad	Butt	20160301		No
+muhammed.isufi@lanesgroup.com	Muhammed	Isufi (CB)	20160302	355583066222304	No
+muhammed.khan@lanesgroup.com	Muhammed	Khan	20150904	357800057676167	No
+nadeem.khan@lanesgroup.com	Nadeem	Khan	20160226	355922071075382|355922070850678	No
+nashtar.ghuman@lanesgroup.com	Nashtar	Ghuman (CB)	20160303	356100061632475|359044063013911|359919057586412|357255065477274|358307051290887|354201073776490	No
+natasha.holwell@lanesgroup.com	Natasha	Holwell	0		No
+nathan.burrell@lanesgroup.com	Nathan	Burrell	20160229	354607078155532	No
+nathan.harris@lanesgroup.com	Nathan	Harris (UKDN)	20160303	353414075540803|353749062609065	No
+nathaniel.johnson@lanesgroup.com	Nathaniel	Johnson	20160223	354607078104308	No
+nathaniel.stewart@lanesgroup.com	Nathaniel	Stewart	20151005	353414075542205	No
+nayem.malik@lanesgroup.com	Nayem	Malik	20160114	354607078361627	No
+ne.holidayrequest@lanesgroup.com	North East	Holiday Request	20160218		No
+ne.vehiclesandequipment@lanesgroup.com	NE	VehiclesandEquipment	20160302		No
+neelam.kapoor@lanesgroup.com	Neelam	Kapoor	20160303	353514061622984	No
+neil.bradford@lanesgroup.com	Neil	Bradford	0		No
+neil.hough@lanesgroup.com	Neil	Hough	20150123	354899067043312	No
+neil.knott@lanesgroup.com	Neil	Knott	20160302	359150060244589|356100061637193|359845060275380|356761060446769|353749064808533|358188051497973|358187050608879	No
+neil.lewis@lanesgroup.com	Neil	Lewis	20150921	354899067043205	No
+neil.sibley@lanesgroup.com	neil	sibley	20151202		No
+neil.smith@lanesgroup.com	Neil	Smith	20160302	354607078366253	No
+neil.talbott@lanesgroup.com	Neil	Talbott	20160302	353749064815157|356100061633119	No
+netheridge@lanesgroup.com	Netheridge	Netheridge	20160303	354899068957916|358018066202193	No
+nicholas.quenten@lanesgroup.com	Nicholas	Quenten	0		No
+nicholas.quinton@lanesgroup.com	Nicholas	Quinton	20150930	353414075542056	No
+nick.carter@lanesgroup.com	Nick	Carter	20160303	352376056784844|357378059052315|356100061633168|359090043942513	No
+nick.griffin@lanesgroup.com	Nick	Griffin	20160302	359544058280490|356100061633267|352745061161505|359150060268620	No
+nick.nabney@lanesgroup.com	Nick	Nabney (CB)	20150910		No
+nick.smeed@lanesgroup.com	Nick	Smeed (FM Conway)	20160221	352318064755549|352735065728789|354201075094744	No
+nick.titcombe@lanesgroup.com	Nick	Titcombe (FM Conway)	20160224	358853053764486	No
+nick.wood@lanesgroup.com	Nick	Wood (Fm Conway)	20150622	352318065227282	No
+nicky.graham@lanesgroup.com	Nicky	Graham	20160303	353749064815017	No
+nicolae.ameriei@lanesgroup.com	Nicolae	Ameriei (Fm Conway)	20160225	359519063747071|352735065725843	No
+nicole.morten@lanesgroup.com	Nicole	Morten	20160229		No
+nigel.bullen@lanesgroup.com	Nigel	Bullen	20151108	358188051957646|352168065738519|356100061629828	No
+nigel.peaks@lanesgroup.com	Nigel	Peaks	20160303	356100061634745	No
+noblue@lanesgroup.com	no	blue	20160303	353255062093169	No
+nolan.symons@lanesgroup.com	Nolan	Symons	20160301	359150060267291|356100061633630	Yes
+olly.phillips@lanesgroup.com	Olly	Phillips	20151117	359660061486120	No
+olusegun.oladejo@lanesgroup.com	Olusegun	Oladejo	20160303	353609078760593	No
+pamfil.carstean@lanesgroup.com	Pamfil	Carstean (CB)	20160302	354201075616041|357255063248545|357255065471319	No
+pantalis.pourikis@lanesgroup.com	Pantalis	Pourikis (CB)	20151021		No
+paraic.hernon@lanesgroup.com	Paraic	Hernon (CBJV)	20160302	355847054440040|356768067588113|359044063013853	No
+paraic.odonnell@lanesgroup.com	Paraic	O'Donnell	20160201	359044062960781|355847054909366|352960065878885	No
+parminder.jaswal@lanesgroup.com	Parminder	Jaswal	20160218		No
+pat.kelly@lanesgroup.com	Pat	Kelly	20140919	354912058152388|352605054852959|358044058185360	No
+pat.todd@lanesgroup.com	Pat	Todd	20150812		No
+patrick.brace@lanesgroup.com	Patrick	Brace	20160302	353414075541827|353609078642114	No
+patrick.davis@lanesgroup.com	Patrick	Davis	20160302	357460063903491	No
+patrick.whelan@lanesgroup.com	Patrick	Whelan (Drain Line)	20150528	357506058800462	No
+patsy.keyes@lanesgroup.com	Patsy	Keyes (CBJV)	20160303	354912058151885|358307057219427|357255065477274	No
+paul.anderson@lanesgroup.com	Paul	Anderson	20160210	356100069356242|357749060496305|353749064807881|356761060442388	No
+paul.billham@lanesgroup.com	Paul	Billham	20160303	357011070441932	No
+paul.blackwell@lanesgroup.com	Paul	Blackwell	20160302	356100061637359|356100061634836|356100061634919|356100061632434	No
+paul.bough@lanesgroup.com	Paul	Bough	20160303	356100061634414	No
+paul.butcher@lanesgroup.com	Paul	Butcher	20160227	354607078365917	No
+paul.chilvers@lanesgroup.com	Paul	Chilvers	20160229	356100061634794	No
+paul.cosgrove@lanesgroup.com	Paul	Cosgrove (CB)	20160302	357255064678062|357255063247885	No
+paul.edwards@lanesgroup.com	Paul	Edwards	20160302	352376051755716|355994056323301|352745061161430|355829056076360|354505059495382|356100060620828	Yes
+paul.fairchild@lanesgroup.com	Paul	Fairchild	20160303	353609078699403	No
+paul.ferncombe@lanesgroup.com	Paul	Ferncombe (CBJV)	20160303	359044063014141|356768067588311|353974078926507|356260053108395|355847054604009	No
+paul.fitchett@lanesgroup.com	Paul	Fitchett	20150928	353749064807360	No
+paul.grove@lanesgroup.com	Paul	Grove	20160217	358188058177008|359521068835141|352168065738956	No
+paul.harvey@lanesgroup.com	Paul	Harvey(Cleansafe)	20160223	357800058793888	No
+paul.hill@lanesgroup.com	Paul	Hill	20160303	359660061486179	No
+paul.jagger@lanesgroup.com	Paul	Jagger	20151026	353414075542007	No
+paul.johnson@lanesgroup.com	Paul	Johnson	20151112	354899068960217	No
+paul.jones@lanesgroup.com	Paul	Jones	20151210		No
+paul.mannix@lanesgroup.com	Paul	Mannix	0		No
+paul.mcgrath@lanesgroup.com	Paul	McGrath (CBJV)	20150605	352374050451585|354912058153139|358307051290887|354505052361755|355583068992490|354505059539338	No
+paul.mcquade@lanesgroup.com	Paul	McQuade	20160229		No
+paul.mursell@lanesgroup.com	Paul	Mursell	20160302	353609078651115|354607078154865	No
+paul.nicholson@lanesgroup.com	Paul	Nicholson	20160303	357011070519398	No
+paul.puzey@lanesgroup.com	Paul	Puzey	20160302	359877069492112	No
+paul.slade@lanesgroup.com	Paul	Slade	20160212	357255065477019	No
+paul.stanley@lanesgroup.com	Paul	Stanley	20160226	356100060620703|356100060620398	No
+paul.terry@lanesgroup.com	Paul	Terry	20150629	359660061486112	No
+paul.vallack@lanesgroup.com	Paul	Vallack (Flexi waste)	20160302	353328057405332	No
+paul.walker@lanesgroup.com	Paul	Walker	20160301	359660061486088	No
+paul.walters@lanesgroup.com	Paul	Walters (Grisedale)	20150628	355583068993738	No
+paul.ward@lanesgroup.com	Paul	Ward	20160302	353414075541983	No
+paula.walker@lanesgroup.com	Paula	Walker	20151108		No
+pauline.gayle@lanesgroup.com	pauline	gayle	20160303	353749064380723|356100061628036|4300a117ba2890fb|356100061628705|353749064807964|359877061429666	No
+pavinder.jutla@lanesgroup.com	Pavinder	Jutla	20160221		No
+pawel.bartos@lanesgroup.com	Pawel	Bartos	20160224	359877069336830	No
+pawel.garczynski@lanesgroup.com	Pawel	Garczynski	20160302		No
+pawel.hamerski@lanesgroup.com	Pawel	Hamerski	20160303	358307050325445|356100060622865|352745061161513|357197053782903|352376056785270|352376051570263	No
+pawel.jaworski2@lanesgroup.com	Pawel	Jaworski2	20160303	353414075542049	No
+pawel.wilk@lanesgroup.com	Pawel	Wilk	20160216	353609078840999|352168065738055	No
+perry.greenaway@lanesgroup.com	Perry	Greenaway	20160303	353749064807857	No
+perry.hayden@lanesgroup.com	Perry	Hayden	20160225	353609078699379	No
+perry.nicola@lanesgroup.com	Perry	Nicola	20160303	358904056426332|356100061337273|352376054288889|354793052833029|353721058258579|352376057103127|352376051570396|355994056355956	Yes
+perry.wiseman@lanesgroup.com	Perry	Wiseman	20151031	353414075542007	No
+petar.radeu@lanesgroup.com	Petar	Radeu	20160303	359877069337184	No
+pete.hearn@lanesgroup.com	Pete	Hearn	20160223	354899068957775	No
+pete.owen@lanesgroup.com	Pete	Owen	20160303	354899067043031|359660061486377	No
+pete.taylor@lanesgroup.com	Pete	Taylor	20160223	359660061486021|359660061486302	No
+peter.adams@lanesgroup.com	Peter	Adams	20160301	359660061486526	No
+peter.carey@lanesgroup.com	Peter	Carey (CB)	20160302	352215063531584	No
+peter.carter@lanesgroup.com	Peter	Carter	20160302	353818059061802|355829059322076|352376051750014	No
+peter.church@lanesgroup.com	Peter	Church	20160302	357011070371113	No
+peter.crawford@lanesgroup.com	Peter	Crawford	20160303	358904057027881|359921056458783	No
+peter.evans@lanesgroup.com	Peter	Evans (Drain Line)	20150813	357506058765897|357506058800744|352745064037157|355589061501311	No
+peter.hambridge@lanesgroup.com	Peter	Hambridge	20150910	356100061630107	No
+peter.heveran@lanesgroup.com	Peter	Heveran (CBJV)	20160302	355847054603639|356768067426546|359044063017805|352374050452211|359044063014810|359919057586412|354505052361755|352605051168854	No
+peter.jackson@lanesgroup.com	Peter	Jackson (Grisedale)	20150714	355583069006027|355583069003800	No
+peter.looker@lanesgroup.com	Peter	Looker (Grisedale)	20150620	355583069003800	No
+peter.mcmanus@lanesgroup.com	Peter	McManus (Grisedale)	20151114	355583069006076	No
+peter.sekiewicz@lanesgroup.com	Peter	Sekiewicz (NRW)	20160302	353749064809705	No
+petrica.luncan@lanesgroup.com	Petrica	Luncan (CB)	20160215	357255065475757	No
+petrit.doda@lanesgroup.com	Petrit	Doda (CB)	20160302	352215063532244|359919058552108	No
+petru.arnautu@lanesgroup.com	Petru	Arnautu (CB)	20160226	354201071492744	No
+petru.tontea@lanesgroup.com	Petru	Tontea (JB)	20160226		No
+phil.beard@lanesgroup.com	Phil	Beard	20160222	359435054048934|356100061337216|359435051505738|359435051505787	No
+phil.hulme@lanesgroup.com	Phil	Hulme	0		No
+phil.jose@lanesgroup.com	Phil	Jose	20160301	359778048139719|356100060573977|357749065938095|355449059943977	No
+phil.kusalewicz@lanesgroup.com	Phil	Kusalewicz	20160302	353166059324352|356096058214931|356633052747621|352376057099069|356100061629968	No
+phil.turner@lanesgroup.com	Phil	Turner	20160209	359150060302072	No
+philip.bowers@lanesgroup.com	Philip	Bowers	20160303	352168065738550	No
+philip.fernandez@lanesgroup.com	Philip	Fernandez	20160302	359845060476814	No
+philip.foster@lanesgroup.com	Philip	Foster	20160303	359150060326832	Yes
+philip.hamer@lanesgroup.com	Philip	Hamer	20160226	359660061486401	No
+philip.marshall@lanesgroup.com	Philip	Marshall	20160114	356100061627822	No
+phillip.gaden@lanesgroup.com	Phillip	Gaden	20160303	356100061635171	No
+piotr.chrzanowski@lanesgroup.com	Piotr	Chrzanowski	20160214	359435054859546	No
+piotr.misztu@lanesgroup.com	Piotr	Misztu	20160223	353414075540175	No
+piotr.sikora@lanesgroup.com	Piotr	Sikora	20160303	357255067379379	No
+poinfo@lanesgroup.com	Purchase Order	Information	20150803		No
+pollution.control@lanesgroup.com	Pollution	Control	20151127	358263054481801	No
+pre-escalation@lanesgroup.com	Pre	Escalation	20160302		No
+prem.jetwani@lanesgroup.com	Prem	Jetwani	20160303		No
+qasim.hayat@lanesgroup.com	Qasim	Hayat	20160302		No
+rachel.duddy@lanesgroup.com	Rachel	Duddy	20160302	352376051749487|359544058280490|353719056766718|359150060335353	No
+rafal.bukowski@lanesgroup.com	Rafal	Bukowski	20160303	357011070519422	No
+rafal.bula@lanesgroup.com	Rafal	Bula (CBJV)	20150927		No
+rafal.ramza@lanesgroup.com	Rafal	Ramza	20150706	356100061633648	No
+rahat.ali@lanesgroup.com	Rahat	Ali	20160301	352612066018934	No
+rainbow1@lanesgroup.com	Rainbow	1	0		No
+rainbow2@lanesgroup.com	Rainbow	2	0		No
+rainbow3@lanesgroup.com	Rainbow	3	0		No
+raja.rehman@lanesgroup.com	Raja	Rehman	20160303		No
+rajinder.rajput@lanesgroup.com	Rajinder	Rajput	20160224	357011070519380	No
+rajpreet.dosanjh@lanesgroup.com	Rajpreet	Dosanjh	20160303		No
+rakhee.bhargava@lanesgroup.com	Rakhee	Bhargava	20160303	351886068808077	No
+ray.ballantyne@lanesgroup.com	Ray	Ballantyne	20160303	353749064808319|355449054757059|352836065302151|353328053510424|353726062513323|354244051074272|357378056864845|356100061633630|356761060614796	No
+ray.cullan@lanesgroup.com	Ray	Cullan	20160225		No
+ray.jagatia@lanesgroup.com	Ray	Jagatia	20160303		No
+ray.smith@lanesgroup.com	Ray	Smith	20160229	356100061634406	No
+raymond.gurdon@lanesgroup.com	Raymond	Gurdon	20160229	359845060326134	No
+raymond.martin@lanesgroup.com	Raymond	Martin	20160302	357800058795107|352376051622973|354912050579141|355829056076345	No
+rhys.chilton@lanesgroup.com	Rhys	Rhys	20160218	353609078840619	No
+rhys.logue@lanesgroup.com	Rhys	Logue	20160216	357011070370974	No
+ricardo.garcia@lanesgroup.com	Ricardo	Garcia	20160222		No
+rich.king@lanesgroup.com	Rich	King	0		No
+rich.muggleton@lanesgroup.com	Rich	Muggleton	0		No
+rich.palmer@lanesgroup.com	Rich	Palmer	20150422	354899067043239	No
+richard.allen@lanesgroup.com	Richard	Allen	20151104	354899067043312|354899068957684|354899068957577	No
+richard.cox@lanesgroup.com	Richard	Cox	20140513	353166056571450	No
+richard.dacres-sam@lanesgroup.com	Richard	Dacres-Sam	20160301		No
+richard.dunleavy@lanesgroup.com	Richard	Dunleavy	20160301	354607078154378	No
+richard.haskell@lanesgroup.com	Richard	Haskell	0		No
+richard.howard@lanesgroup.com	Richard	Howard	20160302	356096058208768|356100061637391|359544054327501|352376051755807	No
+richard.joliffe@lanesgroup.com	Richard	Joliffe (FM Conway)	20150702		No
+richard.king@lanesgroup.com	Richard	King	20160118	356100060427588|356100061633069	No
+richard.lazell@lanesgroup.com	Richard	Lazell	20160227	356100061629125|359150060254653	Yes
+richard.lewis@lanesgroup.com	Richard	Lewis	20160222	352168065739434|4b67ae7a	No
+richard.parker@lanesgroup.com	Richard	Parker	20150618	358904056500136	No
+richard.parsons@lanesgroup.com	Richard	Parsons	20160225	359150060254760|359150060335023|353609078561546	No
+richard.roberts@lanesgroup.com	Richard	Roberts	20160303	358904059011867|353749064808079	No
+richard.russell@lanesgroup.com	Richie	Russell	20160303	357221061348547	No
+richard.smith@lanesgroup.com	Richard	Smith	20151213	357800057676803	No
+richard.stenson@lanesgroup.com	Richard	Stenson	20160302	355922071064717|353295060969549	No
+richella.rodgers@lanesgroup.com	Richella	Rodgers	20160220		No
+rifana.parveen@lanesgroup.com	Rifana	Parveen	20150825		No
+rob.darby@lanesgroup.com	Rob	Darby	20160216	354899068957999	No
+rob.evans@lanesgroup.com	Rob	Evans	20151001	356100061634679	No
+rob.fitzpatrick@lanesgroup.com	Rob	Fitzpatrick (Grisedale)	20150519	355583068993936	No
+rob.presneill@lanesgroup.com	Rob	Presneill	20160303	359353062499421	No
+robert.beswick@lanesgroup.com	Robert	Beswick	20160301		No
+robert.hyslop@lanesgroup.com	Robert	Hyslop (BM Tankering)	20160302	355599051808550|355599051808717|354201076130125|358537043397115	No
+robert.james@lanesgroup.com	Robert	James	20160224	359150060261583	No
+robert.kirkman@lanesgroup.com	Robert	Kirkman	20160303	356100061632509	No
+robert.palmer@lanesgroup.com	Robert	Palmer	0		No
+robert.prenzil@lanesgroup.com	Robert	Prenzil (CBJV)	20150710	354912051471058|357255063247885	No
+robert.savory@lanesgroup.com	Robert	Savory	20160303	352376051316881|352745061161364|352376051572608|356100061629091|353749064812568|354793053703957	No
+robert.szekeres@lanesgroup.com	Robert	Szekeres (Flexiwaste)	20160209	351941065255275|353748067754553	No
+robert.walker@lanesgroup.com	Robert	Walker	20160303	356100061637300	No
+robert.zajac@lanesgroup.com	Robert	Zajac (Grisedale)	20160121	353686062858781	No
+robin.mansell@lanesgroup.com	Robin	Mansell	20160302	359845060509325	No
+robyn.hammond@lanesgroup.com	Robyn	Hammond	20160301		No
+rodney.wearing@lanesgroup.com	Rodney	Wearing	20160302	359150060330594	No
+roger.mallion@lanesgroup.com	Roger	Mallion	20150622	357800057677058	No
+roland.leslie@lanesgroup.com	Roland	Leslie	20160229	354899067042330|359660061486435|354899067042017	No
+romel.long@lanesgroup.com	Romel	Long	20160128	355922070863457	No
+ronnie.winterflood@lanesgroup.com	Ronnie	Winterflood	20160219	357749064140693|356100061634703|352168065737941|356100061637102|356100061633754	No
+rosa.caballero@lanesgroup.com	Rosa	Wilk	20160222	357378056864118|359845060460677	No
+rowena.fletcher@lanesgroup.com	Rowena	Fletcher	20160226	359150060268802	No
+roy.rodgers@lanesgroup.com	Roy	Rodgers (CB)	20150421		No
+ruben.daniel@lanesgroup.com	Ruben	Daniel	20150804	359845060439218	No
+russell.gardner@lanesgroup.com	Russell	Gardner	20160302	354734065979722|358307057292036|355994057677325|352168065739723|357197053782903|352168065738337|352836064017867	No
+ryan.benfield@lanesgroup.com	Ryan	Benfield	20160303	356100061629125|356100061632467|353749064807618	No
+ryan.curle@lanesgroup.com	Ryan	Curle	20160303	352168065739830|357506055112804|357139051195696|352836063535224	No
+ryan.drennan@lanesgroup.com	Ryan	Drennan	0		No
+ryan.hitchcock@lanesgroup.com	Ryan	Hitchcock (Grisedale)	20150630	355583069006092	No
+ryan.hodgson@lanesgroup.com	Ryan	Hodgson	20160303	353749063706902|352836063535224|353726065653365|356100060620679|357800053326841|359642052230642	No
+ryan.mackie@lanesgroup.com	Ryan	Mackie (FM Conway)	20151025	352735065725892|352735065725678	No
+ryan.marks@lanesgroup.com	Ryan	Marks	20160303	353749064817674	No
+ryan.mascurine@lanesgroup.com	Ryan	Mascurine	20160122	355922071075663	No
+ryan.penedo@lanesgroup.com	Ryan	Penedo	20160229	356100061629869|354607078154865	No
+ryan.spence@lanesgroup.com	Ryan	Spence	20151204	353414075541926	No
+sabah.hasmujaj@lanesgroup.com	Sabah	Hasmujaj (CB)	20160201	354747072363029	No
+salik.younas@lanesgroup.com	Salik	Younas	20150828		No
+sam.ford@lanesgroup.com	Sam	Ford	20160220	356100061628002|357749064610315|357377054251732|354734065257756	No
+sam.german@lanesgroup.com	Sam	German	20160227	356100061630040	No
+sam.glazebrook@lanesgroup.com	Sam	Glazebrook	20160301	354899067043221	No
+sam.stallwood@lanesgroup.com	Sam	Stallwood	20160303	356100061636922|356100061628697	No
+samantha.apps@lanesgroup.com	Samantha	Apps	20160302	356100061629869|359778048723603|356100061635205	No
+samantha.banner@lanesgroup.com	Samantha	Banner	20160303	356765068752060|354607078379058	No
+samantha.mceleny@lanesgroup.com	Samantha	McEleny	0		No
+sameer.bali@lanesgroup.com	Sameer	Bali	20160303	353687069225917	No
+samuel.aton@lanesgroup.com	Samuel	Aton	20160229	356100061633788	No
+samuel.chisholme@lanesgroup.com	Samuel	Chisholme	20160302	359435054049007|359544054134915|353750066514533|356100061632756|358904056444632|357800051842302	No
+samuel.forde@lanesgroup.com	Samuel	Forde (Flexi)	20160125	353008075701371	No
+samuel.romano@lanesgroup.com	Samuel	Romano	20160301	353749060855652|359877069338729	No
+sandeep.singhlally@lanesgroup.com	Sandeep	Singh Lally	20151216	354607078154956	No
+sandra.lipowska@lanesgroup.com	Sandra	Lipowska	20160303		No
+sanita.ballagan@lanesgroup.com	Sanita	Ballagan	20160224	357011070391814	No
+santosh.kaur@lanesgroup.com	Santosh	Kaur	20151109		No
+sapphire.14@lanesgroup.com	Sapphire	14	20160227	356258071700821	No
+sapphire.civil13@lanesgroup.com	Sapphire	Civil13	0		No
+sapphire.civils5@lanesgroup.com	sapphire	civil5	20160302	356258071700805	No
+sapphire.civils6@lanesgroup.com	sapphire	civils6	20160302	356258071701514	No
+sapphire.civils7@lanesgroup.com	sapphire	civils7	20160303	356258071702082	No
+sapphire.civils8@lanesgroup.com	sapphire	civils8	20160303	356258071701449	No
+sapphire10@lanesgroup.com	Sapphire	10	20160225	353609078641207	No
+sapphire11@lanesgroup.com	Sapphire	11	20151209	353609078651883	No
+sapphire12@lanesgroup.com	Sapphire	12	20160301	353609078696854	No
+sapphire1@lanesgroup.com	Sapphire	1	20160227	359877069340204|352836065296858|356100061305106	No
+sapphire2@lanesgroup.com	Sapphire	2	20160303	357139050279699|357800055392502|359877069347639	No
+sapphire5@lanesgroup.com	Sapphire	5	20160226	353414075541116	No
+sapphire6@lanesgroup.com	Sapphire	6	20151105	353414075543609|353749065492865	No
+sapphire7@lanesgroup.com	Sapphire	7	20160224	353414075543336	No
+sapphire8@lanesgroup.com	Sapphire	8	20160222	353414075540274|353414075542056	No
+sapphire9@lanesgroup.com	Sapphire	9	20151126	359845060286908	No
+sarah.hurcomb@lanesgroup.com	Sarah	Hurcomb	20151009	359642052239452|356100061337331	No
+sarah.simmons@lanesgroup.com	Sarah	Simmons (Sapphire)	20160225	354607078155409	No
+saul.blackwell@lanesgroup.com	Saul	Blackwell	20160212	357011070395591	No
+scott.aitkin@lanesgroup.com	Scott	Aitkin (BM Tankering)	20160223	355599051808550|355599051808717|358634060445669	No
+scott.baskett@lanesgroup.com	Scott	Baskett	20160221	356100061638001	No
+scott.deegan@lanesgroup.com	Scott	Deegan (Drain Line)	20150720	357506058765897	No
+scott.george@lanesgroup.com	Scott	George	20151229	354607078104308	No
+scott.hewitt@lanesgroup.com	Scott	hewitt	20160303	356100061633184|351886060766901|357378050140119|354784058005290|359150060337177|352376051572350|352376051572152|353975058866308|355994056356020	Yes
+scott.meakins@lanesgroup.com	Scott	Meakins	20160303	353749068606750	No
+scott.mimms2@lanesgroup.com	Scott	Mimms2	20150906	357800057678593	No
+scott.newton@lanesgroup.com	Scott	Newton	20160208	356100061633671|354734065166379	No
+scott.parker@lanesgroup.com	Scott	Parker	20151109	353609078641769	No
+scott.pocock@lanesgroup.com	Scott	Pocock	20160228	353609078641769	No
+scott.saunders@lanesgroup.com	Scott	Saunders	20151223	354607078379306	No
+scott.white@lanesgroup.com	Scott	White	20160224	353609078759702	No
+scott.wiggins@lanesgroup.com	Scott	Wiggins	20160303	352605059375725|354201071390864	No
+se.enabling@lanesgroup.com	South East	Enabling	20151230		No
+se.holidayrequest@lanesgroup.com	South East	Holiday Request	20160302		No
+se.hydrants@lanesgroup.com	Se	Hydrants	20160223		No
+se.vehicles@lanesgroup.com	se	vehicles	20160223		No
+sean.bailey@lanesgroup.com	Sean	Bailey	20151223	354607078154915	No
+sean.bugbee@lanesgroup.com	Sean	Bugbee	20160301		No
+sean.carter@lanesgroup.com	Sean	Carter	20160220		No
+sean.conway@lanesgroup.com	Sean	Conway (CBJV)	20151209	352944052452177	No
+sean.devlin@lanesgroup.com	Sean	Devlin (CB)	20160302	357255065471681|352605054853304	No
+sean.doherty@lanesgroup.com	Sean	Doherty (CB)	20151108	358853053266037|355583066881786|356035057734481	No
+sean.gingell@lanesgroup.com	Sean	Gingell	20160302	357011070441049	No
+sean.howard@lanesgroup.com	Sean	Howard	20160129	355922070790213	No
+sean.kellaway@lanesgroup.com	Sean	Kellaway	20160302	353414075539540	No
+sean.murphy@lanesgroup.com	Sean	Murphy	20160303	356100061632491|356100061633879|359544058279906	No
+sean.randall@lanesgroup.com	Sean	Randall	20150813	356100061634984	No
+sean.wood@lanesgroup.com	Sean	Wood	20141216	352168065737651	No
+sergio.vilelas@lanesgroup.com	Sergio	Vilelas	20151031	359877069361986|359877060515861	No
+serigo.pasoa@lanesgroup.com	Serigo	Pasoa	20150911		No
+shahid.razzaq@lanesgroup.com	Shahid	Razzaq	20160226		No
+shakur.hassan@lanesgroup.com	Shakur	Hassan	20160211		No
+shalini.singh@lanesgroup.com	Shalini	Singh	20160301		No
+shameel.rahman@lanesgroup.com	Shameel	Rahman	20160229	352376051622593|356633054118417|355310040392478	No
+shamila.rehman@lanesgroup.com	Shamila	Rehman	20160226		No
+shamir.gangera@lanesgroup.com	Shamir	Gangera	20160302	359519063741991|357011070519356|352735065725892	No
+shane.crittenden@lanesgroup.com	Shane	Crittenden	20160303	356100061627871|353749068606990	No
+shane.davis@lanesgroup.com	Shane	Davis	20160303	356633053565196|356100061637375|359877066766674|352376051572285|352376051764593|356100061632616|358018057446262|352376054289234|353414075541926	No
+shane.gibson@lanesgroup.com	Shane	Gibson	20160223	354899067041498|354899068957577	No
+shane.self@lanesgroup.com	Shane	Self	20160210	357011070519422	No
+shane.starkie@lanesgroup.com	Shane	Starkie (Grisedale)	20150620	355583069005904	No
+shane.walton@lanesgroup.com	Shane	Walton	20160301		No
+shannon.hobbs@lanesgroup.com	Shannon	Hobbs	20140420		No
+sharan.toor@lanesgroup.com	Sharan	Toor	20150923		No
+sharif.farghaly@lanesgroup.com	Sharif	Farghaly (CBJV)	20151110		No
+sharon.randall@lanesgroup.com	Sharon	Randall	20160303	355994056359602|359642056525294|357749065797673|356100060620737|358307058717213	No
+shaun.adams@lanesgroup.com	Shaun	Adams	20150531	359660061486302	No
+shaun.bennett2@lanesgroup.com	Shaun	Bennett2	20150605	359845060474058|359150060264470	No
+shaun.bennett@lanesgroup.com	Shaun	Bennett	20160209		No
+shaun.godard@lanesgroup.com	Shaun	Godard	20160203	353609078631109	No
+shaun.percy@lanesgroup.com	Shaun	Percy (Grisedale)	20150501	355583068948757	No
+shaun.somers@lanesgroup.com	Shaun	Somers	20160217	356100061629950|353609078841740	No
+shayley.nicholls@lanesgroup.com	Shayley	Nicholls	20160226	359150060300290	No
+shenika.young@lanesgroup.com	Shenika	Young	20150715		No
+sherif.abdullah@lanesgroup.com	Sherif	Abdullah (CBJV)	20160303	357255064839326|358307051291489|357255063248644	No
+shivejot.sangha@lanesgroup.com	Shivejot	Sangha	20160228		No
+shkelzen.idrizi@lanesgroup.com	Shkelzen	Idrizi (CBJV)	20160105	358307057164094	No
+si.ung@lanesgroup.com	Si	Ung	20160223		No
+sid.spicer@lanesgroup.com	SID	SPICER	20160302	356100060622741|359435054050997|359435054859702	No
+simon.barrett@lanesgroup.com	Simon	Barrett (FM Conway)	20160213	354201075095634	No
+simon.brian@lanesgroup.com	Simon	Brian	0		No
+simon.clifford@lanesgroup.com	Simon	Clifford	20150416	357800057676068	No
+simon.evans@lanesgroup.com	Simon	Evans	20151127		No
+simon.kerrigan@lanesgroup.com	Simon	Kerrigan	20160302	357011070441064|359845060476863|359150060305901	No
+siobahn.burt@lanesgroup.com	Siobahn	Burt (Sewer Bat)	20160229		No
+siva.rajaratnam@lanesgroup.com	Siva	Rajaratnam	20160301	357800057677082	No
+slavomir.punko@lanesgroup.com	Slavomir	Punko	20160126	352376051622569|356100061637243|359150060264546|359544058281449|352376054286651|356100061633077|359959043199169	No
+sonnie.ayres@lanesgroup.com	Sonnie	Ayres	20160229	359845060474082	No
+sophie.calisse@lanesgroup.com	Sophie	Calisse	20160303		No
+southeastplanning@lanesgroup.com	SouthEast	Planning	20160303		No
+ssaphwan.courdy@lanesgroup.com	Ssaphwan	Courdy	20160303	356100061634828	No
+stan.roberts@lanesgroup.com	Stan	Roberts (CBJV)	20160301		No
+standpipe@lanesgroup.com	stand	pipe	0		No
+stanley.simpson@lanesgroup.com	Stanley	Simpson	20160302	359642053234148|352376051573341|357378056862120|353721058262605|352168065737693	No
+ste.lowry@lanesgroup.com	Ste	Lowry (Grisedale)	20160301	355583068993928	No
+stelian.tudor@lanesgroup.com	Stelian	Tudor	20160302	359150060328788	No
+stephen.fuidge@lanesgroup.com	Stephen	Fuidge	20160107	354607078378977	No
+stephen.lawrence@lanesgroup.com	Stephen	Lawrence	20160218	359845060198715	No
+stephen.myall@lanesgroup.com	Stephen	Myall	20160225	357011070519836	No
+stephen.turner@lanesgroup.com	Stephen	Turner	20160303	356100061634893|356100061633143	No
+steve.allen@lanesgroup.com	Steve	Allen	20151211	354899068960225	No
+steve.bedford@lanesgroup.com	Steve	Bedford	20160228	351886068808044	No
+steve.bellis@lanesgroup.com	Steve	Steve (UKDN)	20160303	353414075542718	No
+steve.chadwick@lanesgroup.com	Steve	Chadwick	20151204	353414075540274	No
+steve.clarke@lanesgroup.com	Steve	Clarke	20151102		No
+steve.hughes@lanesgroup.com	Steve	Hughes (FM Conways)	20160217	354201073778900|359519063743252|352735065725892	No
+steve.james@lanesgroup.com	Steve	James	20160221	355922070853375	No
+steve.kent@lanesgroup.com	Steve	Kent	20151026	358853053764502	No
+steve.lambert@lanesgroup.com	Steve	Lambert	20140918	357800057676928	No
+steve.mcdermott@lanesgroup.com	Steve	McDermott	20150928	356100061629877	No
+steve.verity@lanesgroup.com	Steve	Verity	20160303		No
+steven.kim@lanesgroup.com	Steven	Kim	20160223		No
+steven.snook@lanesgroup.com	Steven	Snook	20160303	359660061486021	No
+stevie.taylor@lanesgroup.com	Stevie	Taylor	20160303	353749064808426	No
+stewart.paris@lanesgroup.com	Stewart	Paris	20150729	356100060620604	No
+stuart.blay@lanesgroup.com	Stuart	Blay	20160303	353718054996095|358188057815962|353721058251798|356100061634919|357082051837216|354912050578473|352836065301336|352376051755757|352376051570263|357800055392700|357800056058599	No
+stuart.clench@lanesgroup.com	Stuart	Clench (NRW)	20160226	353749064807386|359845060385007	No
+stuart.cowan@lanesgroup.com	Stuart	Cowan	20150926	356100061628846	No
+stuart.garrett@lanesgroup.com	Stuart	Garrett	20160303	356100061634786|359435051496532	No
+stuart.johnson@lanesgroup.com	Stuart	Johnson (CBJV)	20160303	355847054603563|352735062462721|356768067570673|352735062328864|358307059304086|359919057530535|359044063017789	No
+stuart.strathern@lanesgroup.com	Stuart	Strathern (CBJV)	20160302	354912056233636	No
+stuart.tuffey@lanesgroup.com	Stuart	Tuffey	20160303	356100061633796|356100061632582	No
+suchandra.dhar@lanesgroup.com	Suchandra	Dhar (HS)	20160303		No
+sukhpal.singh@lanesgroup.com	Sukhpal	Singh	20160223	355922070863457	No
+support@lanes-i.com	Support	Aecor	20160301		No
+suzanne.monaghan@lanesgroup.com	Suzanne	Monaghan (CB)	20160303	356768069233932	No
+sw.holidayrequest@lanesgroup.com	South West	Holiday Request	20160303		No
+tahir.hayat@lanesgroup.com	Tahir	Hayat	20160228	353414075542007	No
+tel.corbin@lanesgroup.com	Tel	Corbin	20160303	359877069340477	No
+teresa.maclean@lanesgroup.com	Teresa	Maclean	20160302	358307056680959|359845060322257|356100061337448|355829059322761	Yes
+terrance.jones@lanesgroup.com	Terrance	Jones	20160302	354607078120114	No
+terry.blackaller@lanesgroup.com	Terry	Blackaller	20151021	354201071497644	No
+terry.bodri@lanesgroup.com	Terry	Bodri (FM Conway)	20151209	352318064755549|352735065726197|352735065725884|358853053992400	No
+terry.conaghan@lanesgroup.com	Terry	Conaghan (CB)	20160105		No
+terry.gillet@lanesgroup.com	Terry	Gillet	20160303	358904057217268|352836063537394|352836061866654|353414075539631|359435054859470	No
+terry.roberts@lanesgroup.com	Terry	Roberts	20160302	359544058154117|359845060264798|352376051585501|354793052918077	Yes
+terry.smith@lanesgroup.com	Terry	Smith	0		No
+thamesvalleyplanning@lanesgroup.com	ThamesValley	Planning	20160303		No
+thameswaterjobs@lanesgroup.com	Thames Water	Jobs	20130529		No
+thomas.haines@lanesgroup.com	Thomas	Haines	20150925		No
+thomas.joyce@lanesgroup.com	Thomas	Joyce	20160115	359845060432668	No
+thomas.lawless@lanesgroup.com	Thomas	Lawless	0		No
+thomas.mcindewar@lanesgroup.com	Thomas	McIndewar (CB)	20151208		No
+thomas.white@lanesgroup.com	Thomas	White	20150706	355583066852480|352374050452146|354912058679554	No
+tim.dervish@lanesgroup.com	Tim	Dervish	20160303	353414075541918|355922071074955	No
+tim.quayson@lanesgroup.com	Tim	Quayson	20160302	357737056247733	No
+timothy.musselbruck@lanesgroup.com	Timothy	Musselbruck	20160223	356100061629794	No
+timothy.noble@lanesgroup.com	Timothy	Noble	20160214	354607078379009	No
+tinti.kuza@lanesgroup.com	Tinti	Kuza	20160303	353749064807733	No
+tobias.bastin@lanesgroup.com	Tobias	Bastin	20160302	354607078154303	No
+tom.cabanskio@lanesgroup.com	Tom	Cabanskio (CBJV)	20160301		No
+tom.chawke@lanesgroup.com	Tom	Chawke	20160120	356100061635304|353749064810000	No
+tom.cummins@lanesgroup.com	Tom	Cummins	20150807	356100061634380	No
+tom.howard@lanesgroup.com	Tom	Howard	20150202	356100061337372|356100061634802	No
+tom.kindland@lanesgroup.com	Tom	Kindland	20160301	356100061632392	No
+tom.purchell@lanesgroup.com	Tom	Purchell	20151210	359877069336855	No
+tomasz.chmieliczek@lanesgroup.com	Tomasz	Chmieliczek (CBJV)	20151012	358307056850453	No
+tomasz.emerle@lanesgroup.com	Tomasz	Emerle	20160303	352745061161927	No
+tomato.plant16@lanesgroup.com	Tomato	Plant 16	20160130	355589060250233	No
+tomato.plant17@lanesgroup.com	Tomato	Plant 17	20151209	355589060250035	No
+tomato.plant18@lanesgroup.com	Tomato	Plant 18	20160303	355589060250407	No
+tomato.plant19@lanesgroup.com	Tomato	Plant 19	20160203	355589060250472	No
+tomato.plant20@lanesgroup.com	Tomato	Plant 20	20150706	355589060250332	No
+tomato.plant21@lanesgroup.com	Tomato	Plant 21	20150810	355589060250498	No
+tomato.plant22@lanesgroup.com	Tomato	Plant	20150721	354784050582981	No
+tomato.plant23@lanesgroup.com	Tomato	Plant23	0		No
+tomato.plant24@lanesgroup.com	Tomato	Plant24	0		No
+tomato.plant25@lanesgroup.com	Tomato	Plant25	20151006	357255064838500	No
+tomato.plant26@lanesgroup.com	Tomato	Plant	20160227		No
+tomato.plant5@lanesgroup.com	Tomato	Plant 5	20140513	358654056946678	No
+tommy.warburton@lanesgroup.com	Tommy	Warburton	20160303	353749064808012	No
+tonie.potter@lanesgroup.com	Tonie	Potter	20160302	352745061161414|354436055220311|353749062315069|359544054141415	No
+tony.adam@lanesgroup.com	Tony	Adam	20160303	357634055217314|359877069338497	No
+tony.aitchison@lanesgroup.com	Tony	Aitchison	20160302	359435057076890|353222062308567|358188054848248	Yes
+tony.bates@lanesgroup.com	Tony	Bates	20160122	355922070797226	No
+tony.carter@lanesgroup.com	Tony	Carter	20160202	359660061486120	No
+tony.heron@lanesgroup.com	Tony	Heron	20150827		No
+tony.newcombe@lanesgroup.com	Tony	Newcombe	20150824	357377054251732|354793053695443|359544058154554|353749068607097|359642052396575|354720056915858|356100061627798	No
+tony.stokes@lanesgroup.com	Tony	Stokes	20150601	352735065795101	No
+tony.trembath@lanesgroup.com	Tony	Trembath (FM Conway)	20160106	359519063743302|358853053764502	No
+training.room@lanesgroup.com	Training	Room	20140515		No
+trevor.waller@lanesgroup.com	Trevor	Waller (FieldViewer)	20151117	352960065878943|357506054947143|357506054946939|359044063017896	No
+tv.holidayrequest@lanesgroup.com	Thames Valley	Holiday Request	20160303		No
+umar.ahmed@lanesgroup.com	Umar	Ahmed	20151108	353414075540910	No
+valentin.pantazi@lanesgroup.com	Valentin	Pantazi	20160303	359435057073897|359544054135128|354916052659645|359877069338604	No
+vas.cottis@lanesgroup.com	Vas	Cottis	20160120	354201071489864	No
+vasile.boboaca@lanesgroup.com	Vasile	Boboaca	20160226	352745061161679	No
+vasile.cont@lanesgroup.com	Vasile	Cont (Rail Division)	20160302	356100061627806	No
+vasile.sarbu@lanesgroup.com	Vasile	Sarbu (CB)	20160303	359919057660381	No
+victoria.burchell@lanesgroup.com	Victoria	Burchell	20151205		No
+viltjan.mustali@lanesgroup.com	Viltjan	Mustali (CB)	20150911		No
+vincent.clench@lanesgroup.com	Vincent	Clench (NRW)	20160303	353749064807956	No
+vincent.foy@lanesgroup.com	Vincent	Foy (CB)	20160211		No
+vinnie.brodie@lanesgroup.com	Vinnie	Brodie (Grisedale)	20150625	355583069004626	No
+vitor.castor@lanesgroup.com	Vitor	Castor	20160303		No
+vlaidmir.brati@lanesgroup.com	Vlaidmir	Brati	20160303	354747070989759	No
+vytautas.uscinas@lanesgroup.com	Vytautas	Uscinas (FM Conway)	20160302	352735065726114	No
+wales1@lanesgroup.com	Wales	1	20150630	359845060322257	No
+wales2@lanesgroup.com	Wales	2	20150715	359845060439218	No
+warren.haighway@lanesgroup.com	Warren	Haighway	20160303	356100061637029	No
+warren.young@lanesgroup.com	Warren	Young	20160303	355922071074971|353609078840924	No
+wasoodeo.pandoo@lanesgroup.com	Wasoodeo	Pandoo	20160302	352168065739681|357378058079251|353514061285394|352376051749487|352376051749974	No
+wayne.barber@lanesgroup.com	Wayne	Barber	20160301	354899067043163	No
+wayne.bradley@lanesgroup.com	Wayne	Bradley (FM Conway)	20151106	359519063737809	No
+wayne.cox@lanesgroup.com	Wayne	Cox	20160301	353749064807386	No
+wayne.england@lanesgroup.com	Wayne	England	20160224	352168065738790|356100061634737|353414071725911	No
+wayne.griffin@lanesgroup.com	Wayne	Griffin	20141001		No
+wayne.mitchell@lanesgroup.com	Wayne	Mitchell	20151101	357800050330481|356100061637201|359544054156223|359544058281449	No
+wayne.munro@lanesgroup.com	Wayne	Munro	0		No
+wayne.rapson@lanesgroup.com	Wayne	Rapson	20160303	353414075540464	No
+william.banner@lanesgroup.com	William	Banner	20160302	352376054288319|352376051570727|354793051868786|354607078379306|353976058304209|356100061633275|359544054133784|356633050129095|359150060299005|352376054286362|359845060456006|357378056864332|356633054318983|356100061630115	No
+william.harris@lanesgroup.com	William	Harris	20160210	359845060509325|359845060252868	No
+william.hurley@lanesgroup.com	William	Hurley (CB)	20160302	357255063248693|357255065477027|354201071390864	No
+william.ryan@lanesgroup.com	William	Ryan	20160225	355922071075697	No
+wyane.blaney@lanesgroup.com	Wyane	Blaney (CBJV)	20150421	352944052452052	No
+xhavahir.ajvazi@lanesgroup.com	Xhavahir	Ajvazi (CBJV)	20160224		No
+xhevahir.hoti@lanesgroup.com	Xhevahir	Hoti (CBJV)	20160303	355583065947398|359919058511609	No
+yani.drinkov@lanesgroup.com	Yani	Drinkov	20160303	356100061627814	No
+yasasvy.adapa@lanesgroup.com	Yasasvy	Adapa	20160212		No
+yasien.moerat@lanesgroup.com	Yasien	Moerat	20160226	359877069340253	No
+yasien.moert@lanesgroup.com	Yasien	Moert	20141119	356100061632459	No
+yasir.malik@lanesgroup.com	Yasir	Malik	20151216		No
+yosif.stremtan@lanesgroup.com	Yosif	Stremtan	20160219	353609078651115	No
+zeeshan.khan@lanesgroup.com	Zeeshan	Khan	20160302	357652060111983	No
+zishan.ayub@lanesgroup.com	Zishan	Ayub	20160220	354607078118043	No

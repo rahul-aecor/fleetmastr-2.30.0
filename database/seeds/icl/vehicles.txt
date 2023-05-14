@@ -1,0 +1,181 @@
+Registration*	Date added to fleet*	Type*	Odometer (KM/Miles)	Vehicle status*	Usage override*	Telematics*	Ownership status*	Nominated driver	Registration date	First use inspection date	Vehicle lease expiry date	P11D list price or benefit charge	Chassis number	Contract ID		Vehicle division*	Vehicle region*	Vehicle location		Repair/Maintenance location	Annual service date	Compressor service date	Invertor service date	LOLER test date	Maintenance expiry date	MOT expiry date	Next service date	Next service distance	First PMI date	Next PMI date	PTO service date	Taco calibration date	Tax expiry date
+EU15ZPR	01/08/2021	Man Unit		Roadworthy	Commercial	Yes	Owned									Transport 	West Thurrock 			ICL - West thurrock 						31/01/2022				09/08/2021		27/08/2022	01/06/2022
+EU15ZPT	01/08/2021	Man Unit		Roadworthy	Commercial	Yes	Owned									Transport 	West Thurrock 			ICL - West thurrock 						28/02/2022				03/09/2021		05/02/2023	01/06/2011
+EX68BXG	01/08/2021	Man Unit		Roadworthy	Commercial	Yes	Contract									Transport 	Hebburn			MAN - Gateshead						30/09/2021				12/08/2021		17/12/2022	01/02/2022
+EX68BXH	01/08/2021	Man Unit		Roadworthy	Commercial	Yes	Contract									Transport 	Hebburn			MAN - Gateshead						31/10/2021				09/08/2021		12/01/2023	01/02/2022
+EX68BXJ	01/08/2021	Man Unit		Roadworthy	Commercial	Yes	Contract									Transport 	Hebburn			MAN - Gateshead						31/10/2021				11/08/2021		11/01/2023	01/02/2022
+EX68BXK	01/08/2021	Man Unit		Roadworthy	Commercial	Yes	Contract									Transport 	Newport			Commercial Motors - Man 						30/11/2021				15/06/2021		22/01/2023	01/02/2022
+EX68BXL	01/08/2021	Man Unit		Roadworthy	Commercial	Yes	Contract									Transport 	Hebburn			MAN - Gateshead						31/12/2021				10/08/2021		19/01/2023	01/02/2022
+EX68BXM	01/08/2021	Man Unit		Roadworthy	Commercial	Yes	Contract									Transport 	Hebburn			MAN - Gateshead						31/10/2021				06/08/2021		07/01/2023	01/02/2022
+EX68BXN	01/08/2021	Man Unit		Roadworthy	Commercial	Yes	Contract									Transport 	Widnes			Pullman - Ellesmere Port 						31/10/2021				06/08/2021		04/03/2022	01/02/2022
+EX68BXO	01/08/2021	Man Unit		Roadworthy	Commercial	Yes	Contract									Transport 	Hebburn			MAN - Gateshead						30/11/2021				03/08/2021		07/01/2023	01/02/2022
+EX68BXP	01/08/2021	Man Unit		Roadworthy	Commercial	Yes	Contract									Transport 	Widnes			Pullman - Ellesmere Port 						31/12/2021				19/08/2021		18/01/2023	01/02/2022
+EX68BXR	01/08/2021	Man Unit		Roadworthy	Commercial	Yes	Contract									Transport 	Hebburn			MAN - Gateshead						31/12/2021				18/08/2021		20/01/2023	01/02/2022
+EY16FHV	01/08/2021	Man Rigid		Roadworthy	Commercial	Yes	Contract									Transport 	Widnes			Pullman - Ellesmere Port 						31/08/2021				18/08/2021		11/04/2022	01/04/2022
+EY18FSK	01/08/2021	Man Unit		Roadworthy	Commercial	Yes	Contract									Transport 	Selby 			Pelican 						31/10/2021				01/08/2021		30/06/2022	01/07/2022
+EY21TDX	01/08/2021	Man Unit		Roadworthy	Commercial	Yes	Contract									Transport 	West Thurrock 			Purfleet Commercials 						31/03/2022				03/09/2021		12/03/2023	01/03/2022
+EY21TDZ	01/08/2021	Man Unit		Roadworthy	Commercial	Yes	Contract									Transport 	West Thurrock 			Purfleet Commercials 						31/03/2022				30/08/2021		12/03/2023	01/03/2022
+EY21TFA	01/08/2021	Man Unit		Roadworthy	Commercial	Yes	Contract									Transport 	West Thurrock 			Purfleet Commercials 						31/03/2022				02/09/2021		10/03/2023	01/03/2022
+EY21TFE	01/08/2021	Man Unit		Roadworthy	Commercial	Yes	Contract									Transport 	West Thurrock 			Purfleet Commercials 						31/03/2022				01/09/2021		12/03/2023	01/03/2022
+EY21TFF	01/08/2021	Man Unit		Roadworthy	Commercial	Yes	Contract									Transport 	West Thurrock 			Purfleet Commercials 						31/03/2022				02/09/2021		12/03/2023	01/03/2022
+EY21TFJ	01/08/2021	Man Unit		Roadworthy	Commercial	Yes	Contract									Transport 	Newport			Commercial Motors - Man 						31/03/2022				02/09/2021		16/03/2023	01/03/2022
+EY21TFK	01/08/2021	Man Unit		Roadworthy	Commercial	Yes	Contract									Transport 	Newport			Commercial Motors - Man 						31/03/2022				03/09/2021		12/03/2023	01/03/2022
+EY21TFN	01/08/2021	Man Unit		Roadworthy	Commercial	Yes	Contract									Transport 	Newport			Commercial Motors - Man 						31/03/2022				25/08/2021		12/03/2023	01/03/2022
+EY66MZP	01/08/2021	Man Rigid		Roadworthy	Commercial	Yes	Contract									Transport 	West Thurrock 			Purfleet Commercials 						31/12/2021				13/08/2021		31/07/2022	01/10/2021
+EY66MZT	01/08/2021	Man Rigid		Roadworthy	Commercial	Yes	Contract									Transport 	Widnes			Pullman - Ellesmere Port 						30/09/2021				14/08/2021		17/08/2022	01/10/2021
+EY66MZU	01/08/2021	Man Rigid		Roadworthy	Commercial	Yes	Contract									Transport 	Widnes			Pullman - Ellesmere Port 						31/08/2021				06/08/2021		24/07/2023	01/10/2021
+EY70LNK	01/08/2021	Man Unit		Roadworthy	Commercial	Yes	Contract									Transport 	Hebburn			MAN - Gateshead						31/01/2022				02/09/2021		26/02/2023	01/01/2022
+EY70LNN	01/08/2021	Man Unit		Roadworthy	Commercial	Yes	Contract									Transport 	Hebburn			MAN - Gateshead						31/01/2022				20/09/2021		29/04/2023	01/01/2022
+LV68XDG	01/08/2021	Renault 		Roadworthy	Commercial	Yes	Contract									Transport 	Hebburn			Thompsons Commercials - Renault						31/10/2021				31/08/2021		27/12/2021	01/01/2022
+LV68XDH	01/08/2021	Renault 		Roadworthy	Commercial	Yes	Contract									Transport 	Widnes			Woodwards - Wigan (Renault)						30/11/2021				07/08/2021		16/11/2022	01/01/2022
+LV68XDJ	01/08/2021	Renault 		Roadworthy	Commercial	Yes	Contract									Transport 	Widnes			Woodwards - Wigan (Renault)						30/11/2021				21/07/2021		09/11/2022	01/01/2022
+LV68XDK	01/08/2021	Renault 		Roadworthy	Commercial	Yes	Contract									Transport 	Widnes			Woodwards - Wigan (Renault)						30/09/2021				06/08/2021		08/01/2023	01/01/2022
+LV68XDL	01/08/2021	Renault 		Roadworthy	Commercial	Yes	Contract									Transport 	Widnes			Woodwards - Wigan (Renault)						30/11/2021				29/07/2021		17/11/2022	01/01/2022
+LV68XDM	01/08/2021	Renault 		Roadworthy	Commercial	Yes	Contract									Transport 	Hebburn			Thompsons Commercials - Renault						31/12/2021				06/09/2021		02/03/2022	01/01/2022
+LV68XDN	01/08/2021	Renault 		Roadworthy	Commercial	Yes	Contract									Transport 	Widnes			Woodwards - Wigan (Renault)						31/10/2021				06/08/2021		25/01/2023	01/01/2022
+LX70MLJ	01/08/2021	Renault 		Roadworthy	Commercial	Yes	Contract									Transport 	West Thurrock 			Renault - West Thurrock						30/11/2021				09/08/2021		13/10/2022	01/11/2021
+LX70MLL	01/08/2021	Renault 		Roadworthy	Commercial	Yes	Contract									Transport 	West Thurrock 			Renault - West Thurrock						30/11/2021				11/08/2021		28/10/2022	01/11/2021
+LX70MLN	01/08/2021	Renault 		Roadworthy	Commercial	Yes	Contract									Transport 	West Thurrock 			Renault - West Thurrock						30/11/2021				10/08/2021		25/10/2022	01/11/2021
+LX70MLO	01/08/2021	Renault 		Roadworthy	Commercial	Yes	Contract									Transport 	West Thurrock 			Renault - West Thurrock						30/11/2021				17/08/2021		26/10/2022	01/11/2021
+LX70MLU	01/08/2021	Renault 		Roadworthy	Commercial	Yes	Contract									Transport 	West Thurrock 			Renault - West Thurrock						30/11/2021				16/08/2021		28/10/2022	01/11/2021
+LX70MLV	01/08/2021	Renault 		Roadworthy	Commercial	Yes	Contract									Transport 	West Thurrock 			Renault - West Thurrock						30/11/2021				20/08/2021		26/10/2022	01/11/2021
+LX70MLY	01/08/2021	Renault 		Roadworthy	Commercial	Yes	Contract									Transport 	West Thurrock 			Renault - West Thurrock						31/12/2021				23/08/2021		19/11/2022	01/11/2021
+LX70MLZ	01/08/2021	Renault 		Roadworthy	Commercial	Yes	Contract									Transport 	Widnes			Woodwards - Wigan (Renault)						31/12/2021				04/08/2021		14/12/2022	01/11/2021
+LX70MMA	01/08/2021	Renault 		Roadworthy	Commercial	Yes	Contract									Transport 	West Thurrock 			Renault - West Thurrock						31/12/2021				26/08/2021		25/11/2022	01/11/2021
+LX70MME	01/08/2021	Renault 		Roadworthy	Commercial	Yes	Contract									Transport 	West Thurrock 			Renault - West Thurrock						31/12/2021				24/08/2021		17/11/2022	01/11/2021
+LX70MMF	01/08/2021	Renault 		Roadworthy	Commercial	Yes	Contract									Transport 	West Thurrock 			Renault - West Thurrock						31/12/2021				18/08/2021		17/11/2022	01/11/2021
+LX70MMJ	01/08/2021	Renault 		Roadworthy	Commercial	Yes	Contract									Transport 	West Thurrock 			Renault - West Thurrock						31/12/2021				18/08/2021		26/11/2022	01/11/2021
+LX70MMK	01/08/2021	Renault 		Roadworthy	Commercial	Yes	Contract									Transport 	West Thurrock 			Renault - West Thurrock						31/12/2021				13/08/2021		18/11/2022	01/11/2021
+LX70MMO	01/08/2021	Renault 		Roadworthy	Commercial	Yes	Contract									Transport 	West Thurrock 			Renault - West Thurrock						31/12/2021				25/08/2021		22/11/2022	01/11/2021
+LX70MPU	01/08/2021	Renault 		Roadworthy	Commercial	Yes	Contract									Transport 	Widnes			Woodwards - Wigan (Renault)						31/12/2021				14/07/2021		10/12/2022	01/11/2021
+LX70MPV	01/08/2021	Renault 		Roadworthy	Commercial	Yes	Contract									Transport 	West Thurrock 			Renault - West Thurrock						31/12/2021				02/08/2021		09/12/2022	01/11/2021
+LX70MPY	01/08/2021	Renault 		Roadworthy	Commercial	Yes	Contract									Transport 	West Thurrock 			Renault - West Thurrock						31/12/2021				24/08/2021		17/12/2022	01/11/2021
+LX70MPZ	01/08/2021	Renault 		Roadworthy	Commercial	Yes	Contract									Transport 	Hebburn			Thompsons Commercials - Renault						31/12/2021				26/08/2021		08/12/2022	01/11/2021
+NX65ZZE	01/08/2021	Man Rigid		Roadworthy	Commercial	Yes	Contract									Transport 	Widnes			Pullman - Ellesmere Port 						31/12/2021				06/09/2021		28/10/2021	01/12/2021
+GN07CYK	01/08/2021	Man Unit		VOR - MOT	Commercial	No	Owned									Transport 	West Thurrock 			ICL - West thurrock 						30/06/2021					N/A		
+GN07CYL	01/08/2021	Man Unit		VOR - MOT	Commercial	No	Owned									Transport 	West Thurrock 			ICL - West thurrock 						31/08/19					N/A		
+WX64WUB	01/08/2021	Van 		Roadworthy	Non-commercial	Yes	Owned									Transport 	West Thurrock 			ICL - West thurrock 						26/10/2021					N/A		01/09/2021
+A02	01/08/2021	Amines Tank 		Roadworthy	Commercial	Yes	Owned									Transport 	West Thurrock 			ICL - West thurrock 						30/09/2021				8/24/2021			
+BT1	01/08/2021	Powder Tank 		VOR	Commercial	Yes	Owned									Transport 	West Thurrock 			ICL - West thurrock 						30/04/2022				7/29/2021			
+BT4	01/08/2021	Powder Tank 		Roadworthy	Commercial	Yes	Owned									Transport 	West Thurrock 			ICL - West thurrock 						31/12/2021				9/23/2021			
+BT5	01/08/2021	Powder Tank 		Roadworthy	Commercial	Yes	Owned									Transport 	West Thurrock 			ICL - West thurrock 						28/02/2022				8/10/2021			
+CP1	01/08/2021	Curtain Sider 		Roadworthy	Commercial	Yes	Owned									Transport 	West Thurrock 			ICL - West thurrock 						31/12/2021				7/29/2021			
+F3	01/08/2021	Low Loader 		Roadworthy	Commercial	Yes	Owned									Transport 	West Thurrock 			ICL - West thurrock 						30/11/2021				7/27/2021			
+F44	01/08/2021	Curtain Sider 		Roadworthy	Commercial	Yes	Owned									Transport 	West Thurrock 			ICL - West thurrock 						30/09/2021				9/3/2021			
+HYP1	01/08/2021	HYPO Tank 		VOR	Commercial	Yes	Owned									Transport 	West Thurrock 			ICL - West thurrock 													
+HYP2	01/08/2021	HYPO Tank 		Roadworthy	Commercial	Yes	Owned									Transport 	West Thurrock 			ICL - West thurrock 						28/02/2022				8/30/2021			
+HYP3	01/08/2021	HYPO Tank 		Roadworthy	Commercial	Yes	Owned									Transport 	West Thurrock 			ICL - West thurrock 						31/10/2021				8/3/2021			
+HYP4	01/08/2021	HYPO Tank 		VOR	Commercial	Yes	Owned									Transport 	West Thurrock 			ICL - West thurrock 						31/10/2021				8/13/2021			
+HYP5	01/08/2021	HYPO Tank 		Roadworthy	Commercial	Yes	Owned									Transport 	West Thurrock 			ICL - West thurrock 						31/01/2022				8/10/2021			
+HYP6	01/08/2021	HYPO Tank 		Roadworthy	Commercial	Yes	Owned									Transport 	West Thurrock 			ICL - West thurrock 						31/01/2022				8/23/2021			
+HYP7	01/08/2021	HYPO Tank 		Roadworthy	Commercial	Yes	Owned									Transport 	West Thurrock 			ICL - West thurrock 						31/03/2022				7/26/2021			
+HYP8	01/08/2021	HYPO Tank 		Roadworthy	Commercial	Yes	Owned									Transport 	West Thurrock 			ICL - West thurrock 						30/11/2021				8/30/2021			
+HYP9	01/08/2021	HYPO Tank 		VOR	Commercial	Yes	Owned									Transport 	West Thurrock 			ICL - West thurrock 						31/03/2022				7/13/2021			
+HYP10	01/08/2021	HYPO Tank 		VOR	Commercial	Yes	Owned									Transport 	West Thurrock 			ICL - West thurrock 						28/02/2022				8/25/2021			
+HYP11	01/08/2021	HYPO Tank 		Roadworthy	Commercial	Yes	Owned									Transport 	West Thurrock 			ICL - West thurrock 						9/30/2021				8/6/2021			
+HYP12	01/08/2021	HYPO Tank 		Roadworthy	Commercial	Yes	Owned									Transport 	West Thurrock 			ICL - West thurrock 						10/31/2021				8/31/2021			
+HYP13	01/08/2021	HYPO Tank 		Roadworthy	Commercial	Yes	Owned									Transport 	West Thurrock 			ICL - West thurrock 						10/31/2021				8/17/2021			
+HYP14	01/08/2021	HYPO Tank 		Roadworthy	Commercial	Yes	Owned									Transport 	West Thurrock 			ICL - West thurrock 						10/31/2021				8/2/2021			
+HYP15	01/08/2021	HYPO Tank 		Roadworthy	Commercial	Yes	Owned									Transport 	West Thurrock 			ICL - West thurrock 						1/31/2022				8/24/2021			
+RL2	01/08/2021	Rubber Lined Tank 		Roadworthy	Commercial	Yes	Owned									Transport 	West Thurrock 			ICL - West thurrock 						3/31/2022				9/1/2021			
+RL3	01/08/2021	Rubber Lined Tank 		Roadworthy	Commercial	Yes	Owned									Transport 	West Thurrock 			ICL - West thurrock 						3/31/2022				8/19/2021			
+RL4	01/08/2021	Rubber Lined Tank 		Roadworthy	Commercial	Yes	Owned									Transport 	West Thurrock 			ICL - West thurrock 						11/30/2021				8/6/2021			
+RL5	01/08/2021	Rubber Lined Tank 		VOR	Commercial	Yes	Owned									Transport 	West Thurrock 			ICL - West thurrock 						11/30/2021				7/22/2021			
+RL10	01/08/2021	Rubber Lined Tank 		Roadworthy	Commercial	Yes	Owned									Transport 	West Thurrock 			ICL - West thurrock 						3/30/2021				8/3/2021			
+RL11	01/08/2021	Rubber Lined Tank 		Roadworthy	Commercial	Yes	Owned									Transport 	West Thurrock 			ICL - West thurrock 						1/31/2022				8/12/2021			
+RL12	01/08/2021	Rubber Lined Tank 		Roadworthy	Commercial	Yes	Owned									Transport 	West Thurrock 			ICL - West thurrock 						1/31/2022				8/10/2021			
+RL13	01/08/2021	Rubber Lined Tank 		Roadworthy	Commercial	Yes	Owned									Transport 	West Thurrock 			ICL - West thurrock 						10/31/2021				8/17/2021			
+RL15	01/08/2021	Rubber Lined Tank 		Roadworthy	Commercial	Yes	Owned									Transport 	West Thurrock 			ICL - West thurrock 						12/31/2021				8/19/2021			
+RL16	01/08/2021	Rubber Lined Tank 		Roadworthy	Commercial	Yes	Owned									Transport 	West Thurrock 			ICL - West thurrock 						1/31/2022				8/11/2021			
+RL17	01/08/2021	Rubber Lined Tank 		Roadworthy	Commercial	Yes	Owned									Transport 	West Thurrock 			ICL - West thurrock 						9/30/2021				9/2/2021			
+RL18	01/08/2021	Rubber Lined Tank 		Roadworthy	Commercial	Yes	Owned									Transport 	West Thurrock 			ICL - West thurrock 						1/28/2021				9/2/2021			
+RL19	01/08/2021	Rubber Lined Tank 		Roadworthy	Commercial	Yes	Owned									Transport 	West Thurrock 			ICL - West thurrock 						2/28/2021				7/30/2021			
+RL20	01/08/2021	Rubber Lined Tank 		Roadworthy	Commercial	Yes	Owned									Transport 	West Thurrock 			ICL - West thurrock 						9/30/2021				8/2/2021			
+RL21	01/08/2021	Rubber Lined Tank 		Roadworthy	Commercial	Yes	Owned									Transport 	West Thurrock 			ICL - West thurrock 						3/31/2022				8/16/2021			
+RL22	01/08/2021	Rubber Lined Tank 		Roadworthy	Commercial	Yes	Owned									Transport 	West Thurrock 			ICL - West thurrock 						2/28/2022				8/12/2021			
+RL24	01/08/2021	Rubber Lined Tank 		Roadworthy	Commercial	Yes	Owned									Transport 	West Thurrock 			ICL - West thurrock 						10/31/2021				8/5/2021			
+RL25	01/08/2021	Rubber Lined Tank 		Roadworthy	Commercial	Yes	Owned									Transport 	West Thurrock 			ICL - West thurrock 						10/30/2021				8/31/2021			
+RL26	01/08/2021	Rubber Lined Tank 		Roadworthy	Commercial	Yes	Owned									Transport 	West Thurrock 			ICL - West thurrock 						11/30/2021				8/23/2021			
+RL27	01/08/2021	Rubber Lined Tank 		Roadworthy	Commercial	Yes	Owned									Transport 	West Thurrock 			ICL - West thurrock 						10/31/2021				8/4/2021			
+RL28	01/08/2021	Rubber Lined Tank 		Roadworthy	Commercial	No	Owned									Transport 	West Thurrock 			ICL - West thurrock 						2/28/2022				8/1/2021			
+RL29	01/08/2021	Rubber Lined Tank 		Roadworthy	Commercial	No	Owned									Transport 	West Thurrock 			ICL - West thurrock 						2/28/2022				9/3/2021			
+RL30	01/08/2021	Rubber Lined Tank 		Roadworthy	Commercial	No	Owned									Transport 	West Thurrock 			ICL - West thurrock 						8/31/2021				9/3/2021			
+RL31	01/08/2021	Rubber Lined Tank 		Roadworthy	Commercial	No	Owned									Transport 	West Thurrock 			ICL - West thurrock 						12/31/2021				9/2/2021			
+RL32	01/08/2021	Rubber Lined Tank 		Roadworthy	Commercial	No	Owned									Transport 	West Thurrock 			ICL - West thurrock 						9/30/2021				9/2/2021			
+SK1	01/08/2021	Skelly 		Roadworthy	Commercial	Yes	Owned									Transport 	West Thurrock 			ICL - West thurrock 						11/30/2021				8/31/2021			
+SK2	01/08/2021	Skelly 		Roadworthy	Commercial	Yes	Owned									Transport 	West Thurrock 			ICL - West thurrock 						11/30/2021				8/18/2021			
+SK3	01/08/2021	Skelly 		Roadworthy	Commercial	Yes	Owned									Transport 	West Thurrock 			ICL - West thurrock 						12/31/2021				8/17/2021			
+SK4	01/08/2021	Skelly 		Roadworthy	Commercial	Yes	Owned									Transport 	West Thurrock 			ICL - West thurrock 						3/31/2022				8/24/2021			
+SK5	01/08/2021	Skelly 		Roadworthy	Commercial	Yes	Owned									Transport 	West Thurrock 			ICL - West thurrock 						3/31/2022				8/19/2021			
+SK6	01/08/2021	Skelly 		Roadworthy	Commercial	Yes	Owned									Transport 	West Thurrock 			ICL - West thurrock 						3/31/2022				8/16/2021			
+SK7	01/08/2021	Skelly 		Roadworthy	Commercial	Yes	Owned									Transport 	West Thurrock 			ICL - West thurrock 						2/28/2022				7/26/2021			
+SK15	01/08/2021	Skelly 		Roadworthy	Commercial	Yes	Owned									Transport 	West Thurrock 			ICL - West thurrock 						10/31/2021				8/16/2021			
+SK16	01/08/2021	Skelly 		Roadworthy	Commercial	Yes	Owned									Transport 	West Thurrock 			ICL - West thurrock 						10/31/2021				8/12/2021			
+SK18	01/08/2021	Skelly 		Roadworthy	Commercial	Yes	Owned									Transport 	West Thurrock 			ICL - West thurrock 						9/30/2021				8/18/2021			
+ST 8	01/08/2021	Stainless Steel Tank 		Roadworthy	Commercial	Yes	Owned									Transport 	West Thurrock 			ICL - West thurrock 						9/30/2021				8/11/2021			
+ST13	01/08/2021	Stainless Steel Tank 		Roadworthy	Commercial	Yes	Owned									Transport 	West Thurrock 			ICL - West thurrock 						12/31/2021				8/24/2021			
+ST15	01/08/2021	Stainless Steel Tank 		Roadworthy	Commercial	Yes	Owned									Transport 	West Thurrock 			ICL - West thurrock 						3/31/2022				8/19/2021			
+ST23	01/08/2021	Stainless Steel Tank 		Roadworthy	Commercial	Yes	Owned									Transport 	West Thurrock 			ICL - West thurrock 						4/30/2022				8/16/2021			
+ST24	01/08/2021	Stainless Steel Tank 		Roadworthy	Commercial	Yes	Owned									Transport 	West Thurrock 			ICL - West thurrock 						9/30/2021				7/26/2021			
+ST25	01/08/2021	Stainless Steel Tank 		Roadworthy	Commercial	Yes	Owned									Transport 	West Thurrock 			ICL - West thurrock 						9/30/2021				8/18/2021			
+ST26	01/08/2021	Stainless Steel Tank 		Roadworthy	Commercial	Yes	Owned									Transport 	West Thurrock 			ICL - West thurrock 						12/31/2021				8/17/2021			
+ST30	01/08/2021	Stainless Steel Tank 		Roadworthy	Commercial	Yes	Owned									Transport 	West Thurrock 			ICL - West thurrock 						11/30/2021				8/25/2021			
+ST32	01/08/2021	Stainless Steel Tank 		Roadworthy	Commercial	Yes	Owned									Transport 	West Thurrock 			ICL - West thurrock 						1/31/2022				8/11/2021			
+ST33	01/08/2021	Stainless Steel Tank 		Roadworthy	Commercial	Yes	Owned									Transport 	West Thurrock 			ICL - West thurrock 						12/31/2021				8/9/2021			
+ST34	01/08/2021	Stainless Steel Tank 		Roadworthy	Commercial	Yes	Owned									Transport 	West Thurrock 			ICL - West thurrock 						12/31/2021				8/9/2021			
+ST35	01/08/2021	Stainless Steel Tank 		Roadworthy	Commercial	Yes	Owned									Transport 	West Thurrock 			ICL - West thurrock 						11/30/2021				7/27/2021			
+TT1	01/08/2021	Tipper 		Roadworthy	Commercial	Yes	Owned									Transport 	West Thurrock 			ICL - West thurrock 						10/31/2021				8/26/2021			
+T2	01/08/2021	Tipper 		Roadworthy	Commercial	Yes	Owned									Transport 	West Thurrock 			ICL - West thurrock 						9/30/2021				7/27/2021			
+TT3	01/08/2021	Tipper 		Roadworthy	Commercial	Yes	Owned									Transport 	West Thurrock 			ICL - West thurrock 						12/31/2021				8/13/2021			
+ISOST51	01/08/2021	Iso Tank - ST		Roadworthy	Commercial	No	Owned									Transport 	West Thurrock 			ICL - West thurrock 													
+ISOST52	01/08/2021	Iso Tank - ST		Roadworthy	Commercial	No	Owned									Transport 	West Thurrock 			ICL - West thurrock 													
+ISOST53	01/08/2021	Iso Tank - ST		Roadworthy	Commercial	No	Owned									Transport 	West Thurrock 			ICL - West thurrock 													
+ISOST54	01/08/2021	Iso Tank - ST		Roadworthy	Commercial	No	Owned									Transport 	West Thurrock 			ICL - West thurrock 													
+ISOST55	01/08/2021	Iso Tank - ST		Roadworthy	Commercial	No	Owned									Transport 	West Thurrock 			ICL - West thurrock 													
+ISOST56	01/08/2021	Iso Tank - ST		Roadworthy	Commercial	No	Owned									Transport 	West Thurrock 			ICL - West thurrock 													
+ISOST57	01/08/2021	Iso Tank - ST		Roadworthy	Commercial	No	Owned									Transport 	West Thurrock 			ICL - West thurrock 													
+ISORL62	01/08/2021	Iso Tank - RL 		Roadworthy	Commercial	No	Owned									Transport 	West Thurrock 			ICL - West thurrock 													
+ISORL61	01/08/2021	Iso Tank - RL 		Roadworthy	Commercial	No	Owned									Transport 	West Thurrock 			ICL - West thurrock 													
+ISORL63	01/08/2021	Iso Tank - RL 		Roadworthy	Commercial	No	Owned									Transport 	West Thurrock 			ICL - West thurrock 													
+ISORL64	01/08/2021	Iso Tank - RL 		Roadworthy	Commercial	No	Owned									Transport 	West Thurrock 			ICL - West thurrock 													
+ISORL65	01/08/2021	Iso Tank - RL 		Roadworthy	Commercial	No	Owned									Transport 	West Thurrock 			ICL - West thurrock 													
+ISORL68	01/08/2021	Iso Tank - RL 		Roadworthy	Commercial	No	Owned									Transport 	West Thurrock 			ICL - West thurrock 													
+ISORL69	01/08/2021	Iso Tank - RL 		Roadworthy	Commercial	No	Owned									Transport 	West Thurrock 			ICL - West thurrock 													
+ST3	01/08/2021	Stainless Steel Tank 		Roadworthy	Commercial	No	Owned									Transport 	Hebburn			GCA						30/09/2021	7/3/2021	8/14/2021		14/08/2021			
+ST4	01/08/2021	Stainless Steel Tank 		Roadworthy	Commercial	No	Owned									Transport 	Hebburn			GCA						31/10/2021	6/26/2021	8/7/2021		07/08/2021			
+ST5	01/08/2021	Stainless Steel Tank 		Roadworthy	Commercial	No	Owned									Transport 	Hebburn			GCA						31/10/2021	6/29/2021	8/10/2021		10/08/2021			
+ST6	01/08/2021	Stainless Steel Tank 		Roadworthy	Commercial	No	Owned									Transport 	Hebburn			GCA						30/09/2021	7/9/2021	8/20/2021		20/08/2021			
+ISOST510	01/08/2021	Iso Tank - ST		Roadworthy	Commercial	No	Owned									Transport 	Hebburn			GCA						31/07/2022	7/2/2021	8/13/2021		13/08/2021			
+ISOST511	01/08/2021	Iso Tank - ST		Roadworthy	Commercial	No	Owned									Transport 	Hebburn			GCA						30/09/2021	7/12/2021	8/23/2021		23/08/2021			
+ST12	01/08/2021	Stainless Steel Tank 		Roadworthy	Commercial	No	Owned									Transport 	Hebburn			GCA						31/12/2021	7/12/2021	8/23/2021		23/08/2021			
+ISOST513	01/08/2021	Iso Tank - ST		Roadworthy	Commercial	No	Owned									Transport 	Hebburn			GCA						30/09/2021	7/23/2021	9/3/2021		03/09/2021			
+ISOST514	01/08/2021	Iso Tank - ST		Roadworthy	Commercial	No	Owned									Transport 	Hebburn			GCA						31/10/2021	7/17/2021	8/28/2021		28/08/2021			
+ST22	01/08/2021	Stainless Steel Tank 		Roadworthy	Commercial	No	Owned									Transport 	Hebburn			GCA						28/02/2022	6/16/2021	7/28/2021		28/07/2021			
+ST28	01/08/2021	Stainless Steel Tank 		Roadworthy	Commercial	No	Owned									Transport 	Hebburn			GCA						30/11/2021	7/26/2021	9/6/2021		06/09/2021			
+ST31	01/08/2021	Stainless Steel Tank 		Roadworthy	Commercial	No	Owned									Transport 	Hebburn			GCA						31/01/2022	7/9/2021	8/20/2021		20/08/2021			
+ST36	01/08/2021	Stainless Steel Tank 		Roadworthy	Commercial	No	Owned									Transport 	Hebburn			GCA						31/03/2022	7/7/2021	8/18/2021		18/08/2021			
+320	01/08/2021	Stainless Steel Tank 		Roadworthy	Commercial	No	Owned									Transport 	Selby 			Pelican 						31/01/2022				05/08/2021			
+S91	01/08/2021	Stainless Steel Tank 		Roadworthy	Commercial	No	Owned									Transport 	Selby 			Pelican 						31/03/2022				26/08/2021			
+ST18	01/08/2021	Stainless Steel Tank 		Roadworthy	Commercial	No	Owned									Transport 	Selby 			Pelican 						31/10/2021				22/07/2021			
+ST19	01/08/2021	Stainless Steel Tank 		Roadworthy	Commercial	No	Owned									Transport 	Selby 			Pelican 						28/02/2022				20/07/2021			
+F4	01/08/2021	Curtain Sider 		VOR	Commercial	No	Owned									Transport 	Selby 			Pelican 						06/01/2021							
+SC1	01/08/2021	Trailer 		VOR	Commercial	No	Owned									Transport 	Selby 			Pelican 						03/09/2021							
+C409360	01/08/2021	Stainless Steel Tank 		Roadworthy	Commercial	No	Owned									Transport 	Widnes			Thinktank 						31/07/2021				23/07/2021			
+ISOST58	01/08/2021	Iso Tank - ST		Roadworthy	Commercial	No	Owned									Transport 	Widnes			Thinktank 						30/10/2021				05/08/2021			
+ISOST59	01/08/2021	Iso Tank - ST		Roadworthy	Commercial	No	Owned									Transport 	Widnes			Thinktank 						30/11/2021				09/08/2021			
+ISOST512	01/08/2021	Iso Tank - ST		Roadworthy	Commercial	No	Owned									Transport 	Widnes			Thinktank 						30/09/2021				12/08/2021			
+ST1	01/08/2021	Stainless Steel Tank 		Roadworthy	Commercial	No	Owned									Transport 	Widnes			Thinktank 						31/07/2022				20/08/2021			
+ST2	01/08/2021	Stainless Steel Tank 		Roadworthy	Commercial	No	Owned									Transport 	Widnes			Thinktank 						31/08/2021				20/08/2021			
+ST7	01/08/2021	Stainless Steel Tank 		Roadworthy	Commercial	No	Owned									Transport 	Widnes			Thinktank 						03/05/2022				18/08/2021			
+ST9	01/08/2021	Stainless Steel Tank 		Roadworthy	Commercial	No	Owned									Transport 	Widnes			Thinktank 						31/03/2022				26/08/2021			
+ST10	01/08/2021	Stainless Steel Tank 		Roadworthy	Commercial	No	Owned									Transport 	Widnes			Thinktank 						31/07/2022				26/07/2021			
+ST11	01/08/2021	Stainless Steel Tank 		Roadworthy	Commercial	No	Owned									Transport 	Widnes			Thinktank 						28/02/2022				14/08/2021			
+ST14	01/08/2021	Stainless Steel Tank 		Roadworthy	Commercial	No	Owned									Transport 	Widnes			Thinktank 						28/02/2022				25/08/2021			
+ST16	01/08/2021	Stainless Steel Tank 		Roadworthy	Commercial	No	Owned									Transport 	Widnes			Thinktank 						31/12/2021				20/08/2021			
+ST17	01/08/2021	Stainless Steel Tank 		Roadworthy	Commercial	No	Owned									Transport 	Widnes			Thinktank 						31/01/2022				25/08/2021			
+ST20	01/08/2021	Stainless Steel Tank 		Roadworthy	Commercial	No	Owned									Transport 	Widnes			Thinktank 						28/02/2022				04/08/2021			
+ST21	01/08/2021	Stainless Steel Tank 		Roadworthy	Commercial	No	Owned									Transport 	Widnes			Thinktank 						28/02/2022				28/07/2021			
+ST27	01/08/2021	Stainless Steel Tank 		Roadworthy	Commercial	No	Owned									Transport 	Widnes			Thinktank 						30/11/2021				27/08/2021			
+ST29	01/08/2021	Stainless Steel Tank 		Roadworthy	Commercial	No	Owned									Transport 	Widnes			Thinktank 						31/12/2021				12/08/2021			
+RL7	01/08/2021	Rubber Lined Tank 		Roadworthy	Commercial	No	Owned									Transport 	Widnes			Thinktank 						31/01/2022				04/08/2021			
+SK17	01/08/2021	Skelly 		Roadworthy	Commercial	No	Owned									Transport 	Widnes			Thinktank 						31/03/2022				24/08/2021			

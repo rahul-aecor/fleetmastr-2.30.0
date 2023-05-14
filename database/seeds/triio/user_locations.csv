@@ -1,0 +1,114 @@
+Divisions,Regions,Locations
+T5101,PRJ Overhead Property,East Anglia
+T5101,PRJ Overhead Property,East Midlands
+T5101,PRJ Overhead Property,London
+T5113,A14 Diversions,East Anglia
+T6700,Assurance Overheads - London,London
+T5700,Assurance Overheads - North,East Anglia
+T6101,Barnet - Depot Overhead,London
+T6102,Barnet - MRP,London
+T6113,Barnet- Diversions,London
+T5000,Business Transformation Overhead,East Midlands
+T5000,Business Transformation Overhead,East Anglia
+T5502,Cleethorpes - MRP,East Midlands
+T5501,Cleethorpes- Depot Overheads,East Midlands
+T0003,Connections - Standard,East Midlands
+T0003,Connections - Standard,East Anglia
+T0003,Connections - Standard,London
+T9200,Connections Transformation Project,London
+T8100,Customer & Communications Overhead,East Midlands
+T8100,Customer & Communications Overhead,East Anglia
+T8100,Customer & Communications Overhead,London
+T5008,Disallowed Costs,East Midlands
+T5008,Disallowed Costs,East Anglia
+T5513,Diversions,East Midlands
+T5201,Diversions & Rienforcement Delivery Overhead,East Midlands
+T5301,Diversions & Rienforcement Delivery Overhead,East Midlands
+T6401,Diversions & Rienforcement Delivery Overhead,London
+T6005,DLO Reinstatements,London
+T6007,FCO Base Labour Provision,London
+T8300,Finance Overhead,East Midlands
+T8300,Finance Overhead,East Anglia
+T8300,Finance Overhead,London
+T6300,Governance Overheads - London,London
+T5300,Governance Overheads - North,East Midlands
+T5801,Hitchin - Depot Overhead,East Anglia
+T5813,Hitchin - Diversions,East Anglia
+T5802,Hitchin - MRP,East Anglia
+T8200,HR Overhead,East Midlands
+T8200,HR Overhead,London
+T8200,HR Overhead,East Anglia
+T8500,IT & Systems Overheads,East Midlands
+T8500,IT & Systems Overheads,East Anglia
+T8500,IT & Systems Overheads,London
+T5601,Kirkby - Depot Overheads,East Midlands
+T5613,Kirkby - Diversions,East Midlands
+T5602,Kirkby - MRP,East Midlands
+T5701,Leicester - Depot Overheads,East Anglia
+T5713,Leicester - Diversions,East Anglia
+T5702,Leicester - MRP,East Anglia
+T6501,LMPS & MRP >12 Delivery Overhead,London
+T8400,Logistics Overhead,East Midlands
+T8400,Logistics Overhead,East Anglia
+T8400,Logistics Overhead,London
+T6413,London - Diversions,London
+T6014,London - Medium Pressure,London
+T6004,MOBS,London
+T6601,MOBS Delivery Overhead,London
+T5100,MRP > 12,East Anglia
+T6100,MRP > 12,East Midlands
+T5100,Medium Pressure,East Anglia
+T6100,Medium Pressure,East Midlands
+T5100,Diversions & Reinforcement,East Anglia
+T6100,Diversions & Reinforcement,East Midlands
+T5715,MRP Large Diameter,East Anglia
+T6900,MRP Overheads - London,London
+T5900,MRP Overheads - North,East Anglia
+T5102,MRP Tier 1 East Of England,East Anglia
+T5615,MRP Tier 2 & 3 East of England,East Anglia
+T5815,MRP Tier 2 & 3 East of England,East Midlands
+T5200,MRP,East Midlands
+T5200,Diversions,East Midlands
+T5200,Reinforcement,East Midlands
+T5200,Medium Pressure,East Midlands
+T5200,MOBs,East Midlands
+T6200,MRP,London
+T6200,Diversions,London
+T6200,Reinforcement,London
+T6200,Medium Pressure,London
+T6200,MOBs,London
+T6006,NCO Base Labour Provision,
+T5006,NCO Base Labour Provision - North,East Midlands
+T6800,Operations Overhead - London,London
+T5800,Operations Overhead - North,East Anglia
+T5810,Overhead EA Reinstatement,East Anglia
+T5910,Overhead East Connections,East Anglia
+T6301,Romford - Depot Overhead,London
+T6313,Romford - Diversions,London
+T6302,Romford - MRP,London
+T5401,Sheffield - Depot Overheads,East Midlands
+T5402,Sheffield - MRP,East Midlands
+T8600,SHEQ Overhead,London
+T8600,SHEQ Overhead,East Anglia
+T8600,SHEQ Overhead,East Midlands
+T6201,Slough - Depot Overhead,London
+T6213,Slough - Diversions,London
+T6202,Slough - MRP,London
+T5500,SMT & Support Overheads,East Anglia
+T5500,SMT & Support Overheads,East Midlands
+T6500,SMT & Support Overheads,London
+T8700,Streetworks Delivery Overhead,East Anglia
+T8700,Streetworks Delivery Overhead,East Midlands
+T8700,Streetworks Delivery Overhead,London
+T6400,Training,London
+T6600,Transformation Overheads - London,London
+T5600,Transformation Overheads - North,East Midlands
+T8000,TRIIO leadership Overhead,East Anglia
+T8000,TRIIO leadership Overhead,East Midlands
+T8000,TRIIO leadership Overhead,London
+T5009,Winter Resource Supply,East Anglia
+T5009,Winter Resource Supply,East Midlands
+T5009,Winter Resource Supply,London
+T5901,Witham - Depot Overhead,East Anglia
+T5913,Witham - Diversions,East Anglia
+T5902,Witham - MRP,East Anglia

@@ -1,0 +1,2 @@
+UPDATE vehicle_types SET engine_type = 'Diesel Electric' WHERE engine_type = 'Post-Euro VI - AdBlue required';
+UPDATE vehicle_types SET engine_type = 'Petrol Electric' WHERE engine_type = 'Pre-Euro VI - AdBlue not required';

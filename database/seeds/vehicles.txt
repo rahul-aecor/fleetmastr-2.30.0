@@ -1,0 +1,284 @@
+PK10YXT	Van Pack	Roadworthy	2016-02-19	0		2010-04-30	WDB9066332S457591		Gerrards Cross	Rygor Commercials - Heathrow	Central North	2016-04-30	2016-04-30						Yes					
+PK10YXU	Van Pack	Roadworthy	2016-02-19	0		2010-04-30	WDB9066332S457590		Beckton	S&B Commercials - Thurrock	North East	2016-04-30	2016-06-08						Yes					
+PN11NXE	Van Pack	Roadworthy	2016-02-19	0		2011-05-06	WDB9066332S521924		Gerrards Cross	Rygor Commercials - Heathrow	Central North	2016-04-30	2016-05-06						Yes					
+PN11NXF	Van Pack	Roadworthy	2016-02-19	0		2011-05-06	WDB9066332S542839		Gerrards Cross	Rygor Commercials - Heathrow	Central North	2016-04-30	2016-05-27						Yes					
+PK11WCX	Van Pack	Roadworthy	2016-02-19	0		2011-05-18	WDB9066332S541323		Chertsey	Rygor Commercials - Heathrow	South East	2016-04-30	2016-05-27						Yes					
+PK11WDV	Van Pack	Roadworthy	2016-02-19	0		2011-06-13	WDB9066332S521925		Ryemeads	S&B Commercials - Welham Green	North East	2016-04-30	2016-06-13						Yes					
+PN61BXC	Van Pack	Roadworthy	2016-02-19	0		2011-10-06	WDB9066332S563391		Chertsey	Rygor Commercials - Heathrow	South East	2016-04-30	2016-10-06						Yes					
+PN61BXD	Van Pack	Roadworthy	2016-02-19	0		2011-10-06	WDB9066332S579125		Beckton	S&B Commercials - Thurrock	North East	2016-04-30	2016-10-06						Yes					
+PN61BXE	Van Pack	Roadworthy	2016-02-19	0		2011-10-06	WDB9066332S563012		Ryemeads	S&B Commercials - Welham Green	North East	2016-04-30	2016-10-07						Yes					
+PN61BXF	Van Pack	Roadworthy	2016-02-19	0		2011-10-06	WDB9066332S574832		Beckton	S&B Commercials - Thurrock	North East	2016-04-30	2016-10-06						Yes					
+PK61TBY	Van Pack	Roadworthy	2016-02-19	0		2011-11-28	WDB9066332S576784		Beckton	S&B Commercials - Thurrock	North East	2016-04-30	2016-10-21						Yes					
+PF12KPJ	Van Pack	Roadworthy	2016-02-19	0		2012-08-09	WDB9066332S693476		Ryemeads	S&B Commercials - Welham Green	North East	2017-04-30	2016-08-09						Yes					
+PF12KPK	Van Pack	Roadworthy	2016-02-19	0		2012-08-09	WDB9066332S692818		Reading	Rygor Commercials - Reading	Thames Valley	2017-04-30	2016-08-09						Yes					
+PF12KPL	Van Pack	Roadworthy	2016-02-19	0		2012-08-09	WDB9066332S692821		Gerrards Cross	Rygor Commercials - Heathrow	Central North	2017-04-30	2016-08-09						Yes					
+PF12KPN	Van Pack	Roadworthy	2016-02-19	0		2012-08-09	WDB9066332S682966		Ryemeads	S&B Commercials - Welham Green	North East	2017-04-30	2016-08-09						Yes					
+PF12KPO	Van Pack	Roadworthy	2016-02-19	0		2012-08-09	WDB9066332S693475		Gerrards Cross	Rygor Commercials - Heathrow	Central North	2017-04-30	2016-08-09						Yes					
+PF12KPP	Van Pack	Roadworthy	2016-02-19	0		2012-08-09	WDB9066332S693477		Gerrards Cross	Rygor Commercials - Heathrow	Central North	2017-04-30	2016-08-10						Yes					
+PF12KPR	Van Pack	Roadworthy	2016-02-19	0		2012-08-09	WDB9066332S692820		Gerrards Cross	Rygor Commercials - Heathrow	Central North	2017-04-30	2016-08-09						Yes					
+PF12KPT	Van Pack	Roadworthy	2016-02-19	0		2012-08-09	WDB9066332S700385		Beckton	S&B Commercials - Thurrock	North East	2017-04-30	2016-08-09						Yes					
+PF12KRG	Van Pack	Roadworthy	2016-02-19	0		2012-08-10	WDB9066332S692819		Ryemeads	S&B Commercials - Welham Green	North East	2017-04-30	2016-12-29						Yes					
+PF12KRK	Van Pack	Roadworthy	2016-02-19	0		2012-08-10	WDB9066332S665160		Kidlington	Rygor Commercials - Heathrow	Thames Valley	2017-04-30	2016-08-10						Yes					
+PF12KRN	Van Pack	Roadworthy	2016-02-19	0		2012-08-10	WDB9066332S682963		Gerrards Cross	Rygor Commercials - Heathrow	Central North	2017-04-30	2016-08-10						Yes					
+PF12KRO	Van Pack	Roadworthy	2016-02-19	0		2012-08-10	WDB9066332S682603		Gerrards Cross	Rygor Commercials - Heathrow	Central North	2017-04-30	2016-08-12						Yes					
+PF12KRU	Van Pack	Roadworthy	2016-02-19	0		2012-08-10	WDB9066332S693478		Beckton	S&B Commercials - Thurrock	North East	2017-04-30	2016-08-10						Yes					
+PF12KRV	Van Pack	Roadworthy	2016-02-19	0		2012-08-10	WDB9066332S700386		Gerrards Cross	Rygor Commercials - Heathrow	Central North	2017-04-30	2016-08-10						Yes					
+PF12KRX	Van Pack	Roadworthy	2016-02-19	0		2012-08-10	WDB9066332S700387		Reading	Rygor Commercials - Reading	Thames Valley	2017-04-30	2016-08-10						Yes					
+PJ12ALO	Van Pack	Roadworthy	2016-02-19	0		2012-07-11	WDB9066332S642178		Kidlington	Rygor Commercials - Oxford	Thames Valley	2017-04-30	2016-07-11						Yes					
+PJ12ALU	Van Pack	Roadworthy	2016-02-19	0		2012-07-11	WDB9066332S63944		Highworth	Rygor Commercials - Swindon	Thames Valley	2017-04-30	2016-07-11						Yes					
+PJ12AMK	Van Pack	Roadworthy	2016-02-19	0		2012-07-11	WDB9066332S667680		Kidlington	Rygor Commercials - Oxford	Thames Valley	2017-04-30	2016-07-11						Yes					
+PJ12EUR	Van Pack	Roadworthy	2016-02-19	0		2012-06-15	WDB9066332S608366		Kidlington	Rygor Commercials - Oxford	Thames Valley	2017-04-30	2016-06-30						Yes					
+PJ12EUT	Van Pack	Roadworthy	2016-02-19	0		2012-07-11	WDB9066332675759		Beckton	S&B Commercials - Thurrock	North East	2017-04-30	2016-08-19						Yes					
+PJ12EUU	Van Pack	Roadworthy	2016-02-19	0		2012-07-11	WDB9066332S682962		Kidlington	Rygor Commercials - Heathrow	Thames Valley	2017-04-30	2016-06-03						Yes					
+PJ12RUO	Van Pack	Roadworthy	2016-02-19	0		2012-07-20	WDB9066332S665692		Kidlington	Rygor Commercials - Heathrow	Thames Valley	2017-04-30	2016-07-20						Yes					
+PJ12RUR	Van Pack	Roadworthy	2016-02-19	0		2012-07-20	WDB9066332S675758		Ryemeads	S&B Commercials - Welham Green	North East	2017-04-30	2016-07-20						Yes					
+PJ12RXY	Van Pack	Roadworthy	2016-02-19	0		2012-07-20	WDB9066332S641207		Beckton	S&B Commercials - Thurrock	North East	2017-04-30	2016-07-20						Yes					
+PJ12RYF	Van Pack	Roadworthy	2016-02-19	0		2012-07-23	WDB9066332S665690		Beckton	S&B Commercials - Thurrock	North East	2017-04-30	2016-07-23						Yes					
+PJ12YLY	Van Pack	Roadworthy	2016-02-19	0		2012-07-23	WDB9066332S665691		Ryemeads	S&B Commercials - Welham Green	North East	2017-04-30	2016-07-23						Yes					
+PJ12YMA	Van Pack	Roadworthy	2016-02-19	0		2012-08-09	WDB9066332S676261		Beckton	S&B Commercials - Thurrock	North East	2017-04-30	2016-08-09						Yes					
+PJ12YMC	Van Pack	Roadworthy	2016-02-19	0		2012-07-23	WDB9066332S693741		Beckton	S&B Commercials - Thurrock	North East	2017-04-30	2016-07-23						Yes					
+PJ12YMD	Van Pack	Roadworthy	2016-02-19	0		2012-07-23	WDB9066332S682964		Chertsey	Rygor Commercials - Heathrow	South East	2017-04-30	2016-07-23						Yes					
+PJ12YMH	Van Pack	Roadworthy	2016-02-19	0		2012-07-23	WDB9066332S682965		Kidlington	Rygor Commercials - Oxford	Thames Valley	2017-04-30	2016-07-23						Yes					
+PK12WEU	Van Pack	Roadworthy	2016-02-19	0		2012-06-15	WDB9066332S643523		Kidlington	Rygor Commercials - Oxford	Thames Valley	2017-04-30	2016-06-29						Yes					
+PK12WEP	Van Pack	Roadworthy	2016-02-19	0		2012-06-15	WDB9066332S608363		Highworth	Rygor Commercials - Swindon	Thames Valley	2017-04-30	2016-06-29						Yes					
+PK12WDX	Van Pack	Roadworthy	2016-02-19	0		2012-06-15	WDB9066332S667188		Swindon	Rygor Commercials - Swindon	Thames Valley	2017-04-30	2016-06-15						Yes					
+PN62JFA	Van Pack	Roadworthy	2016-02-19	0		2012-09-19	WDB9066332S691813		Ryemeads	S&B Commercials - Welham Green	North East	2017-04-30	2016-09-18						Yes					
+PN62JFE	Van Pack	Roadworthy	2016-02-19	0		2012-09-19	WDB9066332S691816		Gerrards Cross	Rygor Commercials - Heathrow	Central North	2017-04-30	2016-09-18						Yes					
+PN62JFF	Van Pack	Roadworthy	2016-02-19	0		2012-09-19	WDB9066332S685058		Gerrards Cross	Rygor Commercials - Heathrow	Central North	2017-04-30	2016-09-18						Yes					
+PN62JFK	Van Pack	Roadworthy	2016-02-19	0		2012-09-19	WDB9066332S715404		Gerrards Cross	Rygor Commercials - Heathrow	Central North	2017-04-30	2016-09-18						Yes					
+PN62JFG	Van Pack	Roadworthy	2016-02-19	0		2012-09-19	WDB9066332S717654		Ryemeads	S&B Commercials - Welham Green	North East	2017-04-30	2016-09-18						Yes					
+PK62WSD	Van Pack	Roadworthy	2016-02-19	0		2012-11-30	WDB9066332S691668		Gerrards Cross	Rygor Commercials - Heathrow	Central North	2017-04-30	2016-11-29						Yes					
+PK62WSF	Van Pack	Roadworthy	2016-02-19	0		2012-11-30	WDB9066332S717658		Gerrards Cross	Rygor Commercials - Heathrow	Central North	2017-04-30	2016-11-29						Yes					
+PO13UPV	Van Pack	Roadworthy	2016-02-19	0		2013-04-05	WDB9066332S754409		Gerrards Cross	Rygor Commercials - Heathrow	Central North	2017-04-30	2016-04-05						Yes					
+PO13URZ	Van Pack	Roadworthy	2016-02-19	0		2013-03-19	WDB9066332S756534		Chertsey	Rygor Commercials - Heathrow	South East	2017-04-30	2016-03-19						Yes					
+PO13URX	Van Pack	Roadworthy	2016-02-19	0		2013-03-19	WDB9066332S756529		Highworth	Rygor Commercials - Swindon	Thames Valley	2017-04-30	2016-03-19						Yes					
+PO13USP	Van Pack	Roadworthy	2016-02-19	0		2013-03-19	WDB9066332S757095		Gerrards Cross	Rygor Commercials - Heathrow	Central North	2017-04-30	2016-03-19						Yes					
+PK63KFZ	Van Pack	Roadworthy	2016-02-19	0		2013-12-23	WDB9066332S823691		Reading	Rygor Commercials - Reading	Thames Valley	2018-04-30	2016-12-23						Yes					
+PF63VCZ	Van Pack	Roadworthy	2016-02-19	0		2014-02-18	WDB9066332S878476		Kidlington	Rygor Commercials - Oxford	Thames Valley	2018-04-30	2017-02-18						Yes					
+PN14CFL	Van Pack	Roadworthy	2016-02-19	0		2014-07-28	WDB9066332S932635		Gerrards Cross	Rygor Commercials - Heathrow	Central North	2019-04-30	2017-07-28						Yes					
+PN14CFP	Van Pack	Roadworthy	2016-02-19	0		2014-07-28	WDB9066332S933268		Gerrards Cross	Rygor Commercials - Heathrow	Central North	2019-04-30	2017-07-28						Yes					
+PE64BDF	Van Pack	Roadworthy	2016-02-19	0		2014-10-13	WDB9066332S942699		Crossness	Sparshatts - Crayford	South East	2019-04-30	2017-10-13						Yes					
+PO64ZTB	Van Pack	Roadworthy	2016-02-19	0		2014-09-04	WDB9066332S943215		Ryemeads	S&B Commercials - Welham Green	North East	2019-04-30	2017-09-04						Yes					
+PO64ZTC	Van Pack	Roadworthy	2016-02-19	0		2014-09-04	WDB9066332S933264		Chertsey	Rygor Commercials - Heathrow	South East	2019-04-30	2017-09-04						Yes					
+PO64ZTD	Van Pack	Roadworthy	2016-02-19	0		2014-09-04	WDB9066332S933265		Crossness	Sparshatts - Crayford	South East	2019-04-30	2017-09-04						Yes					
+PO64ZTE	Van Pack	Roadworthy	2016-02-19	0		2014-09-04	WDB9066332S943223		Chertsey	Rygor Commercials - Heathrow	South East	2019-04-30	2017-09-04						Yes					
+PO64ZTF	Van Pack	Roadworthy	2016-02-19	0		2014-09-04	WDB9066332S943215a		Chertsey	Rygor Commercials - Heathrow	South East	2019-04-30	2017-09-04						Yes					
+PO64ZTG	Van Pack	Roadworthy	2016-02-19	0		2014-09-04	WDB9066332S943214		Chertsey	Rygor Commercials - Heathrow	South East	2019-04-30	2017-09-04						Yes					
+PO64ZTH	Van Pack	Roadworthy	2016-02-19	0		2014-09-04	WDB9066332S943216		Gerrards Cross	Rygor Commercials - Heathrow	Central North	2019-04-30	2017-09-04						Yes					
+PO64ZTJ	Van Pack	Roadworthy	2016-02-19	0		2014-09-04	WDB9066332S947627		Gerrards Cross	Rygor Commercials - Heathrow	Central North	2019-04-30	2017-09-04						Yes					
+PO64ZTK	Van Pack	Roadworthy	2016-02-19	0		2014-09-04	WDB9066332S952475		Reading	Rygor Commercials - Reading	Thames Valley	2019-04-30	2017-09-04						Yes					
+PO64ZTL	Van Pack	Roadworthy	2016-02-19	0		2014-09-04	WDB9066332S952476		Beckton	S&B Commercials - Thurrock	North East	2019-04-30	2017-09-04						Yes					
+PO64ZTS	Van Pack	Roadworthy	2016-02-19	0		2014-10-13	WDB9066332S940658		Crossness	Sparshatts - Crayford	South East	2019-04-30	2017-10-13						Yes					
+PK64PJY	Van Pack	Roadworthy	2016-02-19	0		2014-11-13	WDB9066332S977758		Crossness	Sparshatts - Crayford	South East	2019-04-30	2017-11-13						Yes					
+PK64PJV	Van Pack	Roadworthy	2016-02-19	0		2014-11-13	WDB9066332S977756		Crossness	Sparshatts - Crayford	South East	2019-04-30	2017-11-13						Yes					
+PK64PJX	Van Pack	Roadworthy	2016-02-19	0		2014-11-13	WDB9066332S977757		Chertsey	Rygor Commercials - Heathrow	South East	2019-04-30	2017-11-13						Yes					
+PK64PKA	Van Pack	Roadworthy	2016-02-19	0		2014-11-07	WDB9066332S90732		Crossness	Sparshatts - Crayford	South East	2019-04-30	2017-11-07						Yes					
+PK64PKC	Van Pack	Roadworthy	2016-02-19	0		2014-11-07	WDB9066332S960191		Crossness	Sparshatts - Crayford	South East	2019-04-30	2017-11-07						Yes					
+PK64PKE	Van Pack	Roadworthy	2016-02-19	0		2014-11-13	WDB9066332S966906		Chertsey	Rygor Commercials - Heathrow	South East	2019-04-30	2017-11-13						Yes					
+PK64PKF	Van Pack	Roadworthy	2016-02-19	0		2014-11-06	WDB9066332S961238		Crossness	Sparshatts - Crayford	South East	2019-04-30	2017-11-06						Yes					
+PK64PKJ	Van Pack	Roadworthy	2016-02-19	0		2014-11-06	WDB9066332S961239		Crossness	Sparshatts - Crayford	South East	2019-04-30	2017-11-06						Yes					
+PK64PKN	Van Pack	Roadworthy	2016-02-19	0		2014-11-13	WDB9066332S961240		Crossness	Sparshatts - Crayford	South East	2019-04-30	2017-11-13						Yes					
+PK64PKO	Van Pack	Roadworthy	2016-02-19	0		2014-11-07	WDB9066332S951687		Chertsey	Rygor Commercials - Heathrow	South East	2019-04-30	2017-11-07						Yes					
+PO13USZ	Van Pack	Roadworthy	2016-02-19	0		2013-03-21	WDB9066332S754406		Crossness	Sparshatts - Crayford	South East	2017-04-30	2016-03-21						Yes					
+PJ61WUU	Van Pack	Roadworthy	2016-02-19	0		2012-02-28	WDB9066332S628491		Crossness	Sparshatts - Crayford	South East	2016-04-30	2016-02-28						Yes					
+PJ61WUV	Van Pack	Roadworthy	2016-02-19	0		2012-02-28	WDB9066332S628492		Crossness	Rygor Commercials - Reading	South East	2016-04-30	2016-02-28						Yes					
+PN15DCZ	Van Pack	Roadworthy	2016-02-19	0		2015-03-02	WDB9066332P101520		Chertsey	Rygor Commercials - Heathrow	South East	2019-04-30	2018-03-02						Yes					
+PN15DDA	Van Pack	Roadworthy	2016-02-19	0		2015-03-02	WDB9066332P101519		Crossness	Sparshatts - Crayford	South East	2019-04-30	2018-03-02						Yes					
+PN15DDF	Van Pack	Roadworthy	2016-02-19	0		2015-03-03	WDB9066332P100565		Crossness	Sparshatts - Crayford	South East	2019-04-30	2018-03-03						Yes					
+PN15DDE	Van Pack	Roadworthy	2016-02-19	0		2015-03-05	WDB9066332P101518		Crossness	Sparshatts - Crayford	South East	2019-04-30	2018-03-05						Yes					
+PJ64CZA	Van Pack	Roadworthy	2016-02-19	0		2015-02-24	WDB9066332P101060		Crossness	Sparshatts - Crayford	South East	2019-04-30	2018-02-24						Yes					
+PJ64CZB	Van Pack	Roadworthy	2016-02-19	0		2015-02-24	WDB9066332S997307		Crossness	Sparshatts - Crayford	South East	2019-04-30	2018-02-24						Yes					
+PN15DDU	Van Pack	Roadworthy	2016-02-19	0		2015-03-18	WDB9066332S985155		Crossness	Sparshatts - Crayford	South East	2019-04-30	2018-03-18						Yes					
+PN15DDK	Van Pack	Roadworthy	2016-02-19	0		2015-03-10	WDB9066332S985854		Crossness	Sparshatts - Crayford	South East	2019-04-30	2018-03-10						Yes					
+PN15DDL	Van Pack	Roadworthy	2016-02-19	0		2015-03-12	WDB9066332S985853		Chertsey	Rygor Commercials - Heathrow	South East	2019-04-30	2018-03-12						Yes					
+PN15DDO	Van Pack	Roadworthy	2016-02-19	0		2015-03-18	WDB9066332S985852		Kidlington	Rygor Commercials - Oxford	Thames Valley	2019-04-30	2018-03-18						Yes					
+PN15DUU	Van Pack	Roadworthy	2016-02-19	0		2015-04-30	WDB9066332S995316		Kidlington	Rygor Commercials - Oxford	Thames Valley	2020-05-31	2018-04-30						Yes					
+PN15DUY	Van Pack	Roadworthy	2016-02-19	0		2015-04-30	WDB90663332S995319		Chertsey	Rygor Commercials - Heathrow	South East	2020-05-31	2018-04-30						Yes					
+HK11BFF	Mainline CCTV Transit	Roadworthy	2016-02-19	0			WFOXXXTTFXBL49087		Chertsey	Trust Ford - Staines	South East								Yes					
+PJ61KLD	Mainline CCTV (Mercedes)	Roadworthy	2016-02-19	0		2012-01-25	WDB9066332S609107		St Neots		Other (inc HQ)	2016-04-30	2017-01-25						Yes					
+PJ61KLE	Mainline CCTV (Mercedes)	Roadworthy	2016-02-19	0		2012-01-25	WDB9066332S608709		Beckton	S&B Commercials - Thurrock	North East	2016-04-30	2016-01-25						Yes					
+PJ12YNA	Mainline CCTV (Mercedes)	Roadworthy	2016-02-19	0		2012-07-20	WDB9066332S693743		Ryemeads	S&B Commercials - Welham Green	North East	2017-04-30	2016-07-20						Yes					
+PJ12YNB	Mainline CCTV (Mercedes)	Roadworthy	2016-02-19	0		2012-07-20	WDB9066332S693739		Gerrards Cross	Rygor Commercials - Heathrow	Central North	2017-04-30	2016-07-20						Yes					
+PJ12YNC	Mainline CCTV (Mercedes)	Roadworthy	2016-02-19	0		2012-07-20	WDB9066332S693742		Kidlington	Rygor Commercials - Heathrow	Thames Valley	2017-04-30	2016-07-20						Yes					
+PN12CZM	Mainline CCTV (Mercedes)	Roadworthy	2016-02-19	0		2012-04-17	WDB9066332S609106		Gerrards Cross	Rygor Commercials - Heathrow	Central North	2017-04-30	2016-04-21						Yes					
+PN62JGV	Mainline CCTV (Mercedes)	Roadworthy	2016-02-19	0		2012-09-07	WDB9066332S693745		Chertsey	Rygor Commercials - Heathrow	South East	2017-04-30	2016-09-06						Yes					
+PN62JGX	Mainline CCTV (Mercedes)	Roadworthy	2016-02-19	0		2012-09-07	WDB9066332S692334		Highworth	Rygor Commercials - Swindon	Thames Valley	2017-04-30	2016-09-06						Yes					
+PJ62MYG	Mainline CCTV (Mercedes)	Roadworthy	2016-02-19	0		2013-02-01	WDB9066332S757050		Gerrards Cross	Rygor Commercials - Heathrow	Central North	2017-04-30	2016-02-01						Yes					
+PO13UOL	Mainline CCTV (Mercedes)	Roadworthy	2016-02-19	0		2013-03-25	WDB9066332S756516		Gerrards Cross	Rygor Commercials - Heathrow	Central North	2017-04-30	2016-03-25						Yes					
+PO13UUP	Mainline CCTV (Mercedes)	Roadworthy	2016-02-19	0		2013-05-24	WDB9066352S753910		Chertsey	Rygor Commercials - Heathrow	South East	2018-04-30	2016-05-24						Yes					
+PN14BUP	Mainline CCTV (Mercedes)	Roadworthy	2016-02-19	0		2014-04-30	WDB9066352S876195		Kidlington	Rygor Commercials - Heathrow	Thames Valley	2019-04-30	2017-04-30						Yes					
+PO64ZSY	Mainline CCTV (Mercedes)	Roadworthy	2016-02-19	0		2014-09-05	WDB9066352S933267		Crossness	Sparshatts - Crayford	South East	2019-04-30	2017-09-05						Yes					
+PO64ZSX	Mainline CCTV (Mercedes)	Roadworthy	2016-02-19	0		2014-09-03	WDB9066332S933266		Crossness	Sparshatts - Crayford	South East	2019-04-30	2017-09-03						Yes					
+PO64ZSZ	Mainline CCTV (Mercedes)	Roadworthy	2016-02-19	0		2014-09-03	WDB9066332S932637		Chertsey	Rygor Commercials - Heathrow	South East	2019-04-30	2017-09-03						Yes					
+PE64BHX	Mainline CCTV (Mercedes)	Roadworthy	2016-02-19	0		2014-12-01	WDB9066332S915908		Kidlington	Rygor Commercials - Heathrow	Thames Valley	2019-04-30	2017-12-01						Yes					
+PE64BGX	Mainline CCTV (Mercedes)	Roadworthy	2016-02-19	0		2014-11-19	WDB9066332S940971		Crossness	Sparshatts - Crayford	South East	2019-04-30	2017-11-19						Yes					
+PE64BGY	Mainline CCTV (Mercedes)	Roadworthy	2016-02-19	0		2014-12-23	WDB9066332S940456		Beckton	S&B Commercials - Thurrock	North East	2019-04-30	2017-12-23						Yes					
+PJ64DLN	Mainline CCTV (Mercedes)	Roadworthy	2016-02-19	0		2015-01-20	WDB9066332S985151		Gerrards Cross	Rygor Commercials - Heathrow	Central North	2019-04-30	2018-01-20						Yes					
+PJ64CYU	Mainline CCTV (Mercedes)	Roadworthy	2016-02-19	0		2015-02-26	WDB9066332P100564		Kidlington	Rygor Commercials - Heathrow	Thames Valley	2019-04-30	2018-02-26						Yes					
+PN15CZL	Mainline CCTV (Mercedes)	Roadworthy	2016-02-19	0		2015-03-31	WDB9066332P106871		Kidlington	Rygor Commercials - Heathrow	Thames Valley	2020-05-31	2018-03-31						Yes					
+FL63NZY	Mainline CCTV Transit	Roadworthy	2016-02-19	0		2013-10-10	WFOXXXTTFXDC65071				Other (inc HQ)		2016-08-31						Yes					
+WU62YZM	Lining	Re-positioning	2016-02-19	0		2012-09-01	WDB9066332S713543		Slough	Rygor Commercials - Heathrow	Other (inc HQ)	2017-04-30	2016-08-31						Yes					
+WU63ZVV	Lining	Re-positioning	2016-02-19	0		2013-09-12	WDB9066332S820271		Slough	Rygor Commercials - Heathrow	Other (inc HQ)	2018-04-30	2016-09-02						Yes					
+WX63UGY	Lining	Re-positioning	2016-02-19	0		2013-09-02	WDB9066332S823262		Slough	Rygor Commercials - Heathrow	Other (inc HQ)	2018-04-30	2016-09-02						Yes					
+MM12RUJ	Pick-up 4x4	Roadworthy	2016-02-19	0		2012-08-24	6FPPXXMJ2PCG41199		Gerrards Cross	Lanes Group - Rainham	Central North		2016-08-24						Yes					
+MM12RUR	Pick-up 4x4	Roadworthy	2016-02-19	0		2012-08-24	6FPPXXMJ2PCG41203		Chertsey	Lanes Group - Rainham	South East		2016-09-02						Yes					
+MM12RUV	Pick-up 4x4	Roadworthy	2016-02-19	0		2012-08-24	6FPPXXMJ2PCG41204		Kidlington	Scania - Abingdon	Thames Valley		2016-08-26						Yes					
+FG62LMU	Hired Pick Up	Roadworthy	2016-02-19	0					Kidlington	SHB - Lease 21	Thames Valley								No					
+SG12HTZ	Hired Pick Up	Roadworthy	2016-02-19	0					Crossness	SHB - Lease 21	South East								No					
+FE63FVG	Hired Pick Up	Other	2016-02-19	0							Other (inc HQ)								YesNo					
+HG11NHY	Hired Pick Up	Roadworthy	2016-02-19	0					Beckton	SHB - Lease 21	North East								No					
+HJ64AXW	Hired Pick Up	Roadworthy	2016-02-19	0					Kidlington	SHB - Lease 21	Thames Valley								No					
+MM12RUO	Ford Transit Tipper	Roadworthy	2016-02-19	0		2012-08-24	WF0RXXTTFNCR75475		Kidlington	Scania - Heathrow	Thames Valley		2016-07-12						Yes					
+MM12RUU	Ford Transit Tipper	Roadworthy	2016-02-19	0		2012-08-24	WFORXXTTFNBU63189		Kidlington	Scania - Heathrow	Thames Valley		2016-08-24						Yes					
+YT60XYD	Hired Street Management	Roadworthy	2016-02-19	0		2010-09-01			Slough	SHB - Lease 21	Other (inc HQ)		2016-09-01						No					
+MW55JBY	Small Panel Van (VW)	Roadworthy	2016-02-19	0		2005-11-17	WV1ZZZ2KZ5X102755		Slough	VW Hounslow	Other (inc HQ)		2016-09-11						Yes					
+CV61KUY	Small Panel Van Connect	Roadworthy	2016-02-19	0		2011-09-01	WFOTXXERPTBY95197		Gerrards Cross	Trust Ford - West Drayton	Central North		2016-09-01						Yes					
+MK62VOD	Small Panel Van Connect	Roadworthy	2016-02-19	0		2012-09-10	WFOTXXPTCD07007		Kidlington	Trust Ford - Hartwell	Thames Valley		2016-09-09						Yes					
+MK62VOG	Small Panel Van Connect	Roadworthy	2016-02-19	0		2012-09-10	WFOTXXPTCD07000		Ryemeads	Trust Ford - Harlow	North East		2016-09-09						Yes					
+MK62VOJ	Small Panel Van Connect	Roadworthy	2016-02-19	0		2012-09-10	WFOTXXTTPTCD11020		Gerrards Cross	Trust Ford - West Drayton	Central North		2016-09-09						Yes					
+MK62VOO	Small Panel Van Connect	Roadworthy	2016-02-19	0		2012-09-10	WFOTXXTTPTCD10957		Chertsey	Trust Ford - West Drayton	South East		2016-09-09						Yes					
+MK62VOT	Small Panel Van Connect	Roadworthy	2016-02-19	0		2012-09-10	WFOTXXTTPTCD08949		Slough	Trust Ford - West Drayton	Other (inc HQ)		2016-09-09						Yes					
+MK62VOV	Small Panel Van Connect	Roadworthy	2016-02-19	0		2012-09-10	WFOTXXTTPTCD10953		Kidlington	Trust Ford - Hartwell	Thames Valley		2016-09-09						Yes					
+MK62VPA	Small Panel Van Connect	Roadworthy	2016-02-19	0		2012-09-10	WFOTXXTTPTCD07040		Chertsey	Trust Ford - West Drayton	South East		2016-09-09						Yes					
+MK62VPN	Small Panel Van Connect	Roadworthy	2016-02-19	0		2012-09-10	WFOTXXTTPTCD07012		Gerrards Cross	Trust Ford - West Drayton	Central North		2016-09-09						Yes					
+MK62VPP	Small Panel Van Connect	Roadworthy	2016-02-19	0		2012-09-10	WFOTXXTTPTCD07008		Beckton	Trust Ford - Plaistow	North East		2016-09-09						Yes					
+MK62VPT	Small Panel Van Connect	Roadworthy	2016-02-19	0		2012-09-10	WFOTXXTTPTCD09068		Chertsey	Trust Ford - West Drayton	South East		2016-09-09						Yes					
+MW13BJO	Small Panel Van Connect	Roadworthy	2016-02-19	0		2013-06-30	WFOTXXTTPTCL33439		Crossness	Trust Ford 	South East		2016-06-30						Yes					
+MT13SVU	Small Panel Van Connect	Roadworthy	2016-02-19	0		2013-06-30	WFOTXXTTPTDM11149		Beckton	Trust Ford - Plaistow	North East		2016-06-30						Yes					
+MT13SUU	Small Panel Van Connect	Roadworthy	2016-02-19	0		2013-06-30	WFOTXXTTPTDJ65272		Beckton	Trust Ford - Plaistow	North East		2016-06-30						Yes					
+MT13STX	Small Panel Van Connect	Roadworthy	2016-02-19	0		2013-06-30	WFOTXXTTPTDU88368		Beckton	Trust Ford - Plaistow	North East		2016-06-30						Yes					
+MT13SVO	Small Panel Van Connect	Roadworthy	2016-02-19	0		2013-06-30	WFOTXXTTPTDJ65360		Gerrards Cross	Trust Ford - West Drayton	Central North		2016-06-30						Yes					
+MT13SVR	Small Panel Van Connect	Roadworthy	2016-02-19	0		2013-06-30	WFOTXXTTPTDJ65356		Gerrards Cross	Trust Ford - West Drayton	Central North		2016-06-30						Yes					
+MW64BDE	Small Panel Van Connect	Roadworthy	2016-02-19	0		2014-11-27	WFORXXWPGREM33747		Kidlington	Trust Ford - Hartwell	Thames Valley		2017-11-27						Yes					
+MW64BDF	Small Panel Van Connect	Roadworthy	2016-02-19	0		2014-11-27	WFORXXWPGREM33763		Crossness	Trust Ford 	South East		2017-11-27						Yes					
+MW64BDO	Small Panel Van Connect	Roadworthy	2016-02-19	0		2014-11-27	WFORXXWPGREM33702		Beckton	Trust Ford - Plaistow	North East		2017-11-27						Yes					
+MW64BDU	Small Panel Van Connect	Roadworthy	2016-02-19	0		2014-11-27	WFORXXWPGREM33668		Crossness	Trust Ford 	South East		2017-11-27						Yes					
+MW64BDV	Small Panel Van Connect	Roadworthy	2016-02-19	0		2014-11-27	WFORXXWPGREM33686		Crossness	Trust Ford 	South East		2017-11-27						Yes					
+MW64BDX	Small Panel Van Connect	Roadworthy	2016-02-19	0		2014-11-27	WFORXXWPGREM33718		Beckton	Trust Ford - Plaistow	North East		2017-11-27						Yes					
+MW64BDY	Small Panel Van Connect	Roadworthy	2016-02-19	0		2014-11-27	WFORXXWPGREM33662		Kidlington	Trust Ford - Hartwell	Thames Valley		2017-11-27						Yes					
+MW64BDZ	Small Panel Van Connect	Roadworthy	2016-02-19	0		2014-11-27	WFORXXWPGREM34745		Kidlington	Trust Ford - Hartwell	Thames Valley		2017-11-27						Yes					
+PE64BZN	Panel Van	Roadworthy	2016-02-19	0		2015-01-23	WDF63960123886170		Ryemeads	S&B Commercials - Welham Green	North East	2019-04-30	2018-01-23						Yes					
+NA13FGF	Hired Panel Van	Roadworthy	2016-02-19	0					Crossness	Thrifty - Lease 21	South East								No					
+WR15BYT	Hired Panel Van	Roadworthy	2016-02-19	0					Crossness	Thrifty - Lease 21	South East								No					
+WO15UTS	Hired Panel Van	Roadworthy	2016-02-19	0					Crossness	Thrifty - Lease 21	South East								No					
+PN65EXK	Panel Van	Roadworthy	2016-02-19	0		2015-09-08	WDF63960323911300		Beckton	S&B Commercials - Thurrock	North East	2020-09-30	2018-09-08						Yes					
+PN65EXG	Panel Van	Roadworthy	2016-02-19	0		2015-09-08	WDF63960323910446		Gerrards Cross	Rygor Commercials - Heathrow	Central North	2020-09-30	2018-09-08						Yes					
+PN65EAJ	Panel Van	Roadworthy	2016-02-19	0		2015-09-08	WDF63960323911285		Gerrards Cross	Rygor Commercials - Heathrow	Central North	2020-09-30	2018-09-08						Yes					
+PN65EXF	Panel Van	Roadworthy	2016-02-19	0		2015-09-08	WDF63960323910492		Kidlington  	Rygor Commercials - Oxford	Thames Valley	2020-09-30	2018-09-08						Yes					
+PN65EXL	Panel Van	Roadworthy	2016-02-19	0		2015-09-08	WDF63960323911244		Kidlington	Rygor Commercials - Oxford	Thames Valley	2020-09-30	2018-09-08						Yes					
+PN65EXH	Panel Van	Roadworthy	2016-02-19	0		2015-09-08	WDF63960323911179		Gerrards Cross	Rygor Commercials - Heathrow	Central North	2020-09-30	2018-09-08						Yes					
+PN65EAX	Panel Van	Roadworthy	2016-02-19	0		2015-09-28	WDF63960323912883		Kidlington	Rygor Commercials - Oxford	Thames Valley	2020-09-30	2018-09-28						Yes					
+PN65EAY	Panel Van	Roadworthy	2016-02-19	0		2015-09-28	WDF63960323913127		Chertsey	Rygor Commercials - Heathrow	South East	2020-09-30	2018-09-28						Yes					
+PN65EAM	Panel Van	Roadworthy	2016-02-19	0		2015-09-28	WDF63960323911279		Chertsey	Rygor Commercials - Heathrow	South East	2020-09-30	2018-09-28						Yes					
+PN65EAO	Panel Van	Roadworthy	2016-02-19	0		2015-09-28	WDF63960323911296		Crossness	Sparshatts - Crayford	South East	2020-09-30	2018-09-28						Yes					
+PN65EAK	Panel Van	Roadworthy	2016-02-19	0		2015-09-28	WDF63960323911298		Crossness	Sparshatts - Crayford	South East	2020-09-30	2018-09-28						Yes					
+PN65EAP	Panel Van	Roadworthy	2016-02-19	0		2015-09-28	WDF63960323912791		Kidlington	Rygor Commercials - Oxford	Thames Valley	2020-09-30	2018-09-28						Yes					
+PN65EAW	Panel Van	Roadworthy	2016-02-19	0		2015-09-28	WDF63960323912775		Crossness	Sparshatts - Crayford	South East	2020-09-30	2018-09-28						Yes					
+HG63GWK	Hired Panel Van	Roadworthy	2016-02-19	0					Beckton	Lease 21	North East								YesNo					
+WG14FMX	Hired Panel Van	Roadworthy	2016-02-19	0					Gerrards Cross	Lease 21	Central North								YesNo					
+PO59AVE	Kaiser 	VOR	2016-02-19	0		2010-02-04	YV2JS02G88A678659		Gerrards Cross	Scania - Heathrow	Central North	2016-01-19	2017-01-05						Yes					
+MK61EVW	Recycler	Roadworthy	2016-02-19	0		2011-10-24	XLEP8X40005267639		Gerrards Cross	Scania - Heathrow	Central North	2017-07-23	2016-10-01						Yes					
+BL12UOA	Recycler	Roadworthy	2016-02-19	0		2012-07-24	XLEP8X40005290702		Gerrards Cross	Scania - Heathrow	Central North	2015-09-30	2016-05-13						Yes					
+BL12UOB	Recycler	Roadworthy	2016-02-19	0		2012-08-06	VLUP8X40009167613		Highworth	Scania - Swindon	Thames Valley	2015-09-30	2016-08-01						Yes					
+BL12UOC	Recycler	Roadworthy	2016-02-19	0		2012-08-06	VLUP8X40009168376		Highworth	Scania - Swindon	Thames Valley	2015-09-30	2016-06-18						Yes					
+BF62HSK	Recycler	Roadworthy	2016-02-19	0		2012-09-19	VLUP8X40009168791		Thames Valley	Scania - Heathrow	Thames Valley	2015-09-30	2016-06-26						Yes					
+BJ13BKX	Recycler	Roadworthy	2016-02-19	0		2013-05-17	XLEG8X20005290648		Kidlington	Scania - Abingdon	Thames Valley	2016-07-14	2016-06-03						Yes					
+BF13GPE	Recycler	Roadworthy	2016-02-19	0		2013-03-25	YS2P6X40002081194		Gerrards Cross	Scania - Heathrow	Central North	2016-07-14	2016-04-13						Yes					
+BJ13BKZ	Recycler	Roadworthy	2016-02-19	0		2013-05-17	YS2P8X40005314174		Beckton	Scania - Purfleet	North East	2016-07-14	2016-05-20						Yes					
+BJ13BMV	Recycler	Roadworthy	2016-02-19	0		2016-06-01	YS2P8X40005317451		Gerrards Cross	Scania - Heathrow	Central North	2016-07-14	2016-04-11						Yes					
+BT13LOD	Recycler	Roadworthy	2016-02-19	0		2013-07-10	YS2P8X40005323991		Camberley	Scania - Heathrow	South East	2016-07-17	2016-05-21						Yes					
+BU63YAO	Recycler	Roadworthy	2016-02-19	0		2013-09-05	YS2P8X40005326549		Ryemeads	Scania - South Mimms	North East	2018-09-02	2016-08-01						Yes					
+FP63FNA	Recycler	Roadworthy	2016-02-19	0		2013-12-10	YS2P8X40005335090		Crossness	Scania - Purfleet	South East	2018-12-08	2016-11-01						Yes					
+FN14LXY	Recycler	Roadworthy	2016-02-19	0		2014-06-10	YS2G8X20002095795		Gerrards Cross	Scania - Heathrow	Central North	2019-06-09	2016-05-15						Yes					
+FN14LZB	Recycler	Roadworthy	2016-02-19	0		2014-08-01	YS2G8X20002096994		Gerrards Cross	Scania - Heathrow	Central North	2019-07-31	2016-08-01						Yes					
+FJ64FSC	8x8 Recycler	Roadworthy	2016-02-19	0		2014-10-21	WDB9642332L857398		Highworth	Rygor Commercials - Swindon	Thames Valley		2016-10-15						Yes					
+FN64XDC	Recycler	Roadworthy	2016-02-19	0		2014-10-16	YS2P8X40005352649		Crossness	Scania - Purfleet	South East	2019-10-15	2016-10-16						Yes					
+FN64XDD	Recycler	Roadworthy	2016-02-19	0		2014-10-17	YS2P8X40009186539		Camberley	Scania - Heathrow	South East	2019-10-16	2016-09-28						Yes					
+FN64XDV	Recycler	Roadworthy	2016-02-19	0		2014-10-24	YS2P8X40005364081		Slough	Scania - Heathrow	Thames Valley	2019-10-23	2016-10-24						Yes					
+FN64XDY	Recycler	Roadworthy	2016-02-19	0		2014-09-11	YS2P8X40005353316		Camberley	Scania - Heathrow	South East	2019-09-10	2016-09-11						Yes					
+FP64BKK	Recycler	Roadworthy	2016-02-19	0		2014-10-24	YS2P8X40005364380		Crossness	Scania - Purfleet	South East	2019-10-23	2016-11-02						Yes					
+FP64BKL	Recycler	Roadworthy	2016-02-19	0		2014-10-24	YS2P8X40005365212		Crossness	Scania - Purfleet	South East	2019-10-23	2016-11-03						Yes					
+FN15FVJ	Recycler	Roadworthy	2016-02-19	0		2015-03-01	YS2P8X40005371702		Highworth	Scania - Swindon	Thames Valley	2020-02-29	2016-03-01						Yes					
+FN15FVK	Recycler	Roadworthy	2016-02-19	0		2015-03-01	YS2P8X40005371990		Gerrards Cross	Scania - Heathrow	Central North	2020-02-29	2016-03-01						Yes					
+FN15FWF	Recycler	Roadworthy	2016-02-19	0		2015-04-01	YS2P8X40005377842		Gerrards Cross	Scania - Heathrow	Central North	2020-04-30	2016-04-01						Yes					
+FN15FWE	Recycler	Roadworthy	2016-02-19	0		2015-04-01	YS2P8X40005376365		Beckton	Scania - Purfleet	North East	2020-04-30	2016-04-01						Yes					
+FN65NRV	Recycler	Roadworthy	2016-02-19	0		2015-09-17	YS2P8X40005395320		Chertsey	Scania - Heathrow	South East		2016-09-17						Yes					
+FN65NSU	Recycler	Awaiting kit	2016-02-19	0		2015-10-19	YS2P8X40005395185		Kidlington	Scania - Abingdon	Thames Valley		2016-10-19						Yes					
+YJ62HKO	Tanker - 4K (DAF)	Roadworthy	2016-02-19	0		2012-10-18	XLRAD85MCOE951925		Kidlington	HTC - Kidlington	Thames Valley		01/10//2016						Yes					
+YJ12LUA	Tanker - 4K (DAF)	Roadworthy	2016-02-19	0		2012-07-30	XLRAD85MCOE948349		Ryemeads	HTC - Waltham Cross	North East		2016-06-01						Yes					
+YJ12LUB	Tanker - 4K (DAF)	Roadworthy	2016-02-19	0		2012-07-23	XLRAD85MCOE948506		Gerrards Cross	Rygor Commercials - Heathrow	Central North		2016-06-01						Yes					
+YJ12LUD	Tanker - 4K (DAF)	Roadworthy	2016-02-19	0		2012-07-23	XLRAD85MCOE948179		Crossness	HTC - Belvedere	South East		2016-05-01						Yes					
+YJ15HFF	Tanker - 4K (DAF)	Roadworthy	2016-02-19	0		2015-05-01	YS2P8X40009193119		Kidlington	HTC - Kidlington	Thames Valley		2016-05-01						Yes					
+YJ15HFG	Tanker - 4K (DAF)	Roadworthy	2016-02-19	0		2015-05-01	YS2P8X40009193165		Kidlington	HTC - Kidlington	Thames Valley		2016-05-01						Yes					
+YJ12LUF	Tanker - 4K (DAF)	Roadworthy	2016-02-19	0		2012-08-07	XLRAD85MCOE949309		Gerrards Cross	Rygor Commercials - Heathrow	Central North		2016-08-01						Yes					
+J555VAC	Tanker - 3K (Scania)	Roadworthy	2016-02-19	0		2008-03-24	5191787		Gerrards Cross	Scania - Heathrow	Central North		2016-03-01						Yes					
+J600VAC	Tanker - 3K (Scania)	Roadworthy	2016-02-19	0		2008-04-02	XLEP6X40005191796		Gerrards Cross	Scania - Heathrow	Central North		2016-07-01						Yes					
+E6LNS	Tanker - 2K (Scania)	Roadworthy	2016-02-19	0		2008-03-11	5191278		Kidlington	Scania - Abingdon	Thames Valley		2016-04-01						Yes					
+E7LNS	Tanker - 2K (Scania)	Roadworthy	2016-02-19	0		2008-03-26	XLEP4X20005191314		Gerrards Cross	Scania - Heathrow	Central North		2016-03-01						Yes					
+E5LNS	Tanker - 2K (Scania)	Roadworthy	2016-02-19	0		2008-04-26	5191339		Beckton	Scania - Purfleet	North East		2016-05-01						Yes					
+E4LNS	Tanker - 2K (Scania)	Roadworthy	2016-02-19	0		2008-05-02	5191350		Crossness	Scania - Purfleet	South East		2016-03-31						Yes					
+YG13MUU	Tanker - 4K (DAF)	Roadworthy	2016-02-19	0		2013-06-19	XLRAD85MCOE986926		Gerrards Cross	Rygor Commercials - Heathrow	Central North		2016-06-01						Yes					
+YK64ZZC	Tanker - 4K (Scania)	Roadworthy	2016-02-19	0		2014-10-21	YS2P8X40005356174		Chertsey	Scania - Heathrow	South East		2016-11-11						Yes					
+YK64ZZD	Tanker - 4K (Scania)	Roadworthy	2016-02-19	0		2014-10-21	YS2P8X40005357249		Camberley	Scania - Heathrow	South East		2016-10-01						Yes					
+YJ64FHA	Tanker - 4K (Scania)	Roadworthy	2016-02-19	0		2014-10-24	YS2P8X40009185995		Crossness	Scania - Purfleet	South East		2016-10-01						Yes					
+YJ64FHB	Tanker - 4K (Scania)	Roadworthy	2016-02-19	0		2014-10-24	YS2P8X40009186035		Crossness	Scania - Purfleet	South East		2016-10-01						Yes					
+FD61EUM	Cityflex	Roadworthy	2016-02-19	0		2011-12-06	WDB9700532L600586		Chertsey	Rygor Commercials - Heathrow	Central North		2016-11-26						Yes					
+FJ61LCO	Cityflex	Roadworthy	2016-02-19	0		2011-10-01	WDB9700422L592655		Highworth	Rygor Commercials - Swindon	Thames Valley		2016-09-01						Yes					
+FJ61LCT	Cityflex	Roadworthy	2016-02-19	0		2011-10-01	WDB9700422L590361		Beckton	S&B Commercials - Thurrock	North East		2016-10-28						Yes					
+FJ61LCU	Cityflex	Roadworthy	2016-02-19	0		2011-10-01	WDB9700422L600940		Beckton	S&B Commercials - Thurrock	North East		2016-11-05						Yes					
+FJ61LCZ	Cityflex	Roadworthy	2016-02-19	0		2011-10-10	WDB9700422L597432		Crossness	Sparshatts - Crayford	South East		2016-10-02						Yes					
+FN12HWC	Cityflex	Roadworthy	2016-02-19	0		2012-03-12	WBD9700532L600587		Kidlington	Rygor Commercials - Oxford	Thames Valley		2016-02-03						Yes					
+PE12LLZ	Cityflex	Roadworthy	2016-02-19	0		2012-04-26	WDB9700422L614153		Beckton	S&B Commercials - Thurrock	North East		2016-04-01						Yes					
+PJ12AOK	Cityflex	Roadworthy	2016-02-19	0		2012-06-11	WDB9700422L614154		Kidlington	Rygor Commercials - Heathrow	Thames Valley		2016-05-26						Yes					
+FG62ZPR	Cityflex	Roadworthy	2016-02-19	0		2012-11-08	WDB9700422L706520		Gerrards Cross	Rygor Commercials - Heathrow	Central North		2016-11-11						Yes					
+FL62EKT	Cityflex	Roadworthy	2016-02-19	0		2012-10-17	WDB9700422L697506		Gerrards Cross	Rygor Commercials - Heathrow	Central North		2016-10-23						Yes					
+FL62EKW	Cityflex	Roadworthy	2016-02-19	0		2012-10-19	WDB9700422L707148		Gerrards Cross	Rygor Commercials - Heathrow	Central North		2016-10-17						Yes					
+FL62EKX	Cityflex	Roadworthy	2016-02-19	0		2012-11-01	WDB9700422L697507		Gerrards Cross	Rygor Commercials - Heathrow	Central North		2016-11-06						Yes					
+FL62EKZ	Cityflex	Roadworthy	2016-02-19	0		2012-11-02	WDB9700422L706835		Gerrards Cross	Rygor Commercials - Heathrow	Central North		2016-11-26						Yes					
+FL62EKY	Cityflex	Roadworthy	2016-02-19	0		2012-11-02	WDB9700422L707544		Gerrards Cross	Rygor Commercials - Heathrow	Central North		2016-11-26						Yes					
+PN62ZLO	Cityflex	Roadworthy	2016-02-19	0		2012-09-14	WDB9700422L689101		Gerrards Cross	Rygor Commercials - Heathrow	Central North		2016-09-01						Yes					
+FG62ZRT	Cityflex	Roadworthy	2016-02-19	0		2013-01-17	WDB9700422L713101		Beckton	S&B Commercials - Thurrock	North East		2016-12-10						Yes					
+FD62DXU	Cityflex	Roadworthy	2016-02-19	0		2013-01-17	WDB9700422L713880		Ryemeads	S&B Commercials - Welham Green	North East		2016-01-28						Yes					
+FD62DXT	Cityflex	Roadworthy	2016-02-19	0		2013-01-17	WDB9700422L713881		Crossness	Sparshatts - Crayford	South East		2016-01-29						Yes					
+FD62DXW	Cityflex	Roadworthy	2016-02-19	0		2013-01-17	WDB9700422L712734		Kidlington	Rygor Commercials - Oxford	Thames Valley		2016-01-06						Yes					
+FD62DXX	Cityflex	Roadworthy	2016-02-19	0		2013-01-17	WDB9700422L714605		Gerrards Cross	Rygor Commercials - Heathrow	Central North		2017-01-22						Yes					
+FD62DXY	Cityflex	Roadworthy	2016-02-19	0		2013-01-29	WDB9700422L727627		Gerrards Cross	Rygor Commercials - Heathrow	Central North		2016-01-21						Yes					
+FG13LVR	Cityflex	Roadworthy	2016-02-19	0		2013-05-10	WDB9700422L733558		Hartley Whitney	Rygor Commercials - Heathrow	South East		2016-03-16						Yes					
+FG13LVS	4x4 Cityflex	Roadworthy	2016-02-19	0		2013-05-10	WDB9703622L746115		Highworth	Rygor Commercials - Swindon	Thames Valley		2016-04-14						Yes					
+FG13LVT	Cityflex	Roadworthy	2016-02-19	0		2013-05-23	WDB9790422L748212		Kidlington	Rygor Commercials - Oxford	Thames Valley		2016-05-12						Yes					
+FJ13NBO	Cityflex	Roadworthy	2016-02-19	0		2013-03-25	WDB9700422L733554		Chertsey	Rygor Commercials - Heathrow	South East		2016-03-26						Yes					
+FL13TNF	Cityflex	Roadworthy	2016-02-19	0		2013-05-01	WDB9700422L733202		Kidlington	Rygor Commercials - Oxford	Thames Valley		2016-06-10						Yes					
+FL13TPF	Cityflex	Roadworthy	2016-02-19	0		2013-05-01	WDB9700422L732477		Gerrards Cross	Rygor Commercials - Heathrow	Central North		2016-04-23						Yes					
+FL13TPU	Cityflex	Roadworthy	2016-02-19	0		2013-05-01	WDB9700422L733555		Beckton	S&B Commercials - Thurrock	North East		2016-05-14						Yes					
+FP13ZPM	Cityflex	Roadworthy	2016-02-19	0		2013-08-19	WDB9700422L780614		Crossness	Sparshatts - Crayford	South East		2016-07-16						Yes					
+FJ63BND	Cityflex	Roadworthy	2016-02-19	0		2013-09-11	WDB9700422L780616		Kidlington	Rygor Commercials - Oxford	Thames Valley		2016-09-11						Yes					
+FJ63BNN	Cityflex	Roadworthy	2016-02-19	0		2013-10-07	WDB9700422L790620		Kidlington	Rygor Commercials - Oxford	Thames Valley		2016-10-23						Yes					
+FJ63BNO	Cityflex	Roadworthy	2016-02-19	0		2013-10-25	WDB9700422L791586		Kidlington	Rygor Commercials - Oxford	Thames Valley		2016-10-30						Yes					
+FJ63BOH	Cityflex	Roadworthy	2016-02-19	0		2014-01-24	WDB9700532L798808		Camberley	Rygor Commercials - Heathrow	South East		2017-01-19						Yes					
+FE63GDK	Cityflex	Roadworthy	2016-02-19	0		2013-09-12	WDB9700422L780615		Gerrards Cross	Rygor Commercials - Heathrow	Central North		2016-09-02						Yes					
+FN63YZK	Cityflex	Roadworthy	2016-02-19	0		2013-09-01	WDB9700422L780351		Crossness	Sparshatts - Crayford	South East		2016-09-11						Yes					
+FP63OLG	Cityflex	Roadworthy	2016-02-19	0		2013-11-26	WDB9700422L798487		Crossness	Sparshatts - Crayford	South East		2016-10-20						Yes					
+FP63OLH	Cityflex	Roadworthy	2016-02-19	0		2013-12-10	WDB9700422L798488		Crossness	Sparshatts - Crayford	South East		2016-11-19						Yes					
+FL14ODN	Cityflex	Roadworthy	2016-02-19	0		2011-08-11	WDB9670042L810342		Highworth	Rygor Commercials - Swindon	Thames Valley		2016-08-03						Yes					
+FJ14XWF	Cityflex	Roadworthy	2016-02-19	0		2014-03-17	WDB9670042L810341		Crossness	Sparshatts - Crayford	South East		2016-03-04						Yes					
+FJ14XWK	Cityflex	Roadworthy	2016-02-19	0		2014-08-11	WDB9670042L810393		Gerrards Cross	Rygor Commercials - Heathrow	Central North		2016-08-03						Yes					
+FJ14XWL	Cityflex	Roadworthy	2016-02-19	0		2014-08-11	WDB9670042L810394		Highworth	Rygor Commercials - Swindon	Thames Valley		2016-07-04						Yes					
+FL14ODP	Cityflex	Roadworthy	2016-02-19	0		2014-08-11	WDB9670042L810396		Gerrards Cross	Rygor Commercials - Heathrow	Central North		2016-08-05						Yes					
+FL64YFA	Cityflex	Roadworthy	2016-02-19	0		2014-10-17	WDB9672052L894436		Chertsey	Rygor Commercials - Heathrow	South East		2016-10-28						Yes					
+FL64YFB	Cityflex	Roadworthy	2016-02-19	0		2014-10-17	WDB9672052L894809		Chertsey	Rygor Commercials - Heathrow	South East		2016-10-21						Yes					
+FL64YFC	Cityflex	Roadworthy	2016-02-19	0		2014-10-17	WDB9672052L894388		Crossness	Sparshatts - Crayford	South East		2016-10-28						Yes					
+FJ64KFD	Cityflex	Roadworthy	2016-02-19	0		2014-12-24	WDB9672052L912192		Ryemeads	S&B Commercials - Welham Green	North East		2016-12-17						Yes					
+FJ64KFG	Cityflex	Roadworthy	2016-02-19	0		2014-12-24	WDB9672052L912195		Beckton	S&B Commercials - Thurrock	North East		2016-01-24						Yes					
+FJ64KBU	Cityflex	Roadworthy	2016-02-19	0		2015-02-17	WDB9672052L923205		Beckton	S&B Commercials - Thurrock	North East		2016-02-17						Yes					
+FJ15EHD	Cityflex	Roadworthy	2016-02-19	0		2015-03-10	WDB9672052L928786		Crossness	Sparshatts - Crayford	South East		2016-03-10						Yes					
+FJ15EHE	Cityflex	Roadworthy	2016-02-19	0		2015-03-10	WDB9672052L928787		Hartley Whitney	Rygor Commercials - Heathrow	South East		2016-03-10						Yes					
+FJ15EHC	Cityflex	Roadworthy	2016-02-19	0		2015-03-10	WDB9672052L928382		Crossness	Sparshatts - Crayford	South East		2016-03-10						Yes					
+FJ15EHL	Cityflex	Roadworthy	2016-02-19	0		2015-03-24	WDB9672052L930211		Kidlington	Rygor Commercials - Oxford	Thames Valley		2016-03-24						Yes					
+FJ15EHH	Cityflex	Roadworthy	2016-02-19	0		2015-03-24	WDB9672052L931604		Ryemeads	S&B Commercials - Welham Green	North East		2016-03-24						Yes					
+FJ15EHG	Cityflex	Roadworthy	2016-02-19	0		2015-03-24	WDB9672052L928383		Beckton	S&B Commercials - Thurrock	North East		2016-03-24						Yes					
+FJ15EHK	Cityflex	Roadworthy	2016-02-19	0		2015-04-01	WDB9672052L931950		Camberley	Rygor Commercials - Heathrow	South East		2016-04-01						Yes					
+FJ65XTF	Cityflex	Roadworthy	2016-02-19	0		2015-09-24	WDB9672052L978885		Chertsey	Rygor Commercials - Heathrow	South East		2016-09-24						Yes					
+FJ65XTG	Cityflex	Roadworthy	2016-02-19	0		2015-09-24	WDB9672052L978886		Crossness	Sparshatts - Crayford	South East		2016-09-24						Yes					
+FJ65XTL	Cityflex	Awaiting kit	2016-02-19	0		2015-10-01	WDB9672052L978574		Beckton	S&B Commercials - Thurrock	North East		2016-10-01						Yes					
+FJ65XTK	Cityflex	Awaiting kit	2016-02-19	0		2015-10-01	WDB9672052L978563		Beckton	S&B Commercials - Thurrock	North East		2016-10-01						Yes					
+FJ15EHN	Cityflex	Roadworthy	2016-02-19	0		2015-04-28	WDB9672052L938663		Crossness	Sparshatts - Crayford	South East		2016-04-28						Yes					

@@ -1,0 +1,1 @@
+UPDATE permissions SET NAME="Fleet Planning", module="Planner", slug="fleet.planning" WHERE NAME = "Vehicle Planning";

@@ -1,0 +1,17 @@
+Type*	Category*	Sub category*	Odometer setting*	Usage*	Manufacturer*	Model*	Bodybuilder	Gross vehicle weight	Tyre size drive	Tyre size steer	Tyre pressure drive	Tyre pressure steer	Nut size	Re-torque	Length (mm)	Width (mm)	Height (mm)	Fuel type*	Type of engine*	Engine size (cc)	Oli grade	CO2 (g/km)	Monthly vehicle tax	Compressor service interval	Invertor service interval	LOLER test interval	PMI interval	PTO service interval	Service interval type	Distance	Time
+Man Unit	HGV		KM	Commercial	MAN	TGX 												Diesel	Euro VI diesel (Adblue)					6 months			6 weeks	3 months	Time		12 months
+Man Rigid	HGV		KM	Commercial	MAN	RIGID - TGM												Diesel	Euro V diesel					6 months		6 months	6 weeks	3 months	Time		12 months
+Renault 	HGV		KM	Commercial	MAN	T480												Diesel	Euro VI diesel (Adblue)					6 months			6 weeks	3 months	Time		12 months
+Van 	Non-HGV	Van	KM	Non-commercial	Mercedes 	SPRINTER 												Diesel	Euro VI diesel (Adblue)										Time		12 months
+Powder Tank 	HGV		KM	Commercial	SPITZER 	Powder tank 												NA	NA								6 weeks		Time		12 months
+Curtain Sider 	HGV		KM	Commercial	SCHMITZ/M&G	Curtain Sider 												NA	NA								6 weeks		Time		12 months
+Low Loader 	HGV		KM	Commercial	ANDOVER	Low Loader 												NA	NA								6 weeks		Time		12 months
+HYPO Tank 	HGV		KM	Commercial	CLAYTON/LAKELAND	HYPO Tank 												NA	NA								6 weeks		Time		12 months
+Rubber Lined Tank 	HGV		KM	Commercial	CLAYTON/LAKELAND	Rubber Lined Tank 												NA	NA								6 weeks		Time		12 months
+Stainless Steel Tank 	HGV		KM	Commercial	MAGYAR/CLAYTON	Stainless Steel Tank 												NA	NA								6 weeks		Time		12 months
+Iso Tank - ST	HGV		KM	Commercial	UBH	Iso Tank - ST												NA	NA								6 weeks		Time		12 months
+Iso Tank - RL 	HGV		KM	Commercial	VAN HOOL /UBH 	Iso Tank - RL 												NA	NA								6 weeks		Time		12 months
+Skelly 	HGV		KM	Commercial	DENNISON	Skelly 												NA	NA								6 weeks		Time		12 months
+Tipper 	HGV		KM	Commercial	CRANE FRUEHAUF/GEN	Tipper 												NA	NA								6 weeks		Time		12 months
+Amines Tank 	HGV		KM	Commercial	Magner 	Amines Tank 												NA	NA								6 weeks		Time		12 months
+Trailer 	HGV		KM	Commercial	Flat Bed	Flat Bed 												NA	NA												
