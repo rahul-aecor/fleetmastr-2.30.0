@@ -1,0 +1,295 @@
+.ui-jqdialog-titlebar.modal-header {
+    background-color: #d0126a;
+    background-image: none;
+    border-color: #d0126a;
+    color: #ffffff;
+    min-height: 16.43px;
+    padding: 10px;
+    font-family: "Open Sans",​sans-serif;
+    font-size: 17px;
+    height: 41px;
+    padding-top: 8px;
+}
+.ui-jqdialog .ui-jqdialog-title {
+    margin: 0px !important;
+    padding-left: 0;
+}
+#searchmodfbox_jqGrid {
+    overflow: visible !important;
+}
+#searchmodfbox_jqGrid .glyphicon-remove-circle::before {
+    content: "";
+    background-image: url("../img/remove-icon-white-small.svg") !important;
+    /*opacity: 0.8;*/
+    background-repeat: no-repeat !important;
+    display: inline-block;
+    height: 15px;
+    outline: medium none;
+    text-indent: -10000px;
+    width: 15px;
+}
+/*.glyphicon {
+    top: -2px !important;
+}*/
+
+.ui-jqdialog .ui-jqdialog-title {
+    color: #4d4e4e;
+    font-size: 17px;
+}
+
+#fbox_jqGrid_search .glyphicon,
+#fbox_jqGrid_reset .glyphicon {
+    display: block;
+}
+#fbox_jqGrid_search {
+    background-color: #d0126a;
+    background-image: none;
+    border-color: #d0126a;
+    color: #ffffff;
+    margin-right: 0px;
+    padding: 10px 10px 6px;
+}
+.searchFilter .ui-search-table td.first {
+    padding: 0px !important;
+}
+#fbox_jqGrid .btn-default, #fbox_jqGrid_reset {
+    background-color: #a0a0a0;
+    color: #fff;
+}
+#fbox_jqGrid .btn-default
+{
+    /*padding: 8.4px;*/
+}
+#fbox_jqGrid .btn-default i.fa.fa-trash {
+    margin-left: -1px;
+}
+#fbox_jqGrid_reset
+{
+    padding: 11px 10px 5px;
+}
+
+#fbox_jqGrid .btn-default:hover, #fbox_jqGrid_reset:hover {
+    background-color: #4c4c4c;
+    color: #fff;
+}
+.add-rule.ui-add.btn.btn-default {
+    font-size: 20px;
+    font-weight: 600;
+    padding: 8px;
+    margin-left: 0px;
+    /*margin-top: 1px;*/
+    height: 45px;
+}
+.opsel {
+    width: 110px;
+}
+.ui-jqgrid  [class^="fa-"]:not(.fa-stack),
+.ui-jqgrid  [class*=" fa-"]:not(.fa-stack) {
+    font-size: 14px;
+    margin-left: 0;
+    margin-right: 0;
+}
+#searchmodfbox_jqGrid {
+    width: 600px !important;
+}
+.add-group, .add-rule, .delete-group {
+    width: 7%;
+}
+.EditTable {
+    margin-top: 20px !important;
+}
+.ui-search-table .columns {
+    width: 200px;
+}
+.ui-search-table .operators {
+    width: 160px;
+}
+.ui-search-table .data {
+    width: 240px;
+}
+.ui-search-table .data input,  .ui-search-table .data select {
+    width: 100% !important;
+}
+.ui-search-table .input-group > input {
+    width: 100% !important;
+}
+.ui-search-table select[multiple], select[size] {
+    height: 34px;
+}
+.ui-pg-table.navtable.ui-common-table {
+    display: none;
+}
+#sp_1_jqGridPager {
+    padding-left: 5px;
+}
+button.delete-rule.ui-del {
+    padding: 12px;
+    font-size: 18px;
+    color: #ffffff;
+    width: 45px;
+    height: 43px;
+}
+button.delete-rule.ui-del i {
+    color: #ffffff;
+    font-size: 22px;
+    line-height: 18px;
+}
+.ui-jqdialog-content.modal-body table.EditTable td.EditButton {
+    padding-top: 7px;
+    /*text-align: right !important;*/
+    float: right;
+}
+/*.ui-jqdialog .ui-jqdialog-titlebar-close:hover,
+.ui-jqdialog .ui-jqdialog-titlebar-close:focus,
+.ui-jqdialog .ui-jqdialog-titlebar-close {
+    padding: 5px 0 0 0;
+}*/
+.ui-jqgrid-bdiv .no-records-msg {
+    border-right: 1px solid #ddd;
+}
+.ui-jqdialog-content .form-control,
+.ui-jqdialog .ui-jqdialog-content .form-control {
+    font-size: 13px;
+}
+.page-md .EditButton:first-child{
+    float:right !important;
+    width: 50%;
+}
+.page-md .EditButton:nth-child(2){
+     float:left !important;
+     width: 50%;
+ }
+ .searchFilter .ui-search-table select
+ {
+    -webkit-appearance: none;
+    -moz-appearance: none;
+ }
+ .searchFilter .ui-search-table select
+ {
+    background-image: url(../img/sort.svg);
+    background-size: 19px 19px;
+    background-repeat: no-repeat;
+    background-position: right;
+ }
+ .glyphicon-search:before
+ {
+    content: "\1f50d" !important;
+    font-family: 'jobviewer' !important;
+    font-size: 20px;
+ }
+
+.glyphicon-refresh:before
+{
+    content: "\e924" !important;
+    font-family: 'jobviewer' !important;
+    font-size: 20px;
+}
+.ui-jqgrid-sortable .glyphicon-triangle-top{
+    margin-top:2px !important;
+}
+.ui-jqgrid-sortable .glyphicon-triangle-top:before{
+    content: "\e917" !important;
+    font-family: 'jobviewer' !important;
+    font-weight: 700;
+}
+.ui-jqgrid-sortable .glyphicon-triangle-bottom:before{
+    content: "\e916" !important;
+    font-family: 'jobviewer' !important;
+    font-weight: 700;
+}
+.ui-jqgrid-sortable .glyphicon-triangle-top.ui-disabled:before{
+    content: "\e918" !important;
+    font-family: 'jobviewer' !important;
+    font-weight: 700;
+}
+.ui-jqgrid-sortable .glyphicon-triangle-bottom.ui-disabled:before{
+    display:none;
+}
+.ui-jqgrid, .ui-jqgrid-htable, .ui-jqgrid-htable tr th, #jqGrid tr td, #jqGrid1 tr td, #assignmentjqGrid tr td, #historyjqGrid tr td, #reportsJqGrid tr td, #documentsJqGrid tr td{
+    border: 0 !important;
+}
+.tras_btn {
+    background-color: transparent !important;
+    box-shadow: none;
+}
+.icon-big {
+    font-size: 1.5em !important;
+}
+.tras_btn i {
+    color: #4d4e4e;
+    font-size: 13px;
+    /*font-weight: bold;*/
+}
+.ui-jqgrid .btn.btn-xs {
+    padding: 6px 2px 3px;
+}
+tr.ui-jqgrid-labels th#jqGrid_details, tr.ui-jqgrid-labels th#water_abstractions_jqGrid_details, tr.ui-jqgrid-labels th#water_abstraction_defects_jqGrid_details,
+tr.ui-jqgrid-labels th:last-child#jqGrid_id {
+    text-align: center;
+}
+#jqGridPager .jqGridPager{
+    margin-top: 2%;
+}
+.ui-jqgrid .ui-jqgrid-pager {
+  border-top: 1px solid #ce215f;
+  border-left: 0;
+  border-bottom: 0;
+  border-right: 0;
+}
+.ui-jqgrid .ui-jqgrid-pager, .ui-jqgrid .ui-jqgrid-toppager {
+    padding: 12px 0;
+}
+.ui-paging-pager .glyphicon-step-backward:before {
+    content: "\e912" !important;
+    font-family: 'jobviewer' !important;
+}
+.ui-paging-pager .glyphicon-backward:before {
+    content: "\e910" !important;
+    font-family: 'jobviewer' !important;
+}
+.ui-paging-pager .glyphicon-forward:before {
+    content: "\e911" !important;
+    font-family: 'jobviewer' !important;
+}
+.ui-paging-pager .glyphicon-step-forward:before {
+    content: "\e913" !important;
+    font-family: 'jobviewer' !important;
+}
+.ui-pg-table .select2-container .select2-choice
+{
+    height: 35px;
+    padding: 4px 0 0px 12px;
+}
+.ui-pg-table .select2-container .select2-choice .select2-arrow
+{
+    background-color: transparent;
+    width: 15px;
+    padding-top: 3px;
+    border-left: 1px solid #d8d8d8;
+}
+.ui-pg-table .select2-container .select2-choice .select2-arrow b:before
+{
+    content: "\e91a";
+    font-family: 'jobviewer' !important;
+    color: #c0c1c1;
+    font-size: 9px;
+}
+.select2-container .select2-choice .select2-arrow {
+    width: 44px !important;
+}
+.ui-jqgrid-pager .select2-container .select2-choice .select2-arrow
+{
+    width: 15px !important;
+}
+.select2-results .select2-highlighted {
+  background: #eee;
+  color: #333;
+}
+/*.portlet.box > .portlet-body {
+    padding: 10px 0 0;
+}
+.portlet.box > .portlet-title {
+    padding: 0 10px;
+    margin-bottom: 0px;
+}
+*/

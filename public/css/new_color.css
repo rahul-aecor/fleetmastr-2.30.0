@@ -1,0 +1,21 @@
+.bg-red-rubine, .bootbox .modal-dialog .modal-header {
+  border-color: #ce215f !important;
+  background-image: none !important;
+  /*background-color: #ce215f !important;*/
+  border-bottom: 1px solid #ce215f;
+  color: #4d4e4e !important;
+}
+.grey-gallery.btn {
+  color: #ffffff;
+  /*background-color: #A0A0A0;*/
+}
+.btn-plain {
+    background: transparent;
+    box-shadow: none;
+    border: 1px solid #ce215f !important;
+    color: #4d4e4e;
+}
+.blue-gallery.btn {
+    color: #ffffff !important;
+    background-color: #ce215f;
+} 

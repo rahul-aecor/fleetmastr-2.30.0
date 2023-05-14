@@ -1,0 +1,108 @@
+/* planner section */
+
+.planner--section-calender-dropdown {
+    position: absolute;
+    top: 0;
+    right: 0;
+    z-index: 1;
+}
+
+.planner--section-calender-dropdown .form-group {
+    margin-bottom: 0;
+}
+
+.planner--section-calender-area .fc-toolbar .fc-left div,
+.planner--section-description .planner--section-description-toolbar {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: -moz-box;
+    display: flex;
+    -ms-flex-align: center;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+    -moz-box-align: center;
+    align-items: center;
+    height: 45px;
+}
+
+.planner--section-calender-area .fc-toolbar .fc-left div h2 {
+    margin-right: 15px;
+    margin-left: 15px;
+    font-weight: normal;
+}
+
+.planner--section-calender-area .fc-toolbar .fc-left .fc-button {
+    width: 45px;
+    height: 45px;
+    background-color: #a0a0a0;
+    color: #fff;
+    background-image: none;
+    text-shadow: none;
+    box-shadow: none;
+    border: 0;
+}
+
+.planner--section-calender-area .fc-toolbar .fc-left .fc-button:focus {
+    outline: none;
+}
+
+.planner--section-calender-area .fc-toolbar .fc-left .fc-button:hover {
+    background-color: #5b5b5b;
+    box-shadow: 0 3px 6px rgba(0, 0, 0, .2), 0 3px 6px rgba(0, 0, 0, .26);
+}
+
+.planner--section-calender-area .fc-toolbar .fc-left .fc-button .fc-icon {
+    font-size: 1em;
+    height: 45px;
+    line-height: 45px;
+    display: inline-block;
+    font: normal normal normal 14px/1 FontAwesome;
+    font-size: inherit;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    top: 0;
+    margin: 0;
+}
+
+.planner--section-calender-area .fc-toolbar .fc-left .fc-button .fc-icon:after {
+    line-height: 45px;
+}
+
+.planner--section-calender-area .fc-toolbar .fc-left .fc-button .fc-icon.fc-icon-left-single-arrow:after {
+    content: "\f104";
+}
+
+.planner--section-calender-area .fc-toolbar .fc-left .fc-button .fc-icon.fc-icon-right-single-arrow:after {
+    content: "\f105";
+}
+
+.planner--section-description .planner--section-description-toolbar {
+    margin-bottom: 1em;
+}
+
+.planner--section-description .planner--section-description-title-text {
+    margin: 0;
+}
+
+.planner--section-description .planner--section-description-title-text i {
+    font-size: 27px;
+    line-height: 1.1;
+}
+
+.planner--section-description .planner--section-description-title-text,
+.planner--section-description .planner--section-description-panel .block {
+    font-weight: normal;
+}
+
+.planner--section-description .planner--section-description-panel .custom-responsive-table {
+    height: 140px;
+    overflow-x: auto;
+    overflow-y: auto;
+    margin-bottom: 20px;
+}
+
+.planner--section-description .planner--section-description-panel .custom-responsive-table table {
+    margin-bottom: 0;
+}

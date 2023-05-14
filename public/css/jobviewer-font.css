@@ -1,0 +1,261 @@
+@font-face {
+  font-family: 'jobviewer';
+  src:  url('../fonts/jobviewer.eot?cdaw7t');
+  src:  url('../fonts/jobviewer.eot?cdaw7t#iefix') format('embedded-opentype'),
+    url('../fonts/jobviewer.ttf?cdaw7t') format('truetype'),
+    url('../fonts/jobviewer.woff?cdaw7t') format('woff'),
+    url('../fonts/jobviewer.svg?cdaw7t#jobviewer') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+.jv-icon {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'jobviewer' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.jv-asset-check:before {
+  content: "\e934";
+}
+.jv-asset-defect:before {
+  content: "\e935";
+}
+.jv-asset-takout:before {
+  content: "\e936";
+}
+.jv-asset:before {
+  content: "\e937";
+}
+.jv-trailer-check:before {
+  content: "\e938";
+}
+.jv-trailer-defect:before {
+  content: "\e939";
+}
+.jv-trailer-takout:before {
+  content: "\e93a";
+}
+.jv-trailer:before {
+  content: "\e93b";
+}
+.jv-vehicle-check:before {
+  content: "\e93c";
+}
+.jv-vehicle-defect:before {
+  content: "\e93d";
+}
+.jv-vehicle-takout:before {
+  content: "\e93e";
+}
+.jv-vehicle:before {
+  content: "\e93f";
+}
+.jv-crown:before {
+  content: "\e933";
+}
+.jv-route:before {
+  content: "\e932";
+}
+.jv-hotspot:before {
+  content: "\e931";
+}
+.jv-file-csv:before {
+  content: "\e92b";
+}
+.jv-file-excel:before {
+  content: "\e92c";
+}
+.jv-file-gif:before {
+  content: "\e92d";
+}
+.jv-file-image:before {
+  content: "\e92e";
+}
+.jv-file-pdf:before {
+  content: "\e92f";
+}
+.jv-file-word:before {
+  content: "\e930";
+}
+.jv-lock:before {
+  content: "\e929";
+}
+.jv-file-plus:before {
+  content: "\e925";
+}
+.jv-chevron-square-down:before {
+  content: "\e902";
+}
+.jv-chevron-square-up:before {
+  content: "\e923";
+}
+.jv-sign-out:before {
+  content: "\e91e";
+}
+.jv-vehicle-crash:before {
+  content: "\e91f";
+}
+.jv-vehicle-return:before {
+  content: "\e920";
+}
+.jv-vehicle1:before {
+  content: "\e921";
+}
+.jv-cog:before {
+  content: "\e91d";
+}
+.jv-filter:before {
+  content: "\e91c";
+}
+.jv-settings:before {
+  content: "\e905";
+}
+.jv-briefcase:before {
+  content: "\1f4bc";
+}
+.jv-comment:before {
+  content: "\e904";
+}
+.jv-home:before {
+  content: "\1f3e0";
+}
+.jv-dashboard-app:before {
+  content: "\e901";
+}
+.jv-tools:before {
+  content: "\e903";
+}
+.jv-clock:before {
+  content: "\1f553";
+}
+.jv-car:before {
+  content: "\1f698";
+}
+.jv-chats:before {
+  content: "\e906";
+}
+.jv-chat:before {
+  content: "\e907";
+}
+.jv-water:before {
+  content: "\e908";
+}
+.jv-fish:before {
+  content: "\e909";
+}
+.jv-pipe:before {
+  content: "\e90a";
+}
+.jv-pipe-line:before {
+  content: "\e926";
+}
+.jv-calendar:before {
+  content: "\e90b";
+}
+.jv-list:before {
+  content: "\e90c";
+}
+.jv-user:before {
+  content: "\e90d";
+}
+.jv-doc:before {
+  content: "\e90e";
+}
+.jv-edit:before {
+  content: "\e90f";
+}
+.jv-backward:before {
+  content: "\e910";
+}
+.jv-forward:before {
+  content: "\e911";
+}
+.jv-previous:before {
+  content: "\e912";
+}
+.jv-next:before {
+  content: "\e913";
+}
+.jv-checked-arrow:before {
+  content: "\e914";
+}
+.jv-checked:before {
+  content: "\e915";
+}
+.jv-downarrow-black:before {
+  content: "\e916";
+}
+.jv-uparrow-black:before {
+  content: "\e917";
+}
+.jv-downarrow:before {
+  content: "\e918";
+}
+.jv-uparrow:before {
+  content: "\e919";
+}
+.jv-down:before {
+  content: "\e91a";
+}
+.jv-up:before {
+  content: "\e91b";
+}
+.jv-up-down:before {
+  content: "\e927";
+}
+.jv-plus:before {
+  content: "\2795";
+}
+.jv-close:before {
+  content: "\2715";
+}
+.jv-search:before {
+  content: "\1f50d";
+}
+.jv-dustbin:before {
+  content: "\267b";
+}
+.jv-download:before {
+  content: "\e900";
+}
+.jv-find-doc:before {
+  content: "\1f50e";
+}
+.jv-go-up:before {
+  content: "\e922";
+}
+.jv-cloud:before {
+  content: "\1f325";
+}
+.jv-reload:before {
+  content: "\e924";
+}
+.jv-web:before {
+  content: "\1f310";
+}
+.jv-error:before {
+  content: "\26a0";
+}
+.jv-calendar-time:before {
+  content: "\1f4c6";
+}
+.jv-checklist:before {
+  content: "\e928";
+}
+.jv-steering:before {
+  content: "\e92a";
+}
+.jv-truck-info:before {
+  content: "\1f69b";
+}
