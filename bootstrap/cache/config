@@ -1,0 +1,5678 @@
+<?php return array (
+  'api' => 
+  array (
+    'standardsTree' => 'cc',
+    'subtype' => 'lanes',
+    'version' => 'v1',
+    'prefix' => 'api',
+    'domain' => 'fleetmastr-api.local',
+    'name' => 'Lanes Group',
+    'conditionalRequest' => false,
+    'strict' => false,
+    'debug' => true,
+    'errorFormat' => 
+    array (
+      'message' => ':message',
+      'errors' => ':errors',
+      'code' => ':code',
+      'status_code' => ':status_code',
+      'debug' => ':debug',
+    ),
+    'auth' => 
+    array (
+      'basic' => 'Dingo\\Api\\Auth\\Provider\\Basic',
+    ),
+    'throttling' => 
+    array (
+    ),
+    'transformer' => 'Dingo\\Api\\Transformer\\Adapter\\Fractal',
+    'defaultFormat' => 'json',
+    'formats' => 
+    array (
+      'json' => 'Dingo\\Api\\Http\\Response\\Format\\Json',
+    ),
+    'url' => 'http://fleetmastr-api.local',
+  ),
+  'app' => 
+  array (
+    'debug' => true,
+    'url' => 'http://fleetmastr.local',
+    'timezone' => 'UTC',
+    'locale' => 'en',
+    'fallback_locale' => 'en',
+    'key' => '5RqgpDMJiyyqV1elKQKxYwMEnT7mbid4',
+    'cipher' => 'AES-256-CBC',
+    'log' => 'daily',
+    'log_max_files' => 10,
+    'providers' => 
+    array (
+      0 => 'Illuminate\\Foundation\\Providers\\ArtisanServiceProvider',
+      1 => 'Illuminate\\Auth\\AuthServiceProvider',
+      2 => 'Illuminate\\Broadcasting\\BroadcastServiceProvider',
+      3 => 'Illuminate\\Bus\\BusServiceProvider',
+      4 => 'Illuminate\\Cache\\CacheServiceProvider',
+      5 => 'Illuminate\\Foundation\\Providers\\ConsoleSupportServiceProvider',
+      6 => 'Illuminate\\Routing\\ControllerServiceProvider',
+      7 => 'Illuminate\\Cookie\\CookieServiceProvider',
+      8 => 'Illuminate\\Database\\DatabaseServiceProvider',
+      9 => 'Illuminate\\Encryption\\EncryptionServiceProvider',
+      10 => 'Illuminate\\Filesystem\\FilesystemServiceProvider',
+      11 => 'Illuminate\\Foundation\\Providers\\FoundationServiceProvider',
+      12 => 'Illuminate\\Hashing\\HashServiceProvider',
+      13 => 'Illuminate\\Mail\\MailServiceProvider',
+      14 => 'Illuminate\\Pagination\\PaginationServiceProvider',
+      15 => 'Illuminate\\Pipeline\\PipelineServiceProvider',
+      16 => 'Illuminate\\Queue\\QueueServiceProvider',
+      17 => 'Illuminate\\Redis\\RedisServiceProvider',
+      18 => 'Illuminate\\Auth\\Passwords\\PasswordResetServiceProvider',
+      19 => 'Illuminate\\Session\\SessionServiceProvider',
+      20 => 'Illuminate\\Translation\\TranslationServiceProvider',
+      21 => 'Illuminate\\Validation\\ValidationServiceProvider',
+      22 => 'Illuminate\\View\\ViewServiceProvider',
+      23 => 'App\\Providers\\AppServiceProvider',
+      24 => 'App\\Providers\\AuthServiceProvider',
+      25 => 'App\\Providers\\EventServiceProvider',
+      26 => 'App\\Providers\\RouteServiceProvider',
+      27 => 'Barryvdh\\Debugbar\\ServiceProvider',
+      28 => 'Laracasts\\Utilities\\JavaScript\\JavaScriptServiceProvider',
+      29 => 'App\\Providers\\LaravelJqgridServiceProvider',
+      30 => 'AdamWathan\\BootForms\\BootFormsServiceProvider',
+      31 => 'Collective\\Html\\HtmlServiceProvider',
+      32 => 'Dingo\\Api\\Provider\\LaravelServiceProvider',
+      33 => 'Tymon\\JWTAuth\\Providers\\JWTAuthServiceProvider',
+      34 => 'Barryvdh\\Cors\\ServiceProvider',
+      35 => 'Laravel\\Socialite\\SocialiteServiceProvider',
+      36 => 'Laracasts\\Flash\\FlashServiceProvider',
+      37 => 'Barryvdh\\Snappy\\ServiceProvider',
+      38 => 'Spatie\\MediaLibrary\\MediaLibraryServiceProvider',
+      39 => 'DaveJamesMiller\\Breadcrumbs\\ServiceProvider',
+      40 => 'Maatwebsite\\Excel\\ExcelServiceProvider',
+      41 => 'Intervention\\Image\\ImageServiceProvider',
+      42 => 'App\\Providers\\UserNotificationServiceProvider',
+      43 => 'LaravelFCM\\FCMServiceProvider',
+      44 => 'Jenssegers\\Agent\\AgentServiceProvider',
+      45 => 'App\\Providers\\ComposerServiceProvider',
+      46 => 'anlutro\\LaravelSettings\\ServiceProvider',
+      47 => 'Webklex\\IMAP\\Providers\\LaravelServiceProvider',
+    ),
+    'aliases' => 
+    array (
+      'App' => 'Illuminate\\Support\\Facades\\App',
+      'Artisan' => 'Illuminate\\Support\\Facades\\Artisan',
+      'Auth' => 'Illuminate\\Support\\Facades\\Auth',
+      'Blade' => 'Illuminate\\Support\\Facades\\Blade',
+      'Bus' => 'Illuminate\\Support\\Facades\\Bus',
+      'Cache' => 'Illuminate\\Support\\Facades\\Cache',
+      'Config' => 'Illuminate\\Support\\Facades\\Config',
+      'Cookie' => 'Illuminate\\Support\\Facades\\Cookie',
+      'Crypt' => 'Illuminate\\Support\\Facades\\Crypt',
+      'DB' => 'Illuminate\\Support\\Facades\\DB',
+      'Eloquent' => 'Illuminate\\Database\\Eloquent\\Model',
+      'Event' => 'Illuminate\\Support\\Facades\\Event',
+      'File' => 'Illuminate\\Support\\Facades\\File',
+      'Gate' => 'Illuminate\\Support\\Facades\\Gate',
+      'Hash' => 'Illuminate\\Support\\Facades\\Hash',
+      'Input' => 'Illuminate\\Support\\Facades\\Input',
+      'Inspiring' => 'Illuminate\\Foundation\\Inspiring',
+      'Lang' => 'Illuminate\\Support\\Facades\\Lang',
+      'Log' => 'Illuminate\\Support\\Facades\\Log',
+      'Mail' => 'Illuminate\\Support\\Facades\\Mail',
+      'Password' => 'Illuminate\\Support\\Facades\\Password',
+      'Queue' => 'Illuminate\\Support\\Facades\\Queue',
+      'Redirect' => 'Illuminate\\Support\\Facades\\Redirect',
+      'Redis' => 'Illuminate\\Support\\Facades\\Redis',
+      'Request' => 'Illuminate\\Support\\Facades\\Request',
+      'Response' => 'Illuminate\\Support\\Facades\\Response',
+      'Route' => 'Illuminate\\Support\\Facades\\Route',
+      'Schema' => 'Illuminate\\Support\\Facades\\Schema',
+      'Session' => 'Illuminate\\Support\\Facades\\Session',
+      'Storage' => 'Illuminate\\Support\\Facades\\Storage',
+      'URL' => 'Illuminate\\Support\\Facades\\URL',
+      'Validator' => 'Illuminate\\Support\\Facades\\Validator',
+      'View' => 'Illuminate\\Support\\Facades\\View',
+      'Debugbar' => 'Barryvdh\\Debugbar\\Facade',
+      'GridRender' => 'Mgallegos\\LaravelJqgrid\\Facades\\GridRender',
+      'GridEncoder' => 'Mgallegos\\LaravelJqgrid\\Facades\\GridEncoder',
+      'BootForm' => 'AdamWathan\\BootForms\\Facades\\BootForm',
+      'Form' => 'Collective\\Html\\FormFacade',
+      'Html' => 'Collective\\Html\\HtmlFacade',
+      'API' => 'Dingo\\Api\\Facade\\API',
+      'APIRoute' => 'Dingo\\Api\\Facade\\Route',
+      'JWTAuth' => 'Tymon\\JWTAuth\\Facades\\JWTAuth',
+      'JWTFactory' => 'Tymon\\JWTAuth\\Facades\\JWTFactory',
+      'Socialite' => 'Laravel\\Socialite\\Facades\\Socialite',
+      'Flash' => 'Laracasts\\Flash\\Flash',
+      'PDF' => 'Barryvdh\\Snappy\\Facades\\SnappyPdf',
+      'Image' => 'Intervention\\Image\\Facades\\Image',
+      'Breadcrumbs' => 'DaveJamesMiller\\Breadcrumbs\\Facade',
+      'Excel' => 'Maatwebsite\\Excel\\Facades\\Excel',
+      'FCM' => 'LaravelFCM\\Facades\\FCM',
+      'Agent' => 'Jenssegers\\Agent\\Facades\\Agent',
+      'Setting' => 'anlutro\\LaravelSettings\\Facade',
+      'Client' => 'Webklex\\IMAP\\Facades\\Client',
+    ),
+  ),
+  'auth' => 
+  array (
+    'driver' => 'eloquent',
+    'model' => 'App\\Models\\User',
+    'table' => 'users',
+    'password' => 
+    array (
+      'email' => 'emails.password',
+      'table' => 'password_resets',
+      'expire' => 1440,
+    ),
+  ),
+  'branding' => 
+  array (
+    'name' => 'shl',
+    'common' => 
+    array (
+    ),
+    'thames' => 
+    array (
+      'title' => 'fleetmastr',
+      'brand_title' => '<strong>fleet</strong>mastr',
+      'brand_product_name' => 'fleet',
+      'brand_product_name_part2' => 'mastr',
+      'primary_colour' => '#47A6DB',
+      'stylesheet' => '/css/thames_branding.css',
+      'pdf_stylesheet' => '/css/thames_pdf_branding.css',
+      'logo' => 
+      array (
+        'transparent' => '/img/logo/fleetmastr1.png',
+        'colored' => '/img/logo/fleetmastr2.png',
+        'footer_logo' => '/img/logo/lanes-group-logo-footer.png',
+        'pdf_logo' => '/img/logo/fleetmastr1.png',
+        'fleet_logo' => '/img/logo/fleet_master_white.png',
+        'fleet_logo_for_email' => '/img/logo/fleetmastr-grey.png',
+        'email_logo' => '/img/logo/fleetmastr1.png',
+        'auth_logo' => '/img/logo/logo_with_white_title_fm.png',
+      ),
+      'brand_name' => 'Thames Water',
+      'account_name' => '<b>fleet</b>mastr',
+      'footer_text' => 'developed by',
+      'footer_text_part2' => '<strong>i</strong>mastr',
+      'pdf_title_name' => 'Thames',
+      'email_logo_width' => '80px',
+      'import_email_subject_prefix' => 'Thames Water',
+    ),
+    'clh' => 
+    array (
+      'title' => 'CLH fleetmastr',
+      'brand_title' => '<strong>fleet</strong>mastr',
+      'brand_product_name' => 'fleet',
+      'brand_product_name_part2' => 'mastr',
+      'primary_colour' => '#407EC9',
+      'stylesheet' => '/css/clh_branding.css',
+      'pdf_stylesheet' => '/css/clh_pdf_branding.css',
+      'logo' => 
+      array (
+        'transparent' => '/img/logo/logo_clh_border.svg',
+        'colored' => '/img/logo/logo_clh_border.svg',
+        'footer_logo' => '/img/logo/lanes-group-logo-footer.png',
+        'pdf_logo' => '/img/logo/logo_clh.png',
+        'fleet_logo' => '/img/logo/fleet_master_white.png',
+        'fleet_logo_for_email' => '/img/logo/fleetmastr-grey.png',
+        'email_logo' => '/img/logo/logo_clh.png',
+        'auth_logo' => '/img/logo/logo_clh_border.svg',
+      ),
+      'brand_name' => 'Thames Water',
+      'account_name' => '<b>fleet</b>mastr',
+      'footer_text' => 'developed by',
+      'footer_text_part2' => '<strong>i</strong>mastr',
+      'pdf_title_name' => 'Thames',
+      'email_logo_width' => '80px',
+      'import_email_subject_prefix' => 'CLH',
+    ),
+    'yorkshirewater' => 
+    array (
+      'title' => 'Yorkshire Water fleetmastr',
+      'brand_title' => '<strong>fleet</strong>mastr',
+      'brand_product_name' => 'fleet',
+      'brand_product_name_part2' => 'mastr',
+      'primary_colour' => '#20a1c9',
+      'stylesheet' => '/css/yorkshirewater_branding.css',
+      'pdf_stylesheet' => '/css/yorkshirewater_pdf_branding.css',
+      'logo' => 
+      array (
+        'transparent' => '/img/logo/yw_white.png',
+        'colored' => '/img/logo/yw_white.png',
+        'footer_logo' => '/img/logo/lanes-group-logo-footer.png',
+        'pdf_logo' => '/img/logo/colored_yw.png',
+        'fleet_logo' => '/img/logo/fleet_master_white.png',
+        'fleet_logo_for_email' => '/img/logo/fleetmastr-grey.png',
+        'email_logo' => '/img/logo/colored_yw.png',
+        'auth_logo' => '/img/logo/yw_white.png',
+      ),
+      'brand_name' => 'Thames Water',
+      'account_name' => '<b>fleet</b>mastr',
+      'footer_text' => 'developed by',
+      'footer_text_part2' => '<strong>i</strong>mastr',
+      'pdf_title_name' => 'Thames',
+      'email_logo_width' => '140pt',
+      'import_email_subject_prefix' => 'Yorkshire Water',
+    ),
+    'firstmile' => 
+    array (
+      'title' => 'First Mile fleetmastr',
+      'brand_title' => '<strong>fleet</strong>mastr',
+      'brand_product_name' => 'fleet',
+      'brand_product_name_part2' => 'mastr',
+      'primary_colour' => '#00AFAF',
+      'stylesheet' => '/css/firstmile_branding.css',
+      'pdf_stylesheet' => '/css/firstmile_pdf_branding.css',
+      'logo' => 
+      array (
+        'transparent' => '/img/logo/first_mile.jpg',
+        'colored' => '/img/logo/first_mile.jpg',
+        'footer_logo' => '/img/logo/lanes-group-logo-footer.png',
+        'pdf_logo' => '/img/logo/colored_yw.png',
+        'fleet_logo' => '/img/logo/fleet_master_white.png',
+        'fleet_logo_for_email' => '/img/logo/fleetmastr-grey.png',
+        'email_logo' => '/img/logo/colored_yw.png',
+        'auth_logo' => '/img/logo/first_mile.jpg',
+      ),
+      'brand_name' => 'first mile',
+      'account_name' => '<b>fleet</b>mastr',
+      'footer_text' => 'developed by',
+      'footer_text_part2' => '<strong>i</strong>mastr',
+      'pdf_title_name' => 'first mile',
+      'email_logo_width' => '140pt',
+      'import_email_subject_prefix' => 'First Mile',
+    ),
+    'triio' => 
+    array (
+      'title' => 'tRIIO fleetmastr',
+      'brand_title' => '<strong>fleet</strong>mastr',
+      'brand_product_name' => 'fleet',
+      'brand_product_name_part2' => 'mastr',
+      'primary_colour' => '#00B0E0',
+      'stylesheet' => '/css/triio_branding.css',
+      'pdf_stylesheet' => '/css/triio_pdf_branding.css',
+      'logo' => 
+      array (
+        'transparent' => '/img/logo/triio.png',
+        'colored' => '/img/logo/triio.png',
+        'footer_logo' => '/img/logo/lanes-group-logo-footer.png',
+        'pdf_logo' => '/img/logo/colored_yw.png',
+        'fleet_logo' => '/img/logo/fleet_master_white.png',
+        'fleet_logo_for_email' => '/img/logo/fleetmastr-grey.png',
+        'email_logo' => '/img/logo/colored_yw.png',
+        'auth_logo' => '/img/logo/triio.png',
+      ),
+      'brand_name' => 'tRIIO',
+      'account_name' => '<b>fleet</b>mastr',
+      'footer_text' => 'developed by',
+      'footer_text_part2' => '<strong>i</strong>mastr',
+      'pdf_title_name' => 'tRIIO',
+      'email_logo_width' => '140pt',
+      'import_email_subject_prefix' => 'tRIIO',
+    ),
+    'skanska' => 
+    array (
+      'title' => 'SKANSKA fleetmastr',
+      'brand_title' => '<strong>fleet</strong>mastr',
+      'brand_product_name' => 'fleet',
+      'brand_product_name_part2' => 'mastr',
+      'primary_colour' => '#0078c9',
+      'logo' => 
+      array (
+        'footer_logo' => '/img/logo/lanes-group-logo-footer.png',
+        'fleet_logo' => '/img/logo/fleet_master_white.png',
+        'fleet_logo_for_email' => '/img/logo/fleetmastr-grey.png',
+      ),
+      'brand_name' => 'SKANSKA',
+      'account_name' => '<b>fleet</b>mastr',
+      'footer_text' => 'developed by',
+      'footer_text_part2' => '<strong>i</strong>mastr',
+      'pdf_title_name' => 'SKANSKA',
+      'email_logo_width' => '140pt',
+      'import_email_subject_prefix' => 'SKANSKA',
+    ),
+    'icl' => 
+    array (
+      'title' => 'ICL fleetmastr',
+      'brand_title' => '<strong>fleet</strong>mastr',
+      'brand_product_name' => 'fleet',
+      'brand_product_name_part2' => 'mastr',
+      'primary_colour' => '#1f355e',
+      'logo' => 
+      array (
+        'footer_logo' => '/img/logo/lanes-group-logo-footer.png',
+        'fleet_logo' => '/img/logo/fleet_master_white.png',
+        'fleet_logo_for_email' => '/img/logo/fleetmastr-grey.png',
+      ),
+      'brand_name' => 'ICL',
+      'account_name' => '<b>fleet</b>mastr',
+      'footer_text' => 'developed by',
+      'footer_text_part2' => '<strong>i</strong>mastr',
+      'pdf_title_name' => 'ICL',
+      'email_logo_width' => '80px',
+      'import_email_subject_prefix' => 'ICL',
+    ),
+    'ferns' => 
+    array (
+      'title' => 'Ferns fleetmastr',
+      'brand_title' => '<strong>fleet</strong>mastr',
+      'brand_product_name' => 'fleet',
+      'brand_product_name_part2' => 'mastr',
+      'primary_colour' => '#1f355e',
+      'logo' => 
+      array (
+        'footer_logo' => '/img/logo/lanes-group-logo-footer.png',
+        'fleet_logo' => '/img/logo/fleet_master_white.png',
+        'fleet_logo_for_email' => '/img/logo/fleetmastr-grey.png',
+      ),
+      'brand_name' => 'FERNS',
+      'account_name' => '<b>fleet</b>mastr',
+      'footer_text' => 'developed by',
+      'footer_text_part2' => '<strong>i</strong>mastr',
+      'pdf_title_name' => 'FERNS',
+      'email_logo_width' => '80px',
+      'import_email_subject_prefix' => 'Ferns fleetmastr',
+    ),
+    'mgroupservices' => 
+    array (
+      'title' => 'M Group Services fleetmastr',
+      'brand_title' => '<strong>fleet</strong>mastr',
+      'brand_product_name' => 'fleet',
+      'brand_product_name_part2' => 'mastr',
+      'primary_colour' => '#ef3e42',
+      'logo' => 
+      array (
+        'footer_logo' => '/img/logo/lanes-group-logo-footer.png',
+        'fleet_logo' => '/img/logo/fleet_master_white.png',
+        'fleet_logo_for_email' => '/img/logo/fleetmastr-grey.png',
+      ),
+      'brand_name' => 'M Group Services fleetmastr',
+      'account_name' => '<b>fleet</b>mastr',
+      'footer_text' => 'developed by',
+      'footer_text_part2' => '<strong>i</strong>mastr',
+      'pdf_title_name' => 'M Group Services fleetmastr',
+      'email_logo_width' => '140pt',
+      'import_email_subject_prefix' => 'M Group Services',
+    ),
+    'exolum' => 
+    array (
+      'title' => 'Exolum fleetmastr',
+      'brand_title' => '<strong>fleet</strong>mastr',
+      'brand_product_name' => 'fleet',
+      'brand_product_name_part2' => 'mastr',
+      'primary_colour' => '#84BD00',
+      'stylesheet' => '/css/exolum_branding.css',
+      'pdf_stylesheet' => '/css/exolum_pdf_branding.css',
+      'logo' => 
+      array (
+        'transparent' => '/img/logo/logo_exolum_border.svg',
+        'colored' => '/img/logo/logo_exolum_border.svg',
+        'footer_logo' => '/img/logo/lanes-group-logo-footer.png',
+        'pdf_logo' => '/img/logo/logo_exolum.png',
+        'fleet_logo' => '/img/logo/fleet_master_white.png',
+        'fleet_logo_for_email' => '/img/logo/fleetmastr-grey.png',
+        'email_logo' => '/img/logo/logo_exolum.png',
+        'auth_logo' => '/img/logo/logo_exolum_border.svg',
+      ),
+      'brand_name' => 'Thames Water',
+      'account_name' => '<b>fleet</b>mastr',
+      'footer_text' => 'developed by',
+      'footer_text_part2' => '<strong>i</strong>mastr',
+      'pdf_title_name' => 'Thames',
+      'email_logo_width' => '80px',
+      'import_email_subject_prefix' => 'Exolum',
+    ),
+    'rps' => 
+    array (
+      'title' => 'RPS fleetmastr',
+      'brand_title' => '<strong>fleet</strong>mastr',
+      'brand_product_name' => 'fleet',
+      'brand_product_name_part2' => 'mastr',
+      'primary_colour' => '#71004b',
+      'stylesheet' => '/css/exolum_branding.css',
+      'pdf_stylesheet' => '/css/exolum_pdf_branding.css',
+      'logo' => 
+      array (
+        'transparent' => '/img/logo/rps.jpg',
+        'colored' => '/img/logo/rps.jpg',
+        'footer_logo' => '/img/logo/lanes-group-logo-footer.png',
+        'pdf_logo' => '/img/logo/rps.jpg',
+        'fleet_logo' => '/img/logo/fleet_master_white.png',
+        'fleet_logo_for_email' => '/img/logo/fleetmastr-grey.png',
+        'email_logo' => '/img/logo/rps.jpg',
+        'auth_logo' => '/img/logo/rps.jpg',
+      ),
+      'brand_name' => 'Thames Water',
+      'account_name' => '<b>fleet</b>mastr',
+      'footer_text' => 'developed by',
+      'footer_text_part2' => '<strong>i</strong>mastr',
+      'pdf_title_name' => 'Thames',
+      'email_logo_width' => '80px',
+      'import_email_subject_prefix' => 'RPS',
+    ),
+    'hjleaoakes' => 
+    array (
+      'title' => 'HJ Lea Oakes fleetmastr',
+      'brand_title' => '<strong>fleet</strong>mastr',
+      'brand_product_name' => 'fleet',
+      'brand_product_name_part2' => 'mastr',
+      'primary_colour' => '#118243',
+      'stylesheet' => '/css/hjleaoakes_branding.css',
+      'pdf_stylesheet' => '/css/hjleaoakes_pdf_branding.css',
+      'logo' => 
+      array (
+        'transparent' => '/img/logo/hjleaoakes.jpg',
+        'colored' => '/img/logo/hjleaoakes.jpg',
+        'footer_logo' => '/img/logo/lanes-group-logo-footer.png',
+        'pdf_logo' => '/img/logo/hjleaoakes.jpg',
+        'fleet_logo' => '/img/logo/fleet_master_white.png',
+        'fleet_logo_for_email' => '/img/logo/fleetmastr-grey.png',
+        'email_logo' => '/img/logo/hjleaoakes.jpg',
+        'auth_logo' => '/img/logo/hjleaoakes.jpg',
+      ),
+      'brand_name' => 'HJ Lea Oakes',
+      'account_name' => '<b>fleet</b>mastr',
+      'footer_text' => 'developed by',
+      'footer_text_part2' => '<strong>i</strong>mastr',
+      'pdf_title_name' => 'HJLeaOakes',
+      'email_logo_width' => '80px',
+      'import_email_subject_prefix' => 'HJ Lea Oakes',
+    ),
+    'servicemetals' => 
+    array (
+      'title' => 'Service Metals fleetmastr',
+      'brand_title' => '<strong>fleet</strong>mastr',
+      'brand_product_name' => 'fleet',
+      'brand_product_name_part2' => 'mastr',
+      'primary_colour' => '#1e3e72',
+      'logo' => 
+      array (
+        'footer_logo' => '/img/logo/lanes-group-logo-footer.png',
+        'fleet_logo' => '/img/logo/fleet_master_white.png',
+        'fleet_logo_for_email' => '/img/logo/fleetmastr-grey.png',
+      ),
+      'brand_name' => 'Service Metals',
+      'account_name' => '<b>fleet</b>mastr',
+      'footer_text' => 'developed by',
+      'footer_text_part2' => '<strong>i</strong>mastr',
+      'pdf_title_name' => 'Service Metals',
+      'email_logo_width' => '80px',
+      'import_email_subject_prefix' => 'Service Metals',
+    ),
+    'chanlon' => 
+    array (
+      'title' => 'Chanlon Group fleetmastr',
+      'brand_title' => '<strong>fleet</strong>mastr',
+      'brand_product_name' => 'fleet',
+      'brand_product_name_part2' => 'mastr',
+      'primary_colour' => '#036fb8',
+      'logo' => 
+      array (
+        'footer_logo' => '/img/logo/lanes-group-logo-footer.png',
+        'fleet_logo' => '/img/logo/fleet_master_white.png',
+        'fleet_logo_for_email' => '/img/logo/fleetmastr-grey.png',
+      ),
+      'brand_name' => 'Chanlon Group',
+      'account_name' => '<b>fleet</b>mastr',
+      'footer_text' => 'developed by',
+      'footer_text_part2' => '<strong>i</strong>mastr',
+      'pdf_title_name' => 'Chanlon Group',
+      'email_logo_width' => '80px',
+      'import_email_subject_prefix' => 'Chanlon Group',
+    ),
+    'fnf' => 
+    array (
+      'title' => 'Find and Finance fleetmastr',
+      'brand_title' => '<strong>fleet</strong>mastr',
+      'brand_product_name' => 'fleet',
+      'brand_product_name_part2' => 'mastr',
+      'primary_colour' => '#134371',
+      'logo' => 
+      array (
+        'footer_logo' => '/img/logo/lanes-group-logo-footer.png',
+        'fleet_logo' => '/img/logo/fleet_master_white.png',
+        'fleet_logo_for_email' => '/img/logo/fleetmastr-grey.png',
+      ),
+      'brand_name' => 'Find and Finance',
+      'account_name' => '<b>fleet</b>mastr',
+      'footer_text' => 'developed by',
+      'footer_text_part2' => '<strong>i</strong>mastr',
+      'pdf_title_name' => 'Find and Finance',
+      'email_logo_width' => '80px',
+      'import_email_subject_prefix' => 'Find and Finance',
+    ),
+    'shl' => 
+    array (
+      'title' => 'SHL fleetmastr',
+      'brand_title' => '<strong>fleet</strong>mastr',
+      'brand_product_name' => 'fleet',
+      'brand_product_name_part2' => 'mastr',
+      'primary_colour' => '#000000',
+      'logo' => 
+      array (
+        'footer_logo' => '/img/logo/lanes-group-logo-footer.png',
+        'fleet_logo' => '/img/logo/fleet_master_white.png',
+        'fleet_logo_for_email' => '/img/logo/fleetmastr-grey.png',
+      ),
+      'brand_name' => 'SHL',
+      'account_name' => '<b>fleet</b>mastr',
+      'footer_text' => 'developed by',
+      'footer_text_part2' => '<strong>i</strong>mastr',
+      'pdf_title_name' => 'SHL',
+      'email_logo_width' => '80px',
+      'import_email_subject_prefix' => 'SHL fleetmastr',
+    ),
+  ),
+  'breadcrumbs' => 
+  array (
+    'view' => '_partials/breadcrumbs',
+  ),
+  'broadcasting' => 
+  array (
+    'default' => 'redis',
+    'connections' => 
+    array (
+      'pusher' => 
+      array (
+        'driver' => 'pusher',
+        'key' => NULL,
+        'secret' => NULL,
+        'app_id' => NULL,
+      ),
+      'redis' => 
+      array (
+        'driver' => 'redis',
+        'connection' => 'default',
+      ),
+      'log' => 
+      array (
+        'driver' => 'log',
+      ),
+    ),
+    'channel' => 'fleetmastr-channel',
+  ),
+  'cache' => 
+  array (
+    'default' => 'file',
+    'stores' => 
+    array (
+      'apc' => 
+      array (
+        'driver' => 'apc',
+      ),
+      'array' => 
+      array (
+        'driver' => 'array',
+      ),
+      'database' => 
+      array (
+        'driver' => 'database',
+        'table' => 'cache',
+        'connection' => NULL,
+      ),
+      'file' => 
+      array (
+        'driver' => 'file',
+        'path' => 'C:\\wamp64\\www\\fleetmastr\\storage\\framework/cache',
+      ),
+      'memcached' => 
+      array (
+        'driver' => 'memcached',
+        'servers' => 
+        array (
+          0 => 
+          array (
+            'host' => '127.0.0.1',
+            'port' => 11211,
+            'weight' => 100,
+          ),
+        ),
+      ),
+      'redis' => 
+      array (
+        'driver' => 'redis',
+        'connection' => 'default',
+      ),
+    ),
+    'prefix' => 'laravel',
+  ),
+  'clh' => 
+  array (
+    'config-variables' => 
+    array (
+      'vehicleSubCategoriesNonHGV' => 
+      array (
+        '' => '',
+        'car' => 'Car',
+        'none' => 'None',
+        'van' => 'Van',
+      ),
+      'vehicleRegions' => 
+      array (
+        'Central' => 'Central',
+        'East Anglia' => 'East Anglia',
+        'Head Office' => 'Head Office',
+        'North' => 'North',
+        'North East' => 'North East',
+        'North West' => 'North West',
+        'Scotland' => 'Scotland',
+        'South' => 'South',
+        'South East' => 'South East',
+        'South West' => 'South West',
+      ),
+      'vehicleRegionsForSelect' => 
+      array (
+        'all' => 'All',
+        'ct' => 'Central',
+        'et' => 'East',
+        'ea' => 'East Anglia',
+        'ho' => 'Head Office',
+        'no' => 'North',
+        'ne' => 'North East',
+        'nw' => 'North West',
+        'sl' => 'Scotland',
+        'st' => 'South',
+        'se' => 'South East',
+        'sw' => 'South West',
+        'wt' => 'West',
+      ),
+      'vehicleDivisions' => 
+      array (
+        'Asset Technical' => 'Asset Technical',
+        'Assurance' => 'Assurance',
+        'Finance' => 'Finance',
+        'HR' => 'HR',
+        'IT' => 'IT',
+        'Maintenance' => 'Maintenance',
+        'Operations' => 'Operations',
+        'Pipeline' => 'Pipeline',
+      ),
+      'userAccessibleRegions' => 
+      array (
+        '' => '',
+      ),
+      'userAccessibleRegionsForQuery' => 
+      array (
+      ),
+      'userAccessibleRegionsForSelect' => 
+      array (
+        'all' => 'All',
+      ),
+      'userAccessibleRegionsForSelectSample' => 
+      array (
+        'Central' => 'ct',
+        'East' => 'et',
+        'East Anglia' => 'ea',
+        'Head Office' => 'ho',
+        'North' => 'no',
+        'North East' => 'ne',
+        'North West' => 'nw',
+        'Scotland' => 'sl',
+        'South' => 'st',
+        'South East' => 'se',
+        'South West' => 'sw',
+        'West' => 'wt',
+      ),
+      'userRegionsForSelect' => 
+      array (
+        'Central' => 'Central',
+        'East Anglia' => 'East Anglia',
+        'Head Office' => 'Head Office',
+        'North' => 'North',
+        'North East' => 'North East',
+        'North West' => 'North West',
+        'Scotland' => 'Scotland',
+        'South' => 'South',
+        'South East' => 'South East',
+        'South West' => 'South West',
+      ),
+      'usersBaseLocations' => 
+      array (
+        'Aldermaston' => 'Aldermaston',
+        'Backford North' => 'Backford North',
+        'Hallen' => 'Hallen',
+        'Home (Remote)' => 'Home (Remote)',
+        'Inverness PSD' => 'Inverness PSD',
+        'Killingholme' => 'Killingholme',
+        'London Office' => 'London Office',
+        'Maintenance Central' => 'Maintenance Central',
+        'Maintenance East' => 'Maintenance East',
+        'Maintenance North' => 'Maintenance North',
+        'Maintenance South' => 'Maintenance South',
+        'Maintenance West' => 'Maintenance West',
+        'Misterton' => 'Misterton',
+        'Purton' => 'Purton',
+        'Redmile' => 'Redmile',
+        'Rawcliffe' => 'Rawcliffe',
+        'Redcliffe Bay' => 'Redcliffe Bay',
+        'Saffron Walden' => 'Saffron Walden',
+        'Sandy' => 'Sandy',
+        'Thames B' => 'Thames B',
+        'Thetford' => 'Thetford',
+        'Walton' => 'Walton',
+      ),
+      'usersDivisions' => 
+      array (
+        'Assurance' => 'Assurance',
+        'Finance' => 'Finance',
+        'HR' => 'HR',
+        'IT' => 'IT',
+        'Maintenance' => 'Maintenance',
+        'Operations' => 'Operations',
+        'Pipeline' => 'Pipeline',
+      ),
+    ),
+  ),
+  'compile' => 
+  array (
+    'files' => 
+    array (
+    ),
+    'providers' => 
+    array (
+    ),
+  ),
+  'config-variables' => 
+  array (
+    'displayTimezone' => 'Europe/London',
+    'displayTimeFormat' => 'H:i:s d M Y',
+    'apiTimeFormat' => 'H:i j M Y',
+    'vehicleCategories' => 
+    array (
+      '' => '',
+      'hgv' => 'HGV',
+      'non-hgv' => 'Non-HGV',
+    ),
+    'engineSizeMandatoryFlag' => 'off',
+    'fuelTypeList' => 
+    array (
+      '' => '',
+      'Diesel' => 'Diesel',
+      'EV' => 'EV',
+      'Hybrid/Diesel' => 'Hybrid/Diesel',
+      'Hybrid/Petrol' => 'Hybrid/Petrol',
+      'Hybrid/Petrol PHEV' => 'Hybrid/Petrol PHEV',
+      'Unleaded petrol' => 'Unleaded petrol',
+    ),
+    'engineTypeList' => 
+    array (
+      '' => '',
+      'Petrol' => 'Petrol',
+      'Hybrid petrol/EV' => 'Hybrid petrol/EV',
+      'PHEV petrol/EV' => 'PHEV petrol/EV',
+      'Hybrid diesel/EV' => 'Hybrid diesel/EV',
+      'Euro V diesel' => 'Euro V diesel',
+      'Euro VI diesel (Adblue)' => 'Euro VI diesel (Adblue)',
+      'EV' => 'EV',
+    ),
+    'vehicleSubCategoriesNonHGV' => 
+    array (
+      '' => '',
+      'car' => 'Car',
+      'none' => 'None',
+      'van' => 'Van',
+    ),
+    'usageType' => 
+    array (
+      '' => '',
+      'Commercial' => 'Commercial',
+      'Non-commercial' => 'Non-commercial',
+    ),
+    'vehicleStatus' => 
+    array (
+      '' => '',
+      'Awaiting kit' => 'Awaiting kit',
+      'Re-positioning' => 'Re-positioning',
+      'Roadworthy' => 'Roadworthy',
+      'Roadworthy (with defects)' => 'Roadworthy (with defects)',
+      'VOR' => 'VOR',
+      'VOR - Accident damage' => 'VOR - Accident damage',
+      'VOR - Bodybuilder' => 'VOR - Bodybuilder',
+      'VOR - Bodyshop' => 'VOR - Bodyshop',
+      'VOR - MOT' => 'VOR - MOT',
+      'VOR - Service' => 'VOR - Service',
+      'VOR - Quarantined' => 'VOR - Quarantined',
+      'Other' => 'Other',
+    ),
+    'ownershipStatus' => 
+    array (
+      '' => '',
+      'Contract' => 'Contract',
+      'Hired' => 'Hired',
+      'Hire purchase' => 'Hire purchase',
+      'Leased' => 'Leased',
+      'Owned' => 'Owned',
+    ),
+    'odometerReadingUnit' => 
+    array (
+      '' => '',
+      'km' => 'KM',
+      'miles' => 'Miles',
+    ),
+    'vehicleRegions' => 
+    array (
+      '' => '',
+      'North' => 'North',
+      'South' => 'South',
+      'Central' => 'Central',
+      'Scotland' => 'Scotland',
+      'Head Office' => 'Head Office',
+    ),
+    'userAccessibleRegions' => 
+    array (
+      '' => '',
+    ),
+    'userAccessibleRegionsForQuery' => 
+    array (
+    ),
+    'flashMessages' => 
+    array (
+      'dataSaved' => 'Data has been saved successfully.',
+      'dataNotSaved' => 'Data could not be saved at this moment. Please try later.',
+      'dataDeleted' => 'Data have been deleted successfully.',
+      'documentDeleted' => 'The document has been deleted successfully.',
+      'dataNotDeleted' => 'Data could not be deleted at this moment. Please try later.',
+      'userDisabled' => 'This user has now been deactivated.',
+      'userNotDisabled' => 'The user could not be deleted at this moment. Please try later.',
+      'loginNotSuccess' => 'You are not authorised to access this system.',
+      'noAccess' => 'Sorry, you do not have access to this action',
+      'unauthorized' => 'Sorry, your current user permissions do not allow access this information.',
+      'noDeleteAccess' => 'You cannot delete your own profile. Please contact a Lanes administrator for further assistance.',
+      'dataEnabled' => 'This user has now been reactivated.',
+      'dataNotEnabled' => 'This user could not be reactivated at this moment. Please try later.',
+      'vehicleOffRoad' => 'This registration belongs to a vehicle that is marked VOR (Vehicle Off Road). This vehicle is unsafe to use at present and MUST NOT be taken onto the highway. Please contact a member of the Transport Team for further advice.',
+      'vehicleDeleteDocument' => 'You are not authorised to delete this document.',
+      'assetDeleteDocument' => 'You are not authorised to delete this document.',
+      'assetOffRoad' => 'The serial number you have entered belongs to an asset that is currently off the road.',
+      'zoneSaved' => 'Zone have been saved successfully.',
+      'reportDeleted' => 'The report has been deleted successfully.',
+      'locationSaved' => 'Location have been saved successfully.',
+      'locationNotSaved' => 'Location could not be saved at this moment. Please try later.',
+      'locationDeleted' => 'Location have been deleted successfully.',
+      'locationNotDeleted' => 'Location could not be deleted at this moment. Please try later.',
+    ),
+    'vehicleRegionsForSelect' => 
+    array (
+      'all' => 'All',
+      'et' => 'East',
+      'ho' => 'Head Office',
+      'no' => 'North',
+      'sl' => 'Scotland',
+      'st' => 'South',
+      'wt' => 'West',
+    ),
+    'userAccessibleRegionsForSelect' => 
+    array (
+      'all' => 'All',
+    ),
+    'userAccessibleRegionsForSelectSample' => 
+    array (
+      'East' => 'et',
+      'Head Office' => 'ho',
+      'North' => 'no',
+      'Scotland' => 'sl',
+      'South' => 'st',
+      'West' => 'wt',
+    ),
+    'userRegionsForSelect' => 
+    array (
+      '' => '',
+      'North' => 'North',
+      'South' => 'South',
+      'Central' => 'Central',
+      'Scotland' => 'Scotland',
+      'Head Office' => 'Head Office',
+    ),
+    'inspectionInterval' => 
+    array (
+      'hgv' => 'Every 8 weeks',
+      'nonhgv' => 'Every 15,000 miles or when indicated',
+    ),
+    'pushNotification' => 
+    array (
+      'messages' => 
+      array (
+        'vehicle_added' => 'Vehicle Added',
+        'vehicle_updated' => 'Vehicle Updated',
+        'defect_updated' => 'Defect Updated',
+        'asset_defect_updated' => 'Asset Defect Updated',
+        'asset_updated' => 'Asset Updated',
+        'asset_added' => 'Asset Added',
+      ),
+    ),
+    'dashboard' => 
+    array (
+      'periods' => 
+      array (
+        'other' => 
+        array (
+          'text' => 'Date passed/exceeded',
+          'type' => 'interval4',
+        ),
+        'red' => 
+        array (
+          'text' => 'Next 7 days',
+          'type' => 'interval1',
+        ),
+        'amber' => 
+        array (
+          'text' => '8-14 days time',
+          'type' => 'interval2',
+        ),
+        'green' => 
+        array (
+          'text' => '15-30 days time',
+          'type' => 'interval3',
+        ),
+      ),
+      'inspection_fields' => 
+      array (
+        'adr-test' => 
+        array (
+          'text' => 'ADR test',
+          'type' => 'adr-test',
+        ),
+        'annual-service' => 
+        array (
+          'text' => 'Annual service',
+          'type' => 'annual-service',
+        ),
+        'compressor-service' => 
+        array (
+          'text' => 'Compressor service',
+          'type' => 'compressor-services',
+        ),
+        'invertor-service' => 
+        array (
+          'text' => 'Invertor service',
+          'type' => 'invertor-services',
+        ),
+        'loler-test' => 
+        array (
+          'text' => 'LOLER test',
+          'type' => 'loler-test',
+        ),
+        'pmi' => 
+        array (
+          'text' => 'PMI',
+          'type' => 'pmi',
+        ),
+        'pto-service' => 
+        array (
+          'text' => 'PTO service',
+          'type' => 'pto-services',
+        ),
+        'next-service-distance' => 
+        array (
+          'text' => 'Service (distance)',
+          'type' => 'services-distance',
+        ),
+        'next-service' => 
+        array (
+          'text' => 'Service (time)',
+          'type' => 'services',
+        ),
+        'taco' => 
+        array (
+          'text' => 'Tachograph calibration',
+          'type' => 'tachograph',
+        ),
+        'tank-test' => 
+        array (
+          'text' => 'Tank test',
+          'type' => 'tank-test',
+        ),
+      ),
+      'expiry_fields' => 
+      array (
+        'maintenace-expiry' => 
+        array (
+          'text' => 'Maintenance',
+          'type' => 'repair',
+        ),
+        'mot-expiry' => 
+        array (
+          'text' => 'MOT',
+          'type' => 'mot',
+        ),
+        'tax-expiry' => 
+        array (
+          'text' => 'Tax',
+          'type' => 'tax',
+        ),
+      ),
+    ),
+    'vehicleDivisions' => 
+    array (
+      'Assurance' => 'Assurance',
+      'Finance' => 'Finance',
+      'HR' => 'HR',
+      'IT' => 'IT',
+      'Maintenance' => 'Maintenance',
+      'Operations' => 'Operations',
+      'Pipeline' => 'Pipeline',
+    ),
+    'usersBaseLocations' => 
+    array (
+      '' => '',
+      'Aldermaston' => 'Aldermaston',
+      'Backford North' => 'Backford North',
+      'Hallen' => 'Hallen',
+      'Home (Remote)' => 'Home (Remote)',
+      'Inverness PSD' => 'Inverness PSD',
+      'Killingholme' => 'Killingholme',
+      'London Office' => 'London Office',
+      'Maintenance Central' => 'Maintenance Central',
+      'Maintenance East' => 'Maintenance East',
+      'Maintenance North' => 'Maintenance North',
+      'Maintenance South' => 'Maintenance South',
+      'Maintenance West' => 'Maintenance West',
+      'Misterton' => 'Misterton',
+      'Purton' => 'Purton',
+      'Redmile' => 'Redmile',
+      'Rawcliffe' => 'Rawcliffe',
+      'Redcliffe Bay' => 'Redcliffe Bay',
+      'Saffron Walden' => 'Saffron Walden',
+      'Sandy' => 'Sandy',
+      'Thames B' => 'Thames B',
+      'Thetford' => 'Thetford',
+      'Walton' => 'Walton',
+    ),
+    'usersDivisions' => 
+    array (
+      '' => '',
+      'Assurance' => 'Assurance',
+      'Finance' => 'Finance',
+      'HR' => 'HR',
+      'IT' => 'IT',
+      'Maintenance' => 'Maintenance',
+      'Operations' => 'Operations',
+      'Pipeline' => 'Pipeline',
+    ),
+    'format' => 
+    array (
+      'showDateTime' => 'H:i:s d M Y',
+      'jsShowDateTime' => 'hh:ii:ss d M yyyy',
+      'displayTimezone' => 'Europe/London',
+    ),
+    'profile_status' => 
+    array (
+      '' => '',
+      'Active' => 'Active',
+      'Archived' => 'Archived',
+    ),
+    'planner_events' => 
+    array (
+      'All' => 'All events',
+      'ADR test' => 'ADR test',
+      'Annual service' => 'Annual service',
+      'Compressor service' => 'Compressor service',
+      'Invertor service' => 'Invertor service',
+      'LOLER test' => 'LOLER test',
+      'Maintenance expiry' => 'Maintenance expiry',
+      'MOT expiry' => 'MOT expiry',
+      'Next service' => 'Service',
+      'PMI' => 'PMI',
+      'PTO service' => 'PTO service',
+      'Tacho calibration' => 'Tacho calibration',
+      'Tax expiry' => 'Tax expiry',
+      'Rubber integrity test' => 'Rubber integrity test',
+    ),
+    'planner_events_names' => 
+    array (
+      'adrTest' => 
+      array (
+        'title' => 'ADR test',
+        'filter' => 'adr_test',
+      ),
+      'annualServiceInspection' => 
+      array (
+        'title' => 'Annual service',
+        'filter' => 'dt_annual_service_inspection',
+      ),
+      'nextServiceInspection' => 
+      array (
+        'title' => 'Service',
+        'filter' => 'dt_next_service_inspection',
+      ),
+      'compressorService' => 
+      array (
+        'title' => 'Compressor service',
+        'filter' => 'next_compressor_service',
+      ),
+      'pmiDate' => 
+      array (
+        'title' => 'PMI',
+        'filter' => 'next_pmi_date',
+        'filter_first_pmi' => 'first_pmi_date',
+      ),
+      'invertorServiceDate' => 
+      array (
+        'title' => 'Invertor service',
+        'filter' => 'next_invertor_service_date',
+      ),
+      'ptoServiceDate' => 
+      array (
+        'title' => 'PTO service',
+        'filter' => 'next_pto_service_date',
+      ),
+      'lollerTestDueDates' => 
+      array (
+        'title' => 'LOLER test',
+        'filter' => 'dt_loler_test_due',
+      ),
+      'tachographCalibration' => 
+      array (
+        'title' => 'Tacho calibration',
+        'filter' => 'dt_tacograch_calibration_due',
+      ),
+      'repairExpiry' => 
+      array (
+        'title' => 'Maintenance expiry',
+        'filter' => 'dt_repair_expiry',
+      ),
+      'taxExpiry' => 
+      array (
+        'title' => 'Tax expiry',
+        'filter' => 'dt_tax_expiry',
+      ),
+      'motExpiry' => 
+      array (
+        'title' => 'MOT expiry',
+        'filter' => 'dt_mot_expiry',
+      ),
+      'lolerTest' => 
+      array (
+        'title' => 'LOLER test',
+        'filter' => 'loler_test_date',
+      ),
+      'electricalInspection' => 
+      array (
+        'title' => 'Electrical inspection',
+        'filter' => 'electrical_inspection_date',
+      ),
+      'rubberIntegrityTest' => 
+      array (
+        'title' => 'Rubber integrity test',
+        'filter' => 'rubber_integrity_test_date',
+      ),
+    ),
+    'co2Unit' => 'g/km',
+    'weekReportOptionForSelect' => 
+    array (
+      'thisWeek' => 'This week',
+      'prevWeek' => 'Previous week',
+    ),
+    'monthReportOptionForSelect' => 
+    array (
+      'thisMonth' => 'This month',
+      'prevMonth' => 'Previous month',
+    ),
+    'google_map_key' => 'AIzaSyDsD41irpLIoy8iqlZci8BdUN68YSwaXws',
+    'ptoServiceInterval' => 
+    array (
+      '' => '',
+      'none' => 'None',
+      '3 months' => '3 months',
+      '6 months' => '6 months',
+      '9 months' => '9 months',
+      '12 months' => '12 months',
+    ),
+    'invertorServiceInterval' => 
+    array (
+      '' => '',
+      'none' => 'None',
+      '3 months' => '3 months',
+      '6 months' => '6 months',
+      '9 months' => '9 months',
+      '12 months' => '12 months',
+    ),
+    'compressorServiceInterval' => 
+    array (
+      '' => '',
+      'none' => 'None',
+      '3 months' => '3 months',
+      '6 months' => '6 months',
+      '9 months' => '9 months',
+      '12 months' => '12 months',
+    ),
+    'maintenanceEventTypes' => 
+    array (
+      '' => '',
+      'adr_test' => 'ADR test',
+      'annual_service_inspection' => 'Annual service',
+      'compressor_inspection' => 'Compressor service',
+      'invertor_inspection' => 'Invertor service',
+      'loler_test' => 'LOLER test',
+      'mot' => 'MOT',
+      'next_service_inspection' => 'Service',
+      'preventative_maintenance_inspection' => 'PMI',
+      'pto_service_inspection' => 'PTO service',
+      'tachograph_calibration' => 'Tacho calibration',
+      'vehicle_tax' => 'Tax',
+      'tank_test' => 'Tank test',
+    ),
+    'maintenanceHistoryEventTypes' => 
+    array (
+      '' => 'All events',
+      'adr_test' => 'ADR test',
+      'annual_service_inspection' => 'Annual service',
+      'compressor_inspection' => 'Compressor service',
+      'invertor_inspection' => 'Invertor service',
+      'loler_test' => 'LOLER test',
+      'mot' => 'MOT',
+      'next_service_inspection' => 'Service',
+      'preventative_maintenance_inspection' => 'PMI',
+      'pto_service_inspection' => 'PTO service',
+      'tachograph_calibration' => 'Tacho calibration',
+      'vehicle_tax' => 'Tax',
+      'tank_test' => 'Tank test',
+    ),
+    'pmiIntervalService' => 
+    array (
+      '' => '',
+      'none' => 'None',
+      '4 weeks' => '4 weeks',
+      '6 weeks' => '6 weeks',
+      '8 weeks' => '8 weeks',
+      '10 weeks' => '10 weeks',
+      '12 weeks' => '12 weeks',
+      '13 weeks' => '13 weeks',
+      '26 weeks' => '26 weeks',
+    ),
+    'serviceInspection' => 
+    array (
+      '' => '',
+      '4 weeks' => '4 weeks',
+      '6 weeks' => '6 weeks',
+      '3 months' => '3 months',
+      '6 months' => '6 months',
+      '9 months' => '9 months',
+      '12 months' => '12 months',
+    ),
+    'eventNotifications' => 
+    array (
+      'adr_test' => 
+      array (
+        'interval' => '12 months',
+        'column' => 'adr_test',
+        'caption' => 'ADR test reminder',
+        'message' => 'ADR',
+        'maintenanceType' => 'ADR test',
+      ),
+      'mot' => 
+      array (
+        'interval' => '4 weeks',
+        'column' => 'dt_mot_expiry',
+        'caption' => 'MOT expiry reminder',
+        'message' => 'MOT',
+        'maintenanceType' => 'MOT expiry',
+      ),
+      'annual_service_inspection' => 
+      array (
+        'interval' => '4 weeks',
+        'column' => 'dt_annual_service_inspection',
+        'caption' => 'Annual service reminder',
+        'message' => 'annual service',
+        'maintenanceType' => 'Annual service',
+      ),
+      'next_service_inspection' => 
+      array (
+        'interval' => '1 weeks',
+        'column' => 'dt_next_service_inspection',
+        'caption' => 'Service reminder',
+        'message' => 'next service',
+        'maintenanceType' => 'Service',
+      ),
+      'vehicle_tax' => 
+      array (
+        'interval' => '1 weeks',
+        'column' => 'dt_tax_expiry',
+        'caption' => 'Tax expiry reminder',
+        'message' => 'tax expiry',
+        'maintenanceType' => 'Tax expiry',
+      ),
+      'preventative_maintenance_inspection' => 
+      array (
+        'interval' => '1 weeks',
+        'column' => 'next_pmi_date',
+        'caption' => 'PMI reminder',
+        'message' => 'PMI',
+        'maintenanceType' => 'PMI',
+      ),
+      'pto_service_inspection' => 
+      array (
+        'interval' => '1 weeks',
+        'column' => 'next_pto_service_date',
+        'caption' => 'PTO service reminder',
+        'message' => 'PTO service',
+        'maintenanceType' => 'PTO service',
+      ),
+      'invertor_inspection' => 
+      array (
+        'interval' => '1 weeks',
+        'column' => 'next_invertor_service_date',
+        'caption' => 'Invertor service reminder',
+        'message' => 'invertor service',
+        'maintenanceType' => 'Invertor service',
+      ),
+      'compressor_inspection' => 
+      array (
+        'interval' => '1 weeks',
+        'column' => 'next_compressor_service',
+        'caption' => 'Compressor service reminder',
+        'message' => 'compressor service',
+        'maintenanceType' => 'Compressor service',
+      ),
+      'loler_test' => 
+      array (
+        'interval' => '1 weeks',
+        'column' => 'dt_loler_test_due',
+        'caption' => 'LOLER test reminder',
+        'message' => 'LOLER',
+        'maintenanceType' => 'LOLER test',
+      ),
+      'tachograph_calibration' => 
+      array (
+        'interval' => '1 weeks',
+        'column' => 'dt_tacograch_calibration_due',
+        'caption' => 'Tacho calibration reminder',
+        'message' => 'tacho calibration',
+        'maintenanceType' => 'Tacho calibration',
+      ),
+      'tank_test' => 
+      array (
+        'interval' => '1 weeks',
+        'column' => 'tank_test_date',
+        'caption' => 'Tank test expiry reminder',
+        'message' => 'Tank test expiry',
+        'maintenanceType' => 'Tank test expiry',
+      ),
+    ),
+    'service_column_mapping' => 
+    array (
+      'adr_test' => 
+      array (
+        'get_column' => 'adr_test_date',
+        'set_column' => 'adr_test_date',
+        'interval' => '12 months',
+        'set_expiry_date' => true,
+      ),
+      'mot' => 
+      array (
+        'get_column' => '',
+        'set_column' => 'dt_mot_expiry',
+        'interval' => '1 year',
+        'set_expiry_date' => true,
+      ),
+      'next_service_inspection' => 
+      array (
+        'get_column' => 'service_inspection_interval',
+        'set_column' => 'dt_next_service_inspection',
+        'interval' => '',
+        'set_expiry_date' => true,
+      ),
+      'invertor_inspection' => 
+      array (
+        'get_column' => 'invertor_service_interval',
+        'set_column' => 'next_invertor_service_date',
+        'interval' => '',
+        'set_expiry_date' => true,
+      ),
+      'compressor_inspection' => 
+      array (
+        'get_column' => 'compressor_service_interval',
+        'set_column' => 'next_compressor_service',
+        'interval' => '',
+        'set_expiry_date' => true,
+      ),
+      'loler_test' => 
+      array (
+        'get_column' => 'loler_test_interval',
+        'set_column' => 'dt_loler_test_due',
+        'interval' => '1 year',
+        'set_expiry_date' => true,
+      ),
+      'vehicle_tax' => 
+      array (
+        'get_column' => '',
+        'set_column' => 'dt_tax_expiry',
+        'interval' => '1 year',
+        'set_expiry_date' => true,
+      ),
+      'pto_service_inspection' => 
+      array (
+        'get_column' => 'pto_service_interval',
+        'set_column' => 'next_pto_service_date',
+        'interval' => '',
+        'set_expiry_date' => true,
+      ),
+      'preventative_maintenance_inspection' => 
+      array (
+        'get_column' => 'pmi_interval',
+        'set_column' => 'next_pmi_date',
+        'interval' => '',
+        'set_expiry_date' => false,
+      ),
+      'annual_service_inspection' => 
+      array (
+        'get_column' => '',
+        'set_column' => 'dt_annual_service_inspection',
+        'interval' => '1 year',
+        'set_expiry_date' => true,
+      ),
+      'tachograph_calibration' => 
+      array (
+        'get_column' => '',
+        'set_column' => 'dt_tacograch_calibration_due',
+        'interval' => '2 year',
+        'set_expiry_date' => true,
+      ),
+      'tank_test' => 
+      array (
+        'get_column' => 'tank_test_interval',
+        'set_column' => 'tank_test_date',
+        'interval' => '2 year',
+        'set_expiry_date' => true,
+      ),
+    ),
+    'asset_service_column_mapping' => 
+    array (
+      'adr_test' => 
+      array (
+        'get_column' => 'adr_test_interval',
+        'set_column' => 'adr_test_date',
+        'interval' => '12 months',
+        'set_expiry_date' => true,
+      ),
+      'annual_service_inspection' => 
+      array (
+        'get_column' => '',
+        'set_column' => 'annual_service',
+        'interval' => '1 year',
+        'set_expiry_date' => true,
+      ),
+      'mot' => 
+      array (
+        'get_column' => '',
+        'set_column' => 'mot_expiry',
+        'interval' => '1 year',
+        'set_expiry_date' => true,
+      ),
+      'next_service_inspection' => 
+      array (
+        'get_column' => 'service_inspection_frequency',
+        'set_column' => 'next_service_inspection_date',
+        'interval' => '1 year',
+        'set_expiry_date' => true,
+      ),
+      'preventative_maintenance_inspection' => 
+      array (
+        'get_column' => 'pmi_interval',
+        'set_column' => 'next_pmi_date',
+        'interval' => '',
+        'set_expiry_date' => false,
+      ),
+      'tank_test' => 
+      array (
+        'get_column' => 'tank_test_interval',
+        'set_column' => 'tank_test_date',
+        'interval' => '2 year',
+        'set_expiry_date' => true,
+      ),
+      'rubber_integrity_test' => 
+      array (
+        'get_column' => 'rubber_integrity_test_interval',
+        'set_column' => 'rubber_integrity_test_date',
+        'interval' => '12 months',
+        'set_expiry_date' => true,
+      ),
+      'loler_test' => 
+      array (
+        'get_column' => 'loler_test_interval',
+        'set_column' => 'loler_test_date',
+        'interval' => '36 months',
+        'set_expiry_date' => true,
+      ),
+      'electrical_inspection' => 
+      array (
+        'get_column' => 'electrical_inspection_interval',
+        'set_column' => 'electrical_inspection_date',
+        'interval' => '36 months',
+        'set_expiry_date' => true,
+      ),
+    ),
+    'eventsList' => 
+    array (
+      'adr_test' => 'ADR test',
+      'dt_annual_service_inspection' => 'Annual service',
+      'next_compressor_service' => 'Compressor service',
+      'next_invertor_service_date' => 'Invertor service',
+      'dt_loler_test_due' => 'LOLER test',
+      'dt_repair_expiry' => 'Maintenance expiry',
+      'dt_mot_expiry' => 'MOT expiry',
+      'dt_next_service_inspection' => 'Service',
+      'next_pmi_date' => 'PMI',
+      'next_pto_service_date' => 'PTO service',
+      'dt_tacograch_calibration_due' => 'Tacho calibration',
+      'dt_tax_expiry' => 'Tax expiry',
+      'tank_test' => 'Tank test',
+    ),
+    'eventSlugWithVehicleFields' => 
+    array (
+      'adr_test' => 'adr_test_date',
+      'annual_service_inspection' => 'dt_annual_service_inspection',
+      'compressor_inspection' => 'next_compressor_service',
+      'invertor_inspection' => 'next_invertor_service_date',
+      'loler_test' => 'dt_loler_test_due',
+      'maintenance_expiry' => 'dt_repair_expiry',
+      'mot' => 'dt_mot_expiry',
+      'preventative_maintenance_inspection' => 'next_pmi_date',
+      'pto_service_inspection' => 'next_pto_service_date',
+      'next_service_inspection_distance' => 'dt_next_service_inspection',
+      'next_service_inspection' => 'dt_next_service_inspection',
+      'tachograph_calibration' => 'dt_tacograch_calibration_due',
+      'vehicle_tax' => 'dt_tax_expiry',
+      'tank_test' => 'tank_test_date',
+    ),
+    'eventSlugWithAssetFields' => 
+    array (
+      'adr_test' => 'adr_test_date',
+      'annual_service_inspection' => 'annual_service',
+      'electrical_inspection' => 'electrical_inspection_date',
+      'loler_test' => 'loler_test_date',
+      'mot' => 'mot_expiry',
+      'preventative_maintenance_inspection' => 'next_pmi_date',
+      'next_service_inspection' => 'next_service_inspection_date',
+      'rubber_integrity_test' => 'rubber_integrity_test_date',
+      'tank_test' => 'tank_test_date',
+    ),
+    'eventSlugWithVehicleAssetFields' => 
+    array (
+      'adr_test' => 'adr_test_date',
+      'annual_service_inspection' => 'dt_annual_service_inspection',
+      'compressor_inspection' => 'next_compressor_service',
+      'invertor_inspection' => 'next_invertor_service_date',
+      'loler_test' => 'dt_loler_test_due',
+      'maintenance_expiry' => 'dt_repair_expiry',
+      'mot' => 'dt_mot_expiry',
+      'preventative_maintenance_inspection' => 'next_pmi_date',
+      'pto_service_inspection' => 'next_pto_service_date',
+      'next_service_inspection_distance' => 'dt_next_service_inspection',
+      'next_service_inspection' => 'dt_next_service_inspection',
+      'tachograph_calibration' => 'dt_tacograch_calibration_due',
+      'vehicle_tax' => 'dt_tax_expiry',
+      'tank_test' => 'tank_test_date',
+      'electrical_inspection' => 'electrical_inspection_date',
+      'rubber_integrity_test' => 'rubber_integrity_test_date',
+    ),
+    'eventSlugWithVehicleAssetFieldsForDisplay' => 
+    array (
+      'adr_test_vehicle' => 'adr_test_date',
+      'adr_test_asset' => 'adr_test_date',
+      'annual_service_inspection_vehicle' => 'dt_annual_service_inspection',
+      'annual_service_inspection_asset' => 'annual_service',
+      'compressor_inspection_vehicle' => 'next_compressor_service',
+      'electrical_inspection_asset' => 'electrical_inspection_date',
+      'invertor_inspection_vehicle' => 'next_invertor_service_date',
+      'loler_test_vehicle' => 'dt_loler_test_due',
+      'loler_test_asset' => 'loler_test_date',
+      'maintenance_expiry_vehicle' => 'dt_repair_expiry',
+      'mot_vehicle' => 'dt_mot_expiry',
+      'mot_asset' => 'mot_expiry',
+      'preventative_maintenance_inspection_vehicle' => 'next_pmi_date',
+      'preventative_maintenance_inspection_asset' => 'next_pmi_date',
+      'pto_service_inspection_vehicle' => 'next_pto_service_date',
+      'next_service_inspection_distance_vehicle' => 'dt_next_service_inspection',
+      'next_service_inspection_vehicle' => 'dt_next_service_inspection',
+      'next_service_inspection_asset' => 'next_service_inspection_date',
+      'rubber_integrity_test_asset' => 'rubber_integrity_test_date',
+      'tachograph_calibration_vehicle' => 'dt_tacograch_calibration_due',
+      'tank_test_vehicle' => 'tank_test_date',
+      'tank_test_asset' => 'tank_test_date',
+      'vehicle_tax_vehicle' => 'dt_tax_expiry',
+    ),
+    'vehicleLocation' => 
+    array (
+    ),
+    'userNotificationEventTypes' => 
+    array (
+      'maintenance_summary_(based on vehicle permissions):' => 
+      array (
+        'weekly_maintenance' => 'Weekly maintenance summary (sent every Thursday @ 09:00am)',
+      ),
+      'maintenance_and_planning_notifications_(nominated driver):' => 
+      array (
+        'adr_test' => 'ADR test reminder',
+        'annual_service_inspection' => 'Annual service reminder',
+        'compressor_inspection' => 'Compressor service reminder',
+        'invertor_inspection' => 'Invertor service reminder',
+        'loler_test' => 'LOLER test reminder',
+        'mot' => 'MOT expiry reminder',
+        'next_service_inspection_distance' => 'Service reminder (distance)',
+        'next_service_inspection' => 'Service reminder (time)',
+        'preventative_maintenance_inspection' => 'PMI reminder',
+        'pto_service_inspection' => 'PTO service reminder',
+        'tachograph_calibration' => 'Tacho calibration reminder',
+        'tank_test' => 'Tank test reminder',
+        'vehicle_tax' => 'Tax expiry reminder',
+      ),
+      'telematics:' => 
+      array (
+        'zone_alerts' => 'Zone alerts',
+      ),
+    ),
+    'vehicle_type_odometer_setting' => 
+    array (
+      '' => '',
+      'km' => 'KM',
+      'miles' => 'Miles',
+    ),
+    'app_url' => 'http://fleetmastr.local',
+    'assets' => 
+    array (
+      'asset_check_type' => 
+      array (
+        '' => '',
+        'regular' => 'Asset regular check',
+        'takeout' => 'Asset take out',
+        'return' => 'Asset return',
+      ),
+      'asset_profiles_odometer_type' => 
+      array (
+        '' => '',
+        'km' => 'KM',
+        'miles' => 'Miles',
+        'na' => 'NA',
+      ),
+      'asset_profiles_service_inspection_frequency' => 
+      array (
+        '' => '',
+        '4 weeks' => '4 weeks',
+        '6 weeks' => '6 weeks',
+        '8 weeks' => '8 weeks',
+        '10 weeks' => '10 weeks',
+        '12 weeks' => '12 weeks',
+        '13 weeks' => '13 weeks',
+        '6 months' => '6 months',
+        '12 months' => '12 months',
+      ),
+      'asset_profiles_regular_check_frequency' => 
+      array (
+        '' => '',
+        'Daily' => 'Daily',
+        'Weekly' => 'Weekly',
+        'Monthly' => 'Monthly',
+        'Quarterly' => 'Every 3 months',
+        'Every 6 months' => 'Every 6 months',
+        'Every 12 months' => 'Every 12 months',
+        'Not applicable' => 'NA',
+      ),
+      'interval_into_days' => 
+      array (
+        'Daily' => 
+        array (
+          'value' => 1,
+          'method' => 'addDays',
+        ),
+        'Weekly' => 
+        array (
+          'value' => 1,
+          'method' => 'addWeek',
+        ),
+        'Monthly' => 
+        array (
+          'value' => 1,
+          'method' => 'addMonth',
+        ),
+        'Quarterly' => 
+        array (
+          'value' => 3,
+          'method' => 'addMonths',
+        ),
+        'Every 6 months' => 
+        array (
+          'value' => 6,
+          'method' => 'addMonths',
+        ),
+        'Every 12 months' => 
+        array (
+          'value' => 12,
+          'method' => 'addMonths',
+        ),
+        'Not applicable' => 
+        array (
+          'value' => 0,
+          'method' => '',
+        ),
+      ),
+      'asset_profiles_engine_type' => 
+      array (
+        '' => '',
+        'na' => 'NA',
+        'electric' => 'Electric',
+        'diesel' => 'Diesel',
+        'petrol' => 'Petrol',
+      ),
+      'asset_profiles_fuel_type' => 
+      array (
+        '' => '',
+        'na' => 'NA',
+        'electric' => 'Electric',
+        'diesel' => 'Diesel',
+        'petrol' => 'Petrol',
+      ),
+      'asset_checks_status' => 
+      array (
+        '' => '',
+        'roadworthy' => 'Roadworthy',
+        'safetooperate' => 'SafeToOperate',
+        'unsafetooperate' => 'UnsafeToOperate',
+      ),
+      'status' => 
+      array (
+        '' => '',
+        'In service' => 'In service',
+        'In service (with defects)' => 'In service (with defects)',
+        'Unavailable (repair required)' => 'Unavailable (repair required)',
+        'Unavailable (under repair)' => 'Unavailable (under repair)',
+      ),
+      'trailerAssetStatus' => 
+      array (
+        '' => '',
+        'Awaiting kit' => 'Awaiting kit',
+        'Re-positioning' => 'Re-positioning',
+        'Roadworthy' => 'Roadworthy',
+        'Roadworthy (with defects)' => 'Roadworthy (with defects)',
+        'VOR' => 'VOR',
+        'VOR - Accident damage' => 'VOR - Accident damage',
+        'VOR - Bodybuilder' => 'VOR - Bodybuilder',
+        'VOR - Bodyshop' => 'VOR - Bodyshop',
+        'VOR - MOT' => 'VOR - MOT',
+        'VOR - Service' => 'VOR - Service',
+        'VOR - Quarantined' => 'VOR - Quarantined',
+        'Other' => 'Other',
+      ),
+      'statusArchived' => 
+      array (
+        'Archived' => 'Archived',
+        'Archived - De-commissioned' => 'Archived - De-commissioned',
+        'Archived - Written off' => 'Archived - Written off',
+        'Archived - Sold' => 'Archived - Sold',
+      ),
+      'availability' => 
+      array (
+        '' => '',
+        'Available' => 'Available',
+        'In use' => 'In use',
+        'Out for repair' => 'Out for repair',
+      ),
+      'ownership_type' => 
+      array (
+        '' => '',
+        'Owned' => 'Owned',
+        'Leased' => 'Leased',
+      ),
+      'nrmm_complaint' => 
+      array (
+        '' => '',
+        'Yes' => 'Yes',
+        'No' => 'No',
+        'NA' => 'NA',
+      ),
+      'internal_rental_period_unit' => 
+      array (
+        'Days' => 'Day(s)',
+        'Weeks' => 'Week(s)',
+        'Months' => 'Month(s)',
+        'Years' => 'Year(s)',
+      ),
+      'asset_defect_status' => 
+      array (
+        'All' => 'All',
+        'Reported' => 'Reported',
+        'Acknowledged' => 'Acknowledged',
+        'Allocated' => 'Allocated',
+        'Under repair' => 'Under repair',
+        'Repair rejected' => 'Repair rejected',
+        'Discharged' => 'Discharged',
+        'Resolved' => 'Resolved',
+      ),
+      'asset_defect_status_for_workshop_manager' => 
+      array (
+        'Allocated' => 'Allocated',
+        'Under repair' => 'Under repair',
+        'Repair rejected' => 'Repair rejected',
+        'Discharged' => 'Discharged',
+      ),
+      'assetAutomaticMaintenanceEvent' => 
+      array (
+        0 => 
+        array (
+          'event' => 'adr_test',
+          'date' => 'adr_test_date',
+        ),
+        1 => 
+        array (
+          'event' => 'annual_service_inspection',
+          'date' => 'annual_service',
+        ),
+        2 => 
+        array (
+          'event' => 'mot',
+          'date' => 'mot_expiry',
+        ),
+        3 => 
+        array (
+          'event' => 'preventative_maintenance_inspection',
+          'date' => 'first_pmi_date',
+        ),
+        4 => 
+        array (
+          'event' => 'preventative_maintenance_inspection',
+          'date' => 'next_pmi_date',
+        ),
+        5 => 
+        array (
+          'event' => 'tank_test',
+          'date' => 'tank_test_date',
+        ),
+        6 => 
+        array (
+          'event' => 'rubber_integrity_test',
+          'date' => 'rubber_integrity_test_date',
+        ),
+        7 => 
+        array (
+          'event' => 'next_service_inspection',
+          'date' => 'next_service_inspection_date',
+        ),
+        8 => 
+        array (
+          'event' => 'loler_test',
+          'date' => 'loler_test_date',
+        ),
+        9 => 
+        array (
+          'event' => 'electrical_inspection',
+          'date' => 'electrical_inspection_date',
+        ),
+      ),
+      'eventRemindersNotifications' => 
+      array (
+        0 => 
+        array (
+          'event' => 'adr_test',
+          'interval' => '90 days',
+          'column' => 'adr_test_date',
+          'caption' => 'ADR test reminder',
+          'message' => 'ADR test',
+          'maintenanceType' => 'ADR test expiry',
+        ),
+        1 => 
+        array (
+          'event' => 'annual_service_inspection',
+          'interval' => '30 days',
+          'column' => 'annual_service',
+          'caption' => 'Annual service reminder',
+          'message' => 'annual service',
+          'maintenanceType' => 'Annual service',
+        ),
+        2 => 
+        array (
+          'event' => 'mot',
+          'interval' => '30 days',
+          'column' => 'mot_expiry',
+          'caption' => 'MOT expiry reminder',
+          'message' => 'MOT',
+          'maintenanceType' => 'MOT expiry',
+        ),
+        3 => 
+        array (
+          'event' => 'preventative_maintenance_inspection',
+          'interval' => '30 days',
+          'column' => 'first_pmi_date',
+          'caption' => 'PMI reminder',
+          'message' => 'PMI',
+          'maintenanceType' => 'PMI',
+        ),
+        4 => 
+        array (
+          'event' => 'preventative_maintenance_inspection',
+          'interval' => '30 days',
+          'column' => 'next_pmi_date',
+          'caption' => 'PMI reminder',
+          'message' => 'PMI',
+          'maintenanceType' => 'PMI',
+        ),
+        5 => 
+        array (
+          'event' => 'tank_test',
+          'interval' => '30 days',
+          'column' => 'tank_test_date',
+          'caption' => 'Tank test reminder',
+          'message' => 'Tank test',
+          'maintenanceType' => 'Tank test',
+        ),
+        6 => 
+        array (
+          'event' => 'electrical_inspection',
+          'interval' => '36 months',
+          'column' => 'electrical_inspection_date',
+          'caption' => 'Electrical Inspection reminder',
+          'message' => 'Electrical Inspection',
+          'maintenanceType' => 'Electrical Inspection',
+        ),
+        7 => 
+        array (
+          'event' => 'loler_test',
+          'interval' => '30 days',
+          'column' => 'loler_test_date',
+          'caption' => 'LOLER test reminder',
+          'message' => 'LOLER test',
+          'maintenanceType' => 'LOLER test',
+        ),
+        8 => 
+        array (
+          'event' => 'rubber_integrity_test',
+          'interval' => '12 months',
+          'column' => 'rubber_integrity_test_date',
+          'caption' => 'Rubber Integrity Test reminder',
+          'message' => 'Rubber Integrity Test',
+          'maintenanceType' => 'Rubber Integrity Test',
+        ),
+        9 => 
+        array (
+          'event' => 'next_service_inspection',
+          'interval' => '30 days',
+          'column' => 'next_service_inspection_date',
+          'caption' => 'Service reminder',
+          'message' => 'Service',
+          'maintenanceType' => 'Service',
+        ),
+      ),
+      'is_asset_allocation' => 
+      array (
+        '' => '',
+        0 => 'No',
+        1 => 'Yes',
+      ),
+    ),
+    'maintenance_history_status' => 
+    array (
+      '' => '',
+      'Complete' => 'Complete',
+      'Incomplete' => 'Incomplete',
+    ),
+    'automaticMaintenanceEvent' => 
+    array (
+      0 => 
+      array (
+        'event' => 'mot',
+        'date' => 'dt_mot_expiry',
+      ),
+      1 => 
+      array (
+        'event' => 'annual_service_inspection',
+        'date' => 'dt_annual_service_inspection',
+      ),
+      2 => 
+      array (
+        'event' => 'next_service_inspection',
+        'date' => 'dt_next_service_inspection',
+      ),
+      3 => 
+      array (
+        'event' => 'vehicle_tax',
+        'date' => 'dt_tax_expiry',
+      ),
+      4 => 
+      array (
+        'event' => 'preventative_maintenance_inspection',
+        'date' => 'next_pmi_date',
+      ),
+      5 => 
+      array (
+        'event' => 'preventative_maintenance_inspection',
+        'date' => 'first_pmi_date',
+      ),
+      6 => 
+      array (
+        'event' => 'pto_service_inspection',
+        'date' => 'next_pto_service_date',
+      ),
+      7 => 
+      array (
+        'event' => 'invertor_inspection',
+        'date' => 'next_invertor_service_date',
+      ),
+      8 => 
+      array (
+        'event' => 'compressor_inspection',
+        'date' => 'next_compressor_service',
+      ),
+      9 => 
+      array (
+        'event' => 'loler_test',
+        'date' => 'dt_loler_test_due',
+      ),
+      10 => 
+      array (
+        'event' => 'tachograph_calibration',
+        'date' => 'dt_tacograch_calibration_due',
+      ),
+      11 => 
+      array (
+        'event' => 'adr_test',
+        'date' => 'adr_test_date',
+      ),
+      12 => 
+      array (
+        'event' => 'tank_test',
+        'date' => 'tank_test_date',
+      ),
+    ),
+    'eventRemindersNotifications' => 
+    array (
+      0 => 
+      array (
+        'event' => 'adr_test',
+        'interval' => '90 days',
+        'column' => 'adr_test_date',
+        'caption' => 'ADR test reminder',
+        'message' => 'ADR test',
+        'maintenanceType' => 'ADR test expiry',
+      ),
+      1 => 
+      array (
+        'event' => 'mot',
+        'interval' => '30 days',
+        'column' => 'dt_mot_expiry',
+        'caption' => 'MOT expiry reminder',
+        'message' => 'MOT',
+        'maintenanceType' => 'MOT expiry',
+      ),
+      2 => 
+      array (
+        'event' => 'annual_service_inspection',
+        'interval' => '30 days',
+        'column' => 'dt_annual_service_inspection',
+        'caption' => 'Annual service reminder',
+        'message' => 'annual service',
+        'maintenanceType' => 'Annual service',
+      ),
+      3 => 
+      array (
+        'event' => 'next_service_inspection',
+        'interval' => '30 days',
+        'column' => 'dt_next_service_inspection',
+        'caption' => 'Service reminder',
+        'message' => 'service',
+        'maintenanceType' => 'Service (time)',
+      ),
+      4 => 
+      array (
+        'event' => 'vehicle_tax',
+        'interval' => '30 days',
+        'column' => 'dt_tax_expiry',
+        'caption' => 'Tax expiry reminder',
+        'message' => 'tax expiry',
+        'maintenanceType' => 'Tax expiry',
+      ),
+      5 => 
+      array (
+        'event' => 'preventative_maintenance_inspection',
+        'interval' => '30 days',
+        'column' => 'next_pmi_date',
+        'caption' => 'PMI reminder',
+        'message' => 'PMI',
+        'maintenanceType' => 'PMI',
+      ),
+      6 => 
+      array (
+        'event' => 'preventative_maintenance_inspection',
+        'interval' => '30 days',
+        'column' => 'first_pmi_date',
+        'caption' => 'PMI reminder',
+        'message' => 'PMI',
+        'maintenanceType' => 'PMI',
+      ),
+      7 => 
+      array (
+        'event' => 'pto_service_inspection',
+        'interval' => '30 days',
+        'column' => 'next_pto_service_date',
+        'caption' => 'PTO service reminder',
+        'message' => 'PTO service',
+        'maintenanceType' => 'PTO service',
+      ),
+      8 => 
+      array (
+        'event' => 'invertor_inspection',
+        'interval' => '30 days',
+        'column' => 'next_invertor_service_date',
+        'caption' => 'Invertor service reminder',
+        'message' => 'invertor service',
+        'maintenanceType' => 'Invertor service',
+      ),
+      9 => 
+      array (
+        'event' => 'compressor_inspection',
+        'interval' => '30 days',
+        'column' => 'next_compressor_service',
+        'caption' => 'Compressor service reminder',
+        'message' => 'compressor service',
+        'maintenanceType' => 'Compressor service',
+      ),
+      10 => 
+      array (
+        'event' => 'loler_test',
+        'interval' => '30 days',
+        'column' => 'dt_loler_test_due',
+        'caption' => 'LOLER test reminder',
+        'message' => 'LOLER test',
+        'maintenanceType' => 'LOLER test',
+      ),
+      11 => 
+      array (
+        'event' => 'tachograph_calibration',
+        'interval' => '30 days',
+        'column' => 'dt_tacograch_calibration_due',
+        'caption' => 'Tacho calibration reminder',
+        'message' => 'tacho calibration',
+        'maintenanceType' => 'Tacho calibration',
+      ),
+      12 => 
+      array (
+        'event' => 'next_service_inspection_distance',
+        'interval' => '30 days',
+        'column' => 'next_service_inspection_distance',
+        'caption' => 'Service reminder',
+        'message' => 'service',
+        'maintenanceType' => 'Service',
+      ),
+      13 => 
+      array (
+        'event' => 'tank_test',
+        'interval' => '30 days',
+        'column' => 'tank_test_date',
+        'caption' => 'Tank test reminder',
+        'message' => 'Tank test',
+        'maintenanceType' => 'Tank test',
+      ),
+    ),
+    'apiAssetDateTimeFormat' => 'Y-m-d H:i:s',
+    'vehicleStatusArchived' => 
+    array (
+      0 => 'Archived',
+      1 => 'Archived - De-commissioned',
+      2 => 'Archived - Written off',
+      3 => 'Archived - Sold',
+    ),
+    'vahicleStatusUnArchived' => 
+    array (
+      0 => 'Re-positioning',
+      1 => 'Awaiting kit',
+      2 => 'Roadworthy',
+      3 => 'Roadworthy (with defects)',
+      4 => 'VOR',
+      5 => 'VOR - Accident damage',
+      6 => 'VOR - Bodybuilder',
+      7 => 'VOR - Bodyshop',
+      8 => 'VOR - MOT',
+      9 => 'VOR - Quarantined',
+      10 => 'VOR - Service',
+    ),
+    'to_show_fleet_cost' => true,
+    'asset_maintenance_event_types' => 
+    array (
+      '' => '',
+      'next_service_inspection' => 'Next service inspection',
+      'next_regular_check' => 'Next regular check',
+    ),
+    'asset_maintenance_history_event_types' => 
+    array (
+      '' => 'All events',
+      'next_service_inspection' => 'Next service inspection',
+      'next_regular_check' => 'Next regular check',
+    ),
+    'durationOfAssetBookingReport' => 
+    array (
+      'lastWeek' => 'Last week',
+      'lastMonth' => 'Last month',
+      'last12Months' => 'Last 12 months',
+    ),
+    'telematics_incidents' => 
+    array (
+      'tm8.dfb2.acc.l' => 'Harsh Acceleration v2 (Low Threshold)',
+      'tm8.dfb2.dec.l' => 'Harsh Braking v2 (Low Threshold)',
+      'tm8.dfb2.cnrl.l' => 'Harsh Left Cornering (Low Threshold)',
+      'tm8.dfb2.cnrr.l' => 'Harsh Right Cornering (Low Threshold)',
+      'tm8.gps.idle.end' => 'Idle End',
+      'tm8.dfb2.rpm' => 'RPM Over Threshold v2',
+      'tm8.dfb2.spd' => 'Speeding Over Threshold v2',
+      'tm8.dfb2.spdinc' => 'Speeding Over Threshold v2',
+      'tm8.fnol' => 'FNOL',
+    ),
+    'telematics_incidents_filter' => 
+    array (
+      'tm8.dfb2.acc.l' => 'Harsh Acceleration',
+      'tm8.dfb2.dec.l' => 'Harsh Braking',
+      'harsh.cornering' => 'Harsh Cornering',
+      'tm8.gps.idle.end' => 'Idling',
+      'tm8.dfb2.rpm' => 'RPM',
+      'tm8.dfb2.spdinc' => 'Speeding',
+      'tm8.fnol' => 'FNOL',
+    ),
+    'loler_test_interval' => 
+    array (
+      '' => '',
+      'none' => 'None',
+      '6 months' => '6 months',
+      '12 months' => '12 months',
+    ),
+    'service_inspection_type' => 
+    array (
+      '' => '',
+      'Distance' => 'Distance',
+      'Time' => 'Time',
+    ),
+    'adr_test' => 
+    array (
+      '' => '',
+      'none' => 'None',
+      '12 months' => '12 months',
+    ),
+    'minimum_service_interval' => 3000,
+    'dvsa_years' => 
+    array (
+      2021 => 'Year 2021',
+      2020 => 'Year 2020',
+      2019 => 'Year 2019',
+    ),
+    'dvsa_codes' => 
+    array (
+      'M1' => 'M1 - Full Set',
+      'M2' => 'M2 - Completed',
+      'M3' => 'M3 - Frequency',
+      'M4' => 'M4 - Driver Defects',
+      'M5' => 'M5 - MOT',
+    ),
+    'dvsa_periods' => 
+    array (
+      'period_6' => 'Period 6 - 2021 (24/05/2021 to 20/06/2021)',
+      'period_5' => 'Period 5 - 2021 (26/04/2021 to 23/05/2021)',
+      'period_4' => 'Period 4 - 2021 (29/03/2021 to 25/04/2021)',
+      'period_3' => 'Period 3 - 2021 (01/03/2021 to 28/03/2021)',
+      'period_2' => 'Period 2 - 2021 (01/02/2021 to 28/02/2021)',
+      'period_1' => 'Period 1 - 2021 (04/01/2021 to 31/01/2021)',
+    ),
+    'alert_type' => 
+    array (
+      '' => '',
+      'dtc' => 'DTC',
+      'fnol' => 'FNOL',
+      'trigger' => 'Trigger',
+      'other' => 'Other',
+    ),
+    'alert_source' => 
+    array (
+      '' => '',
+      'telematics' => 'Telematics',
+      'system' => 'System',
+      'other' => 'Other',
+    ),
+    'alert_severity' => 
+    array (
+      '' => '',
+      'critical' => 'Critical',
+      'high' => 'High',
+      'medium' => 'Medium',
+      'low' => 'Low',
+      'lowest' => 'Lowest',
+    ),
+    'alert_status' => 
+    array (
+      '' => '',
+      'active' => 'Active',
+      'disabled' => 'Disabled',
+    ),
+    'alert_notification' => 
+    array (
+      '' => '',
+      'open' => 'Open',
+      'resolved' => 'Resolved',
+    ),
+    'webfleet' => 
+    array (
+      'api_key' => '0607616c-ca2b-4bb2-ade9-b5c6baec9895',
+      'account' => 'Milestone-2',
+      'username' => 'Fleetmastr',
+      'password' => 'UI9%C2%A3pLy99Pk1',
+      'api_url' => 'https://csv.webfleet.com/extern',
+      'datetime_format' => 'd/m/Y H:i:s',
+    ),
+    'teletracnavman' => 
+    array (
+      'api_key' => '',
+      'api_url' => 'https://api-uk.nextgen.teletracnavman.net/v1',
+      'datetime_format' => 'd/m/Y H:i:s',
+    ),
+    'googleMap' => 
+    array (
+      'api_key' => 'AIzaSyDsD41irpLIoy8iqlZci8BdUN68YSwaXws',
+      'api_url' => 'https://maps.googleapis.com/maps/api/geocode/json',
+    ),
+    'message_attachments' => 
+    array (
+      'single_file_size' => 10,
+      'total_file_size' => 50,
+      'default_message' => 'The total of all attachments can be up to 50MB and a single attachment can be up to 10MB.',
+    ),
+    'asset_profiles_updated_regular_check_frequency' => 
+    array (
+      '' => '',
+      'Daily' => '1 days',
+      'Weekly' => '7 days',
+      'Monthly' => '1 months',
+      'Quarterly' => '3 months',
+      'Every 6 months' => '6 months',
+      'Every 12 months' => '12 months',
+    ),
+    'asset_profiles_regular_check_frequency_converter' => 
+    array (
+      '' => 0,
+      'Not applicable' => 0,
+      'Daily' => 0,
+      'Weekly' => 7,
+      'Monthly' => 1,
+      'Quarterly' => 3,
+      'Every 6 months' => 6,
+      'Every 12 months' => 12,
+    ),
+    'standard_reports' => 
+    array (
+      'standard_last_login_report' => 
+      array (
+        0 => 'First Name|User',
+        1 => 'Last Name|User',
+        2 => 'Company|User',
+        3 => 'User Division|User',
+        4 => 'User Region|User',
+        5 => 'Username|User',
+        6 => 'Email|User',
+        7 => 'Mobile|User',
+        8 => 'Roles|User',
+        9 => 'Last Login|User',
+        10 => 'Is Archived?|User',
+      ),
+      'standard_fleet_cost_report' => 
+      array (
+        0 => 'Registration|Vehicle',
+        1 => 'Vehicle Division|Vehicle',
+        2 => 'Vehicle Region|Vehicle',
+        3 => 'Location|Vehicle',
+        4 => 'Nominated Driver|Vehicle',
+        5 => 'Type|Vehicle',
+        6 => 'Operator License|Vehicle',
+        7 => 'Ownership Status|Vehicle',
+        8 => 'Vehicle Status|Vehicle',
+        9 => 'Date Added To Fleet|Vehicle',
+        10 => 'Location From|Vehicle',
+        11 => 'Location To|Vehicle',
+        12 => 'Hire Cost|Vehicle',
+        13 => 'Management Cost|Vehicle',
+        14 => 'Depreciation Cost|Vehicle',
+        15 => 'Vehicle Tax|Vehicle',
+        16 => 'Insurance Cost|Vehicle',
+        17 => 'Telematics Cost|Vehicle',
+        18 => 'Manual Cost Adj|Vehicle',
+        19 => 'Fuel|Vehicle',
+        20 => 'Oil|Vehicle',
+        21 => 'AdBlue|Vehicle',
+        22 => 'Screen Wash|Vehicle',
+        23 => 'Fleet Livery|Vehicle',
+        24 => 'Defects|Vehicle',
+        25 => 'Total|Vehicle',
+        26 => 'Transfer|Vehicle',
+      ),
+      'standard_p11d_benefits_report' => 
+      array (
+        0 => 'Full Name|User',
+        1 => 'Type of Vehicle|Vehicle',
+        2 => 'Type of Fuel used|Vehicle',
+        3 => 'Vehicle Index|Vehicle',
+        4 => 'Make|Vehicle',
+        5 => 'Model|Vehicle',
+        6 => 'Date first registered|Vehicle',
+        7 => 'CO2|Vehicle',
+        8 => 'C02 %|Vehicle',
+        9 => 'Engine Size (Cubic Capacity)|Vehicle',
+        10 => 'Date vehicle was available from|Vehicle',
+        11 => 'Date vehicle was no longer available|Vehicle',
+        12 => 'Vehicle List Price (Non-commercial) / Benefit charge (Commercial)|Vehicle',
+        13 => 'FULL Benefit / Cash Eqiv|Vehicle',
+        14 => 'No. Days in tax year|Vehicle',
+        15 => 'Prorat\'d BIK Based on no. of days (£)|Vehicle',
+        16 => 'Private use days in tax year|Vehicle',
+        17 => 'Fuel card used during tax year|Vehicle',
+        18 => 'Fuel Benefit Charge (£)|Vehicle',
+        19 => 'Prorat\'d Fuel Benefit Based on no. of days (£)|Vehicle',
+      ),
+      'standard_activity_report' => 
+      array (
+        0 => 'First Name|User',
+        1 => 'Last Name|User',
+        2 => 'Username/Email|User',
+        3 => 'User Region|User',
+        4 => 'Vehicle Take Out|Vehicle',
+        5 => 'Vehicle Return|Vehicle',
+      ),
+      'standard_vor_report' => 
+      array (
+        0 => 'Registration|Vehicle',
+        1 => 'Vehicle Division|Vehicle',
+        2 => 'Vehicle Region|Vehicle',
+        3 => 'HGV/Non-HGV|Vehicle',
+        4 => 'Type|Vehicle',
+        5 => 'Manufacturer|Vehicle',
+        6 => 'Model|Vehicle',
+        7 => 'Vehicle Location|Vehicle',
+        8 => 'Repair/Maintenance Location|Vehicle',
+        9 => 'Dated VOR\'d|Vehicle',
+        10 => 'VOR Duration(days)|Vehicle',
+        11 => 'Vehicle Status|Vehicle',
+        12 => 'Defect Category|Vehicle',
+        13 => 'Defect|Vehicle',
+        14 => 'Defect Number|Vehicle',
+        15 => 'Estimated Completion Date|Vehicle',
+        16 => 'Last Comment Date|Vehicle',
+        17 => 'Last Comment|Vehicle',
+      ),
+      'standard_vor_defect_report' => 
+      array (
+        0 => 'Defect Category|Vehicle',
+        1 => 'Defect|Vehicle',
+      ),
+      'standard_defect_report' => 
+      array (
+        0 => 'Registration|Vehicle',
+        1 => 'Vehicle Division|Vehicle',
+        2 => 'Vehicle Region|Vehicle',
+        3 => 'HGV/Non-HGV|Vehicle',
+        4 => 'Type|Vehicle',
+        5 => 'Manufacturer|Vehicle',
+        6 => 'Model|Vehicle',
+        7 => 'Vehicle Location|Vehicle',
+        8 => 'Repair/Maintenance Location|Vehicle',
+        9 => 'Defect Date|Vehicle',
+        10 => 'Defect Number|Vehicle',
+        11 => 'Odometer|Vehicle',
+        12 => 'Defect Category|Vehicle',
+        13 => 'Defect|Vehicle',
+        14 => 'Vehicle Status|Vehicle',
+        15 => 'Defect Status|Vehicle',
+        16 => 'Last Comment Date|Vehicle',
+        17 => 'Last Comment|Vehicle',
+      ),
+      'standard_driving_events_report' => 
+      array (
+        0 => 'Registration|Vehicle',
+        1 => 'Vehicle Division|Vehicle',
+        2 => 'Vehicle Region|Vehicle',
+        3 => 'First Name|User',
+        4 => 'Last Name|User',
+        5 => 'Date|Vehicle',
+        6 => 'Time|Vehicle',
+        7 => 'Incident|Vehicle',
+        8 => 'Location|Vehicle',
+      ),
+      'standard_speeding_report' => 
+      array (
+        0 => 'Registration|Vehicle',
+        1 => 'Vehicle Division|Vehicle',
+        2 => 'Vehicle Region|Vehicle',
+        3 => 'Vehicle Status|Vehicle',
+        4 => 'First Name|User',
+        5 => 'Last Name|User',
+        6 => 'Speed(MPH)|Vehicle',
+        7 => 'Speed Limit(MPH)|Vehicle',
+        8 => 'Date|Vehicle',
+        9 => 'Time|Vehicle',
+        10 => 'Incident|Vehicle',
+        11 => 'Location|Vehicle',
+      ),
+      'standard_journey_report' => 
+      array (
+        0 => 'Registration|Vehicle',
+        1 => 'Vehicle Division|Vehicle',
+        2 => 'Vehicle Region|Vehicle',
+        3 => 'First Name|User',
+        4 => 'Last Name|User',
+        5 => 'Journey Start Time|Vehicle',
+        6 => 'Journey End Time|Vehicle',
+        7 => 'Journey Duration(HH:MM:SS)|Vehicle',
+        8 => 'Journey Distance(Miles)|Vehicle',
+        9 => 'Start Location|Vehicle',
+        10 => 'End Location|Vehicle',
+        11 => 'Number of Incidents|Vehicle',
+        12 => 'Fuel|Vehicle',
+        13 => 'MPG(Actual)|Vehicle',
+        14 => 'MPG(Expected)|Vehicle',
+        15 => 'Journey CO2|Vehicle',
+      ),
+      'standard_fuel_usage_and_emission_report' => 
+      array (
+        0 => 'Registration|Vehicle',
+        1 => 'Vehicle Division|Vehicle',
+        2 => 'Vehicle Region|Vehicle',
+        3 => 'Journey Duration(HH:MM:SS)|Vehicle',
+        4 => 'Journey Distance(Miles)|Vehicle',
+        5 => 'Actual Driving Time(HH:MM:SS)|Vehicle',
+        6 => 'Idling Time(HH:MM:SS)|Vehicle',
+        7 => 'Fuel Consumption(in litre)|Vehicle',
+        8 => 'MPG(Actual)|Vehicle',
+        9 => 'MPG(Expected)|Vehicle',
+        10 => 'Journey CO2|Vehicle',
+      ),
+      'standard_driver_behaviour_report' => 
+      array (
+        0 => 'Email|User',
+        1 => 'First Name|User',
+        2 => 'Last Name|User',
+        3 => 'Engineer ID|User',
+        4 => 'Mobile|User',
+        5 => 'Company|User',
+        6 => 'User Division|User',
+        7 => 'User Region|User',
+        8 => 'Safety Score|User',
+        9 => 'Efficiency Score|User',
+        10 => 'Overall Score|User',
+      ),
+      'standard_vehicle_behaviour_report' => 
+      array (
+        0 => 'Registration|Vehicle',
+        1 => 'Type|Vehicle',
+        2 => 'Category|Vehicle',
+        3 => 'Sub Category|Vehicle',
+        4 => 'Vehicle Division|Vehicle',
+        5 => 'Vehicle Region|Vehicle',
+        6 => 'Safety Score|User',
+        7 => 'Efficiency Score|User',
+        8 => 'Overall Score|User',
+        9 => 'Email|User',
+        10 => 'First Name|User',
+        11 => 'Last Name|User',
+        12 => 'Engineer ID|User',
+        13 => 'Mobile|User',
+        14 => 'Company|User',
+        15 => 'User Division|User',
+        16 => 'User Region|User',
+      ),
+      'standard_vehicle_profile_report' => 
+      array (
+        0 => 'Registration|Vehicle',
+        1 => 'Type|Vehicle',
+        2 => 'Category|Vehicle',
+        3 => 'Sub Category|Vehicle',
+        4 => 'Manufacturer|Vehicle',
+        5 => 'Model|Vehicle',
+        6 => 'Fuel Type|Vehicle',
+        7 => 'Type Of Engine|Vehicle',
+        8 => 'Vehicle Division|Vehicle',
+        9 => 'Vehicle Region|Vehicle',
+        10 => 'Chassis Number|Vehicle',
+        11 => 'Contract ID|Vehicle',
+        12 => 'Email|User',
+        13 => 'First Name|User',
+        14 => 'Last Name|User',
+        15 => 'Engineer ID|User',
+        16 => 'Mobile|User',
+        17 => 'Company|User',
+        18 => 'User Division|User',
+        19 => 'User Region|User',
+      ),
+      'standard_vehicle_incident_report' => 
+      array (
+        0 => 'Registration|Vehicle',
+        1 => 'Type|Vehicle',
+        2 => 'Category|Vehicle',
+        3 => 'Sub Category|Vehicle',
+        4 => 'Vehicle Division|Vehicle',
+        5 => 'Vehicle Region|Vehicle',
+        6 => 'Incident Date|Vehicle',
+        7 => 'Incident Type|Vehicle',
+        8 => 'Speed Limit(MPH)|Vehicle',
+        9 => 'Vehicle Speed(MPH)|Vehicle',
+        10 => 'Email|User',
+        11 => 'First Name|User',
+        12 => 'Last Name|User',
+        13 => 'Engineer ID|User',
+        14 => 'Mobile|User',
+        15 => 'Company|User',
+        16 => 'User Division|User',
+        17 => 'User Region|User',
+      ),
+      'standard_vehicle_defects_report' => 
+      array (
+        0 => 'Registration|Vehicle',
+        1 => 'Type|Vehicle',
+        2 => 'Category|Vehicle',
+        3 => 'Sub Category|Vehicle',
+        4 => 'Vehicle Division|Vehicle',
+        5 => 'Vehicle Region|Vehicle',
+        6 => 'Email|User',
+        7 => 'First Name|User',
+        8 => 'Last Name|User',
+        9 => 'Engineer ID|User',
+        10 => 'Mobile|User',
+        11 => 'Company|User',
+        12 => 'User Division|User',
+        13 => 'User Region|User',
+        14 => 'Defect Date|Vehicle',
+        15 => 'Defect Category|Vehicle',
+        16 => 'Defect Name|Vehicle',
+      ),
+      'standard_vehicle_checks_report' => 
+      array (
+        0 => 'Registration|Vehicle',
+        1 => 'Type|Vehicle',
+        2 => 'Category|Vehicle',
+        3 => 'Sub Category|Vehicle',
+        4 => 'Vehicle Division|Vehicle',
+        5 => 'Vehicle Region|Vehicle',
+        6 => 'Email|User',
+        7 => 'First Name|User',
+        8 => 'Last Name|User',
+        9 => 'Engineer ID|User',
+        10 => 'Mobile|User',
+        11 => 'Company|User',
+        12 => 'User Division|User',
+        13 => 'User Region|User',
+        14 => 'Check Type|Vehicle',
+        15 => 'Check Result|Vehicle',
+        16 => 'Last Check Date|Vehicle',
+        17 => 'Check Duration|Vehicle',
+      ),
+      'standard_vehicle_planning_report' => 
+      array (
+        0 => 'Registration|Vehicle',
+        1 => 'Type|Vehicle',
+        2 => 'Category|Vehicle',
+        3 => 'Sub Category|Vehicle',
+        4 => 'Vehicle Division|Vehicle',
+        5 => 'Vehicle Region|Vehicle',
+        6 => 'Service Type|Vehicle',
+        7 => 'Service Date|Vehicle',
+        8 => 'Email|User',
+        9 => 'First Name|User',
+        10 => 'Last Name|User',
+        11 => 'Engineer ID|User',
+        12 => 'Mobile|User',
+        13 => 'Company|User',
+        14 => 'User Division|User',
+      ),
+      'standard_user_details_report' => 
+      array (
+        0 => 'Email|User',
+        1 => 'First Name|User',
+        2 => 'Last Name|User',
+        3 => 'Created Date|User',
+        4 => 'Engineer ID|User',
+        5 => 'Mobile|User',
+        6 => 'Landline|User',
+        7 => 'Company|User',
+        8 => 'Dallas Key|User',
+        9 => 'IMEI Number|User',
+        10 => 'Base location|User',
+        11 => 'User Division|User',
+        12 => 'User Region|User',
+        13 => 'Registration|Vehicle',
+        14 => 'Type|Vehicle',
+        15 => 'Category|Vehicle',
+        16 => 'Sub Category|Vehicle',
+        17 => 'Vehicle Division|Vehicle',
+        18 => 'Vehicle Region|Vehicle',
+      ),
+      'standard_user_incident_report' => 
+      array (
+        0 => 'Email|User',
+        1 => 'First Name|User',
+        2 => 'Last Name|User',
+        3 => 'Engineer ID|User',
+        4 => 'Mobile|User',
+        5 => 'Company|User',
+        6 => 'User Division|User',
+        7 => 'User Region|User',
+        8 => 'Registration|Vehicle',
+        9 => 'Type|Vehicle',
+        10 => 'Category|Vehicle',
+        11 => 'Sub Category|Vehicle',
+        12 => 'Vehicle Division|Vehicle',
+        13 => 'Vehicle Region|Vehicle',
+        14 => 'Incident Date|Vehicle',
+        15 => 'Incident Type|Vehicle',
+        16 => 'Speed Limit(MPH)|Vehicle',
+        17 => 'Vehicle Speed(MPH)|Vehicle',
+      ),
+      'standard_user_defects_report' => 
+      array (
+        0 => 'Email|User',
+        1 => 'First Name|User',
+        2 => 'Last Name|User',
+        3 => 'Engineer ID|User',
+        4 => 'Mobile|User',
+        5 => 'Company|User',
+        6 => 'User Division|User',
+        7 => 'User Region|User',
+        8 => 'Registration|Vehicle',
+        9 => 'Type|Vehicle',
+        10 => 'Category|Vehicle',
+        11 => 'Sub Category|Vehicle',
+        12 => 'Vehicle Division|Vehicle',
+        13 => 'Vehicle Region|Vehicle',
+        14 => 'Defect Date|Vehicle',
+        15 => 'Defect Category|Vehicle',
+        16 => 'Defect Name|Vehicle',
+      ),
+      'standard_user_checks_report' => 
+      array (
+        0 => 'Email|User',
+        1 => 'First Name|User',
+        2 => 'Last Name|User',
+        3 => 'Engineer ID|User',
+        4 => 'Mobile|User',
+        5 => 'Company|User',
+        6 => 'User Division|User',
+        7 => 'User Region|User',
+        8 => 'Registration|Vehicle',
+        9 => 'Type|Vehicle',
+        10 => 'Category|Vehicle',
+        11 => 'Sub Category|Vehicle',
+        12 => 'Vehicle Division|Vehicle',
+        13 => 'Vehicle Region|Vehicle',
+        14 => 'Check Type|Vehicle',
+        15 => 'Check Result|Vehicle',
+        16 => 'Last Check Date|Vehicle',
+      ),
+      'standard_user_journey_report' => 
+      array (
+        0 => 'Email|User',
+        1 => 'First Name|User',
+        2 => 'Last Name|User',
+        3 => 'Engineer ID|User',
+        4 => 'Mobile|User',
+        5 => 'Company|User',
+        6 => 'User Division|User',
+        7 => 'User Region|User',
+        8 => 'Registration|Vehicle',
+        9 => 'Type|Vehicle',
+        10 => 'Category|Vehicle',
+        11 => 'Sub Category|Vehicle',
+        12 => 'Vehicle Division|Vehicle',
+        13 => 'Vehicle Region|Vehicle',
+        14 => 'Journey Start Date|Vehicle',
+        15 => 'Journey Start Time|Vehicle',
+        16 => 'Journey Duration(HH:MM:SS)|Vehicle',
+        17 => 'Journey Distance(Miles)|Vehicle',
+      ),
+      'standard_vehicle_journey_report' => 
+      array (
+        0 => 'Registration|Vehicle',
+        1 => 'Type|Vehicle',
+        2 => 'Category|Vehicle',
+        3 => 'Sub Category|Vehicle',
+        4 => 'Vehicle Division|Vehicle',
+        5 => 'Vehicle Region|Vehicle',
+        6 => 'Journey Start Date|Vehicle',
+        7 => 'Journey Start Time|Vehicle',
+        8 => 'Journey Duration(HH:MM:SS)|Vehicle',
+        9 => 'Journey Distance(Miles)|Vehicle',
+        10 => 'Email|User',
+        11 => 'First Name|User',
+        12 => 'Last Name|User',
+        13 => 'Engineer ID|User',
+        14 => 'Mobile|User',
+        15 => 'Company|User',
+        16 => 'User Division|User',
+        17 => 'User Region|User',
+      ),
+      'standard_weekly_maintanance_report' => 
+      array (
+        0 => 'Registration|Vehicle',
+        1 => 'Type|Vehicle',
+        2 => 'Manufacturer|Vehicle',
+        3 => 'Model|Vehicle',
+        4 => 'Vehicle Division|Vehicle',
+        5 => 'Vehicle Region|Vehicle',
+        6 => 'Vehicle Location|Vehicle',
+        7 => 'Maintenance Event|Vehicle',
+        8 => 'Due Date|Vehicle',
+        9 => 'Repair/Maintenance Location|Vehicle',
+      ),
+      'standard_vehicle_behavior_report' => 
+      array (
+        0 => 'Registration|Vehicle',
+        1 => 'Vehicle Division|Vehicle',
+        2 => 'Vehicle Region|Vehicle',
+        3 => 'Distance Driven|Vehicle',
+        4 => 'Drive Time|Vehicle',
+        5 => 'Fuel Used|Vehicle',
+        6 => 'Number of Incidents|Vehicle',
+        7 => 'Safety Score|Vehicle',
+        8 => 'Efficiency Score|Vehicle',
+        9 => 'Overall Score|Vehicle',
+      ),
+      'standard_asset_cost_report' => 
+      array (
+        0 => 'Asset Number|Asset',
+        1 => 'Asset Division|Asset',
+        2 => 'Asset Region|Asset',
+        3 => 'Type|Asset',
+        4 => 'Operator License|Asset',
+        5 => 'Ownership Status|Asset',
+        6 => 'Asset Status|Asset',
+        7 => ' Location|Asset',
+        8 => 'Date Added To Fleet|Asset',
+        9 => 'Location From|Asset',
+        10 => 'Location To|Asset',
+        11 => 'Lease Cost|Asset',
+        12 => 'Maintenance Cost|Asset',
+        13 => 'Depreciation Cost|Asset',
+        14 => 'Asset Tax|Asset',
+        15 => 'Insurance Cost|Asset',
+        16 => 'Telematics Cost|Asset',
+        17 => 'Manual Cost Adj|Asset',
+        18 => 'Fuel|Asset',
+        19 => 'Oil|Asset',
+        20 => 'AdBlue|Asset',
+        21 => 'Screen Wash|Asset',
+        22 => 'Fleet Livery|Asset',
+        23 => 'Defects|Asset',
+        24 => 'Total|Asset',
+        25 => 'Transfer|Asset',
+      ),
+      'standard_asset_check_report' => 
+      array (
+        0 => 'Asset Number|Asset',
+        1 => 'Asset Type|Asset',
+        2 => 'Asset Category|Asset',
+        3 => 'Asset Manufacturer|Asset',
+        4 => 'Asset Model|Asset',
+        5 => 'Asset Odometer|Asset',
+        6 => 'Asset Status|Asset',
+        7 => 'Asset Check Duration|Asset',
+        8 => 'Asset Check Result|Asset',
+        9 => 'Asset Check Created By|Asset',
+        10 => 'Asset Check Created Date|Asset',
+        11 => 'Asset Check Type|Asset',
+        12 => 'Registration|Vehicle',
+        13 => 'Vehicle Division|Vehicle',
+        14 => 'Vehicle Region|Vehicle',
+      ),
+      'standard_asset_details_report' => 
+      array (
+        0 => 'Asset Number|Asset',
+        1 => 'Asset Type|Asset',
+        2 => 'Asset Category|Asset',
+        3 => 'Asset Manufacturer|Asset',
+        4 => 'Asset Model|Asset',
+        5 => 'Asset Division|Asset',
+        6 => 'Asset Region|Asset',
+        7 => 'Asset Odometer|Asset',
+        8 => 'Asset Status|Asset',
+        9 => 'Asset Date Added|Asset',
+        10 => 'Asset Created By|Asset',
+        11 => 'Asset Availability|Asset',
+        12 => 'Asset Value|Asset',
+      ),
+      'standard_asset_defects_report' => 
+      array (
+        0 => 'Asset Number|Asset',
+        1 => 'Asset Type|Asset',
+        2 => 'Asset Category|Asset',
+        3 => 'Asset Defect ID|Asset',
+        4 => 'Asset Defect Category|Asset',
+        5 => 'Asset Defect Created Date|Asset',
+        6 => 'Asset Defect Name|Asset',
+        7 => 'Email|User',
+        8 => 'First Name|User',
+        9 => 'Last Name|User',
+        10 => 'Engineer ID|User',
+        11 => 'Mobile|User',
+        12 => 'Company|User',
+        13 => 'User Division|User',
+      ),
+      'standard_asset_maintenance_report' => 
+      array (
+        0 => 'Asset Number|Asset',
+        1 => 'Asset Type|Asset',
+        2 => 'Asset Category|Asset',
+        3 => 'Asset Manufacturer|Asset',
+        4 => 'Asset Model|Asset',
+        5 => 'Asset Division|Asset',
+        6 => 'Asset Region|Asset',
+        7 => 'Asset Location|Asset',
+        8 => 'Asset Maintenance Event|Asset',
+        9 => 'Asset Maintenance Event Due Date|Asset',
+        10 => 'Asset Repair Location|Asset',
+      ),
+      'standard_vehicle_location_report' => 
+      array (
+        0 => 'Registration|Vehicle',
+        1 => 'Company|User',
+        2 => 'Vehicle Division|Vehicle',
+        3 => 'Vehicle Region|Vehicle',
+        4 => 'Email|User',
+        5 => 'First Name|User',
+        6 => 'Last Name|User',
+        7 => 'Journey Start Date|Vehicle',
+        8 => 'Journey Start Time|Vehicle',
+        9 => 'Journey End Time|Vehicle',
+        10 => 'Journey Start Location|Vehicle',
+        11 => 'Journey Start Map Link|Vehicle',
+        12 => 'Journey End Location|Vehicle',
+        13 => 'Journey End Map Link|Vehicle',
+      ),
+      'standard_pmi_performance_report' => 
+      array (
+        0 => 'Registration|Vehicle',
+        1 => 'Type|Vehicle',
+        2 => 'Category|Vehicle',
+        3 => 'Sub Category|Vehicle',
+        4 => 'Vehicle Division|Vehicle',
+        5 => 'Vehicle Region|Vehicle',
+        6 => 'Vehicle Location|Vehicle',
+        7 => 'PMI Planned Date|Vehicle',
+        8 => 'PMI Actual Date|Vehicle',
+        9 => 'Repair/Maintenance Location|Vehicle',
+        10 => 'Event Status|Vehicle',
+      ),
+    ),
+    'vehicle_check_type' => 
+    array (
+      '' => '',
+      'vehicle_take_out' => 'Vehicle take out',
+      'vehicle_return' => 'Vehicle return',
+    ),
+    'supplier_telematics' => 
+    array (
+      '' => '',
+      'prolius' => 'Prolius',
+      'trakm8' => 'Trakm8',
+      'webfleet' => 'Webfleet',
+      'other' => 'Other',
+    ),
+    'driver_tag' => 
+    array (
+      '' => '',
+      'none' => 'None',
+      'dallas_key' => 'Dallas key',
+      'rfid_card' => 'RFID card',
+    ),
+    'device_telematics' => 
+    array (
+      '' => '',
+      'D330' => 'D330',
+      'D430' => 'D430',
+      'D430_and_F750' => 'D430 and F750',
+      'D500' => 'D500',
+      'D500_and_F520' => 'D500 and F520',
+      'Unknown' => 'Unknown',
+    ),
+    'alert_setting' => 
+    array (
+      '' => '',
+      1 => 'On entry',
+      0 => 'On exit',
+      2 => 'On entry and exit',
+    ),
+    'zone_status' => 
+    array (
+      '' => '',
+      1 => 'Active',
+      0 => 'In-active',
+    ),
+    'send_verification_email_while_user_import' => false,
+    'idling_events' => 
+    array (
+      0 => 'tm8.gps.idle.start',
+      1 => 'tm8.gps.idle.end',
+      2 => 'tm8.gps.can.idle.start',
+      3 => 'tm8.gps.can.idle.end',
+      4 => 'tm8.gps.exces.idle',
+      5 => 'tm8.gps.idle.ongoing',
+    ),
+    'moving_events' => 
+    array (
+      0 => 'tm8.gps',
+      1 => 'tm8.dfb2.acc.l',
+      2 => 'tm8.dfb2.dec.l',
+      3 => 'tm8.dfb2.spd',
+      4 => 'tm8.dfb2.spdinc',
+      5 => 'tm8.dfb2.rpm',
+      6 => 'tm8.dfb2.cnrr.l',
+      7 => 'tm8.dfb2.cnrl.l',
+    ),
+    'stopped_events' => 
+    array (
+      0 => 'tm8.fnol',
+      1 => 'tm8.jny.sum.ex1',
+      2 => 'tm8.jny.sum',
+      3 => 'tm8.gps.ign.off',
+      4 => 'tm8.gps.heartbeat',
+      5 => 'tm8.gps.jny.end',
+      6 => 'tm8.jny.score',
+    ),
+    'start_events' => 
+    array (
+      0 => 'tm8.gps.jny.start',
+      1 => 'tm8.gps.ign.on',
+      2 => 'tm8.battery.profile.generated',
+      3 => 'tm8.gps.rfid.entry',
+      4 => 'tm8.gps.can.pending.fault',
+    ),
+    'incident_types' => 
+    array (
+      '' => '',
+      'Glass damage' => 'Glass damage',
+      'Pedestrian incident' => 'Pedestrian incident',
+      'Stolen vehicle' => 'Stolen vehicle',
+      'Traffic incident' => 'Traffic incident',
+    ),
+    'incident_classification' => 
+    array (
+      'Glass damage' => 
+      array (
+        'Window screen' => 'Window screen',
+        'Front right' => 'Front right',
+        'Front left' => 'Front left',
+        'Back right' => 'Back right',
+        'Back left' => 'Back left',
+        'Other' => 'Other',
+      ),
+      'Pedestrian incident' => 
+      array (
+        'Head-on collision' => 'Head-on collision',
+        'Reversing collision' => 'Reversing collision',
+        'Sideswipe collision' => 'Sideswipe collision',
+        'Other' => 'Other',
+      ),
+      'Stolen vehicle' => 
+      array (
+        'Stolen' => 'Stolen',
+        'Other' => 'Other',
+      ),
+      'Traffic incident' => 
+      array (
+        'Animal collision' => 'Animal collision',
+        'Bicycle collision' => 'Bicycle collision',
+        'Car collision' => 'Car collision',
+        'Motorbike collision' => 'Motorbike collision',
+        'Road debris collision' => 'Road debris collision',
+        'Stationary object' => 'Stationary object',
+        'Other' => 'Other',
+      ),
+    ),
+    'tank_test_interval' => 
+    array (
+      '' => '',
+      'none' => 'None',
+      '36 months' => '36 months',
+    ),
+    'rubber_integrity_test_interval' => 
+    array (
+      '' => '',
+      'none' => 'None',
+      '12 months' => '12 months',
+    ),
+    'asset_tank_test_interval' => 
+    array (
+      '' => '',
+      'none' => 'None',
+      '36 months' => '36 months',
+    ),
+    'telematics_reports' => 
+    array (
+      0 => 'standard_driver_behaviour_report',
+      1 => 'standard_vehicle_behaviour_report',
+      2 => 'standard_vehicle_journey_report',
+      3 => 'standard_vehicle_incident_report',
+      4 => 'standard_user_journey_report',
+      5 => 'standard_user_incident_report',
+    ),
+    'vehicle_ad_hoc_costs' => 
+    array (
+      '' => '',
+      'adblue' => 'AdBlue',
+      'fleet_livery_wash' => 'Fleet livery wash',
+      'fuel' => 'Fuel',
+      'manual_cost_adjustment' => 'Manual cost adjustment',
+      'oil' => 'Oil',
+      'screen_wash' => 'Screen wash',
+    ),
+    'asset_profiles_loler_test_interval' => 
+    array (
+      '' => '',
+      '6 months' => '6 months',
+      '12 months' => '12 months',
+      '24 months' => '24 months',
+      '36 months' => '36 months',
+    ),
+    'hiddenUser' => 
+    array (
+      0 => 'support@imastr.com',
+      1 => 'system@imastr.com',
+      2 => 'admin@imastr.com',
+    ),
+  ),
+  'cors' => 
+  array (
+    'supportsCredentials' => false,
+    'allowedOrigins' => 
+    array (
+      0 => '*',
+    ),
+    'allowedHeaders' => 
+    array (
+      0 => '*',
+    ),
+    'allowedMethods' => 
+    array (
+      0 => 'GET',
+      1 => 'POST',
+      2 => 'PUT',
+      3 => 'DELETE',
+    ),
+    'exposedHeaders' => 
+    array (
+    ),
+    'maxAge' => 0,
+    'hosts' => 
+    array (
+    ),
+  ),
+  'database' => 
+  array (
+    'fetch' => 8,
+    'default' => 'mysql',
+    'connections' => 
+    array (
+      'sqlite' => 
+      array (
+        'driver' => 'sqlite',
+        'database' => 'C:\\wamp64\\www\\fleetmastr\\storage\\database.sqlite',
+        'prefix' => '',
+      ),
+      'mysql' => 
+      array (
+        'driver' => 'mysql',
+        'host' => '127.0.0.1',
+        'database' => 'shl_uat',
+        'username' => 'root',
+        'password' => '',
+        'charset' => 'utf8',
+        'collation' => 'utf8_unicode_ci',
+        'prefix' => '',
+        'strict' => false,
+      ),
+      'mysql_new' => 
+      array (
+        'driver' => 'mysql',
+        'host' => '127.0.0.1',
+        'database' => 'shl_uat',
+        'username' => 'root',
+        'password' => '',
+        'charset' => 'utf8',
+        'collation' => 'utf8_unicode_ci',
+        'prefix' => '',
+        'strict' => false,
+      ),
+      'pgsql' => 
+      array (
+        'driver' => 'pgsql',
+        'host' => '127.0.0.1',
+        'database' => 'shl_uat',
+        'username' => 'root',
+        'password' => '',
+        'charset' => 'utf8',
+        'prefix' => '',
+        'schema' => 'public',
+      ),
+      'sqlsrv' => 
+      array (
+        'driver' => 'sqlsrv',
+        'host' => '127.0.0.1',
+        'database' => 'shl_uat',
+        'username' => 'root',
+        'password' => '',
+        'charset' => 'utf8',
+        'prefix' => '',
+      ),
+    ),
+    'migrations' => 'migrations',
+    'redis' => 
+    array (
+      'cluster' => false,
+      'default' => 
+      array (
+        'host' => '127.0.0.1',
+        'port' => '6379',
+        'database' => 0,
+      ),
+    ),
+  ),
+  'debugbar' => 
+  array (
+    'enabled' => false,
+    'storage' => 
+    array (
+      'enabled' => true,
+      'driver' => 'file',
+      'path' => 'C:\\wamp64\\www\\fleetmastr\\storage/debugbar',
+      'connection' => NULL,
+    ),
+    'include_vendors' => true,
+    'capture_ajax' => true,
+    'clockwork' => false,
+    'collectors' => 
+    array (
+      'phpinfo' => true,
+      'messages' => true,
+      'time' => true,
+      'memory' => true,
+      'exceptions' => true,
+      'log' => true,
+      'db' => true,
+      'views' => true,
+      'route' => true,
+      'laravel' => false,
+      'events' => false,
+      'default_request' => false,
+      'symfony_request' => true,
+      'mail' => true,
+      'logs' => true,
+      'files' => false,
+      'config' => false,
+      'auth' => false,
+      'session' => true,
+    ),
+    'options' => 
+    array (
+      'auth' => 
+      array (
+        'show_name' => false,
+      ),
+      'db' => 
+      array (
+        'with_params' => true,
+        'timeline' => false,
+        'backtrace' => false,
+        'explain' => 
+        array (
+          'enabled' => false,
+          'types' => 
+          array (
+            0 => 'SELECT',
+          ),
+        ),
+        'hints' => true,
+      ),
+      'mail' => 
+      array (
+        'full_log' => false,
+      ),
+      'views' => 
+      array (
+        'data' => false,
+      ),
+      'route' => 
+      array (
+        'label' => true,
+      ),
+      'logs' => 
+      array (
+        'file' => NULL,
+      ),
+    ),
+    'inject' => true,
+    'route_prefix' => '_debugbar',
+  ),
+  'excel' => 
+  array (
+    'cache' => 
+    array (
+      'enable' => true,
+      'driver' => 'memory',
+      'settings' => 
+      array (
+        'memoryCacheSize' => '32MB',
+        'cacheTime' => 600,
+      ),
+      'memcache' => 
+      array (
+        'host' => 'localhost',
+        'port' => 11211,
+      ),
+      'dir' => 'C:\\wamp64\\www\\fleetmastr\\storage\\cache',
+    ),
+    'properties' => 
+    array (
+      'creator' => 'Maatwebsite',
+      'lastModifiedBy' => 'Maatwebsite',
+      'title' => 'Spreadsheet',
+      'description' => 'Default spreadsheet export',
+      'subject' => 'Spreadsheet export',
+      'keywords' => 'maatwebsite, excel, export',
+      'category' => 'Excel',
+      'manager' => 'Maatwebsite',
+      'company' => 'Maatwebsite',
+    ),
+    'sheets' => 
+    array (
+      'pageSetup' => 
+      array (
+        'orientation' => 'portrait',
+        'paperSize' => '9',
+        'scale' => '100',
+        'fitToPage' => false,
+        'fitToHeight' => true,
+        'fitToWidth' => true,
+        'columnsToRepeatAtLeft' => 
+        array (
+          0 => '',
+          1 => '',
+        ),
+        'rowsToRepeatAtTop' => 
+        array (
+          0 => 0,
+          1 => 0,
+        ),
+        'horizontalCentered' => false,
+        'verticalCentered' => false,
+        'printArea' => NULL,
+        'firstPageNumber' => NULL,
+      ),
+    ),
+    'creator' => 'Maatwebsite',
+    'csv' => 
+    array (
+      'delimiter' => ',',
+      'enclosure' => '"',
+      'line_ending' => '
+',
+    ),
+    'export' => 
+    array (
+      'autosize' => true,
+      'autosize-method' => 'approx',
+      'generate_heading_by_indices' => true,
+      'merged_cell_alignment' => 'left',
+      'calculate' => true,
+      'includeCharts' => true,
+      'sheets' => 
+      array (
+        'page_margin' => false,
+        'nullValue' => NULL,
+        'startCell' => 'A1',
+        'strictNullComparison' => false,
+      ),
+      'store' => 
+      array (
+        'path' => 'C:\\wamp64\\www\\fleetmastr\\storage\\exports',
+        'returnInfo' => false,
+      ),
+      'pdf' => 
+      array (
+        'driver' => 'DomPDF',
+        'drivers' => 
+        array (
+          'DomPDF' => 
+          array (
+            'path' => 'C:\\wamp64\\www\\fleetmastr\\vendor/dompdf/dompdf/',
+          ),
+          'tcPDF' => 
+          array (
+            'path' => 'C:\\wamp64\\www\\fleetmastr\\vendor/tecnick.com/tcpdf/',
+          ),
+          'mPDF' => 
+          array (
+            'path' => 'C:\\wamp64\\www\\fleetmastr\\vendor/mpdf/mpdf/',
+          ),
+        ),
+      ),
+    ),
+    'filters' => 
+    array (
+      'registered' => 
+      array (
+        'chunk' => 'Maatwebsite\\Excel\\Filters\\ChunkReadFilter',
+      ),
+      'enabled' => 
+      array (
+      ),
+    ),
+    'import' => 
+    array (
+      'heading' => 'slugged',
+      'startRow' => 1,
+      'separator' => '_',
+      'includeCharts' => false,
+      'to_ascii' => true,
+      'encoding' => 
+      array (
+        'input' => 'UTF-8',
+        'output' => 'UTF-8',
+      ),
+      'calculate' => true,
+      'ignoreEmpty' => false,
+      'force_sheets_collection' => false,
+      'dates' => 
+      array (
+        'enabled' => true,
+        'format' => false,
+        'columns' => 
+        array (
+        ),
+      ),
+      'sheets' => 
+      array (
+        'test' => 
+        array (
+          'firstname' => 'A2',
+        ),
+      ),
+    ),
+    'views' => 
+    array (
+      'styles' => 
+      array (
+        'th' => 
+        array (
+          'font' => 
+          array (
+            'bold' => true,
+            'size' => 12,
+          ),
+        ),
+        'strong' => 
+        array (
+          'font' => 
+          array (
+            'bold' => true,
+            'size' => 12,
+          ),
+        ),
+        'b' => 
+        array (
+          'font' => 
+          array (
+            'bold' => true,
+            'size' => 12,
+          ),
+        ),
+        'i' => 
+        array (
+          'font' => 
+          array (
+            'italic' => true,
+            'size' => 12,
+          ),
+        ),
+        'h1' => 
+        array (
+          'font' => 
+          array (
+            'bold' => true,
+            'size' => 24,
+          ),
+        ),
+        'h2' => 
+        array (
+          'font' => 
+          array (
+            'bold' => true,
+            'size' => 18,
+          ),
+        ),
+        'h3' => 
+        array (
+          'font' => 
+          array (
+            'bold' => true,
+            'size' => 13.5,
+          ),
+        ),
+        'h4' => 
+        array (
+          'font' => 
+          array (
+            'bold' => true,
+            'size' => 12,
+          ),
+        ),
+        'h5' => 
+        array (
+          'font' => 
+          array (
+            'bold' => true,
+            'size' => 10,
+          ),
+        ),
+        'h6' => 
+        array (
+          'font' => 
+          array (
+            'bold' => true,
+            'size' => 7.5,
+          ),
+        ),
+        'a' => 
+        array (
+          'font' => 
+          array (
+            'underline' => true,
+            'color' => 
+            array (
+              'argb' => 'FF0000FF',
+            ),
+          ),
+        ),
+        'hr' => 
+        array (
+          'borders' => 
+          array (
+            'bottom' => 
+            array (
+              'style' => 'thin',
+              'color' => 
+              array (
+                0 => 'FF000000',
+              ),
+            ),
+          ),
+        ),
+      ),
+    ),
+  ),
+  'fcm' => 
+  array (
+    'driver' => 'http',
+    'log_enabled' => true,
+    'http' => 
+    array (
+      'server_key' => '',
+      'sender_id' => '',
+      'server_send_url' => 'https://fcm.googleapis.com/fcm/send',
+      'server_group_url' => 'https://android.googleapis.com/gcm/notification',
+      'timeout' => 30.0,
+    ),
+  ),
+  'ferns' => 
+  array (
+    'config-variables' => 
+    array (
+      'vehicleSubCategoriesNonHGV' => 
+      array (
+        '' => '',
+        'car' => 'Car',
+        'lcv' => 'LCV',
+        'none' => 'None',
+        'pcv' => 'PCV',
+        'van' => 'Van',
+      ),
+      'vehicleDivisions' => 
+      array (
+        'FS Bristol Schools' => 'FS Bristol Schools',
+        'FS City of London' => 'FS City of London',
+        'FS Essex Schools' => 'FS Essex Schools',
+        'FS Kent' => 'FS Kent',
+        'FS Northwood' => 'FS Northwood',
+        'FS Scotland' => 'FS Scotland',
+        'FS Woking' => 'FS Woking',
+        'HS Cambridgeshire' => 'HS Cambridgeshire',
+        'HS Devon' => 'HS Devon',
+        'HS Hampshire' => 'HS Hampshire',
+        'HS Hinkley Point' => 'HS Hinkley Point',
+        'HS North Somerset' => 'HS North Somerset',
+        'HS Oxfordshire' => 'HS Oxfordshire',
+        'HS Peterborough' => 'HS Peterborough',
+        'HS Somerset' => 'HS Somerset',
+        'INF A428' => 'INF A428',
+        'IS Rail' => 'IS Rail',
+        'IS Street Lighting Gloucester' => 'IS Street Lighting Gloucester',
+        'IS Street Lighting Merrow O&M' => 'IS Street Lighting Merrow O&M',
+        'IS Street Lighting Merrow External' => 'IS Street Lighting Merrow External',
+        'IS Street Lighting Redbridge' => 'IS Street Lighting Redbridge',
+        'IS Street Lighting South Croydon' => 'IS Street Lighting South Croydon',
+      ),
+      'vehicleRegions' => 
+      array (
+        'FS Bristol Schools' => 
+        array (
+          'Bristol' => 'Bristol',
+        ),
+        'FS City of London' => 
+        array (
+          'City of London' => 'City of London',
+        ),
+        'FS Essex Schools' => 
+        array (
+          'Essex' => 'Essex',
+        ),
+        'FS Kent' => 
+        array (
+          'East Kent' => 'East Kent',
+          'Kent' => 'Kent',
+          'West Kent' => 'West Kent',
+        ),
+        'FS Northwood' => 
+        array (
+          'Northwood' => 'Northwood',
+        ),
+        'FS Scotland' => 
+        array (
+          'Motherwell' => 'Motherwell',
+        ),
+        'FS Woking' => 
+        array (
+          'Woking' => 'Woking',
+        ),
+        'HS Cambridgeshire' => 
+        array (
+          'Cambridge' => 'Cambridge',
+          'Ely' => 'Ely',
+          'Huntingdon' => 'Huntingdon',
+          'March' => 'March',
+          'Whittlesford' => 'Whittlesford',
+        ),
+        'HS Devon' => 
+        array (
+          'Avocet Road' => 'Avocet Road',
+          'Copstone' => 'Copstone',
+          'Crediton' => 'Crediton',
+          'Dolton' => 'Dolton',
+          'Heron Road' => 'Heron Road',
+          'Honiton' => 'Honiton',
+          'Ivybridge' => 'Ivybridge',
+          'Kingsteignton' => 'Kingsteignton',
+          'Merton' => 'Merton',
+          'Okehampton' => 'Okehampton',
+          'Parracombe' => 'Parracombe',
+          'Rydon Quarry' => 'Rydon Quarry',
+          'South Molton' => 'South Molton',
+          'Tavistock' => 'Tavistock',
+          'Tiverton' => 'Tiverton',
+          'Torr' => 'Torr',
+          'Torrington' => 'Torrington',
+        ),
+        'HS Hampshire' => 
+        array (
+          'Andover' => 'Andover',
+          'Bishops Waltham' => 'Bishops Waltham',
+          'Broadmarsh' => 'Broadmarsh',
+          'Hook' => 'Hook',
+          'Petersfield' => 'Petersfield',
+          'Totton' => 'Totton',
+        ),
+        'HS Hinkley Point' => 
+        array (
+          'Hinkley Point' => 'Hinkley Point',
+        ),
+        'HS North Somerset' => 
+        array (
+          'Sandford' => 'Sandford',
+        ),
+        'HS Oxfordshire' => 
+        array (
+          'Deddington' => 'Deddington',
+          'Drayton' => 'Drayton',
+          'Milton Common' => 'Milton Common',
+          'Oxford' => 'Oxford',
+          'Woodcote' => 'Woodcote',
+        ),
+        'HS Peterborough' => 
+        array (
+          'Peterborough' => 'Peterborough',
+        ),
+        'HS Somerset' => 
+        array (
+          'Dunball' => 'Dunball',
+          'Exford' => 'Exford',
+          'Frome' => 'Frome',
+          'Glastonbury' => 'Glastonbury',
+          'Minehead' => 'Minehead',
+          'Priorswood' => 'Priorswood',
+          'Taunton' => 'Taunton',
+          'Yeovil' => 'Yeovil',
+        ),
+        'INF A428' => 
+        array (
+          'A428' => 'A428',
+        ),
+        'IS Rail' => 
+        array (
+          'Snaresbrook' => 'Snaresbrook',
+        ),
+        'IS Street Lighting Gloucester' => 
+        array (
+          'Gloucester' => 'Gloucester',
+        ),
+        'IS Street Lighting Merrow O&M' => 
+        array (
+          'Merrow O&M' => 'Merrow O&M',
+        ),
+        'IS Street Lighting Merrow External' => 
+        array (
+          'Merrow External' => 'Merrow External',
+        ),
+        'IS Street Lighting Redbridge' => 
+        array (
+          'Redbridge' => 'Redbridge',
+        ),
+        'IS Street Lighting South Croydon' => 
+        array (
+          'South Croydon' => 'South Croydon',
+        ),
+      ),
+      'usersDivisions' => 
+      array (
+        'FS Bristol Schools' => 'FS Bristol Schools',
+        'FS City of London' => 'FS City of London',
+        'FS Essex Schools' => 'FS Essex Schools',
+        'FS Kent' => 'FS Kent',
+        'FS Northwood' => 'FS Northwood',
+        'FS Scotland' => 'FS Scotland',
+        'FS Woking' => 'FS Woking',
+        'HS Cambridgeshire' => 'HS Cambridgeshire',
+        'HS Devon' => 'HS Devon',
+        'HS Hampshire' => 'HS Hampshire',
+        'HS Hinkley Point' => 'HS Hinkley Point',
+        'HS North Somerset' => 'HS North Somerset',
+        'HS Oxfordshire' => 'HS Oxfordshire',
+        'HS Peterborough' => 'HS Peterborough',
+        'HS Somerset' => 'HS Somerset',
+        'INF A428' => 'INF A428',
+        'IS Rail' => 'IS Rail',
+        'IS Street Lighting' => 'IS Street Lighting',
+      ),
+      'userRegionsForSelect' => 
+      array (
+        'FS Bristol Schools' => 
+        array (
+          'FS Bristol Schools' => 'FS Bristol Schools',
+        ),
+        'FS City of London' => 
+        array (
+          'FS City of London' => 'FS City of London',
+        ),
+        'FS Essex Schools' => 
+        array (
+          'FS Essex Schools' => 'FS Essex Schools',
+        ),
+        'FS Kent' => 
+        array (
+          'FS Kent' => 'FS Kent',
+        ),
+        'FS Northwood' => 
+        array (
+          'FS Northwood' => 'FS Northwood',
+        ),
+        'FS Scotland' => 
+        array (
+          'FS Scotland' => 'FS Scotland',
+        ),
+        'FS Woking' => 
+        array (
+          'FS Woking' => 'FS Woking',
+        ),
+        'HS Cambridgeshire' => 
+        array (
+          'HS Cambridgeshire' => 'HS Cambridgeshire',
+        ),
+        'HS Devon' => 
+        array (
+          'HS Devon' => 'HS Devon',
+        ),
+        'HS Hampshire' => 
+        array (
+          'HS Hampshire' => 'HS Hampshire',
+        ),
+        'HS Hinkley Point' => 
+        array (
+          'HS Hinkley Point' => 'HS Hinkley Point',
+        ),
+        'HS North Somerset' => 
+        array (
+          'HS North Somerset' => 'HS North Somerset',
+        ),
+        'HS Oxfordshire' => 
+        array (
+          'HS Oxfordshire' => 'HS Oxfordshire',
+        ),
+        'HS Peterborough' => 
+        array (
+          'HS Peterborough' => 'HS Peterborough',
+        ),
+        'HS Somerset' => 
+        array (
+          'HS Somerset' => 'HS Somerset',
+        ),
+        'INF A428' => 
+        array (
+          'INF A428' => 'INF A428',
+        ),
+        'IS Rail' => 
+        array (
+          'IS Rail' => 'IS Rail',
+        ),
+        'IS Street Lighting' => 
+        array (
+          'IS Street Lighting' => 'IS Street Lighting',
+        ),
+      ),
+      'usersBaseLocations' => 
+      array (
+        '' => '',
+      ),
+      'vehicleRegionsForSelect' => 
+      array (
+        'all' => 'All',
+        'bl' => 'Bristol',
+        'cl' => 'City of London',
+        'ex' => 'Essex',
+        'ek' => 'East Kent',
+        'kt' => 'Kent',
+        'wk' => 'West Kent',
+        'nd' => 'Northwood',
+        'ml' => 'Motherwell',
+        'wg' => 'Woking',
+        'ce' => 'Cambridge',
+        'ey' => 'Ely',
+        'hn' => 'Huntingdon',
+        'mh' => 'March',
+        'wd' => 'Whittlesford',
+        'ar' => 'Avocet Road',
+        'co' => 'Copstone',
+        'cn' => 'Crediton',
+        'hr' => 'Heron Road',
+        'ht' => 'Honiton',
+        'ie' => 'Ivybridge',
+        'kn' => 'Kingsteignton',
+        'mn' => 'Merton',
+        'on' => 'Okehampton',
+        'rq' => 'Rydon Quarry',
+        'sm' => 'South Molton',
+        'tk' => 'Tavistock',
+        'tn' => 'Tiverton',
+        'tr' => 'Torr',
+        'ae' => 'Andover',
+        'bw' => 'Bishops Waltham',
+        'bs' => 'Broadmarsh',
+        'hk' => 'Hook',
+        'pd' => 'Petersfield',
+        'to' => 'Totton',
+        'hp' => 'Hinkley Point',
+        'sd' => 'Sandford',
+        'dn' => 'Deddington',
+        'dt' => 'Drayton',
+        'mc' => 'Milton Common',
+        'od' => 'Oxford',
+        'we' => 'Woodcote',
+        'ph' => 'Peterborough',
+        'dl' => 'Dunball',
+        'ed' => 'Exford',
+        'fe' => 'Frome',
+        'gy' => 'Glastonbury',
+        'md' => 'Minehead',
+        'po' => 'Priorswood',
+        'ta' => 'Taunton',
+        'yl' => 'Yeovil',
+        'a8' => 'A428',
+        'sk' => 'Snaresbrook',
+        'gr' => 'Gloucester',
+        're' => 'Redbridge',
+        'sc' => 'South Croydon',
+        'mo' => 'Merrow O&M',
+        'me' => 'Merrow External',
+      ),
+      'userAccessibleRegionsForSelect' => 
+      array (
+        'all' => 'All',
+      ),
+      'userAccessibleRegionsForSelectSample' => 
+      array (
+        'Bristol' => 'bl',
+        'City of London' => 'cl',
+        'Essex' => 'ex',
+        'East Kent' => 'ek',
+        'Kent' => 'kt',
+        'West Kent' => 'wk',
+        'Northwood' => 'nd',
+        'Motherwell' => 'ml',
+        'Woking' => 'wg',
+        'Cambridge' => 'ce',
+        'Ely' => 'ey',
+        'Huntingdon' => 'hn',
+        'March' => 'mh',
+        'Whittlesford' => 'wd',
+        'Avocet Road' => 'ar',
+        'Copstone' => 'co',
+        'Crediton' => 'cn',
+        'Heron Road' => 'hr',
+        'Honiton' => 'ht',
+        'Ivybridge' => 'ie',
+        'Kingsteignton' => 'kn',
+        'Merton' => 'mn',
+        'Okehampton' => 'on',
+        'Rydon Quarry' => 'rq',
+        'South Molton' => 'sm',
+        'Tavistock' => 'tk',
+        'Tiverton' => 'tn',
+        'Torr' => 'tr',
+        'Andover' => 'ae',
+        'Bishops Waltham' => 'bw',
+        'Broadmarsh' => 'bs',
+        'Hook' => 'hk',
+        'Petersfield' => 'pd',
+        'Totton' => 'to',
+        'Hinkley Point' => 'hp',
+        'Sandford' => 'sd',
+        'Deddington' => 'dn',
+        'Drayton' => 'dt',
+        'Milton Common' => 'mc',
+        'Oxford' => 'od',
+        'Woodcote' => 'we',
+        'Peterborough' => 'ph',
+        'Dunball' => 'dl',
+        'Exford' => 'ed',
+        'Frome' => 'fe',
+        'Glastonbury' => 'gy',
+        'Minehead' => 'md',
+        'Priorswood' => 'po',
+        'Taunton' => 'ta',
+        'Yeovil' => 'yl',
+        'A428' => 'a8',
+        'Snaresbrook' => 'sk',
+        'Gloucester' => 'gr',
+        'Redbridge' => 're',
+        'South Croydon' => 'sc',
+        'mo' => 'Merrow O&M',
+        'me' => 'Merrow External',
+      ),
+    ),
+  ),
+  'filesystems' => 
+  array (
+    'default' => 'local',
+    'cloud' => 's3',
+    'disks' => 
+    array (
+      'local' => 
+      array (
+        'driver' => 'local',
+        'root' => 'C:\\wamp64\\www\\fleetmastr\\storage\\app',
+      ),
+      'public' => 
+      array (
+        'driver' => 'local',
+        'root' => 'C:\\wamp64\\www\\fleetmastr\\public',
+      ),
+      'ftp' => 
+      array (
+        'driver' => 'ftp',
+        'host' => 'ftp.example.com',
+        'username' => 'your-username',
+        'password' => 'your-password',
+      ),
+      's3' => 
+      array (
+        'driver' => 's3',
+        'key' => 'AKIAIJUDTV62CIDOBOKA',
+        'secret' => '2B4+6ZkegsFo5b0lKj3evAiQaDOmjmgEptYiblwi',
+        'region' => 'eu-west-1',
+        'bucket' => 'dev-fleetmastr',
+        'visibility' => 'public',
+        'domain_name' => 'https://dev-fleetmastr.s3.amazonaws.com',
+      ),
+      'rackspace' => 
+      array (
+        'driver' => 'rackspace',
+        'username' => 'your-username',
+        'key' => 'your-key',
+        'container' => 'your-container',
+        'endpoint' => 'https://identity.api.rackspacecloud.com/v2.0/',
+        'region' => 'IAD',
+        'url_type' => 'publicURL',
+      ),
+      'media' => 
+      array (
+        'driver' => 'local',
+        'root' => 'C:\\wamp64\\www\\fleetmastr\\public\\uploads',
+      ),
+      'vehicle' => 
+      array (
+        'driver' => 'local',
+        'root' => 'C:\\wamp64\\www\\fleetmastr\\public\\uploads/vehicle',
+      ),
+      'defect' => 
+      array (
+        'driver' => 'local',
+        'root' => 'C:\\wamp64\\www\\fleetmastr\\public\\uploads/defect',
+      ),
+      'defect_history' => 
+      array (
+        'driver' => 'local',
+        'root' => 'C:\\wamp64\\www\\fleetmastr\\public\\uploads/defect_history',
+      ),
+      'S3_uploads' => 
+      array (
+        'driver' => 's3',
+        'key' => 'AKIAIJUDTV62CIDOBOKA',
+        'secret' => '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',
+        'region' => 'eu-west-1',
+        'bucket' => 'dev-fleetmastr',
+        'domain' => 'https://dev-fleetmastr.s3.amazonaws.com',
+        'visibility' => 'public',
+      ),
+    ),
+  ),
+  'fnf' => 
+  array (
+    'config-variables' => 
+    array (
+      'fuelTypeList' => 
+      array (
+        '' => '',
+        'Diesel' => 'Diesel',
+        'EV' => 'EV',
+        'Hybrid/Diesel' => 'Hybrid/Diesel',
+        'Hybrid/Petrol' => 'Hybrid/Petrol',
+        'Hybrid/Petrol PHEV' => 'Hybrid/Petrol PHEV',
+        'Unleaded petrol' => 'Unleaded petrol',
+        'NA' => 'NA',
+      ),
+      'engineTypeList' => 
+      array (
+        '' => '',
+        'Petrol' => 'Petrol',
+        'Hybrid petrol/EV' => 'Hybrid petrol/EV',
+        'PHEV petrol/EV' => 'PHEV petrol/EV',
+        'Hybrid diesel/EV' => 'Hybrid diesel/EV',
+        'Euro V diesel' => 'Euro V diesel',
+        'Euro VI diesel (Adblue)' => 'Euro VI diesel (Adblue)',
+        'EV' => 'EV',
+        'NA' => 'NA',
+      ),
+      'adr_test' => 
+      array (
+        '' => '',
+        'none' => 'None',
+        '12 months' => '12 months',
+        '24 months' => '24 months',
+      ),
+      'serviceInspection' => 
+      array (
+        '' => '',
+        '4 weeks' => '4 weeks',
+        '6 weeks' => '6 weeks',
+        '3 months' => '3 months',
+        '6 months' => '6 months',
+        '9 months' => '9 months',
+        '12 months' => '12 months',
+        '24 months' => '24 months',
+      ),
+    ),
+  ),
+  'icl' => 
+  array (
+    'config-variables' => 
+    array (
+      'assets' => 
+      array (
+        'asset_profiles_engine_type' => 
+        array (
+          '' => '',
+          'Euro V diesel' => 'Euro V diesel',
+          'Euro VI diesel (Adblue)' => 'Euro VI diesel (Adblue)',
+          'EV' => 'EV',
+          'Hybrid diesel/EV' => 'Hybrid diesel/EV',
+          'Hybrid petrol/EV' => 'Hybrid petrol/EV',
+          'PHEV petrol/EV' => 'PHEV petrol/EV',
+          'Petrol' => 'Petrol',
+          'NA' => 'NA',
+        ),
+      ),
+    ),
+  ),
+  'image' => 
+  array (
+    'driver' => 'gd',
+  ),
+  'imap' => 
+  array (
+    'default' => 'default',
+    'date_format' => 'd-M-Y',
+    'accounts' => 
+    array (
+      'default' => 
+      array (
+        'host' => 'localhost',
+        'port' => 993,
+        'protocol' => 'imap',
+        'encryption' => 'ssl',
+        'validate_cert' => true,
+        'username' => 'root@example.com',
+        'password' => '',
+      ),
+    ),
+    'options' => 
+    array (
+      'delimiter' => '/',
+      'fetch' => 1,
+      'fetch_body' => true,
+      'fetch_attachment' => true,
+      'fetch_flags' => true,
+      'message_key' => 'id',
+      'fetch_order' => 'desc',
+      'open' => 
+      array (
+      ),
+      'decoder' => 
+      array (
+        'message' => 
+        array (
+          'subject' => 'utf-8',
+        ),
+        'attachment' => 
+        array (
+          'name' => 'utf-8',
+        ),
+      ),
+    ),
+    'masks' => 
+    array (
+      'message' => 'Webklex\\IMAP\\Support\\Masks\\MessageMask',
+      'attachment' => 'Webklex\\IMAP\\Support\\Masks\\AttachmentMask',
+    ),
+  ),
+  'javascript' => 
+  array (
+    'bind_js_vars_to_this_view' => '_partials.header',
+    'js_namespace' => 'Site',
+  ),
+  'jwt' => 
+  array (
+    'secret' => 'S7IEdz4wEleji5LA3rY07wLuB5G6npAN',
+    'ttl' => 20160,
+    'refresh_ttl' => 20160,
+    'algo' => 'HS256',
+    'user' => 'App\\Models\\User',
+    'identifier' => 'id',
+    'required_claims' => 
+    array (
+      0 => 'iss',
+      1 => 'iat',
+      2 => 'exp',
+      3 => 'nbf',
+      4 => 'sub',
+      5 => 'jti',
+    ),
+    'blacklist_enabled' => true,
+    'providers' => 
+    array (
+      'user' => 'Tymon\\JWTAuth\\Providers\\User\\EloquentUserAdapter',
+      'jwt' => 'Tymon\\JWTAuth\\Providers\\JWT\\NamshiAdapter',
+      'auth' => 
+      Closure::__set_state(array(
+      )),
+      'storage' => 
+      Closure::__set_state(array(
+      )),
+    ),
+  ),
+  'laravel-glide' => 
+  array (
+    'source' => 
+    array (
+      'path' => 'C:\\wamp64\\www\\fleetmastr\\storage\\images',
+    ),
+    'cache' => 
+    array (
+      'path' => 'C:\\wamp64\\www\\fleetmastr\\storage\\glide/cache',
+    ),
+    'baseURL' => 'img',
+    'maxSize' => 4000000,
+    'useSecureURLs' => true,
+  ),
+  'laravel-jqgrid' => 
+  array (
+    'default_grid_options' => 
+    array (
+      'datatype' => 'json',
+      'mtype' => 'POST',
+      'treeGridModel' => 'adjacency',
+    ),
+    'default_pivot_grid_options' => 
+    array (
+      'yDimension' => 
+      array (
+      ),
+    ),
+    'default_group_header_options' => 
+    array (
+      'useColSpanStyle' => true,
+    ),
+    'default_col_model_properties' => 
+    array (
+      'searchoptions' => 
+      array (
+        'sopt' => 
+        array (
+          0 => 'cn',
+        ),
+      ),
+    ),
+    'default_navigator_options' => 
+    array (
+      'add' => false,
+      'edit' => false,
+      'del' => false,
+      'search' => false,
+      'view' => true,
+      'refresh' => false,
+    ),
+    'default_filter_toolbar_options' => 
+    array (
+      'stringResult' => true,
+    ),
+    'default_filter_toolbar_buttons_options' => 
+    array (
+      'filterToolbar' => false,
+      'toggleButton' => true,
+      'clearButton' => true,
+      'toggleButtonText' => '',
+      'clearButtonText' => '',
+    ),
+    'default_export_buttons_options' => 
+    array (
+      'xlsButtonVisible' => true,
+      'xlsButtonText' => 'xls',
+      'xlsIcon' => 'ui-icon-arrowthickstop-1-s',
+      'csvButtonVisible' => true,
+      'csvButtonText' => 'csv',
+      'csvIcon' => 'ui-icon-arrowthickstop-1-s',
+    ),
+    'default_file_properties' => 
+    array (
+    ),
+    'default_sheet_properties' => 
+    array (
+    ),
+    'pivot_options' => 
+    array (
+      0 => 'aggregates',
+      1 => 'colTotals',
+      2 => 'frozenStaticCols',
+      3 => 'groupSummary',
+      4 => 'groupSummaryPos',
+      5 => 'rowTotals',
+      6 => 'rowTotalsText',
+      7 => 'xDimension',
+      8 => 'yDimension',
+    ),
+    'group_header_options' => 
+    array (
+      0 => 'useColSpanStyle',
+      1 => 'groupHeaders',
+    ),
+    'function_type_properties' => 
+    array (
+      'datatype' => 
+      array (
+        0 => 'xml',
+        1 => 'xmlstring',
+        2 => 'json',
+        3 => 'jsonstring',
+        4 => 'local',
+        5 => 'javascript',
+        6 => 'clientSide',
+      ),
+      'cellattr' => 
+      array (
+      ),
+      'formatter' => 
+      array (
+        0 => 'integer',
+        1 => 'number',
+        2 => 'currency',
+        3 => 'date',
+        4 => 'email',
+        5 => 'link',
+        6 => 'showlink',
+        7 => 'checkbox',
+        8 => 'select',
+        9 => 'actions',
+      ),
+      'unformat' => 
+      array (
+      ),
+      'sorttype' => 
+      array (
+        0 => 'int',
+        1 => 'integer',
+        2 => 'float',
+        3 => 'number',
+        4 => 'currency',
+        5 => 'date',
+        6 => 'text',
+      ),
+      'dataInit' => 
+      array (
+      ),
+      'fn' => 
+      array (
+      ),
+      'custom_element' => 
+      array (
+      ),
+      'custom_value' => 
+      array (
+      ),
+      'custom_func' => 
+      array (
+      ),
+      'buildSelect' => 
+      array (
+      ),
+      'summaryType' => 
+      array (
+        0 => 'sum',
+        1 => 'count',
+        2 => 'avg',
+        3 => 'min',
+        4 => 'max',
+      ),
+      'rowattr' => 
+      array (
+      ),
+      'converter' => 
+      array (
+      ),
+    ),
+  ),
+  'laravel-medialibrary' => 
+  array (
+    'defaultFilesystem' => 'media',
+    'max_file_size' => 10485760,
+    'queue_name' => '',
+    'media_model' => 'Spatie\\MediaLibrary\\Media',
+    'custom_url_generator_class' => NULL,
+    'custom_path_generator_class' => 'App\\Custom\\Media\\CustomPathGenerator',
+    's3' => 
+    array (
+      'domain' => 'https://dev-fleetmastr.s3.amazonaws.com',
+    ),
+  ),
+  'mail' => 
+  array (
+    'driver' => 'log',
+    'host' => 'smtp.mailtrap.io',
+    'port' => '2525',
+    'from' => 
+    array (
+      'address' => 'mtilokani@aecordigital.com',
+      'name' => 'Fanslive',
+    ),
+    'encryption' => NULL,
+    'username' => '9545fe3e60d851',
+    'password' => '5a94f82c062c94',
+    'sendmail' => '/usr/sbin/sendmail -bs',
+    'pretend' => false,
+    'stream' => 
+    array (
+      'ssl' => 
+      array (
+        'allow_self_signed' => true,
+        'verify_peer' => false,
+        'verify_peer_name' => false,
+      ),
+    ),
+  ),
+  'mgroupservices' => 
+  array (
+    'config-variables' => 
+    array (
+      'vehicleSubCategoriesNonHGV' => 
+      array (
+        '' => '',
+        'car' => 'Car',
+        'LCV' => 'LCV',
+        'none' => 'None',
+        'PCV' => 'PCV',
+        'Van' => 'Van',
+      ),
+      'vehicleDivisions' => 
+      array (
+        'FS Bristol Schools' => 'FS Bristol Schools',
+        'FS City of London' => 'FS City of London',
+        'FS Essex Schools' => 'FS Essex Schools',
+        'FS Kent' => 'FS Kent',
+        'FS Northwood' => 'FS Northwood',
+        'FS Scotland' => 'FS Scotland',
+        'FS Woking' => 'FS Woking',
+        'HS Cambridgeshire' => 'HS Cambridgeshire',
+        'HS Devon' => 'HS Devon',
+        'HS Hampshire' => 'HS Hampshire',
+        'HS Hinkley Point' => 'HS Hinkley Point',
+        'HS North Somerset' => 'HS North Somerset',
+        'HS Oxfordshire' => 'HS Oxfordshire',
+        'HS Peterborough' => 'HS Peterborough',
+        'HS Somerset' => 'HS Somerset',
+        'INF A428' => 'INF A428',
+        'IS Rail' => 'IS Rail',
+        'IS Street Lighting Gloucester' => 'IS Street Lighting Gloucester',
+        'IS Street Lighting Merrow O&M' => 'IS Street Lighting Merrow O&M',
+        'IS Street Lighting Merrow External' => 'IS Street Lighting Merrow External',
+        'IS Street Lighting Redbridge' => 'IS Street Lighting Redbridge',
+        'IS Street Lighting South Croydon' => 'IS Street Lighting South Croydon',
+      ),
+      'vehicleRegions' => 
+      array (
+        'FS Bristol Schools' => 
+        array (
+          'Bristol' => 'Bristol',
+        ),
+        'FS City of London' => 
+        array (
+          'City of London' => 'City of London',
+        ),
+        'FS Essex Schools' => 
+        array (
+          'Essex' => 'Essex',
+        ),
+        'FS Kent' => 
+        array (
+          'East Kent' => 'East Kent',
+          'Kent' => 'Kent',
+          'West Kent' => 'West Kent',
+        ),
+        'FS Northwood' => 
+        array (
+          'Northwood' => 'Northwood',
+        ),
+        'FS Scotland' => 
+        array (
+          'Motherwell' => 'Motherwell',
+        ),
+        'FS Woking' => 
+        array (
+          'Woking' => 'Woking',
+        ),
+        'HS Cambridgeshire' => 
+        array (
+          'Cambridge' => 'Cambridge',
+          'Ely' => 'Ely',
+          'Huntingdon' => 'Huntingdon',
+          'March' => 'March',
+          'Whittlesford' => 'Whittlesford',
+        ),
+        'HS Devon' => 
+        array (
+          'Avocet Road' => 'Avocet Road',
+          'Copstone' => 'Copstone',
+          'Crediton' => 'Crediton',
+          'Dolton' => 'Dolton',
+          'Heron Road' => 'Heron Road',
+          'Honiton' => 'Honiton',
+          'Ivybridge' => 'Ivybridge',
+          'Kingsteignton' => 'Kingsteignton',
+          'Merton' => 'Merton',
+          'Okehampton' => 'Okehampton',
+          'Parracombe' => 'Parracombe',
+          'Rydon Quarry' => 'Rydon Quarry',
+          'South Molton' => 'South Molton',
+          'Tavistock' => 'Tavistock',
+          'Tiverton' => 'Tiverton',
+          'Torr' => 'Torr',
+          'Torrington' => 'Torrington',
+        ),
+        'HS Hampshire' => 
+        array (
+          'Andover' => 'Andover',
+          'Bishops Waltham' => 'Bishops Waltham',
+          'Broadmarsh' => 'Broadmarsh',
+          'Hook' => 'Hook',
+          'Petersfield' => 'Petersfield',
+          'Totton' => 'Totton',
+        ),
+        'HS Hinkley Point' => 
+        array (
+          'Hinkley Point' => 'Hinkley Point',
+        ),
+        'HS North Somerset' => 
+        array (
+          'Sandford' => 'Sandford',
+        ),
+        'HS Oxfordshire' => 
+        array (
+          'Deddington' => 'Deddington',
+          'Drayton' => 'Drayton',
+          'Milton Common' => 'Milton Common',
+          'Oxford' => 'Oxford',
+          'Woodcote' => 'Woodcote',
+        ),
+        'HS Peterborough' => 
+        array (
+          'Peterborough' => 'Peterborough',
+        ),
+        'HS Somerset' => 
+        array (
+          'Dunball' => 'Dunball',
+          'Exford' => 'Exford',
+          'Frome' => 'Frome',
+          'Glastonbury' => 'Glastonbury',
+          'Minehead' => 'Minehead',
+          'Priorswood' => 'Priorswood',
+          'Taunton' => 'Taunton',
+          'Yeovil' => 'Yeovil',
+        ),
+        'INF A428' => 
+        array (
+          'A428' => 'A428',
+        ),
+        'IS Rail' => 
+        array (
+          'Snaresbrook' => 'Snaresbrook',
+        ),
+        'IS Street Lighting Gloucester' => 
+        array (
+          'Gloucester' => 'Gloucester',
+        ),
+        'IS Street Lighting Merrow O&M' => 
+        array (
+          'Merrow O&M' => 'Merrow O&M',
+        ),
+        'IS Street Lighting Merrow External' => 
+        array (
+          'Merrow External' => 'Merrow External',
+        ),
+        'IS Street Lighting Redbridge' => 
+        array (
+          'Redbridge' => 'Redbridge',
+        ),
+        'IS Street Lighting South Croydon' => 
+        array (
+          'South Croydon' => 'South Croydon',
+        ),
+      ),
+      'usersDivisions' => 
+      array (
+        'FS Bristol Schools' => 'FS Bristol Schools',
+        'FS City of London' => 'FS City of London',
+        'FS Essex Schools' => 'FS Essex Schools',
+        'FS Kent' => 'FS Kent',
+        'FS Northwood' => 'FS Northwood',
+        'FS Scotland' => 'FS Scotland',
+        'FS Woking' => 'FS Woking',
+        'HS Cambridgeshire' => 'HS Cambridgeshire',
+        'HS Devon' => 'HS Devon',
+        'HS Hampshire' => 'HS Hampshire',
+        'HS Hinkley Point' => 'HS Hinkley Point',
+        'HS North Somerset' => 'HS North Somerset',
+        'HS Oxfordshire' => 'HS Oxfordshire',
+        'HS Peterborough' => 'HS Peterborough',
+        'HS Somerset' => 'HS Somerset',
+        'INF A428' => 'INF A428',
+        'IS Rail' => 'IS Rail',
+        'IS Street Lighting' => 'IS Street Lighting',
+      ),
+      'userRegionsForSelect' => 
+      array (
+        'FS Bristol Schools' => 
+        array (
+          'FS Bristol Schools' => 'FS Bristol Schools',
+        ),
+        'FS City of London' => 
+        array (
+          'FS City of London' => 'FS City of London',
+        ),
+        'FS Essex Schools' => 
+        array (
+          'FS Essex Schools' => 'FS Essex Schools',
+        ),
+        'FS Kent' => 
+        array (
+          'FS Kent' => 'FS Kent',
+        ),
+        'FS Northwood' => 
+        array (
+          'FS Northwood' => 'FS Northwood',
+        ),
+        'FS Scotland' => 
+        array (
+          'FS Scotland' => 'FS Scotland',
+        ),
+        'FS Woking' => 
+        array (
+          'FS Woking' => 'FS Woking',
+        ),
+        'HS Cambridgeshire' => 
+        array (
+          'HS Cambridgeshire' => 'HS Cambridgeshire',
+        ),
+        'HS Devon' => 
+        array (
+          'HS Devon' => 'HS Devon',
+        ),
+        'HS Hampshire' => 
+        array (
+          'HS Hampshire' => 'HS Hampshire',
+        ),
+        'HS Hinkley Point' => 
+        array (
+          'HS Hinkley Point' => 'HS Hinkley Point',
+        ),
+        'HS North Somerset' => 
+        array (
+          'HS North Somerset' => 'HS North Somerset',
+        ),
+        'HS Oxfordshire' => 
+        array (
+          'HS Oxfordshire' => 'HS Oxfordshire',
+        ),
+        'HS Peterborough' => 
+        array (
+          'HS Peterborough' => 'HS Peterborough',
+        ),
+        'HS Somerset' => 
+        array (
+          'HS Somerset' => 'HS Somerset',
+        ),
+        'INF A428' => 
+        array (
+          'INF A428' => 'INF A428',
+        ),
+        'IS Rail' => 
+        array (
+          'IS Rail' => 'IS Rail',
+        ),
+        'IS Street Lighting' => 
+        array (
+          'IS Street Lighting' => 'IS Street Lighting',
+        ),
+      ),
+      'usersBaseLocations' => 
+      array (
+        '' => '',
+      ),
+      'vehicleRegionsForSelect' => 
+      array (
+        'all' => 'All',
+        'bl' => 'Bristol',
+        'cl' => 'City of London',
+        'ex' => 'Essex',
+        'ek' => 'East Kent',
+        'kt' => 'Kent',
+        'wk' => 'West Kent',
+        'nd' => 'Northwood',
+        'ml' => 'Motherwell',
+        'wg' => 'Woking',
+        'ce' => 'Cambridge',
+        'ey' => 'Ely',
+        'hn' => 'Huntingdon',
+        'mh' => 'March',
+        'wd' => 'Whittlesford',
+        'ar' => 'Avocet Road',
+        'co' => 'Copstone',
+        'cn' => 'Crediton',
+        'hr' => 'Heron Road',
+        'ht' => 'Honiton',
+        'ie' => 'Ivybridge',
+        'kn' => 'Kingsteignton',
+        'mn' => 'Merton',
+        'on' => 'Okehampton',
+        'rq' => 'Rydon Quarry',
+        'sm' => 'South Molton',
+        'tk' => 'Tavistock',
+        'tn' => 'Tiverton',
+        'tr' => 'Torr',
+        'ae' => 'Andover',
+        'bw' => 'Bishops Waltham',
+        'bs' => 'Broadmarsh',
+        'hk' => 'Hook',
+        'pd' => 'Petersfield',
+        'to' => 'Totton',
+        'hp' => 'Hinkley Point',
+        'sd' => 'Sandford',
+        'dn' => 'Deddington',
+        'dt' => 'Drayton',
+        'mc' => 'Milton Common',
+        'od' => 'Oxford',
+        'we' => 'Woodcote',
+        'ph' => 'Peterborough',
+        'dl' => 'Dunball',
+        'ed' => 'Exford',
+        'fe' => 'Frome',
+        'gy' => 'Glastonbury',
+        'md' => 'Minehead',
+        'po' => 'Priorswood',
+        'ta' => 'Taunton',
+        'yl' => 'Yeovil',
+        'a8' => 'A428',
+        'sk' => 'Snaresbrook',
+        'gr' => 'Gloucester',
+        're' => 'Redbridge',
+        'sc' => 'South Croydon',
+        'mo' => 'Merrow O&M',
+        'me' => 'Merrow External',
+      ),
+      'userAccessibleRegionsForSelect' => 
+      array (
+        'all' => 'All',
+      ),
+      'userAccessibleRegionsForSelectSample' => 
+      array (
+        'Bristol' => 'bl',
+        'City of London' => 'cl',
+        'Essex' => 'ex',
+        'East Kent' => 'ek',
+        'Kent' => 'kt',
+        'West Kent' => 'wk',
+        'Northwood' => 'nd',
+        'Motherwell' => 'ml',
+        'Woking' => 'wg',
+        'Cambridge' => 'ce',
+        'Ely' => 'ey',
+        'Huntingdon' => 'hn',
+        'March' => 'mh',
+        'Whittlesford' => 'wd',
+        'Avocet Road' => 'ar',
+        'Copstone' => 'co',
+        'Crediton' => 'cn',
+        'Heron Road' => 'hr',
+        'Honiton' => 'ht',
+        'Ivybridge' => 'ie',
+        'Kingsteignton' => 'kn',
+        'Merton' => 'mn',
+        'Okehampton' => 'on',
+        'Rydon Quarry' => 'rq',
+        'South Molton' => 'sm',
+        'Tavistock' => 'tk',
+        'Tiverton' => 'tn',
+        'Torr' => 'tr',
+        'Andover' => 'ae',
+        'Bishops Waltham' => 'bw',
+        'Broadmarsh' => 'bs',
+        'Hook' => 'hk',
+        'Petersfield' => 'pd',
+        'Totton' => 'to',
+        'Hinkley Point' => 'hp',
+        'Sandford' => 'sd',
+        'Deddington' => 'dn',
+        'Drayton' => 'dt',
+        'Milton Common' => 'mc',
+        'Oxford' => 'od',
+        'Woodcote' => 'we',
+        'Peterborough' => 'ph',
+        'Dunball' => 'dl',
+        'Exford' => 'ed',
+        'Frome' => 'fe',
+        'Glastonbury' => 'gy',
+        'Minehead' => 'md',
+        'Priorswood' => 'po',
+        'Taunton' => 'ta',
+        'Yeovil' => 'yl',
+        'A428' => 'a8',
+        'Snaresbrook' => 'sk',
+        'Gloucester' => 'gr',
+        'Redbridge' => 're',
+        'South Croydon' => 'sc',
+        'mo' => 'Merrow O&M',
+        'me' => 'Merrow External',
+      ),
+    ),
+  ),
+  'queue' => 
+  array (
+    'default' => 'sync',
+    'connections' => 
+    array (
+      'sync' => 
+      array (
+        'driver' => 'sync',
+      ),
+      'database' => 
+      array (
+        'driver' => 'database',
+        'table' => 'jobs',
+        'queue' => 'default',
+        'expire' => 60,
+      ),
+      'beanstalkd' => 
+      array (
+        'driver' => 'beanstalkd',
+        'host' => 'localhost',
+        'queue' => 'default',
+        'ttr' => 60,
+      ),
+      'sqs' => 
+      array (
+        'driver' => 'sqs',
+        'key' => 'your-public-key',
+        'secret' => 'your-secret-key',
+        'queue' => 'your-queue-url',
+        'region' => 'us-east-1',
+      ),
+      'iron' => 
+      array (
+        'driver' => 'iron',
+        'host' => 'mq-aws-us-east-1.iron.io',
+        'token' => 'your-token',
+        'project' => 'your-project-id',
+        'queue' => 'your-queue-name',
+        'encrypt' => true,
+      ),
+      'redis' => 
+      array (
+        'driver' => 'redis',
+        'connection' => 'default',
+        'queue' => 'default',
+        'expire' => 60,
+      ),
+    ),
+    'failed' => 
+    array (
+      'database' => 'mysql',
+      'table' => 'failed_jobs',
+    ),
+  ),
+  'sentry' => 
+  array (
+    'dsn' => NULL,
+    'traces_sample_rate' => 0.0,
+    'environment' => NULL,
+    'breadcrumbs' => 
+    array (
+      'logs' => true,
+      'sql_queries' => true,
+      'sql_bindings' => true,
+      'queue_info' => true,
+      'command_info' => true,
+    ),
+    'send_default_pii' => false,
+    'controllers_base_namespace' => 'App\\Http\\Controllers',
+  ),
+  'servicemetals' => 
+  array (
+    'config-variables' => 
+    array (
+      'fuelTypeList' => 
+      array (
+        '' => '',
+        'Diesel' => 'Diesel',
+        'EV' => 'EV',
+        'Hybrid/Diesel' => 'Hybrid/Diesel',
+        'Hybrid/Petrol' => 'Hybrid/Petrol',
+        'Hybrid/Petrol PHEV' => 'Hybrid/Petrol PHEV',
+        'Unleaded petrol' => 'Unleaded petrol',
+        'NA' => 'NA',
+      ),
+      'engineTypeList' => 
+      array (
+        '' => '',
+        'Euro III diesel' => 'Euro III diesel',
+        'Euro IV diesel' => 'Euro IV diesel',
+        'Euro V diesel' => 'Euro V diesel',
+        'Euro VI diesel (Adblue)' => 'Euro VI diesel (Adblue)',
+        'EV' => 'EV',
+        'Hybrid diesel/EV' => 'Hybrid diesel/EV',
+        'Hybrid petrol/EV' => 'Hybrid petrol/EV',
+        'PHEV petrol/EV' => 'PHEV petrol/EV',
+        'Petrol' => 'Petrol',
+        'NA' => 'NA',
+      ),
+    ),
+  ),
+  'services' => 
+  array (
+    'mailgun' => 
+    array (
+      'domain' => NULL,
+      'secret' => NULL,
+    ),
+    'mandrill' => 
+    array (
+      'secret' => NULL,
+    ),
+    'ses' => 
+    array (
+      'key' => NULL,
+      'secret' => NULL,
+      'region' => 'us-east-1',
+    ),
+    'stripe' => 
+    array (
+      'model' => 'App\\User',
+      'key' => NULL,
+      'secret' => NULL,
+    ),
+    'google' => 
+    array (
+      'client_id' => '160650583060-h2han3a8ku619dqt1p076lb1asvfg6or.apps.googleusercontent.com',
+      'client_secret' => 'AIzaSyAZMhsYJY-h6_zpTcktlts3KNpv1phNWGI',
+      'redirect' => 'http://hitesha-fleetmastr.dev.aecortech.com/googleLogin',
+      'api_key' => 'AIzaSyB2ZHK5e7aNEfJe-pCjGKiI_bl05vXDX9c',
+    ),
+  ),
+  'session' => 
+  array (
+    'driver' => 'file',
+    'lifetime' => '2880',
+    'expire_on_close' => false,
+    'encrypt' => false,
+    'files' => 'C:\\wamp64\\www\\fleetmastr\\storage\\framework/sessions',
+    'connection' => NULL,
+    'table' => 'sessions',
+    'lottery' => 
+    array (
+      0 => 2,
+      1 => 100,
+    ),
+    'cookie' => 'laravel_session',
+    'path' => '/',
+    'domain' => NULL,
+    'secure' => false,
+    'http_only' => true,
+  ),
+  'settings' => 
+  array (
+    'store' => 'database',
+    'path' => 'C:\\wamp64\\www\\fleetmastr\\storage/settings.json',
+    'connection' => NULL,
+    'table' => 'settings',
+    'keyColumn' => 'key',
+    'valueColumn' => 'value',
+  ),
+  'shl' => 
+  array (
+    'config-variables' => 
+    array (
+      'assets' => 
+      array (
+        'asset_profiles_fuel_type' => 
+        array (
+          '' => '',
+          'Diesel' => 'Diesel',
+          'Electric' => 'Electric',
+          'EV' => 'EV',
+          'Gas' => 'Gas',
+          'Petrol' => 'Petrol',
+          'NA' => 'NA',
+        ),
+        'asset_profiles_engine_type' => 
+        array (
+          '' => '',
+          'Diesel' => 'Diesel',
+          'Euro V diesel' => 'Euro V diesel',
+          'Euro VI diesel (Adblue)' => 'Euro VI diesel (Adblue)',
+          'EV' => 'EV',
+          'Gas' => 'Gas',
+          'Hybrid diesel/EV' => 'Hybrid diesel/EV',
+          'Hybrid petrol/EV' => 'Hybrid petrol/EV',
+          'PHEV petrol/EV' => 'PHEV petrol/EV',
+          'Petrol' => 'Petrol',
+          'NA' => 'NA',
+        ),
+      ),
+    ),
+  ),
+  'skanska' => 
+  array (
+    'config-variables' => 
+    array (
+      'vehicleSubCategoriesNonHGV' => 
+      array (
+        '' => '',
+        'car' => 'Car',
+        'LCV' => 'LCV',
+        'none' => 'None',
+        'PCV' => 'PCV',
+        'Van' => 'Van',
+      ),
+      'vehicleDivisions' => 
+      array (
+        'FS Bristol Schools' => 'FS Bristol Schools',
+        'FS City of London' => 'FS City of London',
+        'FS Essex Schools' => 'FS Essex Schools',
+        'FS Kent' => 'FS Kent',
+        'FS Northwood' => 'FS Northwood',
+        'FS Scotland' => 'FS Scotland',
+        'FS Woking' => 'FS Woking',
+        'HS Cambridgeshire' => 'HS Cambridgeshire',
+        'HS Devon' => 'HS Devon',
+        'HS Hampshire' => 'HS Hampshire',
+        'HS Hinkley Point' => 'HS Hinkley Point',
+        'HS North Somerset' => 'HS North Somerset',
+        'HS Oxfordshire' => 'HS Oxfordshire',
+        'HS Peterborough' => 'HS Peterborough',
+        'HS Somerset' => 'HS Somerset',
+        'INF A428' => 'INF A428',
+        'IS Rail' => 'IS Rail',
+        'IS Street Lighting Gloucester' => 'IS Street Lighting Gloucester',
+        'IS Street Lighting Merrow O&M' => 'IS Street Lighting Merrow O&M',
+        'IS Street Lighting Merrow External' => 'IS Street Lighting Merrow External',
+        'IS Street Lighting Redbridge' => 'IS Street Lighting Redbridge',
+        'IS Street Lighting South Croydon' => 'IS Street Lighting South Croydon',
+      ),
+      'vehicleRegions' => 
+      array (
+        'FS Bristol Schools' => 
+        array (
+          'Bristol' => 'Bristol',
+        ),
+        'FS City of London' => 
+        array (
+          'City of London' => 'City of London',
+        ),
+        'FS Essex Schools' => 
+        array (
+          'Essex' => 'Essex',
+        ),
+        'FS Kent' => 
+        array (
+          'East Kent' => 'East Kent',
+          'Kent' => 'Kent',
+          'West Kent' => 'West Kent',
+        ),
+        'FS Northwood' => 
+        array (
+          'Northwood' => 'Northwood',
+        ),
+        'FS Scotland' => 
+        array (
+          'Motherwell' => 'Motherwell',
+        ),
+        'FS Woking' => 
+        array (
+          'Woking' => 'Woking',
+        ),
+        'HS Cambridgeshire' => 
+        array (
+          'Cambridge' => 'Cambridge',
+          'Ely' => 'Ely',
+          'Huntingdon' => 'Huntingdon',
+          'March' => 'March',
+          'Whittlesford' => 'Whittlesford',
+        ),
+        'HS Devon' => 
+        array (
+          'Avocet Road' => 'Avocet Road',
+          'Copstone' => 'Copstone',
+          'Crediton' => 'Crediton',
+          'Dolton' => 'Dolton',
+          'Heron Road' => 'Heron Road',
+          'Honiton' => 'Honiton',
+          'Ivybridge' => 'Ivybridge',
+          'Kingsteignton' => 'Kingsteignton',
+          'Merton' => 'Merton',
+          'Okehampton' => 'Okehampton',
+          'Parracombe' => 'Parracombe',
+          'Rydon Quarry' => 'Rydon Quarry',
+          'South Molton' => 'South Molton',
+          'Tavistock' => 'Tavistock',
+          'Tiverton' => 'Tiverton',
+          'Torr' => 'Torr',
+          'Torrington' => 'Torrington',
+        ),
+        'HS Hampshire' => 
+        array (
+          'Andover' => 'Andover',
+          'Bishops Waltham' => 'Bishops Waltham',
+          'Broadmarsh' => 'Broadmarsh',
+          'Hook' => 'Hook',
+          'Petersfield' => 'Petersfield',
+          'Totton' => 'Totton',
+        ),
+        'HS Hinkley Point' => 
+        array (
+          'Hinkley Point' => 'Hinkley Point',
+        ),
+        'HS North Somerset' => 
+        array (
+          'Sandford' => 'Sandford',
+        ),
+        'HS Oxfordshire' => 
+        array (
+          'Deddington' => 'Deddington',
+          'Drayton' => 'Drayton',
+          'Milton Common' => 'Milton Common',
+          'Oxford' => 'Oxford',
+          'Woodcote' => 'Woodcote',
+        ),
+        'HS Peterborough' => 
+        array (
+          'Peterborough' => 'Peterborough',
+        ),
+        'HS Somerset' => 
+        array (
+          'Dunball' => 'Dunball',
+          'Exford' => 'Exford',
+          'Frome' => 'Frome',
+          'Glastonbury' => 'Glastonbury',
+          'Minehead' => 'Minehead',
+          'Priorswood' => 'Priorswood',
+          'Taunton' => 'Taunton',
+          'Yeovil' => 'Yeovil',
+        ),
+        'INF A428' => 
+        array (
+          'A428' => 'A428',
+        ),
+        'IS Rail' => 
+        array (
+          'Snaresbrook' => 'Snaresbrook',
+        ),
+        'IS Street Lighting Gloucester' => 
+        array (
+          'Gloucester' => 'Gloucester',
+        ),
+        'IS Street Lighting Merrow O&M' => 
+        array (
+          'Merrow O&M' => 'Merrow O&M',
+        ),
+        'IS Street Lighting Merrow External' => 
+        array (
+          'Merrow External' => 'Merrow External',
+        ),
+        'IS Street Lighting Redbridge' => 
+        array (
+          'Redbridge' => 'Redbridge',
+        ),
+        'IS Street Lighting South Croydon' => 
+        array (
+          'South Croydon' => 'South Croydon',
+        ),
+      ),
+      'usersDivisions' => 
+      array (
+        'FS Bristol Schools' => 'FS Bristol Schools',
+        'FS City of London' => 'FS City of London',
+        'FS Essex Schools' => 'FS Essex Schools',
+        'FS Kent' => 'FS Kent',
+        'FS Northwood' => 'FS Northwood',
+        'FS Scotland' => 'FS Scotland',
+        'FS Woking' => 'FS Woking',
+        'HS Cambridgeshire' => 'HS Cambridgeshire',
+        'HS Devon' => 'HS Devon',
+        'HS Hampshire' => 'HS Hampshire',
+        'HS Hinkley Point' => 'HS Hinkley Point',
+        'HS North Somerset' => 'HS North Somerset',
+        'HS Oxfordshire' => 'HS Oxfordshire',
+        'HS Peterborough' => 'HS Peterborough',
+        'HS Somerset' => 'HS Somerset',
+        'INF A428' => 'INF A428',
+        'IS Rail' => 'IS Rail',
+        'IS Street Lighting' => 'IS Street Lighting',
+      ),
+      'userRegionsForSelect' => 
+      array (
+        'FS Bristol Schools' => 
+        array (
+          'FS Bristol Schools' => 'FS Bristol Schools',
+        ),
+        'FS City of London' => 
+        array (
+          'FS City of London' => 'FS City of London',
+        ),
+        'FS Essex Schools' => 
+        array (
+          'FS Essex Schools' => 'FS Essex Schools',
+        ),
+        'FS Kent' => 
+        array (
+          'FS Kent' => 'FS Kent',
+        ),
+        'FS Northwood' => 
+        array (
+          'FS Northwood' => 'FS Northwood',
+        ),
+        'FS Scotland' => 
+        array (
+          'FS Scotland' => 'FS Scotland',
+        ),
+        'FS Woking' => 
+        array (
+          'FS Woking' => 'FS Woking',
+        ),
+        'HS Cambridgeshire' => 
+        array (
+          'HS Cambridgeshire' => 'HS Cambridgeshire',
+        ),
+        'HS Devon' => 
+        array (
+          'HS Devon' => 'HS Devon',
+        ),
+        'HS Hampshire' => 
+        array (
+          'HS Hampshire' => 'HS Hampshire',
+        ),
+        'HS Hinkley Point' => 
+        array (
+          'HS Hinkley Point' => 'HS Hinkley Point',
+        ),
+        'HS North Somerset' => 
+        array (
+          'HS North Somerset' => 'HS North Somerset',
+        ),
+        'HS Oxfordshire' => 
+        array (
+          'HS Oxfordshire' => 'HS Oxfordshire',
+        ),
+        'HS Peterborough' => 
+        array (
+          'HS Peterborough' => 'HS Peterborough',
+        ),
+        'HS Somerset' => 
+        array (
+          'HS Somerset' => 'HS Somerset',
+        ),
+        'INF A428' => 
+        array (
+          'INF A428' => 'INF A428',
+        ),
+        'IS Rail' => 
+        array (
+          'IS Rail' => 'IS Rail',
+        ),
+        'IS Street Lighting' => 
+        array (
+          'IS Street Lighting' => 'IS Street Lighting',
+        ),
+      ),
+      'usersBaseLocations' => 
+      array (
+        '' => '',
+      ),
+      'vehicleRegionsForSelect' => 
+      array (
+        'all' => 'All',
+        'bl' => 'Bristol',
+        'cl' => 'City of London',
+        'ex' => 'Essex',
+        'ek' => 'East Kent',
+        'kt' => 'Kent',
+        'wk' => 'West Kent',
+        'nd' => 'Northwood',
+        'ml' => 'Motherwell',
+        'wg' => 'Woking',
+        'ce' => 'Cambridge',
+        'ey' => 'Ely',
+        'hn' => 'Huntingdon',
+        'mh' => 'March',
+        'wd' => 'Whittlesford',
+        'ar' => 'Avocet Road',
+        'co' => 'Copstone',
+        'cn' => 'Crediton',
+        'hr' => 'Heron Road',
+        'ht' => 'Honiton',
+        'ie' => 'Ivybridge',
+        'kn' => 'Kingsteignton',
+        'mn' => 'Merton',
+        'on' => 'Okehampton',
+        'rq' => 'Rydon Quarry',
+        'sm' => 'South Molton',
+        'tk' => 'Tavistock',
+        'tn' => 'Tiverton',
+        'tr' => 'Torr',
+        'ae' => 'Andover',
+        'bw' => 'Bishops Waltham',
+        'bs' => 'Broadmarsh',
+        'hk' => 'Hook',
+        'pd' => 'Petersfield',
+        'to' => 'Totton',
+        'hp' => 'Hinkley Point',
+        'sd' => 'Sandford',
+        'dn' => 'Deddington',
+        'dt' => 'Drayton',
+        'mc' => 'Milton Common',
+        'od' => 'Oxford',
+        'we' => 'Woodcote',
+        'ph' => 'Peterborough',
+        'dl' => 'Dunball',
+        'ed' => 'Exford',
+        'fe' => 'Frome',
+        'gy' => 'Glastonbury',
+        'md' => 'Minehead',
+        'po' => 'Priorswood',
+        'ta' => 'Taunton',
+        'yl' => 'Yeovil',
+        'a8' => 'A428',
+        'sk' => 'Snaresbrook',
+        'gr' => 'Gloucester',
+        're' => 'Redbridge',
+        'sc' => 'South Croydon',
+        'mo' => 'Merrow O&M',
+        'me' => 'Merrow External',
+      ),
+      'userAccessibleRegionsForSelect' => 
+      array (
+        'all' => 'All',
+      ),
+      'userAccessibleRegionsForSelectSample' => 
+      array (
+        'Bristol' => 'bl',
+        'City of London' => 'cl',
+        'Essex' => 'ex',
+        'East Kent' => 'ek',
+        'Kent' => 'kt',
+        'West Kent' => 'wk',
+        'Northwood' => 'nd',
+        'Motherwell' => 'ml',
+        'Woking' => 'wg',
+        'Cambridge' => 'ce',
+        'Ely' => 'ey',
+        'Huntingdon' => 'hn',
+        'March' => 'mh',
+        'Whittlesford' => 'wd',
+        'Avocet Road' => 'ar',
+        'Copstone' => 'co',
+        'Crediton' => 'cn',
+        'Heron Road' => 'hr',
+        'Honiton' => 'ht',
+        'Ivybridge' => 'ie',
+        'Kingsteignton' => 'kn',
+        'Merton' => 'mn',
+        'Okehampton' => 'on',
+        'Rydon Quarry' => 'rq',
+        'South Molton' => 'sm',
+        'Tavistock' => 'tk',
+        'Tiverton' => 'tn',
+        'Torr' => 'tr',
+        'Andover' => 'ae',
+        'Bishops Waltham' => 'bw',
+        'Broadmarsh' => 'bs',
+        'Hook' => 'hk',
+        'Petersfield' => 'pd',
+        'Totton' => 'to',
+        'Hinkley Point' => 'hp',
+        'Sandford' => 'sd',
+        'Deddington' => 'dn',
+        'Drayton' => 'dt',
+        'Milton Common' => 'mc',
+        'Oxford' => 'od',
+        'Woodcote' => 'we',
+        'Peterborough' => 'ph',
+        'Dunball' => 'dl',
+        'Exford' => 'ed',
+        'Frome' => 'fe',
+        'Glastonbury' => 'gy',
+        'Minehead' => 'md',
+        'Priorswood' => 'po',
+        'Taunton' => 'ta',
+        'Yeovil' => 'yl',
+        'A428' => 'a8',
+        'Snaresbrook' => 'sk',
+        'Gloucester' => 'gr',
+        'Redbridge' => 're',
+        'South Croydon' => 'sc',
+        'mo' => 'Merrow O&M',
+        'me' => 'Merrow External',
+      ),
+    ),
+  ),
+  'snappy' => 
+  array (
+    'pdf' => 
+    array (
+      'enabled' => true,
+      'binary' => 'C:\\wamp64\\www\\fleetmastr\\vendor/h4cc/wkhtmltopdf-amd64/bin/wkhtmltopdf-amd64',
+      'timeout' => false,
+      'options' => 
+      array (
+      ),
+    ),
+    'image' => 
+    array (
+      'enabled' => true,
+      'binary' => 'C:\\wamp64\\www\\fleetmastr\\vendor\\h4cc\\wkhtmltoimage-amd64\\bin\\wkhtmltoimage-amd64',
+      'timeout' => false,
+      'options' => 
+      array (
+      ),
+    ),
+  ),
+  'triio' => 
+  array (
+    'config-variables' => 
+    array (
+      'vehicleSubCategoriesNonHGV' => 
+      array (
+        '' => '',
+        'car' => 'Car',
+        'lcv' => 'LCV',
+        'none' => 'None',
+        'pcv' => 'PCV',
+        'van' => 'Van',
+      ),
+      'usersDivisions' => 
+      array (
+        'T0003' => 'T0003',
+        'T5000' => 'T5000',
+        'T5006' => 'T5006',
+        'T5008' => 'T5008',
+        'T5009' => 'T5009',
+        'T5100' => 'T5100',
+        'T5101' => 'T5101',
+        'T5102' => 'T5102',
+        'T5113' => 'T5113',
+        'T5200' => 'T5200',
+        'T5201' => 'T5201',
+        'T5300' => 'T5300',
+        'T5301' => 'T5301',
+        'T5401' => 'T5401',
+        'T5402' => 'T5402',
+        'T5500' => 'T5500',
+        'T5501' => 'T5501',
+        'T5502' => 'T5502',
+        'T5513' => 'T5513',
+        'T5600' => 'T5600',
+        'T5601' => 'T5601',
+        'T5602' => 'T5602',
+        'T5613' => 'T5613',
+        'T5615' => 'T5615',
+        'T5700' => 'T5700',
+        'T5701' => 'T5701',
+        'T5702' => 'T5702',
+        'T5713' => 'T5713',
+        'T5715' => 'T5715',
+        'T5800' => 'T5800',
+        'T5801' => 'T5801',
+        'T5802' => 'T5802',
+        'T5810' => 'T5810',
+        'T5813' => 'T5813',
+        'T5815' => 'T5815',
+        'T5900' => 'T5900',
+        'T5901' => 'T5901',
+        'T5902' => 'T5902',
+        'T5910' => 'T5910',
+        'T5913' => 'T5913',
+        'T6000' => 'T6000',
+        'T6004' => 'T6004',
+        'T6005' => 'T6005',
+        'T6006' => 'T6006',
+        'T6007' => 'T6007',
+        'T6009' => 'T6009',
+        'T6014' => 'T6014',
+        'T6100' => 'T6100',
+        'T6101' => 'T6101',
+        'T6102' => 'T6102',
+        'T6113' => 'T6113',
+        'T6200' => 'T6200',
+        'T6201' => 'T6201',
+        'T6202' => 'T6202',
+        'T6213' => 'T6213',
+        'T6300' => 'T6300',
+        'T6301' => 'T6301',
+        'T6302' => 'T6302',
+        'T6313' => 'T6313',
+        'T6400' => 'T6400',
+        'T6401' => 'T6401',
+        'T6413' => 'T6413',
+        'T6500' => 'T6500',
+        'T6501' => 'T6501',
+        'T6600' => 'T6600',
+        'T6601' => 'T6601',
+        'T6700' => 'T6700',
+        'T6800' => 'T6800',
+        'T6900' => 'T6900',
+        'T8000' => 'T8000',
+        'T8100' => 'T8100',
+        'T8200' => 'T8200',
+        'T8300' => 'T8300',
+        'T8400' => 'T8400',
+        'T8500' => 'T8500',
+        'T8600' => 'T8600',
+        'T8700' => 'T8700',
+        'T9200' => 'T9200',
+      ),
+      'usersBaseLocations' => 
+      array (
+        'Generic' => 'Generic',
+      ),
+      'userRegionsForSelect' => 
+      array (
+        'Generic' => 'Generic',
+      ),
+      'vehicleDivisions' => 
+      array (
+        '' => '',
+        'T0003' => 'T0003',
+        'T5000' => 'T5000',
+        'T5006' => 'T5006',
+        'T5008' => 'T5008',
+        'T5009' => 'T5009',
+        'T5100' => 'T5100',
+        'T5101' => 'T5101',
+        'T5102' => 'T5102',
+        'T5113' => 'T5113',
+        'T5200' => 'T5200',
+        'T5201' => 'T5201',
+        'T5300' => 'T5300',
+        'T5301' => 'T5301',
+        'T5401' => 'T5401',
+        'T5402' => 'T5402',
+        'T5500' => 'T5500',
+        'T5501' => 'T5501',
+        'T5502' => 'T5502',
+        'T5513' => 'T5513',
+        'T5600' => 'T5600',
+        'T5601' => 'T5601',
+        'T5602' => 'T5602',
+        'T5613' => 'T5613',
+        'T5615' => 'T5615',
+        'T5700' => 'T5700',
+        'T5701' => 'T5701',
+        'T5702' => 'T5702',
+        'T5713' => 'T5713',
+        'T5715' => 'T5715',
+        'T5800' => 'T5800',
+        'T5801' => 'T5801',
+        'T5802' => 'T5802',
+        'T5810' => 'T5810',
+        'T5813' => 'T5813',
+        'T5815' => 'T5815',
+        'T5900' => 'T5900',
+        'T5901' => 'T5901',
+        'T5902' => 'T5902',
+        'T5910' => 'T5910',
+        'T5913' => 'T5913',
+        'T6000' => 'T6000',
+        'T6004' => 'T6004',
+        'T6005' => 'T6005',
+        'T6006' => 'T6006',
+        'T6007' => 'T6007',
+        'T6009' => 'T6009',
+        'T6014' => 'T6014',
+        'T6100' => 'T6100',
+        'T6101' => 'T6101',
+        'T6102' => 'T6102',
+        'T6113' => 'T6113',
+        'T6200' => 'T6200',
+        'T6201' => 'T6201',
+        'T6202' => 'T6202',
+        'T6213' => 'T6213',
+        'T6300' => 'T6300',
+        'T6301' => 'T6301',
+        'T6302' => 'T6302',
+        'T6313' => 'T6313',
+        'T6400' => 'T6400',
+        'T6401' => 'T6401',
+        'T6413' => 'T6413',
+        'T6500' => 'T6500',
+        'T6501' => 'T6501',
+        'T6600' => 'T6600',
+        'T6601' => 'T6601',
+        'T6700' => 'T6700',
+        'T6800' => 'T6800',
+        'T6900' => 'T6900',
+        'T8000' => 'T8000',
+        'T8100' => 'T8100',
+        'T8200' => 'T8200',
+        'T8300' => 'T8300',
+        'T8400' => 'T8400',
+        'T8500' => 'T8500',
+        'T8600' => 'T8600',
+        'T8700' => 'T8700',
+        'T9200' => 'T9200',
+      ),
+      'vehicleRegions' => 
+      array (
+        '' => '',
+        'Central' => 'Central',
+        'East Anglia' => 'East Anglia',
+        'Head Office' => 'Head Office',
+        'North' => 'North',
+        'North East' => 'North East',
+        'North West' => 'North West',
+        'Scotland' => 'Scotland',
+        'South' => 'South',
+        'South East' => 'South East',
+        'South West' => 'South West',
+      ),
+      'userAccessibleRegions' => 
+      array (
+        '' => '',
+      ),
+      'userAccessibleRegionsForQuery' => 
+      array (
+      ),
+      'vehicleLocation' => 
+      array (
+        '' => '',
+        'Generic' => 'Generic',
+      ),
+      'vehicleRegionsForSelect' => 
+      array (
+        'all' => 'All',
+        'gc' => 'Generic',
+      ),
+      'userAccessibleRegionsForSelect' => 
+      array (
+        'all' => 'All',
+      ),
+      'userAccessibleRegionsForSelectSample' => 
+      array (
+        'Generic' => 'gc',
+      ),
+    ),
+  ),
+  'view' => 
+  array (
+    'paths' => 
+    array (
+      0 => 'C:\\wamp64\\www\\fleetmastr\\resources\\views',
+    ),
+    'compiled' => 'C:\\wamp64\\www\\fleetmastr\\storage\\framework\\views',
+  ),
+);
