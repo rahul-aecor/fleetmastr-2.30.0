@@ -1,0 +1,323 @@
+body, .dropdown-menu, .label, .daterangepicker .calendar th, .daterangepicker .calendar td {
+  font-family: 'Lato', sans-serif; }
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Lato', sans-serif; }
+
+.red-rubine.btn {
+  color: #fff;
+  background-color: #000; }
+  .red-rubine.btn.disabled, .red-rubine.btn[disabled], fieldset[disabled] .red-rubine.btn, .red-rubine.btn.disabled:hover, .red-rubine.btn[disabled]:hover, fieldset[disabled] .red-rubine.btn:hover, .red-rubine.btn.disabled:focus, .red-rubine.btn[disabled]:focus, fieldset[disabled] .red-rubine.btn:focus, .red-rubine.btn.disabled.focus, .red-rubine.btn[disabled].focus, fieldset[disabled] .red-rubine.btn.focus, .red-rubine.btn.disabled:active, .red-rubine.btn[disabled]:active, fieldset[disabled] .red-rubine.btn:active, .red-rubine.btn.disabled.active, .red-rubine.btn[disabled].active, fieldset[disabled] .red-rubine.btn.active {
+    background-color: #1a1a1a;
+    border-color: #1a1a1a; }
+
+.red-rubine.btn:hover, .red-rubine.btn:focus, .red-rubine.btn:active, .red-rubine.btn.active {
+  color: #fff;
+  background-color: #000;
+  border-bottom: #000 !important;
+  border-right: #000 !important; }
+
+#defectNotification + .toggle-group > label.btn.btn-primary.toggle-on, .open .red-rubine.btn.dropdown-toggle {
+  color: #fff;
+  background-color: #000; }
+
+#uniform-defectNotification + .toggle-group > label.btn.btn-primary.toggle-on {
+  color: #fff;
+  background-color: #000; }
+
+.toggle-group > label.btn.btn-primary.toggle-on {
+  color: #fff;
+  background-color: #000; }
+
+#uniform-fuel_card_personal_use + .toggle-group > label.btn.btn-primary.toggle-on {
+  color: #fff;
+  background-color: #000; }
+
+.red-rubine.btn:active, .red-rubine.btn.active {
+  background-image: none;
+  background-color: #000; }
+
+.red-rubine.btn:active:hover, .red-rubine.btn.active:hover {
+  background-color: #000; }
+
+.progress > .progress-bar-red-rubine {
+  background-color: #000; }
+
+.font-red-rubine {
+  color: #000 !important; }
+/***
+ Bootstrap Datepicker
+ ***/
+.datepicker .active, td.today.active.day {
+  background-color: #000 !important;
+  color: #fff !important; }
+
+.datepicker .active:hover, td.today.day:hover {
+  /*background-color: darken($primary-colour, 10%) !important;*/
+  background-color: #f7f7f7 !important;
+  color: #000 !important; }
+
+td.today.day {
+  background-color: #5c5c5c !important;
+  color: #000 !important; }
+
+.daterangepicker td.active, .daterangepicker td.active:hover {
+  background-color: #000;
+  border-color: #000;
+  color: #fff; }
+
+.daterangepicker .ranges li.active, .daterangepicker .ranges li:hover {
+  background: #000 !important;
+  border: 1px solid #000 !important;
+  color: #fff; }
+
+.daterangepicker .ranges li {
+  color: #000; }
+
+.page_title {
+  color: #fff; }
+
+#timer, #weather-title, #date {
+  color: #fff; }
+
+.dropdown span i.img-circle.jv-icon {
+  color: #fff; }
+
+.page-header.navbar .top-menu .navbar-nav > li.dropdown-user > .dropdown-toggle > i, .page-header.navbar .top-menu .navbar-nav > li.dropdown-user > .dropdown-toggle > .username {
+  color: #fff; }
+
+.note h4.block {
+  color: #fff; }
+
+.portlet > .portlet-title {
+  border-bottom: 1px solid #000 !important; }
+
+.tabbable-custom > .nav-tabs {
+  border-bottom: 1px solid #000; }
+
+.tabbable-custom > .nav-tabs > li.active {
+  background-color: #000;
+  color: #fff; }
+
+.tabbable-custom > .nav-tabs > li.active > a, .tabbable-custom > .nav-tabs > li.active > a:focus, .tabbable-custom > .nav-tabs > li.active > a:hover {
+  background-color: #000; }
+
+.tabbable-custom > .nav-tabs.nav-justified > .active > a, .tabbable-custom > .nav-tabs.nav-justified > .active > a:focus, .tabbable-custom > .nav-tabs.nav-justified > .active > a:hover {
+  border-bottom-color: #000; }
+
+.btn.btn-icon-only.btn-circle.small {
+  background-color: #000 !important;
+  color: #fff; }
+
+.has-error .input-group-addon {
+  background-color: #000 !important;
+  border-color: #000 !important; }
+
+.datepicker table tr td.today, .datepicker table tr td.today:hover, .datepicker table tr td.today.disabled, .datepicker table tr td.today.disabled:hover {
+  border-color: #000;
+  background-color: #000;
+  color: #fff; }
+
+.graph-data-section .portlet-title .caption {
+  color: #fff !important; }
+
+#checks-filter-form input[name=range][readonly], #defects-advanced-filter-form input[name=range][readonly] {
+  background-color: #fff; }
+
+.select2-container .select2-choice .select2-arrow b:before {
+  font-family: "jobviewer" !important;
+  color: #fff; }
+
+.select2-dropdown-open .select2-choice .select2-arrow b:before {
+  font-family: "jobviewer" !important; }
+
+.report-section-name {
+  color: #000; }
+
+.portlet.box > .portlet-title {
+  border-bottom: 1px solid #000 !important; }
+
+.portlet-title > .caption > span {
+  color: #000; }
+
+.gray_btn_border {
+  border-top: 1px solid #000 !important;
+  border-left: 1px solid #000 !important;
+  border-right: 1px solid #000 !important; }
+
+.ui-jqgrid .ui-jqgrid-pager {
+  border-top: 1px solid #000; }
+
+.btn-plain {
+  border: 1px solid #000 !important; }
+
+.page-sidebar .page-sidebar-menu > li:hover a span.jv-icon, .page-sidebar .page-sidebar-menu > li:hover a span.sidebar-img {
+  background: #000;
+  box-shadow: 4px 0px 0px #000; }
+
+.page-header.navbar .top-menu .navbar-nav > li.dropdown-user .dropdown-menu > li > a {
+  font-family: 'Lato', sans-serif; }
+
+.blue-gallery.btn {
+  color: #fff !important;
+  background-color: #000 !important; }
+
+.modal .modal-header, .markerDetailsModal h4 {
+  border-bottom: 1px solid #000 !important; }
+
+.select2-container .select2-choice .select2-arrow {
+  background-color: #a0a0a0; }
+
+.input-group .input-group-addon {
+  background: #a0a0a0;
+  border-color: #a0a0a0; }
+
+.grey-gallery.btn {
+  background-color: #a0a0a0; }
+
+.btn-default {
+  background-color: #a0a0a0; }
+
+.select2-container .select2-choice .select2-arrow:hover, .input-group .input-group-addon:hover, .grey-gallery.btn:hover {
+  background-color: #5b5b5b; }
+
+.select2-container.select2-container-active .select2-arrow, .select2-container.select2-dropdown-open .select2-arrow {
+  background-color: #5b5b5b; }
+/* Login Page*/
+.login .content .form-actions .btn {
+  background: #000 none repeat scroll 0 0;
+  font-family: 'Lato', sans-serif; }
+
+.red-rubine.btn {
+  background-color: #000; }
+
+.login-form .form-group.form-md-line-input .form-control, .reset-form .form-group.form-md-line-input .form-control {
+  font-family: 'Lato', sans-serif; }
+
+.modal .modal-header.bg-red-rubine .close, .bootbox .modal-dialog .modal-header .close {
+  background-image: url(../../img/remove-icon-small.svg);
+  opacity: 0.8;
+  width: 15px;
+  height: 15px;
+  margin-top: 5px !important; }
+
+.btn.editable-submit {
+  background-color: #000; }
+
+.btn.editable-submit:hover, .btn.editable-submit:focus, .btn.editable-submit:active .btn.editable-submit:hover, .btn.editable-submit:focus, .btn.editable-submit:active {
+  background-color: #000 !important;
+  box-shadow: 0 3px 6px rgba(0, 0, 0, 0.2), 0 3px 6px rgba(0, 0, 0, 0.26); }
+
+.editable-click, a.editable-click, a.editable-click:hover {
+  border-bottom: 1px dashed #000; }
+
+.bg-red-rubine, .bootbox .modal-dialog .modal-header {
+  border-color: #000 !important;
+  /*background-color: $primary-colour !important;*/
+  background-image: none !important;
+  border-bottom: 1px solid #000; }
+
+.bg-red-rubine-op {
+  background-color: #000 !important;
+  opacity: 0.5; }
+
+.page-footer .footer-inner a {
+  color: #fff !important; }
+
+.btn-blue-color {
+  color: #fff;
+  background-color: #000;
+  border-color: #000; }
+
+.font-blue {
+  color: #000; }
+
+.message_accordion a.accordion-toggle span, .group-name span {
+  color: #000 !important; }
+/*.work_ipadmargin .red-rubine.btn {
+ border-top: 1px solid $primary-colour !important;
+ border-bottom: 1px solid $primary-colour !important;
+ }*/
+.defect_status_modal_comment {
+  background-color: #000 !important;
+  color: #fff !important; }
+
+.notification-icon, .notification-count {
+  background-color: #000 !important; }
+
+.mce-window-head .mce-close {
+  background-image: url(../img/remove-icon-blue-small.svg) !important; }
+
+.mce-tab.mce-active {
+  background: #000 !important; }
+
+.mce-tabs {
+  border-bottom: 1px solid #000 !important; }
+
+.privacy-cookie-login {
+  background: #000 !important; }
+
+.font-pink {
+  color: #000 !important; }
+
+.pink-font {
+  color: #000; }
+
+.progress > .progress-bar-success {
+  background-color: #000; }
+
+.mce-foot .mce-btn.mce-primary {
+  background-color: #000 !important; }
+
+.mce-window-head {
+  border-bottom: 1px solid #000 !important; }
+
+.EditButton #dData {
+  background: #000 !important; }
+
+.ui-colorpicker-ok {
+  background-color: #000 !important;
+  color: #fff !important; }
+
+.unread-notification, .unread-notification > a:hover {
+  background-color: #000 !important; }
+
+.unread-notification .notification-icon {
+  background-color: #fff !important;
+  color: #000 !important; }
+
+.custom-show-hide-col-div .ui-jqdialog-titlebar {
+  border-bottom: 1px solid #000; }
+
+.custom-show-hide-col-div .ui-jqdialog-titlebar .ui-icon-closethick {
+  color: #000 !important; }
+
+.hrmctable thead > tr > th, .table-hmrcdetail thead > tr > th {
+  border-bottom: 1px solid #000; }
+
+.portlet.box.telematics-card-wrapper .portlet-body .card.score-movement.active, .portlet.box.telematics-card-wrapper .portlet-body .horizontal-tabbing .active .card.score-movement {
+  background-color: #7a7a7a; }
+
+.portlet.box.telematics-card-wrapper .portlet-body .card.score-movement:hover, .portlet.box.telematics-card-wrapper .portlet-body .card.score-movement:focus, .portlet.box.telematics-card-wrapper .portlet-body .card.score-movement.active, .portlet.box.telematics-card-wrapper .portlet-body .horizontal-tabbing .active .card.score-movement {
+  border-color: #000; }
+
+.portlet.box.telematics-card-wrapper .portlet-body .card.score-movement:after {
+  background-color: #000; }
+
+.journey-timeline .entry .title:before {
+  border: 2px solid #000;
+  background-color: #000; }
+
+.gm-ui-hover-effect:before {
+  color: #000; }
+
+.tabbable-custom .nav-tabs.no_border > li.active > a, .tabbable-custom .nav-tabs.no_border > li.active > a:focus, .tabbable-custom .nav-tabs.no_border > li.active > a:hover {
+  border-color: #000; }
+
+.custom-tabs .nav-tabs > li.active {
+  background-color: #000 !important;
+  color: #fff !important; }
+
+.fc-today {
+  background-color: #000 !important;
+  opacity: 1 !important; }

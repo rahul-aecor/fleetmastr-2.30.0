@@ -1,0 +1,259 @@
+.mt-5 {
+    margin-top: 5px;
+}
+
+
+.mt-10 {
+    margin-top: 10px;
+}
+
+.mt-26 {
+    margin-top: 26px;
+}
+
+.mt-36 {
+    margin-top: 36px;
+}
+
+.pt-0 {
+    padding-top: o !important;
+}
+
+.btn-w-200 {
+    width: 200px;
+}
+.py-10 {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.c-text-left {
+    text-align: left !important;
+}
+
+.admin-role-lock-btn {
+    position: absolute;
+    top: 0;
+    right: 0;
+    font-size: 20px;
+}
+
+.custom-panel .panel-heading {
+    padding: 14px 24px;
+    border: 1px solid #E8E8E8;
+    background-color: #F2F2F2;
+    border-radius: 0;
+}
+
+.custom-panel .panel-title {
+    color: #575858;
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.custom-panel .panel,
+.custom-panel .panel+.panel {
+    margin-top: 26px;
+}
+
+.custom-panel .panel-body{
+    padding: 20px 24px;
+    border: 1px solid #E8E8E8;
+    border-top: 0;
+}
+
+.custom-panel .panel-title  a {
+    display: block;
+    text-decoration: none !important;
+    position: relative;
+}
+.label-collapse {
+    position: relative;
+}
+
+.custom-panel .panel-title  a::before,
+.label-collapse::before { 
+    content: "-";
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    right: 0;
+    font-size: 45px;
+    color: #979797;
+    line-height: 12px;
+    height: 20px;
+    width: 28px;
+    text-align: center;
+}
+
+.custom-panel .panel-title  a.collapsed::before,
+.label-collapse.collapsed::before { 
+    content: "+";
+}
+
+.permission-list {
+    list-style: none;
+    padding: 0;
+    margin: -20px -24px;
+}
+
+.permission-list li {
+    padding: 14px 26px;
+    border-bottom: 1px solid #E8E8E8;
+}
+
+.permission-list li.even-record {
+    background-color: #F2F2F2;
+} 
+
+.permission-list li label {
+    margin-bottom: 0;
+}
+
+.user-permission-list {
+    list-style: none;
+    padding: 0;
+    margin-bottom: 0;
+}
+
+.user-permission-list li+li {
+    margin-top: 20px;
+}
+
+.user-permission-list li label {
+    margin-bottom: 0;
+}
+.font-14 {
+    font-size: 14px !important;
+}
+
+.font-15 {
+    font-size: 15px;
+}
+.font-18 {
+    font-size: 18px !important;
+}
+
+
+.font-28 {
+    font-size: 28px !important;
+}
+
+.p-25 {
+    padding: 25px;
+}
+
+.pb-30 {
+    padding-bottom: 30px;
+}
+.mr-24 {
+    margin-right: 24px;
+}
+
+.credit-link {
+    font-size: 14px;
+    color: #08629B;
+    text-decoration: underline;
+}
+
+.credit-link strong {
+    font-size: 18px;
+}
+
+.licence-table table thead tr {
+    background-color: #E8E8E8;
+}
+.licence-table table tbody tr {
+    border-bottom: 2px solid #E8E8E8;
+}
+
+.licence-table-img {
+    width: 35px;
+}
+
+.licence-detail-box {
+    border: 1px solid #E8E8E8;
+    padding: 30px 34px;
+    margin-bottom: 16px;
+}
+
+.licence-detail-item:not(:last-child) {
+    margin-bottom: 20px;
+}
+
+.licence-detail-label {
+    font-size: 16px;
+    font-weight: 300;
+}
+
+.licence-detail-value {
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.licence-detail-msg {
+    border-left: 3px solid #C1C2C4;
+    padding: 8px 25px;
+    font-size: 16px;
+    line-height: 27px;
+    margin-top: 40px;
+    font-weight: 300;
+}
+
+.licence-status-box-heading {
+    text-align: center;
+    padding: 18px;
+    font-size: 24px;
+    font-weight: 300;
+    color: #FFF;
+}
+
+.licence-status-box {
+    padding: 18px;
+    color: #FFF;
+    font-size: 22px;
+    font-weight: 300;
+    height: 220px;
+    display: flex;
+    align-items: center;
+}
+
+.licence-status-box-green .licence-status-box-heading {
+    background-color: #007168;
+}
+
+.licence-status-box-green .licence-status-box {
+    background-color: #00A396;
+}
+
+.licence-status-box-orange .licence-status-box-heading {
+    background-color: #B94C00;
+}
+
+.licence-status-box-orange .licence-status-box {
+    background-color: #FF6D1B;
+}
+
+.endorsements-wrapper {
+    display: flex;
+    width: 100%;
+}
+
+.endorsements-item {
+    text-align: center;
+    flex: 0 0 50%;
+    max-width: 50%;
+}
+
+.endorsements-value {
+    font-size: 60px;
+    font-weight: bold;
+}
+
+.collapse-lavel-2 li {
+    padding-left: 50px;
+}
+
+.collapse-lavel-3 li {
+    padding-left: 75px;
+}

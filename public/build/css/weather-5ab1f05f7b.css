@@ -1,0 +1,31 @@
+#weather {
+  text-align: center;
+}
+#weather h2 {
+  font-size: 100px;
+  margin: 0;
+  margin-left: 10px;
+}
+#weather ul {
+  margin: 0;
+  padding: 0;
+}
+#weather li {
+  display: inline-block;
+  list-style: none;
+}
+.weather-detail li {
+  padding: 0;
+}
+.weather-detail img {
+  margin-right: 10px;
+  height: 100px;
+  width: 100px;
+  vertical-align: inherit;
+  position: relative;
+  top: 15px;
+}
+.location-detail li {
+  padding: 20px;
+  font-size: 14px;
+}
