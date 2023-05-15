@@ -1,5 +1,6 @@
 <?php
 
+
 namespace Dingo\Api\Exception;
 
 use Exception;
