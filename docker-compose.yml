@@ -22,7 +22,7 @@ services:
 
   #Nginx Service
   webserver:
-    image: nginx:alpine
+    image: ubuntu/apache2:latest
     container_name: webserver
     restart: unless-stopped
     tty: true
