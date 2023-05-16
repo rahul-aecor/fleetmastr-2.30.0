@@ -55,7 +55,8 @@ services:
       SERVICE_NAME: mysql
     volumes:
       - dbdata:/var/lib/mysql/
-      - ./docker/mysql/my.cnf:/etc/mysql/my.cnf
+     # - ./docker/mysql/my.cnf:/etc/mysql/my.cnf
+      - ./home/ubuntu/fleetmastr-2.30.0/docker/mysql/my.cnf
     networks:
       - app-network
 
