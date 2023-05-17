@@ -5,6 +5,8 @@ WORKDIR /var/www/html
 # Mod Rewrite
 RUN a2enmod rewrite
 
+RUN sed -i '/jessie-updates/d' /etc/apt/sources.list
+
 # Linux Library
 RUN apt-get update -y && \
     apt-get install -y \
