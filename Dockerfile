@@ -8,7 +8,7 @@ RUN a2enmod rewrite
 RUN sed -i '/jessie-updates/d' /etc/apt/sources.list
 
 # Linux Library
-RUN apt-get update -y && \
+RUN apt-get update  && \
     apt-get install -y \
         libicu-dev \
         libmariadb-dev \
