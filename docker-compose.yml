@@ -14,7 +14,7 @@ services:
       MYSQL_ROOT_PASSWORD: root
       MYSQL_DATABASE: fleetmastr_docker
     ports:
-    - 3306:3306
+    - 3309:3306
   
   phpmyadmin:
     image: phpmyadmin/phpmyadmin:5.1.1
