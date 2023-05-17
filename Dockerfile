@@ -1,43 +1,26 @@
-FROM php:7.1-fpm
+FROM php:7.1.0-fpm
+WORKDIR /var/www/html
 
-# Copy composer.lock and composer.json
-COPY  package-lock.json composer.json /var/www/
+# Mod Rewrite
+RUN a2enmod rewrite
 
-# Set working directory
-WORKDIR /var/www
+# Linux Library
+RUN apt-get update -y && apt-get install -y \
+    libicu-dev \
+    libmariadb-dev \
+    unzip zip \
+    zlib1g-dev \
+    libpng-dev \
+    libjpeg-dev \
+    libfreetype6-dev \
+    libjpeg62-turbo-dev \
+    libpng-dev 
 
-# Install dependencies
-RUN apt-get update && apt-get install -y \
-    build-essential \
-#    mysql-client \
-    locales \
-    git \
-    unzip \
-    zip \
-    curl
+# Composer
+COPY --from=composer:latest /usr/bin/composer /usr/bin/composer
 
-# Clear cache
-RUN apt-get clean && rm -rf /var/lib/apt/lists/*
+# PHP Extension
+RUN docker-php-ext-install gettext intl pdo_mysql gd
 
-# Install extensions
-RUN docker-php-ext-install pdo_mysql mbstring  exif pcntl
-
-# Install composer
-RUN curl -sS https://getcomposer.org/installer | php -- --install-dir=/usr/local/bin --filename=composer
-
-# Add user for laravel application
-RUN groupadd -g 1000 www
-RUN useradd -u 1000 -ms /bin/bash -g www www
-
-# Copy existing application directory contents
-COPY . /var/www
-
-# Copy existing application directory permissions
-COPY --chown=www:www . /var/www
-
-# Change current user to www
-USER www
-
-# Expose port 9000 and start php-fpm server
-EXPOSE 9000
-CMD ["php-fpm"]
+RUN docker-php-ext-configure gd --enable-gd --with-freetype --with-jpeg \
+    && docker-php-ext-install -j$(nproc) gd
