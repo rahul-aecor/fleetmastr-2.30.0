@@ -9,7 +9,7 @@ services:
       - 9000:80
   
   mysql_db:
-    image: mysql:7.5.38
+    image: mysql:7.5.0
     environment:
       MYSQL_ROOT_PASSWORD: root
       MYSQL_DATABASE: fleetmastr_docker
