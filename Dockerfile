@@ -1,4 +1,5 @@
-FROM php:7.1.0-fpm
+#FROM php:7.1.0-fpm
+FROM php:7.1.0-apache
 WORKDIR /var/www/html
 
 # Mod Rewrite
@@ -24,3 +25,20 @@ RUN docker-php-ext-install gettext intl pdo_mysql gd
 
 RUN docker-php-ext-configure gd --enable-gd --with-freetype --with-jpeg \
     && docker-php-ext-install -j$(nproc) gd
+    
+    
+    
+    
+# Copy application files
+COPY . /var/www/html
+
+# Set file permissions
+RUN chown -R www-data:www-data /var/www/html/storage /var/www/html/bootstrap/cache
+
+# Apache configuration
+RUN a2enmod rewrite
+
+# Start Apache
+CMD ["apache2-foreground"]
+
+
