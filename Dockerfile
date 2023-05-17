@@ -3,7 +3,7 @@ FROM php:7.1.0-fpm
 WORKDIR /var/www/html
 
 # Mod Rewrite
-RUN a2enmod rewrite
+#RUN a2enmod rewrite
 
 # Linux Library
 RUN apt-get update -y && apt-get install -y \
