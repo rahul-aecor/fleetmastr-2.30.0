@@ -1,9 +1,9 @@
 services:
 
-  web:
-    image: qa1.fleetmastr.com:fleetdemo
-    ports:
-      - 9002:80
+ # web:
+  #  image: qa1.fleetmastr.com:fleetdemo
+  #  ports:
+   #   - 9002:80
 
 
   laravel-docker:
