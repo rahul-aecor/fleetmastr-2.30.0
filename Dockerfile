@@ -1,7 +1,7 @@
 FROM php:7.1.33-fpm
 
 # Copy composer.lock and composer.json
-COPY /home/ubuntu/fleetmastr-2.30.0/composer.lock /home/ubuntu/fleetmastr-2.30.0/composer.json /var/www/html/
+COPY /home/ubuntu/fleetmastr-2.30.0/package-lock.json /home/ubuntu/fleetmastr-2.30.0/composer.json /var/www/html/
 
 # Set working directory
 WORKDIR /var/www/html
