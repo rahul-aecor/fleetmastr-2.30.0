@@ -9,6 +9,8 @@ services:
   laravel-docker:
     container_name: fleetmastr-docker
     build: .
+      context: .
+      dockerfile: Dockerfile
     volumes:
       - ./laravel-app:/var/www/html
     ports:
