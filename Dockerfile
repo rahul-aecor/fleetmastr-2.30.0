@@ -1,3 +1,46 @@
+# Use the official PHP Apache base image
+FROM php:7.4-apache
+
+# Set the working directory
+WORKDIR /var/www/html
+
+# Install PHP extensions and dependencies
+RUN apt-get update \
+    && apt-get install -y \
+        libpng-dev \
+        libonig-dev \
+        libxml2-dev \
+        zip \
+        unzip \
+        curl \
+    && docker-php-ext-install \
+        pdo_mysql \
+        mbstring \
+        exif \
+        pcntl \
+        bcmath \
+        gd \
+    && apt-get clean \
+    && rm -rf /var/lib/apt/lists/*
+
+# Enable Apache Rewrite module
+RUN a2enmod rewrite
+
+# Copy the application files into the container
+COPY . /var/www/html
+
+# Set the correct file permissions
+RUN chown -R www-data:www-data /var/www/html/storage /var/www/html/bootstrap/cache
+
+# Expose port 80
+EXPOSE 80
+
+# Start the Apache web server
+CMD ["apache2-foreground"]
+
+
+
+
 FROM php:7.1.33-fpm
 
 # Copy composer.lock and composer.json
