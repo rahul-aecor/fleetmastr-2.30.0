@@ -17,8 +17,8 @@ services:
             - ./:/var/www
         ports:
             - 8000:8000
-        #depends_on:
-            #- mysql_db
+        depends_on:
+            - mysql_db
 
   # Database server
     mysql_db:
