@@ -5,7 +5,7 @@ services:
     php:
         build:
             context: .
-            target: Dockerfile
+            target: app
             args:
                 - APP_ENV=${APP_ENV}
                 
