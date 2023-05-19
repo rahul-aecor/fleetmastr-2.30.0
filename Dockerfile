@@ -1,4 +1,4 @@
-FROM php:7.1 as php
+FROM php:7.1 
 
 RUN apt-get update -y
 RUN apt-get install -y unzip libpq-dev libcurl4-gnutls-dev
