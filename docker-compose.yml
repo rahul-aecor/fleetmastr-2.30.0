@@ -17,8 +17,8 @@ services:
             - ./:/var/www
         ports:
             - 8000:8000
-        depends_on:
-            - mysql_db
+        #depends_on:
+            #- mysql_db
 
   # Database server
   mysql_db:
@@ -33,9 +33,15 @@ services:
     ports:
       - 3309:3306
   
-  phpmyadmin:
-    image: phpmyadmin/phpmyadmin:5.1.1
-    ports:
-      - 9001:80
-    environment:
-      - PMA_ARBITRARY=1
+   # Node Server
+    node:
+        build:
+            context: .
+            target: node
+        volumes:
+            - .:/usr/src
+            - ./node_modules:/usr/src/node_modules
+        tty: true
+
+volumes:
+    db-data: ~
