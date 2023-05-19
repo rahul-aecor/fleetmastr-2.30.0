@@ -14,7 +14,7 @@ ENTRYPOINT [ "entrypoint.sh" ]
 
 # ==============================================================================
 #  node
-FROM node:4.2.0-alpine as node
+FROM node:7.8.0-alpine as node
 
 WORKDIR /var/www
 COPY . .
