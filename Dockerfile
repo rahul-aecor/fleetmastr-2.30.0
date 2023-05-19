@@ -1,62 +1,27 @@
-FROM php:7.1-fpm as php
+FROM php:7.1 as php
 
-# Copy composer.lock and composer.json
-COPY package-lock.json composer.json /var/www/html/
+RUN apt-get update -y
+RUN apt-get install -y unzip libpq-dev libcurl4-gnutls-dev
+RUN docker-php-ext-install pdo pdo_mysql bcmath
 
-# Set working directory
-WORKDIR /var/www/html
+WORKDIR /var/www
+COPY . .
 
-# Install dependencies
-# RUN apt-get update && \
- #   apt-get install -y build-essential locales git unzip zip curl 
+COPY --from=composer:2.3.5 /usr/bin/composer /usr/bin/composer
 
-# Clear cache
-RUN apt-get clean && rm -rf /var/lib/apt/lists/*
+ENV PORT=8000
+ENTRYPOINT [ "entrypoint.sh" ]
 
-# Install nvm
-#RUN curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.38.0/install.sh | bash
-#ENV NVM_DIR=/root/.nvm
-#RUN . $NVM_DIR/nvm.sh && nvm install 7.8.0 && nvm use 7.8.0
+# ==============================================================================
+#  node
+FROM node:4.2.0-alpine as node
 
-# Set default node version
-#RUN . $NVM_DIR/nvm.sh && nvm alias default 7.8.0
-#CMD [ "node" ]
+WORKDIR /var/www
+COPY . .
 
-# Install npm 4.2.0
-#RUN npm install -g npm@4.2.0
+RUN npm install --global cross-env
+RUN npm install
+RUN chown -R node /var/www/node_modules
 
-# Install gulp-cli
-# RUN npm install -g gulp-cli
-
-# Install extensions
-# RUN docker-php-ext-install pdo_mysql mbstring  exif pcntl
-RUN apt-get update && apt-get install -y libonig-dev
-
-# Set environment variables
-ENV PKG_CONFIG_PATH=/usr/local/lib/pkgconfig
-ENV ONIG_CFLAGS=-I/usr/local/include
-ENV ONIG_LIBS=-L/usr/local/lib
-
-# Install PHP extensions
-RUN docker-php-ext-install pdo_mysql mbstring exif pcntl
-
-# Install composer
-RUN curl -sS https://getcomposer.org/installer | php -- --install-dir=/usr/local/bin --filename=composer
-
-# Add user for laravel application
-RUN groupadd -g 1000 www
-RUN useradd -u 1000 -ms /bin/bash -g www www
-
-# Copy existing application directory contents
-COPY . /var/www/html
-
-# Copy existing application directory permissions
-COPY --chown=www:www . /var/www/html
-
-# Change current user to www
-USER www
-
-# Expose port 9000 and start php-fpm server
-EXPOSE 9000
-CMD ["php-fpm"]
+VOLUME /var/www/node_modules
 
