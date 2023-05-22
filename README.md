@@ -1,6 +1,6 @@
 # Vehiclecheck
 # DOCUMENTATION
-=============
+
 Docker development implementation for Laravel 5.1.\* with:
 
 - MySQL5.7.38
