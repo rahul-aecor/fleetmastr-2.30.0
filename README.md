@@ -11,7 +11,7 @@ Docker development implementation for Laravel 5.1.\* with:
 
 - Clone this repository `git clone https://github.com/rahul-aecor/fleetmastr-2.30.0.git`
 - Install docker `apt install docker.io`
-- Inatsll docker-compose `curl -L "https://github.com/docker/compose/releases/download/1.29.2/docker-compose-$(uname -s)-$(uname -m)" -o /usr/local/bin/docker-compose` next `chmod +x /usr/local/bin/docker-compose` next check docker-compose version `docker-compose --version`
+- Install docker-compose `curl -L "https://github.com/docker/compose/releases/download/1.29.2/docker-compose-$(uname -s)-$(uname -m)" -o /usr/local/bin/docker-compose` next `chmod +x /usr/local/bin/docker-compose` next check docker-compose version `docker-compose --version`
 - Make sure you have docker installed on your local machine, you do not need to have php / mysql / node installed on your machine
 - Copy `.env` file: `cp .env.example .env`
 - Set the environment variables in `.env` file
