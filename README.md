@@ -8,7 +8,7 @@ Docker development implementation for Laravel 5.1.\* with:
 
 ## Installation
 
-- Clone this repository `git clone (https://github.com/rahul-aecor/fleetmastr-2.30.0.git)`
+- Clone this repository `git clone https://github.com/rahul-aecor/fleetmastr-2.30.0.git`
 - Make sure you have docker installed on your local machine, you do not need to have php / mysql / redis / node installed on your machine
 - Copy `.env` file: `cp .env.example .env`
 - Set the environment variables in `.env` file
