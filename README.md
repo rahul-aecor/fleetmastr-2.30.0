@@ -1,9 +1,8 @@
 # Vehiclecheck
 Docker development implementation for Laravel 5.1.\* with:
 
-- MySQL
+- MySQL5.7.38
 - PHP7.1.0
-- Aapache2
 - Node-7
 
 ## Installation
