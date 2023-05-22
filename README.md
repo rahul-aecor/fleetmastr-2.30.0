@@ -16,12 +16,12 @@ Docker development implementation for Laravel 5.1.\* with:
 ## How to build and run container
 ```sh
 # Build the image
-`cd fleetmastr-2.30.0` && `docker-compose build`
+cd fleetmastr-2.30.0 && docker-compose build
 
 # Run the container
-`docker-compose up -d`
+docker-compose up -d
 
 # See running containers
-`docker-compose ps` 
+docker-compose ps 
 ```
 - You can access the project at: `http://localhost:8000`
