@@ -49,7 +49,6 @@ Docker development implementation for Laravel 5.1.\* with:
   git config --global user.email 'abc@gmail.com'
   ```
 - Copy `.env` file: `cp .env.example .env`
-- Set the environment variables in `.env` file
 ## How to build and run container
 * *Before build image make sure are you present in git repo where is Dockerfile and docker-compose.yml available.* 
 1. Build the image
