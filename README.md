@@ -60,6 +60,10 @@ Docker development implementation for Laravel 5.1.\* with:
   ```sh
   docker-compose up -d
   ```
+* See created images
+  ```sh
+  docker images
+  ```
 * See running containers
   ```sh
   docker-compose ps 
