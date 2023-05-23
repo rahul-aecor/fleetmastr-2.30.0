@@ -29,7 +29,7 @@ Docker development implementation for Laravel 5.1.\* with:
 
 * *Make sure you have docker installed on your local machine, you do not need to have php / mysql / node installed on your machine.*
 5. Check node version
-   ```sh
+   ```sh 
   node -v
    ```
 6. Check npm version
