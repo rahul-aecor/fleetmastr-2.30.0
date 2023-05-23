@@ -1,23 +1,52 @@
-# Vehiclecheck:
-# Prerequisite
-
+# fleetmastr-2.30.0 Vehiclecheck:
+### Prerequisites
 Docker development implementation for Laravel 5.1.\* with:
 
 - MySQL5.7.38
 - PHP7.1.0
 - Node-7
 
-## Installation
+## Installation requirements
 
-
-- Install docker `apt install docker.io`
-- Install docker-compose `curl -L "https://github.com/docker/compose/releases/download/1.29.2/docker-compose-$(uname -s)-$(uname -m)" -o /usr/local/bin/docker-compose` next `chmod +x /usr/local/bin/docker-compose` next check docker-compose version `docker-compose --version`
+* Install docker
+  ```sh 
+  apt install docker.io
+  ```
+* Install docker-compose
+  ```sh 
+  curl -L "https://github.com/docker/compose/releases/download/1.29.2/docker-compose-$(uname -s)-$(uname -m)" -o /usr/local/bin/docker- 
+  compose
+  ```
+* Assign permission to docker-compose
+  ```sh 
+  chmod +x /usr/local/bin/docker-compose
+  ```
+* Check docker-compose version
+  ```sh
+  docker-compose --version
+  ```
 - Make sure you have docker installed on your local machine, you do not need to have php / mysql / node installed on your machine
-- Install docker `apt install git`
-- Clone this repository `git clone https://github.com/rahul-aecor/fleetmastr-2.30.0.git`
-- Go to fleetmastr-2.30.0 directory `cd fleetmastr-2.30.0 `
-- Initializing git `git init`
-- Configure user name and email `git config --global user.name 'abc'` and  `git config --global user.email 'abc@gmail.com'`
+* Install git
+  ```sh 
+  apt install git
+  ```
+* Clone this repository 
+  ```sh
+  git clone https://github.com/rahul-aecor/fleetmastr-2.30.0.git
+  ```
+* Go to fleetmastr-2.30.0 directory
+  ```sh
+  cd fleetmastr-2.30.0 
+  ```
+* Initializing git 
+  ```sh 
+  git init
+  ```
+* Configure user name and email
+  ```sh 
+  git config --global user.name 'abc'   
+  git config --global user.email 'abc@gmail.com'
+  ```
 - Copy `.env` file: `cp .env.example .env`
 - Set the environment variables in `.env` file
 ## How to build and run container
