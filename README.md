@@ -7,7 +7,7 @@ Docker development implementation for Laravel 5.1.\* with:
 * Node-7
 
 ## Installation requirements
-
+* Please refer to the [Documentation](https://docs.docker.com/desktop/install/linux-install/)
 * Install docker
   ```sh 
   apt install docker.io
@@ -25,8 +25,6 @@ Docker development implementation for Laravel 5.1.\* with:
   ```sh
   docker-compose --version
   ```
-* Please refer to the [Documentation](https://docs.docker.com/desktop/install/linux-install/)
-
 
 * Make sure you have docker installed on your local machine, you do not need to have php / mysql / node installed on your machine
 * Install git
