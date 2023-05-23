@@ -25,7 +25,7 @@ Docker development implementation for Laravel 5.1.\* with:
   ```sh
   docker-compose --version
   ```
-* Please refer to the [Documentation](https://docs.docker.com/desktop/install/)
+* Please refer to the [Documentation](https://docs.docker.com/desktop/install/linux-install/)
 
 
 * Make sure you have docker installed on your local machine, you do not need to have php / mysql / node installed on your machine
