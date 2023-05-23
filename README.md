@@ -1,5 +1,5 @@
 # Vehiclecheck:
-# DOCUMENTATION
+# Prerequisite
 
 Docker development implementation for Laravel 5.1.\* with:
 
