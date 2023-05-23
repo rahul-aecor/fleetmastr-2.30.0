@@ -26,7 +26,7 @@ Docker development implementation for Laravel 5.1.\* with:
   docker-compose --version
   ```
 
-* Make sure you have docker installed on your local machine, you do not need to have php / mysql / node installed on your machine
+* Make sure you have docker installed on your local machine, you do not need to have php / mysql / node installed on your machine.
 * Install git
   ```sh 
   apt install git
@@ -51,7 +51,7 @@ Docker development implementation for Laravel 5.1.\* with:
 - Copy `.env` file: `cp .env.example .env`
 - Set the environment variables in `.env` file
 ## How to build and run container
-
+* Before build image make sure are you present in git repo where is Dockerfile and docker-compose.yml available. 
 * Build the image
   ```sh
   cd fleetmastr-2.30.0 && docker-compose build
