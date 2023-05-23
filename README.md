@@ -41,7 +41,7 @@ Docker development implementation for Laravel 5.1.\* with:
   ```sh 
   apt install git
   ```
-8. Clone the repository
+8. Clone the repository 
   ```sh
   git clone https://github.com/rahul-aecor/fleetmastr-2.30.0.git
   ```
