@@ -7,7 +7,7 @@ Docker development implementation for Laravel 5.1.\* with:
 * Node-7
 
 ## Installation requirements
-* Please refer to the [Documentation](https://docs.docker.com/desktop/install/linux-install/)
+* *Please refer to the* [Documentation](https://docs.docker.com/desktop/install/linux-install/)
 1. Install docker
   ```sh 
   apt install docker.io
@@ -51,7 +51,7 @@ Docker development implementation for Laravel 5.1.\* with:
 - Copy `.env` file: `cp .env.example .env`
 - Set the environment variables in `.env` file
 ## How to build and run container
-* Before build image make sure are you present in git repo where is Dockerfile and docker-compose.yml available. 
+* *Before build image make sure are you present in git repo where is Dockerfile and docker-compose.yml available.* 
 1. Build the image
   ```sh
   cd fleetmastr-2.30.0 && docker-compose build
