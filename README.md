@@ -8,42 +8,42 @@ Docker development implementation for Laravel 5.1.\* with:
 
 ## Installation requirements
 * Please refer to the [Documentation](https://docs.docker.com/desktop/install/linux-install/)
-* Install docker
+1. Install docker
   ```sh 
   apt install docker.io
   ```
-* Install docker-compose
+2. Install docker-compose
   ```sh 
   curl -L "https://github.com/docker/compose/releases/download/1.29.2/docker-compose-$(uname -s)-$(uname -m)" -o /usr/local/bin/docker- 
   compose
   ```
-* Assign permission to docker-compose
+3. Assign permission to docker-compose
   ```sh 
   chmod +x /usr/local/bin/docker-compose
   ```
-* Check docker-compose version
+4. Check docker-compose version
   ```sh
   docker-compose --version
   ```
 
 * Make sure you have docker installed on your local machine, you do not need to have php / mysql / node installed on your machine.
-* Install git
+5. Install git
   ```sh 
   apt install git
   ```
-* Clone the repository
+6. Clone the repository
   ```sh
   git clone https://github.com/rahul-aecor/fleetmastr-2.30.0.git
   ```
-* Go to fleetmastr-2.30.0 directory
+7. Go to fleetmastr-2.30.0 directory
   ```sh
   cd fleetmastr-2.30.0 
   ```
-* Initializing git 
+8. Initializing git 
   ```sh 
   git init
   ```
-* Configure user name and email
+9. Configure user name and email
   ```sh 
   git config --global user.name 'abc'   
   git config --global user.email 'abc@gmail.com'
@@ -52,19 +52,19 @@ Docker development implementation for Laravel 5.1.\* with:
 - Set the environment variables in `.env` file
 ## How to build and run container
 * Before build image make sure are you present in git repo where is Dockerfile and docker-compose.yml available. 
-* Build the image
+1. Build the image
   ```sh
   cd fleetmastr-2.30.0 && docker-compose build
   ```
-* Run the container
+2. Run the container
   ```sh
   docker-compose up -d
   ```
-* See created images
+3. See created images
   ```sh
   docker images
   ```
-* See running containers
+4. See running containers
   ```sh
   docker-compose ps 
   ```
