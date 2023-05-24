@@ -26,8 +26,8 @@ services:
         environment:
            - MYSQL_DATABASE=firstmile_fleetmastr
            - MYSQL_USER=root
-           - MYSQL_PASSWORD=${DB_PASSWORD}
-           - MYSQL_ROOT_PASSWORD=${DB_PASSWORD}
+           - MYSQL_PASSWORD=root
+           - MYSQL_ROOT_PASSWORD=root
         volumes:        
            - db-data:/var/lib/mysql
         ports:
