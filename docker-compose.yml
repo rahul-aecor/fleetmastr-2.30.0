@@ -25,7 +25,7 @@ services:
         image: mysql:5.7.38
         environment:
            - MYSQL_DATABASE=firstmile_fleetmastr
-           - MYSQL_USER=root
+           - MYSQL_USER=fleetmastr
            - MYSQL_PASSWORD=root
            - MYSQL_ROOT_PASSWORD=root
         volumes:        
