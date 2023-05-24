@@ -10,7 +10,7 @@ services:
                 - APP_ENV=${APP_ENV}
                 
         environment:
-            - APP_ENV=${APP_ENV}
+            - APP_ENV=local
             - CONTAINER_ROLE=app
         working_dir: /var/www
         volumes:
@@ -24,8 +24,8 @@ services:
     mysql_db:
         image: mysql:5.7.38
         environment:
-           - MYSQL_DATABASE=${DB_DATABASE}
-           - MYSQL_USER=${DB_USERNAME}
+           - MYSQL_DATABASE=firstmile_fleetmastr
+           - MYSQL_USER=root
            - MYSQL_PASSWORD=${DB_PASSWORD}
            - MYSQL_ROOT_PASSWORD=${DB_PASSWORD}
         volumes:        
