@@ -7,7 +7,7 @@ services:
             context: .
             target: app
             args:
-                - APP_ENV=${APP_ENV}
+                - APP_ENV=local
                 
         environment:
             - APP_ENV=local
